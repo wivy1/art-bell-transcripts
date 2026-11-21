@@ -4,7 +4,7 @@ This repository contains cleaned transcripts of [Art Bell](https://en.wikipedia.
 
 ## Motivation
 
-This archive was created because complete and accurate text transcriptions of these unique and culturally significant broadcasts contributes to the historical record in a more easily-processed way than existing audio archives.
+This archive was created because complete and accurate text transcriptions of these unique and culturally significant broadcasts contribute to the historical record in a more easily-processed form than existing audio archives.
 
 ## Process
 
