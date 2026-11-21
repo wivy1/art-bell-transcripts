@@ -1,2 +1,17 @@
-# art-bell-transcripts
-Searchable transcript archive of Art Bell's radio programs, including Coast to Coast AM, preserving his interviews, caller stories, and discussions of the paranormal, UFOs, science, and the unexplained.
+# Art Bell Transcripts
+
+This repository contains cleaned transcripts of Art Bell's radio broadcasts, covering Art-hosted episodes of Coast to Coast AM, Area 2000, Dreamland, Dark Matter, and Midnight in the Desert.
+
+## Motivation
+
+
+
+## Process
+
+### Preparation
+
+
+
+### Transcription
+
+### LLM-guided Cleanup
