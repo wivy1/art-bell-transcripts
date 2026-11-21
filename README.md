@@ -25,7 +25,6 @@ This archive was created because complete and accurate text transcriptions of th
 12. Group speech into turns.
     
 ### LLM-guided Cleanup
-LLM-guided cleanup
 13. Load the latest accumulated knowledge guide and cleanup rules.
 14. Establish the original broadcast date, program, host, guests and topics. 
 15. Verify names, places, books, organisations and technical terms. Preserve spoken factual mistakes. Correct spellings, acronyms, call signs and program terminology in accordance with the broadcast period.
