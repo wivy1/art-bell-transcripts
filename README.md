@@ -24,7 +24,7 @@ This archive was created because complete and accurate text transcriptions of th
 11. Flag possible commercial breaks, bumper music and transitions by checking the first and last 90 seconds and cues such as “we’ll be right back,” station IDs and “welcome back.” Record candidate times for review and preserve spoken ads, announcements and speech over music.
 12. Group speech into turns.
     
-### LLM-guided Cleanup
+### Cleanup
 13. Load the latest accumulated knowledge guide and cleanup rules.
 14. Establish the original broadcast date, program, host, guests and topics. 
 15. Verify names, places, books, organisations and technical terms. Preserve spoken factual mistakes. Correct spellings, acronyms, call signs and program terminology in accordance with the broadcast period.
