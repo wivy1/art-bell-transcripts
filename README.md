@@ -4,7 +4,7 @@ This repository contains cleaned transcripts of Art Bell's radio broadcasts, cov
 
 ## Motivation
 
-
+This archive was created because accurate and complete text transcriptions of these culturally significant and historically important broadcasts contributes to the record in a more easily-processable way than typical audio archives.
 
 ## Process
 
