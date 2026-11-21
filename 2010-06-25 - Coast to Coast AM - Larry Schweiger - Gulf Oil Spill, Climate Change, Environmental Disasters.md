@@ -37,7 +37,7 @@ All right, Larry Schweiger is president and chief executive officer of the Natio
 
 Previously, Larry served for eight years as president and CEO of the Western Pennsylvania Conservancy, where he pioneered watershed restoration and promoted ecological research, land conservation, and community outreach. Prior to that, Larry was the executive secretary of the Joint House Senate Conservation Committee for the Pennsylvania General Assembly, senior vice President for Conservation Programs at National Wildlife Federation and first Vice President of the Chesapeake Bay Foundation, Larry is active community leader, having served on more than forty governing boards, commissions, and committees. He currently serves on the boards of directors for the Alliance for Climate Protection, the H. John Heinz III Center for Science, Economics, and the Environment, and National Wildlife Federation Action Fund. Was selected as Pennsylvania's Environmental Professional of the Year in 2002, Pittsburgher of the Year in 2000. That's a good one. Received a Conservation Service Award from the Christian Environmental Association in September of 1995.
 
-Larry's book on global warming and wildlife is entitled "Last Chance: Preserving Life on Earth." It was released by Fulcrum Publishing in September of 2009, and indeed can be found on the web at www.nwf.org/lastchance. That should be easy. So, Larry Schweiger will be with us in a moment. Certainly, Larry Schweiger has the credentials to be doing what he's about to do, without any doubt. I suspect he's an acquaintance of Al Gore. Larry Schweiger, welcome to Coast to Coast AM. I'm Art Bell.
+Larry's book on global warming and wildlife is entitled "Last Chance: Preserving Life on Earth." It was released by Fulcrum Publishing in September of 2009, and indeed can be found on the web at `www.nwf.org/lastchance`. That should be easy. So, Larry Schweiger will be with us in a moment. Certainly, Larry Schweiger has the credentials to be doing what he's about to do, without any doubt. I suspect he's an acquaintance of Al Gore. Larry Schweiger, welcome to Coast to Coast AM. I'm Art Bell.
 
 [00:12:47] Larry Schweiger:  
 It's good to be with you. Thanks.
@@ -591,7 +591,7 @@ Indeed. All right, stay right where you are, Larry. And when we come back, we wi
 
 Good morning, all. Here I am. Larry Schweiger is my guest. He's the chief executive officer of the National Wildlife Federation. This is your opportunity to ask him questions. I've certainly monopolized the first part of the show with him. So many questions, and now it's your turn. So that's what we're going to do when we get back, which we will in a moment.
 
-By the way, as always, I'd love to hear from you. Feel free to email me. I answer all those that I'm able to. I'm Art Bell, A-R-T-B-L at mindspring.com. That's M-I-N-D-S-P-R-I-N-G dot com. artbell@mindspring.com. All right, Larry, if you're ready, we're going to go to the phones and.
+By the way, as always, I'd love to hear from you. Feel free to email me. I answer all those that I'm able to. I'm Art Bell, A-R-T-B-L at mindspring.com. That's M-I-N-D-S-P-R-I-N-G dot com. `artbell@mindspring.com`. All right, Larry, if you're ready, we're going to go to the phones and.
 
 Larry Schweiger:  
 Sure.
@@ -854,4 +854,4 @@ Thank you, my friend, and I hope your book sells well.
 Okay, thanks so much.
 
 [02:37:28] Art Bell:  
-Take care, and again, folks. Anybody would like to email me? You're welcome to do so. I'm artbell@mindspring.com, and I fully expect the flames to be probably larger than those in the Gulf. For now, though, and until next time from Manila, Philippines. Good night.
+Take care, and again, folks. Anybody would like to email me? You're welcome to do so. I'm `artbell@mindspring.com`, and I fully expect the flames to be probably larger than those in the Gulf. For now, though, and until next time from Manila, Philippines. Good night.

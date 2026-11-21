@@ -4,22 +4,16 @@
 **Guests:** Andrew Karam  
 **Topics:** Fukushima, Radiation Safety, Yucca Mountain Nuclear Waste
 
-[00:00:00] Art Bell:  
-Oh,
-
-[00:00:00] Unknown Speaker 1:  
-Here's Art.
-
 [00:00:01] Art Bell:  
-Extraterrestrial Radio. Actually, hello everybody. I am Art Bell. Boy, I have had a terrible day today. Terrible. I'm going to tell you all about it too. Have fun doing it. It's raining here in the desert. Rain's coming down like crazy. In more ways than one.
+Hello everybody. I am Art Bell. Boy, I have had a terrible day today. Terrible. I'm going to tell you all about it too. Have fun doing it. It's raining here in the desert. Rain's coming down like crazy. In more ways than one.
 
 Earlier today, while I was prepping for the show, I was on my computer at home, and I'm pretty careful normally about these things. But I'm going to tell you about this so it doesn't happen to you. In the lower right hand corner, up pops a little pop up that says Adobe Flash Update. High definition required. If that pops up, don't click on it. Don't click on it. Immediately go and run some sort of spam program and be rid of it. It's death on a stick. So I spent oh, I'm going to guess what three or four hours working on my computer today inside the registry, getting rid of five million different references to Conduit, the virus sucker that carried this. I'm telling you, you don't want to do that. Beware, beware, beware. Adobe Flash update. It says HD required. And if you do that, you're dead meat. And I mean that, dead meat. In other words, you'll bring up a browser and it will be stuck on some stupid, sweet something or another search engine that you'll never be able to get rid of. This is a bad one, folks.
 
 So after I, I don't know, three, four hours in the registry and you know in the program files, I think I probably have rid of it. But I would like to meet whoever wrote this thing in person, and if I could meet you, know this: I would put my fair-sized hands around your throat, get you on the floor, and choke you while I watch your body twitch. Not only that, but I will choke you and watch the light drain from your eyes, the life drain from your very eyes, and I will smile down at you as you pass to the other world. Otherwise, it was a great day. Be careful.
 
-We've got a ghost picture contest going on. The grand prize, if you're the winner, to be judged by all of you, is a brand new satellite radio and a one-year subscription to SiriusXM. That's right, a brand new radio, SiriusXM radio, and a one-year subscription. That's not small potatoes. So if you have a ghost photograph and you think it would be a winner, all you've got to do is send it off to webmaster@artbell.com. Keith will put it up on the site. It'll be judged. If you're the winner, you get the radio and the subscription. webmaster@artbell.com.
+We've got a ghost picture contest going on. The grand prize, if you're the winner, to be judged by all of you, is a brand new satellite radio and a one-year subscription to SiriusXM. That's right, a brand new radio, SiriusXM radio, and a one-year subscription. That's not small potatoes. So if you have a ghost photograph and you think it would be a winner, all you've got to do is send it off to `webmaster@artbell.com`. Keith will put it up on the site. It'll be judged. If you're the winner, you get the radio and the subscription. `webmaster@artbell.com`.
 
-And of course, our ghost stories for Spooky Matter. Send them to me, please. If you've got a ghost story, it's simple. You know, just send a little paragraph summary of it. Include your phone number and send it to me personally at Art. I'm artbell@artbell.com. artbell@artbell.com. And don't forget Art's Parts.
+And of course, our ghost stories for Spooky Matter. Send them to me, please. If you've got a ghost story, it's simple. You know, just send a little paragraph summary of it. Include your phone number and send it to me personally at Art. I'm `artbell@artbell.com`. `artbell@artbell.com`. And don't forget Art's Parts.
 
 Very important. T-shirts, mugs, caps, all with Dark Matter, and they've got to have my signature on it for them to be authentic. They've got to have my signature, and why do I say that? Because again, the net, right? Everybody's putting up other sites and trying to market stuff. Well, it's not the real thing unless it's got my signature on it. And if that happens, and they copy my signature, then legal cement shoes.
 
@@ -1056,7 +1050,7 @@ There's actually two interesting things in there. One is whether or not the fuel
 Art Bell:  
 No, Andy, I think what he was doing was suggesting that we have a nuclear detonation at one of these messy sites.
 
-Unknown Speaker 2:  
+Unknown Speaker 1:  
 Ah, I was, yes,
 
 [01:40:46] Andrew Karam:  
@@ -1657,7 +1651,7 @@ Hey, Art, Roswells and 51s, and I guess now we're doing cesium-137 to Andy.
 [02:17:58] Art Bell:  
 137 to Andy, yes.
 
-[02:17:59] Unknown Speaker 3:  
+[02:17:59] Unknown Speaker 2:  
 You
 
 [02:18:01] Caller 15 (Scott):  

@@ -1330,7 +1330,7 @@ Get into that phone and speak up.
 Okay. I wanted to find out your email address.
 
 [01:06:29] Art Bell:  
-It's artbell@aol.com.
+It's `artbell@aol.com`.
 
 [01:06:34] Caller 20 (Roy):  
 Oh, simple.
@@ -2392,7 +2392,7 @@ Good morning. Ah, me too. ABC is charging that NBC pirated its news footage of t
 
 And this: "Art, Tell that trucker, your station list on the website can be obtained at most college libraries. Ask the librarian to show you a computer access." Mike, that's not a bad idea. It's true. 
 
-My website is www.artbell.com. And there is a soon to be updated affiliate list. We are growing at such a rapid rate that keeping an up to date affiliate list there is difficult. But I can tell you that we are at presently for Coast to Coast AM 349 affiliates, and we'll get that latest list up there very quickly. And I think Dreamland is now at 251 or something like that.
+My website is `www.artbell.com`. And there is a soon to be updated affiliate list. We are growing at such a rapid rate that keeping an up to date affiliate list there is difficult. But I can tell you that we are at presently for Coast to Coast AM 349 affiliates, and we'll get that latest list up there very quickly. And I think Dreamland is now at 251 or something like that.
 
 As I said, most networks never post these things. We do. You will hear a lot of you know syndicated hosts on the air say we're on 200 stations, but they will never supply you with a list of those. We have no reason not to do so. Our list is precisely correct, and so we post it. No big deal.
 
@@ -3741,7 +3741,7 @@ It's fairly easy. Numbers.
 Go ahead.
 
 [02:24:53] Caller 49 (Keith):  
-Okay, it's http://128.95.171.2.
+Okay, it's `http://128.95.171.2`.
 
 [02:25:03] Art Bell:  
 One - wait a minute, 128. What?

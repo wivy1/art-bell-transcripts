@@ -291,7 +291,7 @@ Actually, coming up in a moment is Catherine Austin Fitts. She is the founder an
 
 A couple of quick, very quick notes. One is, if you go to the website coasttocoastam.com, all the way to the very top of the page, you'll see something that says "Art's Webcam." Just click on that, and you'll get a photograph of my dear wife and daughter. And that was taken about a little better than 24 hours ago, yesterday evening, shortly after the sun went down. As you may have seen on some of the national news, we've had quite a bit of snow here. Yes, snow in the desert in Las Vegas, creasing the palm trees, and it's quite a sight.
 
-All right, that and my email. Of course, you can reach me by email, and I hope you do. I am Art Bell, A-R-T-B-E-L-L at mindspring.com or artbell@aol.com. Once again, artbell@mindspring.com. That's all lowercase A-R-T-B-E-L-L at mindspring.com or the same thing at aol dot com.
+All right, that and my email. Of course, you can reach me by email, and I hope you do. I am Art Bell, A-R-T-B-E-L-L at mindspring.com or `artbell@aol.com`. Once again, `artbell@mindspring.com`. That's all lowercase A-R-T-B-E-L-L at mindspring.com or the same thing at aol dot com.
 
 Now, let's explore another point of view, specifically that of Catherine Austin Fitts. Catherine, welcome back. Actually, you have been a guest previously to Coast to Coast AM.
 
@@ -1153,7 +1153,7 @@ a fact. Larry, listen, hold tight for a moment. I'm going to hold you over, Larr
 
 Here I am. What an interesting program this has been, and what a scary one at that too. So let us continue. Well, no, let us take a quick break and we'll be right back and continue.
 
-Want to quickly remind everybody that you can get to me by email. I'm artbell@mindspring.com or artbell@aol.com. That's A-R-T-B-E-L-L, lowercase, at mindspring.com or aol.com.
+Want to quickly remind everybody that you can get to me by email. I'm `artbell@mindspring.com` or `artbell@aol.com`. That's A-R-T-B-E-L-L, lowercase, at mindspring.com or aol.com.
 
 Back now to Larry, I believe it is, and Catherine. And the question on food is a good one, Catherine.
 

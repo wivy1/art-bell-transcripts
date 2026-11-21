@@ -1725,7 +1725,7 @@ Well, tomorrow I'm going to be in Los Angeles, and then I believe I go from ther
 Okay, but where are you going to be in L.A.?
 
 [01:50:42] Whitley Strieber:  
-I'm going to be at a bookstore in Torrance, and the way people can I must tell you that I'm not sure exactly which one it is. People can find out by going to my website www.strieber.com.
+I'm going to be at a bookstore in Torrance, and the way people can I must tell you that I'm not sure exactly which one it is. People can find out by going to my website `www.strieber.com`.
 
 [01:50:57] Art Bell:  
 All right,

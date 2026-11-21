@@ -1446,7 +1446,7 @@ Okay,
 Enjoy your show a lot. Your web page is great.
 
 Art Bell:  
-Thank you. It is. It is very different. And those of you who would like, take a look. I think you'll enjoy it. www.artbell.com. West of the Rockies, you're on the air. Hi.
+Thank you. It is. It is very different. And those of you who would like, take a look. I think you'll enjoy it. `www.artbell.com`. West of the Rockies, you're on the air. Hi.
 
 [01:08:04] Caller 14 (Eric):  
 Hey Art.

@@ -1352,7 +1352,7 @@ Well, since you are in Pahrump, have you ever seen anything here? Because we do 
 Yeah, I've got two photographs I'd like to show you of things that I've actually taken pictures of, and I don't know what they are. And everybody I've showed it to, even my wife, they can't explain it either.
 
 [01:35:30] Art Bell:  
-All right, that's good enough for me. So, yeah, send it, send it, send it, send it. It's artbell@knye.com. That's me, Art Bell at KNYE, kilowatt, Nancy, Yokohama, easy, dot com. And if you've got really good photos of something, I'll put them up.
+All right, that's good enough for me. So, yeah, send it, send it, send it, send it. It's `artbell@knye.com`. That's me, Art Bell at KNYE, kilowatt, Nancy, Yokohama, easy, dot com. And if you've got really good photos of something, I'll put them up.
 
 [01:36:19] Ross Mitchell:  
 Midnight in the Desert via Skype worldwide, if on a computer, please be sure to use a headphone mic and call MITD51. That's MITD51.

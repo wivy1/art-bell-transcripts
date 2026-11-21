@@ -1553,7 +1553,7 @@ Well, we could do about another 426 hours. I think this went by quicker than any
 Ah, well, you know, I just you can kind of sense it from the calls. We're all animal lovers, and so it's- I don't know- it's very close to my heart, and very close to obviously many hearts out there. And so, yeah, we could do a lot of hours on it. Your books again are available. They are, aren't they? Still on Amazon and so forth and so on.
 
 [02:36:28] Amelia Kinkade:  
-Yeah, straight- they're both on Amazon, and also my website, Art, is just my name. It's www.ameliakinkade.com. It's two K's: K-I-N-K-A-D-E. And I have a listing on that website of my schedule, everywhere I'm teaching, the books are available. My meditation CD has a very, very slow, thorough medical gestalt, and that's about learning how to get inside their body.
+Yeah, straight- they're both on Amazon, and also my website, Art, is just my name. It's `www.ameliakinkade.com`. It's two K's: K-I-N-K-A-D-E. And I have a listing on that website of my schedule, everywhere I'm teaching, the books are available. My meditation CD has a very, very slow, thorough medical gestalt, and that's about learning how to get inside their body.
 
 [02:36:55] Art Bell:  
 Out of time, Amelia. Thank you.

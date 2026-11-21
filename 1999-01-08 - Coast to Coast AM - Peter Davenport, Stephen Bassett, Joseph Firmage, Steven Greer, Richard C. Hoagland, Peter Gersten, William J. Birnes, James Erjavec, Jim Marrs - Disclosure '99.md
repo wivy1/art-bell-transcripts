@@ -157,7 +157,7 @@ Yeah, I give a telephone number and I'll also give out our website. People can s
 Okay,
 
 [00:14:25] Peter Davenport:  
-Good. Some of them are very good. And our website address is www.ufocenter nine letters one word u-f-o-c-e-n-t-e-r.com.
+Good. Some of them are very good. And our website address is `www.ufocenter` nine letters one word u-f-o-c-e-n-t-e-r.com.
 
 [00:14:37] Art Bell:  
 That should do it. Peter, thank you so much. I've got a couple of things I've got to squeeze in before the bottom of the hour.
@@ -520,7 +520,7 @@ Quite some time ago, I approached some of the people who held those documents an
 Is that possible, Joe? Do you think that could be worked out?
 
 [01:05:23] Joseph Firmage:  
-Oh, certainly. The documents, in a as near pristine condition as is possible, are available. I think, of course, they're free on the website in a sort of low-resolution form, suitable for downloading as quickly as possible. But they can be ordered in printed copy form from the website at www.thewordistruth.org. In addition, a CD I believe is available now that contains additional reference material and cross-referenced information and a searchable text version of the documents as well.
+Oh, certainly. The documents, in a as near pristine condition as is possible, are available. I think, of course, they're free on the website in a sort of low-resolution form, suitable for downloading as quickly as possible. But they can be ordered in printed copy form from the website at `www.thewordistruth.org`. In addition, a CD I believe is available now that contains additional reference material and cross-referenced information and a searchable text version of the documents as well.
 
 [01:06:04] Steven Greer:  
 Yes, I think we need hard copies that are very good hard copies as close to original as possible because there's all kinds of things that go into a really serious scientific and archivist analysis verifying this kind of document. So I would suggest that if that's possible that we you know get together and get that and get it to this gentleman who is I mean he's the kind of person that Frontline or Nova or whoever would go to if they had documents they wanted to have authenticated. He is an extremely well respected man in this area, and he's quite open to the reality of the UFO question and is willing to sort of take a look at these sort of things.
@@ -535,7 +535,7 @@ Right.
 I take it both gentlemen, Joe and Stephen, are available. No doubt have email addresses available on their websites, gentlemen.
 
 [01:07:13] Steven Greer:  
-Right. www.cseti.org is how you can reach me.
+Right. `www.cseti.org` is how you can reach me.
 
 [01:07:18] Art Bell:  
 For the entire group of guests, we have a link up tonight. We also, by the way, if you would like to just simply tantalize yourself a little bit, have a number of these documents in JPEG easily viewable form, but understand that these documents are a couple of hundred pages, nearly a very significant material. So whatever you download, it is going to be but a tiny bit.
@@ -753,7 +753,7 @@ And by the way, I want to mention here that there's a producer who has a documen
 
 I mean, I think it's very important for us to do this, and I think by doing that and beginning to move that out into the public, we will be again to be able to potentiate the political process. But I don't think that the political process is going to be able to go on in a vacuum. You're going to have to create in the civilian sector some extremely compelling whistleblower testimony and other evidence, and put it out there in a very, very well orchestrated way in order for these people in the political structure to stick their necks out on this subject.
 
-So again, if people want to help us do that, they can get on our website. It's www.cseti.org and order this videotape. 100% of the proceeds. I mean, it's like making a donation to that effort. They're going to get a great videotape in exchange.
+So again, if people want to help us do that, they can get on our website. It's `www.cseti.org` and order this videotape. 100% of the proceeds. I mean, it's like making a donation to that effort. They're going to get a great videotape in exchange.
 
 Now, one of the things that I think that is missing in this discussion is the understanding, the political realities that something this high risk is not going to get support from people who are politicians and military people whose mantra is CYA, cover your ass. And I think that unless we in the civilian sector can create enough of a focus in the media and in the public by putting extremely well vetted, documented evidence, top secret witness testimony out in an extremely compelling fashion, my sense of it is that they are simply not going to have the courage to deal with this.
 
@@ -944,7 +944,7 @@ Oh, one quick note, I'm getting multiple reports at this hour. Then at about 22:
 All right. Once again, we are joined by Stephen Bassett in Washington D.C., Peter Gersten, an attorney, founder of CAUS, Citizens Against UFO Secrecy, and the publisher of course the CAUS Updates, the Mail Updates, and now William J. Birnes. And one quick thing, Peter, I would like as many people as possible to get your newsletter. Would you quickly tell everybody how they do that?
 
 [02:01:18] Peter Gersten:  
-All they have to do is go to the website. The website is www.caus.org. That's www.caus.org, and yet- and they'll get the homepage. Just scroll down to the place they can leave their email address, and they're free. And they come out daily.
+All they have to do is go to the website. The website is `www.caus.org`. That's `www.caus.org`, and yet- and they'll get the homepage. Just scroll down to the place they can leave their email address, and they're free. And they come out daily.
 
 [02:01:37] Art Bell:  
 They certainly do. I understand. After the last time you were on, you got about a couple thousand more.

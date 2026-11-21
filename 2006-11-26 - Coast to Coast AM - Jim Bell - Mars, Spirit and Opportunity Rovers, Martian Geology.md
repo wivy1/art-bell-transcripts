@@ -669,7 +669,7 @@ Indeed, here I am. What an opportunity we have. Professor Jim Bell is our guest.
 
 Listen, at some point during the weekend, I wanted to mention this. Being here on the opposite side of the world in the Philippines has been just a wonderful, fascinating experience. However, I don't have a lot of friends here, and anybody in a similar situation, I certainly would like to hear from you. Coming to the opposite side of the world is kind of like, I don't know. When you leave high school, you have a whole bunch of friends, and for a while you stay in touch, and then you kind of drift apart. Well, same deal after college, and same deal when you move to the other side of the Earth. You have a lot of friends, and you know as they as it sinks in that you're on the other side of the Earth, you kind of drift apart. So, if there are any other Americans here that are married to Filipinas, I'd certainly love to meet you.
 
-And toward that end, and any other end, if you'd like to get hold of me, here is the way you do it. I'm artbell@aol.com, or perhaps better, artbell@mindspring.com. That's A-R-T-B-E-L-L at Mindspring, M-I-N-D-S-P-R-I-N-G dot com. Artbell@mindspring.com, and I certainly on any subject would love to hear from you. In a moment, we continue with Professor Bell.
+And toward that end, and any other end, if you'd like to get hold of me, here is the way you do it. I'm `artbell@aol.com`, or perhaps better, `artbell@mindspring.com`. That's A-R-T-B-E-L-L at Mindspring, M-I-N-D-S-P-R-I-N-G dot com. `Artbell@mindspring.com`, and I certainly on any subject would love to hear from you. In a moment, we continue with Professor Bell.
 
 Well, all right, let's get a couple of things out of the way very quickly, Professor Bell. The face on Mars. Do the latest images that we've received of the face on Mars do they make it a dead issue? Is it Richard C. Hoagland? I've done many shows. I'm sure you've heard him many times. With Richard, he sees things that I and I don't. I see rocks most times when he sees faces. But these latest images - is it a dead issue now?
 
@@ -1345,4 +1345,4 @@ Professor, what a pleasure it has been to have you here. You have a good night a
 Thank you so much, Art. It's been great fun. I really really appreciate it.
 
 [02:39:38] Art Bell:  
-Take care, my friend. And that's our weekend, ladies and gentlemen. I will see you next weekend. Remember, I'm artbell@mindspring.com. Everybody have a great week ahead. Good night.
+Take care, my friend. And that's our weekend, ladies and gentlemen. I will see you next weekend. Remember, I'm `artbell@mindspring.com`. Everybody have a great week ahead. Good night.

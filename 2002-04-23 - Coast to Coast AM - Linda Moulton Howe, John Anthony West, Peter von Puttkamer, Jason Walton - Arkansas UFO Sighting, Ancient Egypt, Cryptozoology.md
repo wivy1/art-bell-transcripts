@@ -45,7 +45,7 @@ All right, well, we're going to leave it in there anyway. Some edited out, but y
 [00:07:21] Linda Moulton Howe:  
 Yes, it was pretty emotional. We all started asking, "What? Where?" Because the night was so dark, we could not even see each other, and Bob ran over to us and said, "Look up in the sky." I was astonished to see what looked exactly like three stars moving very slowly in a large triangular formation through the surrounding stars. It was not like anything that I'd ever seen before.
 
-Don Klinebrink, an industrial equipment service engineer from Mississippi, had his video camera and he turned it on and recorded a few frames of this moving triangle and one clear one that you can now see at my website www.earthfiles.com. Go to the headlines page and scroll down to tonight's story about these unidentified moving stars above Dover, Arkansas. Click and you will see one real video frame of what we're talking about that lasted for about three minutes in the sky.
+Don Klinebrink, an industrial equipment service engineer from Mississippi, had his video camera and he turned it on and recorded a few frames of this moving triangle and one clear one that you can now see at my website `www.earthfiles.com`. Go to the headlines page and scroll down to tonight's story about these unidentified moving stars above Dover, Arkansas. Click and you will see one real video frame of what we're talking about that lasted for about three minutes in the sky.
 
 Now here is a brief excerpt from the videotape audio, and it will be followed by comments of these eyewitnesses.
 
@@ -401,13 +401,13 @@ Right now, Linda Moulton Howe and John Anthony West are here. Do you suppose the
 It's just what the doctor ordered. Well, all right, very quickly, I'm getting inundated, Linda with a fast blast from people who have seen exactly what your group just described. You better give out an email address. There's going to be a lot of confirmations for you from the audience.
 
 [00:32:37] Linda Moulton Howe:  
-Yes, thank you. That's one of the things I was hoping for, and my email address is earthfiles@earthfiles.com. That is the same as my website www.earthfiles.com, where these reports tonight are posted, and for people who would like to fax me, I'm at 215-491-9842. That's 215-491-9842.
+Yes, thank you. That's one of the things I was hoping for, and my email address is `earthfiles@earthfiles.com`. That is the same as my website `www.earthfiles.com`, where these reports tonight are posted, and for people who would like to fax me, I'm at 215-491-9842. That's 215-491-9842.
 
 Art Bell:  
 Right, and Linda, our other guest, John Anthony West, has provided a link which we've got up on the website right now, which gives you a virtual tour of Egypt. I mean, it's awesome. So, audience, I'd again see that too.
 
 [00:33:27] Linda Moulton Howe:  
-Yes, that is an amazing website, and John also has a website for his research and his communication, which is www.jawest.
+Yes, that is an amazing website, and John also has a website for his research and his communication, which is `www.jawest`.
 
 Art Bell:  
 We've got a link for that. We've got a link for that also.
@@ -443,7 +443,7 @@ Well, in my view, it is yes, because this is just another, this is more standard
 Oh yes.
 
 [00:34:58] John Anthony West:  
-It's www.magicalegypt.com.
+It's `www.magicalegypt.com`.
 
 Art Bell:  
 Yeah, as I said to my audience, though, John, if they just go to tonight's guest info,
@@ -2326,7 +2326,7 @@ Okay. Can you send that over to me?
 Yes, we could do that.
 
 [03:18:32] Art Bell:  
-All right. Let me clear my email box right now. It's artbell@mindspring.com.
+All right. Let me clear my email box right now. It's `artbell@mindspring.com`.
 
 [03:18:39] Peter von Puttkamer:  
 Okay.
@@ -2338,7 +2338,7 @@ Because I don't actually, I don't think that I've seen what you're talking about
 Okay. Well, I'll we'll work on that.
 
 [03:18:47] Art Bell:  
-All right, let's work on that, and maybe through the bottom of the hour, I can get that to my webmaster very quickly. It's artbell@mindspring.com.
+All right, let's work on that, and maybe through the bottom of the hour, I can get that to my webmaster very quickly. It's `artbell@mindspring.com`.
 
 [03:18:55] Peter von Puttkamer:  
 Yeah, it's a fascinating picture. It'd be worth knowing like where exactly it came from and how authentic it is.
