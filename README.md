@@ -25,4 +25,17 @@ This archive was created because complete and accurate text transcriptions of th
 12. Group speech into turns.
     
 ### LLM-guided Cleanup
-13. 
+LLM-guided cleanup
+13. Load the latest accumulated knowledge guide and cleanup rules.
+14. Establish the original broadcast date, program, host, guests and topics. 
+15. Verify names, places, books, organisations and technical terms. Preserve spoken factual mistakes. Correct spellings, acronyms, call signs and program terminology in accordance with the broadcast period.
+16. Check for short interjections and assign the interruption to its speaker. 
+17. Number callers and unknown speakers by their first appearance. Add a clearly introduced personal name or spoken on-air nickname. Use established names for identifiable community figures.
+18. Identify bumper music lyrics around ad-breaks by comparing against the accumulated bumper music catalogue.
+19. Remove unrelated generic advertisements and non-program material. Retain community-related ads.
+20. Remove archive branding, Somewhere in Time references, and replay warnings. 
+21. Restore missing intro or signoff wording supported by any surviving fragments and knowledge of the program's era. 
+22. Remove obvious stutters and duplicated low-information prefixes. Preserve emphasis, grammatical repetition, self-corrections, and questions repeated because a connection failed.
+23. Format years, decades, telephone numbers, station frequencies, quantities and currency consistently. 
+24. Repair punctuation around questions, quotations, cutoffs and interruptions.
+25. Update accumulated knowledge guide and cleanup rules.
