@@ -131,7 +131,7 @@ It's going to happen anyway. As a matter of fact, we think there's going to be m
 [00:17:06] Art Bell:  
 All right,
 
-Gerald Celente:  
+[00:17:06] Gerald Celente:  
 We're going to have a dismal Christmas retail season. We all know that. We're looking at what's gone on already. The stores that are you know the Circuit Cities that have gone out, the KB stores, the Linens 'n Things, the Steve & Barry's, the Sharper Images. After the Christmas holiday, you're going to see a real decline happen. The retail sales are going to be miserable. You're going to see major bankruptcies start happening in the retail sector. Now let's go on and look what's happened already. Current events form future trends. All those that I mentioned that have gone bankrupt and others. Now look at the ones that have been closing stores, like the Starbucks, the what was the one last week? Office Depot announced 122 store closings. You look at now, who is going to rent all of these empty stores? The answer is nobody.
 
 [00:18:11] Art Bell:  
@@ -140,7 +140,7 @@ Right.
 [00:18:11] Gerald Celente:  
 Now you look what's going on in Wall Street. They're emptying out office buildings all over the place, floor after floor. Because it's not only you know the equities market. It's everything interrelated to it. It's the bond companies. It's all the back office support. We're going to have a commercial real estate collapse. That's going to be worse than the home real estate collapse. That-
 
-Art Bell:  
+[00:18:36] Art Bell:  
 Worse than the home real estate collapse?
 
 [00:18:38] Gerald Celente:  
@@ -172,7 +172,7 @@ Cheap money. Trouble is that nobody can get a loan.
 [00:23:17] Gerald Celente:  
 No one could get a loan, and this cheap money, these fiat currencies, as I mentioned earlier, this is a global crisis. So what we're having, Art, is a typical depression scenario, and that is the yes, commodity prices, oil is falling across the board. Things are cheaper to buy, but the purchasing power is also going to go down along with it.
 
-Art Bell:  
+[00:23:46] Art Bell:  
 By the way, as long as you're on oil, for just a second, I noticed that OPEC huffed and puffed and said they were going to blow away two million barrels a day in production, and oil went from I don't know forty something or another down to about 36.5 bucks or something like that. It just crazy. Oil is just falling, falling, falling. Where's it going? What's happening?
 
 [00:24:13] Gerald Celente:  
@@ -202,7 +202,7 @@ And this was coming from the horse's mouth. This was the man that was a Treasury
 
 And you can see because one of the other trends we're coming up with for '09, we call it the little people squeeze. Look what's going on. Pick up yesterday's New York Post, and the headlines read about the taxes that they're pushing on the people now to buy soda. They're putting you know 18% tax on it.
 
-Art Bell:  
+[00:30:07] Art Bell:  
 Yeah, I think that's New York State, right?
 
 [00:30:08] Gerald Celente:  
@@ -217,10 +217,10 @@ Yeah.
 [00:30:10] Art Bell:  
 So to get down to cases, you're saying you mentioned February, right?
 
-Gerald Celente:  
+[00:30:16] Gerald Celente:  
 Yeah.
 
-Art Bell:  
+[00:30:18] Art Bell:  
 Is that going to be it by February? We're going to know we're in a depression by February. We're going to begin to see unrest, or is that the spring or the summer, or is that a year away?
 
 [00:30:29] Gerald Celente:  
@@ -276,7 +276,7 @@ Gerald, what's the other side of the revolution? What is the revolution going to
 Gerald Celente:  
 You know these secessionist movements that they talk about. You could look at the former Soviet Union, and you can see what's going to happen to America. We imagine America could be breaking up into smaller sections of, you know, California to Utah, for example, the East Coast, the South. I mean, we could imagine that happening.
 
-Art Bell:  
+[00:39:23] Art Bell:  
 So you think it'll be that kind of revolution, a secessionist where California is its own country, and perhaps other small fiefdoms will emerge and secede from the United States? Is that what you see?
 
 [00:39:36] Gerald Celente:  
@@ -319,10 +319,10 @@ Okay. Let's try it.
 [00:42:55] Art Bell:  
 You were you know I read your bio and my goodness I'm honored to have you on the program. You obviously were very much an insider at one point.
 
-Catherine Austin Fitts:  
+[00:43:05] Catherine Austin Fitts:  
 Yeah.
 
-Art Bell:  
+[00:43:06] Art Bell:  
 Or several points. So now you're not, and you can sort of look back and well, listen. Did you hear any of the last hour by chance?
 
 [00:43:18] Catherine Austin Fitts:  
@@ -331,7 +331,7 @@ I didn't. I didn't.
 [00:43:20] Art Bell:  
 I had Gerald Celente on.
 
-Catherine Austin Fitts:  
+[00:43:22] Catherine Austin Fitts:  
 He's terrific.
 
 [00:43:23] Art Bell:  
@@ -340,7 +340,7 @@ Yeah, he is terrific. But he actually thinks we're headed for a great big D depr
 [00:43:52] Catherine Austin Fitts:  
 I think it's a possibility. I don't think it's the most likely scenario for 2009.
 
-Art Bell:  
+[00:43:58] Art Bell:  
 Good.
 
 [00:43:59] Catherine Austin Fitts:  
@@ -512,10 +512,10 @@ Oh, I can imagine a $50 billion scheme in a scheme of the financial fraud that w
 [01:10:12] Art Bell:  
 I'm sure it is. Certainly, Europe is coming apart right now, and they're having very similar problems. They sort of a lot of the Europeans, particularly the socialist Europeans, laughed pretty hard at the beginning of all this, and I don't hear any laughter any longer.
 
-Catherine Austin Fitts:  
+[01:10:32] Catherine Austin Fitts:  
 No.
 
-Art Bell:  
+[01:10:33] Art Bell:  
 And then of course there's the OPEC nations and they really laughed it up for a little while and they're of course not laughing all now. I think oil closed somewhere around $36.50 somewhere in there.
 
 [01:10:47] Catherine Austin Fitts:  
@@ -587,7 +587,7 @@ Right.
 [01:19:06] Catherine Austin Fitts:  
 Okay, so let's look at that. Let's say
 
-Art Bell:  
+[01:19:08] Art Bell:  
 That sounds a little high, but I guess it could be
 
 [01:19:11] Catherine Austin Fitts:  
@@ -596,7 +596,7 @@ Sounds a little. I think my guess is that that estimate includes when TV is on a
 [01:19:23] Art Bell:  
 Yeah, that means we're about to get it.
 
-Catherine Austin Fitts:  
+[01:19:24] Catherine Austin Fitts:  
 That we're about. I'll come back to it.
 
 [01:19:27] Art Bell:  
@@ -662,7 +662,7 @@ It's one of the greatest wasted energies in this economy, is the honest governme
 [01:27:35] Art Bell:  
 I saw indeed many times actually. Give him a headline and he's good for another X number of miles.
 
-Catherine Austin Fitts:  
+[01:27:40] Catherine Austin Fitts:  
 So there's a huge number of you know potential commanders in this economy.
 
 [01:27:46] Art Bell:  
@@ -689,7 +689,7 @@ Well, yeah, but know and trust friends of Madoff, friends of friends, and then i
 [01:28:23] Catherine Austin Fitts:  
 Well, I you know
 
-Art Bell:  
+[01:28:25] Art Bell:  
 I hate to do this to you, but I mean really
 
 [01:28:27] Catherine Austin Fitts:  
@@ -722,7 +722,7 @@ But it was not intimate as to where my money is going and what it's doing. In ot
 [01:29:39] Art Bell:  
 But can anybody really understand the process?
 
-Catherine Austin Fitts:  
+[01:29:43] Catherine Austin Fitts:  
 Absolutely, absolutely. The theory, you know, for 20 years now we've had two economies. One is a real economy, and the other is the bubble economy. And what's grown up in the bubble economy is the theory that if I can understand it, it's too mundane and boring, and they can't possibly make magical amounts of money.
 
 [01:30:05] Art Bell:  
@@ -797,10 +797,10 @@ All right. You- do you see that beginning to manifest? At what part of which qua
 [01:32:54] Catherine Austin Fitts:  
 Let me go back to the last time this happened.
 
-Art Bell:  
+[01:32:56] Art Bell:  
 Sure.
 
-Catherine Austin Fitts:  
+[01:32:57] Catherine Austin Fitts:  
 We had during the '80s. We had a very significant housing bubble. The bubble just went to real estate. It didn't really hit the stock market. Big difference now is you know the pump. We found a way to pump and dump everything, not just real estate. So now we're looking at a slightly different situation. By 1988, I'll never forget the number two guy at Treasury came up to Dillon, Read. I was a partner on the board of Dillon, Read, and met with a group of the partners. And he said, you know, we're holding this together with band aids through the election.
 
 [01:33:30] Art Bell:  
@@ -853,7 +853,7 @@ Well, you can watch the dollar for that, and the dollar is beginning to show exa
 [01:40:49] Catherine Austin Fitts:  
 Right, and the in fact the way it's held, its price has been quite amazing up until very very recently.
 
-Art Bell:  
+[01:40:57] Art Bell:  
 So I would take it. The reason for that is the flight to what people have thought of as safety around the world. In other words, money has been flowing into the U.S. from God knows where, everywhere I suppose. If you're a Russian oil guys sitting on a bunch of money, you don't care if you get zero. You're just going to store it, you know, in treasury notes or something until things get better.
 
 [01:41:25] Catherine Austin Fitts:  
@@ -874,7 +874,7 @@ I've heard rumors, Catherine, and I want to specify that's all they are. You sai
 [01:42:13] Catherine Austin Fitts:  
 Yes, yes, it could be true.
 
-Art Bell:  
+[01:42:17] Art Bell:  
 Really?
 
 [01:42:17] Catherine Austin Fitts:  
@@ -1013,7 +1013,7 @@ But I mean, I'm talking about perhaps a bigger picture of how there's no way to 
 [02:03:39] Art Bell:  
 Okay, all right. Let's hold it there. He makes a good point.
 
-Catherine Austin Fitts:  
+[02:03:42] Catherine Austin Fitts:  
 Right, excellent point.
 
 [02:03:44] Art Bell:  
@@ -1048,7 +1048,7 @@ Go ahead.
 [02:09:01] Caller 2 (Richard):  
 The what's I think the problem here. Well, a lot of us have heard Gerald Celente many times, and Catherine, you sound in some ways the complete antithesis of him. Almost like from the Wizard of Oz, the girl from the Wizard of Oz.
 
-Catherine Austin Fitts:  
+[02:09:21] Catherine Austin Fitts:  
 Oh dear.
 
 [02:09:21] Caller 2 (Richard):  
@@ -1095,19 +1095,19 @@ Yeah, I didn't understand it.
 [02:13:08] Caller 3 (Jason):  
 With the government bailing out everybody, spending our tax money, are we going to be getting an income tax refund next year? I mean they.
 
-Art Bell:  
+[02:13:21] Art Bell:  
 I would imagine if you're due one, you'll get one. But are you asking about a further stimulation package of some sort, whether or what?
 
-Caller 3 (Jason):  
+[02:13:29] Caller 3 (Jason):  
 No.
 
-Art Bell:  
+[02:13:30] Art Bell:  
 You just worried that they've stimulated the various too large to fail companies so much that they're not going to have enough money to send us for our tax income tax refund? Is that it?
 
 [02:13:42] Caller 3 (Jason):  
 That's it, right there.
 
-Art Bell:  
+[02:13:42] Art Bell:  
 I see. Okay, so basically, he's worried that the federal government is going broke.
 
 [02:13:47] Catherine Austin Fitts:  
@@ -1119,7 +1119,7 @@ Gee, I haven't heard that one before.
 [02:14:15] Catherine Austin Fitts:  
 Well, it's a global taxation system. Everybody buys treasury securities and holds dollars, and they go down in value. And so it's a way of taxing every country around the world without any legislature ever approving it or anybody ever admitting it.
 
-Art Bell:  
+[02:14:33] Art Bell:  
 I guess the big question is, Catherine, do you think that they're going to be able to print enough money and inject it into the right places in the economy to save us from financial Armageddon? And then once they've saved us, if that actually happens, they can pull back that money and have a big bonfire with it somewhere before inflation devours us.
 
 [02:14:59] Catherine Austin Fitts:  
@@ -1133,19 +1133,19 @@ Larry in Manitoba, Canada. You're on the air with Catherine. Not a lot of time b
 [02:16:37] Caller 4 (Larry):  
 Yes, what I want to talk about is the food system.
 
-Art Bell:  
+[02:16:41] Art Bell:  
 Ah, good.
 
 Caller 4 (Larry):  
 Just what you've just said about the grain markets. Now, if the grain markets aren't priced reasonably, I'm not going to sell either. I'm going to sell my product cheaply, quickly, and hoard my money, and I won't buy my inputs to resow a crop. Or, if the value is kept up, I might keep going playing this game. But and that's one question. And the next question is the thought that you can keep feeding North America with cheap food. If you destroy the infrastructure of agriculture, is a fallacy because everybody in agriculture is very, very leveraged.
 
-Art Bell:  
+[02:17:25] Art Bell:  
 Right.
 
-Caller 4 (Larry):  
+[02:17:25] Caller 4 (Larry):  
 And the thing is, going back and looking to my grandfather's era, that we can take the survive the depression. They had cows, they had chickens, they knew what to do with them. Today, you go to the average farm, you won't find a damn cat.
 
-Art Bell:  
+[02:17:40] Art Bell:  
 That's
 
 [02:17:40] Art Bell:  
@@ -1179,16 +1179,16 @@ Hi.
 [02:21:31] Art Bell:  
 Hi.
 
-Catherine Austin Fitts:  
+[02:21:31] Catherine Austin Fitts:  
 Hi, Jim.
 
 [02:21:32] Caller 5 (Jim):  
 Thanks for taking my call.
 
-Art Bell:  
+[02:21:33] Art Bell:  
 Sure.
 
-Caller 5 (Jim):  
+[02:21:34] Caller 5 (Jim):  
 Yeah, I'm in a bit of a powder keg situation. I have a building here in Tacoma that I'm putting on the market, and you know I've identified a buyer, and it's just it's mind boggling and frustrating. He's qualified, and the bank is almost- they won't release the money. They won't. They won't finance him. It's almost like things have changed overnight. From where they were, you know, loose and juicy with financing everybody, to now they're on the other end of the extreme, where they're just not kicking out the assets, and it's really putting things into perspective. You know, I don't know if it's going to change after the inauguration, or if you have some inside information about that. But it just doesn't seem right.
 
 [02:22:18] Art Bell:  
@@ -1215,7 +1215,7 @@ Thank you.
 [02:23:57] Caller 6 (Doug):  
 And you're a voice for sanity in this economy that we have. I wonder if you would, you know, talk a little bit more specifically about, you know, you mentioned, you know, opportunities in the real economy, and you've already answered it with the last couple of callers to a degree. But you know, what might someone do as far as, you know, searching the internet? Are there resources that you know of that are really good for sustainability? You know, what type of, what areas to put our money into and our energy into? Like I feel that, I feel like Coast to Coast is probably one of the most important assets we have on this planet, and the communication industry. You know, things like that. Could you speak a little bit more specifically about those things? And I'll take my answer off the air. Thank you so much for your words.
 
-Art Bell:  
+[02:24:44] Art Bell:  
 You're very welcome. Thank you for the call. Go ahead, Catherine.
 
 [02:24:46] Catherine Austin Fitts:  
@@ -1259,12 +1259,12 @@ Yes, Catherine. Great show again. I've heard you and Gerald Celente use the term
 
 And I got to bring this up about food. I've heard you say a lot of times about co-op kind of things. Well, you know, in a co-op near Cleveland was raided by a SWAT team, and everything was confiscated and no reason for it. So, I agree with what you say. We got to kind of band together, but I believe that that's already being fought against by whoever is fighting against us.
 
-Catherine Austin Fitts:  
+[02:31:54] Catherine Austin Fitts:  
 Right. Right. Good. Good point. I don't disagree, and it's going to take tremendous organization at a local level to checkmate some of that. You know, it's- I don't mean to say that this process is going to be easy.
 
 On civil unrest, the- of course, it depends on how bad the economy is. The reason I am skeptical of whether or not we're going to see significant violence is I unfortunately had the opportunity to study in depth the development of non-lethal weapons. If you're interested, I would do a search for non-lethal weapons on the internet. There's been several good books written, and tremendous technology has been developed: electromagnetic weapons, acoustic weapons with sound, and other things that over the last two decades. And if you look at where that weaponry has gone, I just think as a scientific matter, that that unrest that turns violent can be prevented, and it can be prevented in very sort of invisible or powerful ways. And so I don't see unrest.
 
-Art Bell:  
+[02:33:13] Art Bell:  
 But if that's the only thing that's going to stand between us and unrest, I don't know how. I don't know, pleasing a prospect that is. I understand there are microwave weapons that can heat you up. There are acoustic weapons that can make life so painful for you that you'll head back to wherever you came from. But you know, even those things, Catherine, I'm not sure that you know if it gets to the point where people don't really, where the masses don't want to be [unclear: pleased], that they can be? I just don't know.
 
 [02:33:48] Catherine Austin Fitts:  

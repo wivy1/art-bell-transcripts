@@ -135,10 +135,10 @@ And sure enough, it worked.
 [00:14:52] Art Bell:  
 So in other words, you conquered it psychologically.
 
-Robert Monroe:  
+[00:14:54] Robert Monroe:  
 That's right.
 
-Art Bell:  
+[00:14:55] Art Bell:  
 And that released you.
 
 [00:14:56] Robert Monroe:  
@@ -188,10 +188,10 @@ Were you able to do that?
 [00:19:41] Robert Monroe:  
 Very much so, and to my very pleasant surprise, as a matter of fact, in several cases I appeared as people perceived, not knowing that I was there. That's the point. I didn't announce that I was going to go visit them that particular evening or whatever. But I appeared as sort of a little bit of a swirling gray mist, and that's why they saw me, not as a physical person, but as a gray mist.
 
-Art Bell:  
+[00:20:06] Art Bell:  
 Wow.
 
-Robert Monroe:  
+[00:20:06] Robert Monroe:  
 Anyway, it's most important to recognize that it was fully a year of this type of experimentation before I myself was convinced of the reality of it, that it was not an hallucination or a wild dreaming state or whatever, it took a full year of this before I said yes, this is real.
 
 [00:20:30] Art Bell:  
@@ -401,10 +401,10 @@ Both according to the talent and according to the person. This is the brain. Eac
 [00:40:48] Art Bell:  
 Wow, that's quite a task you've undertaken, and I suppose when we get to the practical applications, we get into the educational division. Is that correct?
 
-F. Holmes Atwater:  
+[00:40:59] F. Holmes Atwater:  
 That's correct.
 
-Art Bell:  
+[00:41:00] Art Bell:  
 All right, I would like to ask that you hold on just one moment. We'll come right back to you, and we are interviewing actually a number of individuals from the Monroe Institute. We'll be right back. All right, and once again, F. Holmes Atwater, who is a researcher for the Monroe Institute, and are you there?
 
 [00:41:16] F. Holmes Atwater:  
@@ -427,7 +427,7 @@ Hello.
 [00:43:17] Art Bell:  
 Hi. Is this still David?
 
-F. Holmes Atwater:  
+[00:43:18] F. Holmes Atwater:  
 Would you like to talk to Robert again for just a minute?
 
 [00:43:20] Art Bell:  
@@ -764,10 +764,10 @@ Moreover, one of my, part of my contract, I guess it was, for the help that I ha
 
 They pass some of this information along to me, and yes, that's one of the things that, in turn, has certainly come very much to my knowing, and that is that I know as I sit here, our civilization is restrained in terms of anything that's non-physical. We don't know anything about it in any way, shape, or form, and the options that are available to us, after we are no longer physical here, instead of being one of them, of course, is being the human addict and go back and live another life, because you get addicted to being human. But there are so many other opportunities or options along that spectrum of energy, and one of them is to go and I'll put it in the crude way. I try to make it in things ways that we can understand it.
 
-Art Bell:  
+[01:09:28] Art Bell:  
 Of course,
 
-Robert Monroe:  
+[01:09:29] Robert Monroe:  
 And that is to shake the hands of the creator and say, " It's a great job." Not prostrating and in adoration, but just to say, " You're a real smart one."
 
 [01:09:39] Art Bell:  
@@ -778,7 +778,7 @@ Hello, this is Fritz calling.
 
 When Shirley MacLaine's five-hour television special Out on a Limb was aired way back in January of '87, some of her highlights was astral projection. It did make a lot of waves. Of course, her book with the same title did make the radio and television interview circuit years before that, and many many millions of people were exposed to the OBE subject. Now, Robert, we need another catalyst to push that subject to the people's attention. After all, they could join the Cosmic College for free.
 
-Robert Monroe:  
+[01:10:18] Robert Monroe:  
 Yes, indeed. Well, we are we have not made a big point of being widely known yet. We did a slight study to indicate how many people users have been used as a method that we have we have available and put forth out of demand, but not out of advertising. And we figure that there have been a little over two and a half million users of these various types of exercises on tape that we that we put out through the years. And these are a means of beginning to do the very things that you're talking about,
 
 [01:11:08] Art Bell:  
@@ -851,7 +851,7 @@ Good for you.
 [01:13:58] Caller 3 (Tom):  
 And I never felt so good spiritually or physically after I go out of my body, and then come back. And then I started, over a period of time, losing the power. I don't know what I was doing wrong. I just felt there was, I don't know. It's kind of hard to explain. There's something very weird. I was experimenting with it. I actually did two experiments on scientifically, of course. I'm just a truck driver, but proved it to other people that I actually got out of my body, went by them and did things and could see things while I was supposedly asleep, which I wasn't.
 
-Robert Monroe:  
+[01:14:31] Robert Monroe:  
 Yeah, I can tell you one that I had to do out of desperation to be sure somebody understood it years and years ago. I went and I pinched this woman in her side. Ah, it left a bruise.
 
 [01:14:46] Art Bell:  
@@ -917,7 +917,7 @@ And there is no relationship to the electromagnetic.
 [01:17:28] Robert Monroe:  
 No, not as such.
 
-Art Bell:  
+[01:17:29] Art Bell:  
 Huh.
 
 All right.
@@ -943,7 +943,7 @@ Well, it depends on how much it happens. One of the things that gets you back to
 [01:18:31] Art Bell:  
 Yeah, well, that'll pull you back and motivate you all the time. He also asked about documentation of physical effects.
 
-Robert Monroe:  
+[01:18:37] Robert Monroe:  
 We have those. We don't make a consistent practice of it, but they occur quite naturally in what we do, and we have quite a long line of them in terms of. But you see, again, we're dealing with an energy that cannot be measured scientifically. So you can only measure the effects of the energy. You understand the difference?
 
 [01:18:57] Art Bell:  
@@ -1030,10 +1030,10 @@ Again, well, I said when we were talking with Mr. Hoagland that my expertise was
 [01:22:12] Robert Monroe:  
 Well, what I would like you to do if you're going that far, or anyone else going that far, by all means, drop us a note. We would like to. We would indeed like to hear about it.
 
-Caller 7 (Dave):  
+[01:22:21] Caller 7 (Dave):  
 Well, I certainly would,
 
-Robert Monroe:  
+[01:22:22] Robert Monroe:  
 And we would certainly appreciate it. And write to our staff psychologist, Darlene Miller, and all you have to do is Route 1, Box 175, Faber, Virginia 22938. Route 1, Box 175, Faber. F-A-B as in boy-E-R, Virginia 22938. F-A-B-E-R.
 
 [01:22:57] Art Bell:  
@@ -1149,19 +1149,19 @@ You can put him on life support or whatever, and keep his body working, but he's
 [01:29:59] Art Bell:  
 All right, on the toll-free line, you're on the air with Robert Monroe. Hi there.
 
-Caller 9 (Henry):  
+[01:30:03] Caller 9 (Henry):  
 Hi,
 
-Art Bell:  
+[01:30:03] Art Bell:  
 Where are you, sir?
 
 [01:30:04] Caller 9 (Henry):  
 I’m from Phoenix.
 
-Art Bell:  
+[01:30:05] Art Bell:  
 Phoenix.
 
-Caller 9 (Henry):  
+[01:30:05] Caller 9 (Henry):  
 Henry.
 
 [01:30:06] Art Bell:  

@@ -47,10 +47,10 @@ Sure.
 [00:07:24] Linda Moulton Howe:  
 And in one of the strangest Bigfoot cases on record, the Cascade County Sheriff's Office in Great Falls, Montana, had a 1976 file on a rancher who was out hunting, encountered a creature at least eight feet tall with reddish brown hair, and in this case, the eyes were reported to be glowing red. The rancher shot at this Bigfoot creature, and it disappeared in a flash of light. And that sentence was officially recorded in the Cascade County Sheriff's file.
 
-Art Bell:  
+[00:07:55] Art Bell:  
 Wow.
 
-Linda Moulton Howe:  
+[00:07:56] Linda Moulton Howe:  
 Yeah, what is it that could disappear in a flash of light? And at the same time, the Cascade County Sheriff's office was flooded with animal mutilation reports and eyewitnesses who were saying and reporting moving lights and disks above pastures and above their homes.
 
 [00:08:13] Art Bell:  
@@ -88,7 +88,7 @@ No, we're with you. You may not.
 
 Oh my God.
 
-Linda Moulton Howe:  
+[00:11:05] Linda Moulton Howe:  
 There you have it.
 
 [00:11:13] Art Bell:  
@@ -124,7 +124,7 @@ Right. I think everybody has had that reaction. I think one person said, " Well,
 [00:12:56] Art Bell:  
 Yeah, that's what I said.
 
-Linda Moulton Howe:  
+[00:12:58] Linda Moulton Howe:  
 Yeah,
 
 [00:12:58] Art Bell:  
@@ -216,7 +216,7 @@ Yes.
 [00:22:38] Art Bell:  
 And I've got two literate ladies here, so Star. I'm going to just ask you, in your opinion, is Max the real thing?
 
-Star Johnsen-Moser:  
+[00:22:45] Star Johnsen-Moser:  
 Absolutely, absolutely.
 
 And what I've been learning from Max, I can scarcely find the words to describe. That I will say that my entire life has been totally changed since Max came into my life.
@@ -224,10 +224,10 @@ And what I've been learning from Max, I can scarcely find the words to describe.
 [00:23:04] Art Bell:  
 That's pretty serious statement, or?
 
-Star Johnsen-Moser:  
+[00:23:05] Star Johnsen-Moser:  
 Yes, it is.
 
-JoAnn Parks:  
+[00:23:06] JoAnn Parks:  
 You should hear the, you should see the letters I get where Max appears to people in dreams and what he's done for all of these people.
 
 [00:23:13] Art Bell:  
@@ -265,10 +265,10 @@ I absolutely do, and I would like to share with you, if I might, a channeling th
 Art Bell:  
 All right.
 
-Star Johnsen-Moser:  
+[00:25:26] Star Johnsen-Moser:  
 And this is what I received. I come to you openly in mind and in heart. I come to you through the corridors of time. I come to restore your gifts long forgotten. I come in remembering and I come in truth. I come in oneness and I come in gladness. I come with the blessings of infinite love. Oh, turn not away in fear or limitation. Oh, turn not away in disdain or despair. I come with the flame of freedom, everlasting. Let us soar through illusion to the heart of the dove. I hold the secrets, the keys hold the pattern, and I hold the plan. I hold open the doorways to the loom and the chambers. Open your heart and let me come in. Open your mind and enter the doorway. Cast off all entanglements of time. Open your body to the light of the heavens. Open your pathways to the light of the stars. Open your gifts to share with each other. Open your senses to the sound and the light. Open your being to the unified presence. Reach out to each other. Divine reselection. Divine love.
 
-Art Bell:  
+[00:26:55] Art Bell:  
 Well, that sounds like a very beautiful, elongated version of Rodney King's " Can't We All Get Along." That should be it. Is that about right? Yes.
 
 [00:27:11] JoAnn Parks:  
@@ -329,7 +329,7 @@ I tell people that Max is a personal experience, and that's what he is. He's hel
 [00:31:23] Art Bell:  
 So are you going to continue along the same path? I mean, you sure with Max?
 
-JoAnn Parks:  
+[00:31:28] JoAnn Parks:  
 Well, for the first five years, we always called Max again a closet skull, since we didn't know what once I didn't know particularly really what I had. It was a learning process, and I had to learn completely about what Max is, what he does. He seems to guide me through dreams.
 
 He does say he wants to be with the people. He loves people.
@@ -395,7 +395,7 @@ All right, west of the Rockies, you're on the air with JoAnn and Star.
 [00:35:41] Caller 2:  
 Hi.
 
-Art Bell:  
+[00:35:43] Art Bell:  
 Hi.
 
 Where are you?
@@ -486,13 +486,13 @@ They say they come from the Star People.
 [00:39:46] Art Bell:  
 All right, the Star People. Interesting. East of the Rockies, you're on the air with JoAnn and Star. Where are you calling from, please? Whoops. Let's try again. Are you there? Hello. Hello. Yes, sir. Where are you?
 
-Caller 3:  
+[00:40:01] Caller 3:  
 This Star Bell show.
 
-Art Bell:  
+[00:40:03] Art Bell:  
 Yes, it is Dreamland, sir.
 
-Caller 3:  
+[00:40:04] Caller 3:  
 I was wondering what do you think about the people in Chicago that sit in a room, and are scared to open a window or a door, and die in there because they figure somebody's robbed them.
 
 [00:40:16] Art Bell:  
@@ -519,10 +519,10 @@ Hold it right there. Hold it right there. We've got a break. We'll be right back
 Caller 4:  
 From Phoenix.
 
-Art Bell:  
+[00:41:29] Art Bell:  
 Phoenix.
 
-Caller 4:  
+[00:41:30] Caller 4:  
 Yes, yeah.
 
 I was just curious if either one of the ladies tried to find, besides, get answers in regards to some of the things that future things that might happen. You know what? We know what we're talking about.
@@ -563,7 +563,7 @@ That which we're moving towards. Yes, in our path back home, what I believe is t
 [00:43:45] Art Bell:  
 I'm sorry, the mansion.
 
-Star Johnsen-Moser:  
+[00:43:47] Star Johnsen-Moser:  
 The mansion worlds. Yes, of the higher multidimensional levels that are the promise, the kingdom of heaven. These are the kinds of things that I've seen and.
 
 [00:44:02] Art Bell:  
@@ -578,10 +578,10 @@ Most people who look ahead see many possible futures, not all of them necessaril
 [00:44:32] Star Johnsen-Moser:  
 Well, if people, a lot of people like to focus on fear and earth changes, and the earth is always changing. I mean, I was in California during all the fires. I was in the Midwest during all the floods. I've been in California during earthquakes. You know, and undoubtedly there is a shifting of form that is happening, a purification and a cleansing, and we can choose to look at all of these changes, which have always been and always will be, with fear, or we can, you know, look at them with more open eyes.
 
-Art Bell:  
+[00:45:10] Art Bell:  
 No, I understand that. I'm just trying to figure out. I understand that you're trying to remain positive.
 
-Star Johnsen-Moser:  
+[00:45:15] Star Johnsen-Moser:  
 Oh yeah.
 
 Art Bell:  
@@ -697,7 +697,7 @@ and down with the little star. Star, you're speaking over my head. You've seen m
 [00:51:14] Star Johnsen-Moser:  
 Yes.
 
-Art Bell:  
+[00:51:14] Art Bell:  
 Oh,
 
 [00:51:14] Star Johnsen-Moser:  
@@ -733,7 +733,7 @@ Yeah, I remember. Star, you want to comment on that? I mean, they really have ex
 [00:53:05] Star Johnsen-Moser:  
 Mm-hmm. Yeah, it's too bad because the phony's ruining it for those the those that are real, and isn't it that way always?
 
-Art Bell:  
+[00:53:14] Art Bell:  
 And the public is very quick to dismiss. I mean, if a newscaster at the end of a newscast has a report about a UFO, and then he does a little chuckle at the end, everybody dismisses it. If there's one report on a fake healer in the Philippines, then all Philippine healers are fakes.
 
 [00:53:36] Star Johnsen-Moser:  
@@ -754,7 +754,7 @@ And don't go to the light.
 [00:54:31] Art Bell:  
 That's what he said.
 
-Star Johnsen-Moser:  
+[00:54:33] Star Johnsen-Moser:  
 Huh? Oh, I'm not going into the darkness.
 
 [00:54:36] Art Bell:  
@@ -772,31 +772,31 @@ going what?
 [00:54:39] Art Bell:  
 I'm still sort of feeling the same way myself. Very quickly, west of the Rockies, you're on the air with JoAnn Star.
 
-Caller 8 (Robert):  
+[00:54:45] Caller 8 (Robert):  
 Yes, this is Robert from Yuba City, California.
 
-Art Bell:  
+[00:54:49] Art Bell:  
 Hi, Robert.
 
-Caller 8 (Robert):  
+[00:54:50] Caller 8 (Robert):  
 JoAnn.
 
-JoAnn Parks:  
+[00:54:50] JoAnn Parks:  
 Yes. Yes.
 
-Caller 8 (Robert):  
+[00:54:51] Caller 8 (Robert):  
 Are you within near presence of Max?
 
-JoAnn Parks:  
+[00:54:55] JoAnn Parks:  
 Yes, I am.
 
 Caller 8 (Robert):  
 Have you ever, or are you able to set up a mental link between him and others?
 
-Art Bell:  
+[00:55:06] Art Bell:  
 All right.
 
-Caller 8 (Robert):  
+[00:55:07] Caller 8 (Robert):  
 I'm trying to contact. I need to speak with him.
 
 [00:55:10] Art Bell:  
@@ -823,16 +823,16 @@ Yeah, it's really weird. First time caller line, you're on the air with JoAnn an
 [00:57:14] Caller 9:  
 How are you doing tonight?
 
-Art Bell:  
+[00:57:15] Art Bell:  
 All right.
 
-Caller 9:  
+[00:57:16] Caller 9:  
 I was curious if they've ever thought about having all the skulls pulled together in one spot to see what kind of power would come about.
 
 [00:57:23] JoAnn Parks:  
 Yes. In fact, that was one of Nick Nocerino's dreams is to have all the skulls to come together at one time. However, the skulls don't want their million dollar artifacts out of the museum, and they won't cooperate. So Mitchell-Hedges skull and Max was the only skulls that have been together.
 
-Caller 9:  
+[00:57:39] Caller 9:  
 Well, I really appreciate you being on the air tonight.
 
 [00:57:40] Art Bell:  
@@ -868,25 +868,25 @@ Oh, hello, Art.
 Art Bell:  
 Hello. Where are you?
 
-Caller 10 (Edward):  
+[00:58:11] Caller 10 (Edward):  
 Yeah, I hear you fine.
 
-Art Bell:  
+[00:58:13] Art Bell:  
 Where are you?
 
-Caller 10 (Edward):  
+[00:58:14] Caller 10 (Edward):  
 All good. I'm. This is Edward from LaSalle, Illinois.
 
-Art Bell:  
+[00:58:17] Art Bell:  
 All right.
 
-Caller 10 (Edward):  
+[00:58:18] Caller 10 (Edward):  
 I find this really fascinating tonight. I wonder. There's a lot of question about Max's origin.
 
-Art Bell:  
+[00:58:25] Art Bell:  
 Yes.
 
-Caller 10 (Edward):  
+[00:58:25] Caller 10 (Edward):  
 Have you ever considered the fact that if you knew what's the face that matches the skull, whether it was a model or whether it was the original person or being who owned the skull, so to speak? Mm-hmm. If you knew what that face looked like.
 
 [00:58:48] Art Bell:  
@@ -931,10 +931,10 @@ Yes.
 [01:00:01] Caller 11:  
 What I wanted to ask is, I was doing some research, and the question that Star had Star said that the skull had held some secrets, and that it had keys to the mysteries and opened doors of chambers. And I did some research about masons, and they're associated with skull and crossbones and Egyptology. Mhm. And then Egypt, you know, Egyptology is associated with pyramids and chambers. So I was wondering if this skull had any relation to this type of thought.
 
-Art Bell:  
+[01:00:30] Art Bell:  
 All right.
 
-JoAnn Parks:  
+[01:00:31] JoAnn Parks:  
 Well, when we take photographs, research photographs of the skull, you can see various images in it. You can see pyramids, there are several pyramids under its nose that goes back inside. You can see that looks like Bigfoot. You can see underwater scenes, inner earth scenes. You can see extraterrestrial that sits in its eye. You can see UFOs.
 
 [01:00:54] Art Bell:  
@@ -952,7 +952,7 @@ One of the things that's really interesting, as I mentioned, I was just down in 
 [01:01:35] Art Bell:  
 Well, that is interesting.
 
-Star Johnsen-Moser:  
+[01:01:36] Star Johnsen-Moser:  
 It was that really, it was amazing when I realized that.
 
 [01:01:40] Art Bell:  

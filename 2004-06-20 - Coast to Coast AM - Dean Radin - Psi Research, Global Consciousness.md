@@ -48,7 +48,7 @@ I'm doing all right. Who is this?
 [00:11:50] Caller 1 (Daniel):  
 My name is Daniel, otherwise known as Time Traveler 2012.
 
-Art Bell:  
+[00:11:53] Art Bell:  
 Oh, you're a time traveler.
 
 [00:11:56] Caller 1 (Daniel):  
@@ -63,10 +63,10 @@ Actually, I've been all over the place because I'm not really human.
 [00:12:17] Art Bell:  
 All right.
 
-Caller 1 (Daniel):  
+[00:12:17] Caller 1 (Daniel):  
 I'm an angel.
 
-Art Bell:  
+[00:12:18] Art Bell:  
 Alrighty. Let's back up then, nevertheless. And you're an angel. You're an angel. So there was no initial date that you began this journey because you've essentially always been.
 
 [00:12:35] Caller 1 (Daniel):  
@@ -147,7 +147,7 @@ It's called Final Book of Daniel.
 [00:15:40] Art Bell:  
 I see.
 
-Caller 1 (Daniel):  
+[00:15:41] Caller 1 (Daniel):  
 It can be reset.
 
 [00:15:43] Art Bell:  
@@ -156,7 +156,7 @@ Well, no, I can't let you do that.
 [00:15:44] Caller 1 (Daniel):  
 Okay, I'm sorry.
 
-Art Bell:  
+[00:15:45] Art Bell:  
 I understand you really would like to, Daniel, but I'm sorry.
 
 [00:15:49] Caller 1 (Daniel):  
@@ -198,10 +198,10 @@ Did she?
 [00:16:18] Caller 2 (Russ):  
 Yes, she did. Mm-hmm. Well, I have a story. It's called the.
 
-Art Bell:  
+[00:16:22] Art Bell:  
 I wonder. I wonder if that's happened. How it happened to Daniel. A quick moment of passion.
 
-Caller 2 (Russ):  
+[00:16:27] Caller 2 (Russ):  
 I. You know, I called once before, and I told you I saw a woman disappear in an elevator. I was that guy who told you that.
 
 [00:16:32] Art Bell:  
@@ -289,7 +289,7 @@ Over here,
 [00:27:15] Art Bell:  
 Yeah.
 
-Caller 2 (Russ):  
+[00:27:15] Caller 2 (Russ):  
 And I'm all, yeah, I'm over here. So the guy comes over. I was under that truck. I says, and then I shot out. And so then this police officer pulls over, and he's got this big tank hat on, you know, southern cop, and he goes, "License and registration." So the
 
 [00:27:41] Art Bell:  
@@ -353,22 +353,22 @@ I got something.
 [00:29:17] Art Bell:  
 It's not. It's not beyond. It's not beyond reason for it to be so, and I certainly have considered it. Consciousness is obviously an incredible force. Could it be, you know, the monster of the id, you know, coming from inside of us? Yes, it could be.
 
-Caller 3 (Blair):  
+[00:29:33] Caller 3 (Blair):  
 Yeah, you know, when you talk with Mr. Sereda last week, it always seems the question comes up: why they seem to stay in the background yet abduct us as if they is a unified front of alien intelligences.
 
-Art Bell:  
+[00:29:47] Art Bell:  
 Yes.
 
 [00:29:47] Caller 3 (Blair):  
 Well, how about the notion that they represent multiple, sometimes conflicting, extraterrestrial, extra-dimensional, probable future selves entities, and that some form of what we might call, thank you, Star Trek Prime Directive is in operation that precludes this overt mass public contact until we're ready.
 
-Art Bell:  
+[00:30:07] Art Bell:  
 Okay, well the whole concept of Prime Directive, even though used in Star Trek, and so it's easy therefore to laugh it off, is such a universal sort of truth when you think about it that even though they used it, that doesn't make it any less sort of a universal truth. I think there would be, don't you, a Prime Directive?
 
 [00:30:28] Caller 3 (Blair):  
 Yeah, it's sort of like we're incubators. We're sort of like potential embryonic gods, and we've been given this great gift of you know free will. And if there's true free will and free choice, then if we're evolving, this evolving personalities also have that possible choice of becoming self-confusing, self-disrupting, self-destroying.
 
-Art Bell:  
+[00:30:48] Art Bell:  
 Sure,
 
 [00:30:49] Caller 3 (Blair):  
@@ -514,16 +514,16 @@ I do indeed, and then following that, an unexplained fire, which in her mind was
 [00:36:56] Caller 6 (Danny):  
 Correct. She said she felt heat on her cheek,
 
-Art Bell:  
+[00:36:58] Art Bell:  
 And that's right. Yes,
 
 [00:36:59] Caller 6 (Danny):  
 Different things like that. Yes. Well, the interesting part about that is the station I listen to out here. Our local station is KFI.
 
-Art Bell:  
+[00:37:07] Art Bell:  
 Yes.
 
-Caller 6 (Danny):  
+[00:37:08] Caller 6 (Danny):  
 And the night that she's talking about, it was the day after the fireball over Seattle, and I was listening to the news that evening. I can't remember exactly what time it was. It seemed like around ten o'clock or something like that. But KFI broke in and literally reported that a fireball had just been sighted. There was many call-ins. People, you know, were even saying it could have been a downed airplane.
 
 [00:37:30] Art Bell:  
@@ -541,7 +541,7 @@ That's the last I heard of it. But KFI actually reported the incident.
 [00:37:41] Art Bell:  
 Fascinating.
 
-Caller 6 (Danny):  
+[00:37:42] Caller 6 (Danny):  
 So and I haven't heard anything else since, and I can't find anybody else either. Until I heard that lady when she called you.
 
 [00:37:48] Art Bell:  
@@ -568,7 +568,7 @@ Right.
 [00:38:14] Caller 7:  
 I'm from a small town near Houston, in Texas, of course, Dayton. And there was a UFO incident down here that was on national television. And I went to high school and graduated with the guy who was, who was, what happened? He was driving down the highway, and he and his grandma, and his mother. They had this UFO land in the middle of the highway, and they had radiation burns from it.
 
-Art Bell:  
+[00:38:42] Art Bell:  
 Oh, oh, oh, I, oh, yes. Now I certainly recall the story.
 
 [00:38:46] Caller 7:  
@@ -586,7 +586,7 @@ Hello.
 [00:39:08] Caller 8:  
 I have a few things to say.
 
-Art Bell:  
+[00:39:10] Art Bell:  
 You do, huh?
 
 [00:39:11] Caller 8:  
@@ -598,13 +598,13 @@ Because
 [00:39:18] Caller 8:  
 I mean, like, he, we're just going in there and stuff, and we have no real motive to be there. I mean, you know, there's no weapons.
 
-Art Bell:  
+[00:39:27] Art Bell:  
 Well, I don't know about that. We probably don't have the stated motive.
 
-Caller 8:  
+[00:39:31] Caller 8:  
 Well, yeah.
 
-Art Bell:  
+[00:39:31] Art Bell:  
 Those were the weapons of mass destruction, or his involvement in 9/11, or whatever. None of that seems to be panning out.
 
 [00:39:38] Caller 8:  
@@ -640,10 +640,10 @@ You're very welcome. Thank you for calling.
 [00:40:28] Caller 8:  
 Oh you're welcome.
 
-Art Bell:  
+[00:40:29] Art Bell:  
 Right. Take care. First time caller line, you're on the air. Hello.
 
-Caller 9:  
+[00:40:34] Caller 9:  
 Hello, Mr. Bell. Hi, I'm calling out of KONA six ten out of Kennewick. Enjoy your show. Been listening for about oh, about three or four months now.
 
 [00:40:41] Art Bell:  
@@ -714,7 +714,7 @@ Thanks very much, Art.
 [00:51:01] Art Bell:  
 Do you carry a now that it's published? Do you carry a copy of this book around just in case you get on a train and run into a couple like that?
 
-Dean Radin:  
+[00:51:09] Dean Radin:  
 Now, I don't. But after listening to you read the preface, I think what I should do is have you read the entire book, and then I'll have an audio version that I can give to people.
 
 [00:51:20] Art Bell:  
@@ -775,7 +775,7 @@ Yes.
 [00:56:09] Dean Radin:  
 And the reason is that we get painted by a very broad brush. So if you have somebody who is making wild claims that brush is going to drip over on us, and then a skeptic will look at us and assume that what I'm saying, for example, or what I've written in my book, is more new age silliness, and the consequence is that they simply won't pay any attention to it.
 
-Art Bell:  
+[00:56:34] Art Bell:  
 Sure,
 
 [00:56:34] Dean Radin:  
@@ -1034,7 +1034,7 @@ And then yes, I'm looking at it, thinking to myself, "Oh my goodness."
 [01:14:52] Art Bell:  
 Mm-hmm.
 
-Dean Radin:  
+[01:14:52] Dean Radin:  
 And the people around me are getting all excited, and they said, "Push it all the way over." I figure, well, okay, why not? And before I did that, I looked at my fingers because I wanted to see whether or not I was applying force.
 
 [01:15:03] Art Bell:  
@@ -1102,13 +1102,13 @@ Right?
 [01:18:04] Art Bell:  
 And so now we should back up for the sake of the audience a little bit. Let's start out with the Global Consciousness Project itself. Not everybody in this audience even understands what that is. Could you explain it?
 
-Dean Radin:  
+[01:18:17] Dean Radin:  
 Okay. And by the way, that this is a nice segue because in the Global Consciousness Project, we use electronic random number generators. We're trying to change the distribution of random numbers coming out of these devices. We detect the effects through statistics. So we're dealing with.
 
-Art Bell:  
+[01:18:37] Art Bell:  
 By the way, are you still using computers, Dean, or are computers still being used?
 
-Dean Radin:  
+[01:18:41] Dean Radin:  
 Oh yeah, yeah, yeah. The- we now have seventy sites, basically every country around the world.
 
 [01:18:48] Art Bell:  
@@ -1155,7 +1155,7 @@ All right, so these eggs are scattered all over the U.S., all over the world, an
 [01:20:37] Dean Radin:  
 That's the hypothesis.
 
-Art Bell:  
+[01:20:38] Art Bell:  
 Huh.
 
 [01:20:39] Dean Radin:  
@@ -1232,10 +1232,10 @@ Now, which leads us-we probably won't make it because of the time right now. But
 [01:25:11] Art Bell:  
 To questions of time, actually.
 
-Dean Radin:  
+[01:25:13] Dean Radin:  
 Right.
 
-Art Bell:  
+[01:25:13] Art Bell:  
 Yes.
 
 [01:25:13] Dean Radin:  
@@ -1247,7 +1247,7 @@ All right.
 [01:25:17] Dean Radin:  
 About 9/11.
 
-Art Bell:  
+[01:25:17] Art Bell:  
 All right. Stay right there. My guest is Dean Radin, and to some degree, we are violating the sanctity of the experiment going on at Princeton by even talking about this, but it is indeed very momentous, and I feel like you all should know about it. And it's all wrapped around oh some of those early experiments that I did that I don't mess with anymore, for I think very good cause. From the high desert in the middle of the night, I'm Art Bell. Don't go anywhere.
 
 [01:27:08] Ross Mitchell:  
@@ -1303,13 +1303,13 @@ Oh.
 [01:31:29] Dean Radin:  
 That we're also testing, which obviously I can't talk about because, and obviously, people will be thinking about that. So let me just say that each of the tasks in this GotPsi site is a valid test, but there are other things happening which allow us to test.
 
-Art Bell:  
+[01:31:44] Art Bell:  
 There's more than meets the eye.
 
-Dean Radin:  
+[01:31:46] Dean Radin:  
 Yes, there always is.
 
-Art Bell:  
+[01:31:47] Art Bell:  
 Huh.
 
 [01:31:47] Dean Radin:  
@@ -1348,7 +1348,7 @@ It dropped dramatically, sixteen days. I mean, you know, normally with the kind 
 [01:33:27] Art Bell:  
 No, no, no, no. What I'm asking here is the entire period of observation. How long has this been going on now? Have you ever seen anything like it before? I'm trying to get a sense.
 
-Dean Radin:  
+[01:33:37] Dean Radin:  
 Ah, so it's gone thirteen hundred days since August 2000. No, there is there is no other time of such a dramatic drop, and in fact, there's a way to statistically test how often would you see something like this by chance, and we've applied that test to this, and the odds are five thousand to one of seeing this sort of drop in this three and a half year data.
 
 [01:34:01] Art Bell:  
@@ -1375,7 +1375,7 @@ All right. So we have this drastic drop in and around 9/11. What do you suppose 
 [01:34:42] Dean Radin:  
 Well, my speculation is that, and by the way, around 9/11, many people after the fact were reporting that they had bad feelings, they had premonitions, they didn't feel well that day, all those kinds of things.
 
-Art Bell:  
+[01:34:59] Art Bell:  
 Yes.
 
 [01:35:00] Dean Radin:  
@@ -1423,7 +1423,7 @@ It may be.
 [01:37:34] Dean Radin:  
 So the next question is, can we tell where something is about to unfold? And so that I don't know the answer to that yet.
 
-Art Bell:  
+[01:37:42] Art Bell:  
 Do you think that the geographic diversity of these eggs, for example, would help in the geographic? Would there be? Would there be a larger? Well, maybe I've got a better way of asking it. If you look back at the data prior to 9/11 that did spike, do you find that in the northeast part of the country, in geographic proximity to the area where it actually happened, New York City, for example, you got higher-intensity deviations from the norm?
 
 [01:38:21] Dean Radin:  
@@ -1644,7 +1644,7 @@ In Brazil, in Amsterdam, where the laws are different.
 [01:53:34] Art Bell:  
 Huh.
 
-Dean Radin:  
+[01:53:34] Dean Radin:  
 Drugs like ayahuasca are being used, and drugs like psilocybin.
 
 [01:53:38] Art Bell:  
@@ -1695,10 +1695,10 @@ Yes.
 [01:56:32] Dean Radin:  
 The other possibility is that the future, in fact, is determined.
 
-Art Bell:  
+[01:56:35] Art Bell:  
 Yes.
 
-Dean Radin:  
+[01:56:36] Dean Radin:  
 But precognition is not all that good. In which case, we only get a vague sense of what the future is going to be. In both cases, it will look as though we're dealing with probable futures instead of absolute futures. Either precognition isn't very good. In which case, you might get a really good vision, but it's not really not as good as you think it is. Or the future really is not determined yet, and you're looking at one, perhaps of multiple possible worlds. My own bias here, of course, is I think like many people, I prefer to think that we have free will.
 
 [01:57:09] Art Bell:  
@@ -1714,7 +1714,7 @@ So I went back over to the window. I looked out the window. Everything was fine,
 
 You know, but I wonder, Dean, could I have yelled at that guy who was going down the sidewalk if it ever happened again like that and say, "Hey, buddy, drive carefully," or something?
 
-Dean Radin:  
+[01:58:54] Dean Radin:  
 I don't know. Your precognition just wasn't complete. What you got was something's going to happen to your car,
 
 [01:59:00] Art Bell:  
@@ -1729,7 +1729,7 @@ That's right.
 [01:59:04] Dean Radin:  
 Because if you had the additional information, maybe you could have intervened. But since you didn't,
 
-Art Bell:  
+[01:59:09] Art Bell:  
 Maybe,
 
 [01:59:09] Dean Radin:  
@@ -1768,10 +1768,10 @@ Or the weather. Yeah.
 [02:00:52] Art Bell:  
 Now, one of those reckless little experiments I played with about three or four times and had eerie, hair-raising success with was predicting rain. That is, trying to cause rain by mass thought in areas where there was no forecast for rain and it was desperately needed, and we did it. We absolutely did it. To hear, like an hour after you conduct an experiment, that cloud vapor began to form, Dean, and that rain began to fall in an area where it just not million billion years should have begin begun to fall, that a low pressure system suddenly developed and boom you've got rain. That totally freaked me out when we did those experiments, Dean. And I never, at that time, even thought about unintended consequences.
 
-Dean Radin:  
+[02:01:48] Dean Radin:  
 Right.
 
-Art Bell:  
+[02:01:48] Art Bell:  
 But the weather would be a system like the ones you're describing, wouldn't it?
 
 [02:01:52] Dean Radin:  
@@ -1795,7 +1795,7 @@ Well, you mentioned yourself. People don't like negative information, scary, cre
 [02:03:46] Dean Radin:  
 But they also don't want
 
-Art Bell:  
+[02:03:48] Art Bell:  
 The brain protects itself against that, right?
 
 [02:03:50] Dean Radin:  
@@ -1846,10 +1846,10 @@ No, we're simply looking at whether or not intention in the partner can be detec
 [02:06:37] Art Bell:  
 Yes,
 
-Dean Radin:  
+[02:06:39] Dean Radin:  
 And the answer is yes, it does have a demonstrable change.
 
-Art Bell:  
+[02:06:43] Art Bell:  
 How do you how do you measure that, Dean?
 
 [02:06:46] Dean Radin:  
@@ -1905,7 +1905,7 @@ Yes.
 [02:08:15] Dean Radin:  
 And the statistics are pretty strong. At this point, it's about one in a thousand odds. Odds of a thousand to one. What we're looking at is by chance.
 
-Art Bell:  
+[02:08:25] Art Bell:  
 It's pretty good. Oh, that's no, that's very good. All right, Dean, hold tight. Dean Radin is my guest. You're going to want to check out his book. I just know it. It's called The Conscious Universe. Amazon.com, of course, and through our website and his website connected to ours. Dean Radin, Ph.D., my guest, and I'm Art Bell. This is Coast to Coast AM.
 
 [02:09:44] Ross Mitchell:  
@@ -1941,10 +1941,10 @@ That's good to hear. Yeah.
 [02:13:38] Dean Radin:  
 In the old days, one of the things I would do was help to debrief defecting at the time Red Chinese scientists.
 
-Art Bell:  
+[02:13:47] Art Bell:  
 Right.
 
-Dean Radin:  
+[02:13:48] Dean Radin:  
 Right. And so we would get a sense of what they're up to, and it became very clear that they're not much beyond where we are. In fact, they're, if anything, behind where we are. So I'm not too nervous that somebody is way ahead, but I am nervous that there is research that's going on that, and within the United States at least, it is considered to be beneath contempt, which means that there that people who should be paying attention to this are probably not, and that means that other countries.
 
 Well, I mean, here's an example. In the United States today, the Institute of Noetic Sciences is one of less than a handful of scientific labs that is devoted to studying these things. By comparison, in Europe, we have probably about 20 universities in England and Scotland, Germany, France, primarily, also Portugal, where this stuff is being taught in universities. And there isn't a single university in the United States that is teaching students these topics.
@@ -1958,7 +1958,7 @@ No, I wouldn't say we're way ahead. I would say we're on par. But there's a diff
 [02:15:10] Art Bell:  
 Ah ha.
 
-Dean Radin:  
+[02:15:11] Dean Radin:  
 If you think a few generations down the line, that's where I start getting concerned. A few generations down the line, the United States will indeed be quite far behind, primarily because you have thousands of people graduating from college who only hear the mainstream story, which is well, there's nothing to worry about because there's none of it's really true.
 
 [02:15:34] Art Bell:  
@@ -2077,7 +2077,7 @@ Well, if they were doing that, there would be at the very least very close surve
 [02:22:21] Dean Radin:  
 Are you saying that am I have I become paranoid and
 
-Art Bell:  
+[02:22:24] Art Bell:  
 No, no, no, no, no, no, no. Paranoia would be perhaps a false fear of that.
 
 [02:22:29] Dean Radin:  
@@ -2157,13 +2157,13 @@ Unless it's true that intent can cut through that noise, can it?
 [02:28:07] Dean Radin:  
 Well, here's where amazing talent makes a difference. Some people have the talent to sort of push aside all of that noise from other people momentarily and get a really good image. But even the best, they can't do it all the time. And what's worse is they don't know why it doesn't work all the time. We're beginning to get hints, like the state of the geomagnetic field might make a difference.
 
-Art Bell:  
+[02:28:33] Art Bell:  
 Oh really?
 
-Dean Radin:  
+[02:28:34] Dean Radin:  
 Oh, yeah.
 
-Art Bell:  
+[02:28:35] Art Bell:  
 That's pretty interesting. The state of the geomagnetic field.
 
 [02:28:39] Dean Radin:  
@@ -2190,7 +2190,7 @@ Sure.
 [02:29:41] Art Bell:  
 So, is that a direct effect? Do you suppose?
 
-Dean Radin:  
+[02:29:44] Dean Radin:  
 Sure, it is. Yeah, the stormy geomagnetic day that your body absolutely is being pushed around by that storm.
 
 [02:29:53] Art Bell:  
@@ -2295,7 +2295,7 @@ I would think so. Yes.
 [02:38:10] Dean Radin:  
 And this is exactly what led me to expect that evolution has pushed us away from these skills, not towards them. So, any responsible person who is training for psychic ability had also better learn and train to make it stop, because otherwise you're almost guaranteed to turn people into psychotics.
 
-Art Bell:  
+[02:38:29] Art Bell:  
 That's another question I want to ask: Is there any, has there been any work or study done with people who are mentally disturbed?
 
 [02:38:43] Dean Radin:  
@@ -2466,7 +2466,7 @@ Yeah, I think I think it is not only going to happen. I think it's inevitable, a
 [02:48:20] Art Bell:  
 Oh yes.
 
-Dean Radin:  
+[02:48:21] Dean Radin:  
 Now should there be cloning and so on? There, all these questions will always arise whenever something new comes along, and I think it will happen at this stage as well.
 
 [02:48:29] Art Bell:  
@@ -2502,13 +2502,13 @@ And so we've done an experiment on seeing whether or not the gut is really assoc
 [02:50:02] Art Bell:  
 Well, people joke about that gut feeling. Is it? You're saying there might be something to it.
 
-Dean Radin:  
+[02:50:07] Dean Radin:  
 We used something called an electrogastrogram, which is a way of measuring the electrophysiology of the gut itself with electrodes over the stomach.
 
 [02:50:17] Art Bell:  
 Oh yes,
 
-Dean Radin:  
+[02:50:17] Dean Radin:  
 see if the stomach jumps around basically when a distant partner is experiencing emotions. And to make a long story short, the answer is yes. A highly significant effect that if your partner is at a distance and is experiencing emotions that we create in the lab, that your stomach is going to start churning. We can measure that.
 
 [02:50:41] Art Bell:  

@@ -88,10 +88,10 @@ Go.
 [00:10:37] Unknown Speaker 1:  
 7:30. I heard a horrendous noise of some sort, like something low going over the house, and I didn't know if a branch fell off, which kicked up a storm. And I ran out. It was crystal clear, dark sky with no clouds, or fog, or any haze.
 
-Peter Davenport:  
+[00:10:58] Peter Davenport:  
 Okay.
 
-Unknown Speaker 1:  
+[00:10:59] Unknown Speaker 1:  
 And the skies, the field, was bright stars. And I looked to the west, and heading was huge craft. Certainly not an airplane of any kind, because I'm a pilot and I would recognize this immediately. It was diamond-shaped, elongated diamond. It was black, but it had lights all around. But in the center, it had a circular, like a starburst, and it was continuous. And it had a deep, humming, roaring noise. It wasn't silent. It was heading directly west toward the Pacific. It was spectacular.
 
 I called my son out, and he saw it too.
@@ -162,7 +162,7 @@ Good. Some of them are very good. And our website address is `www.ufocenter` nin
 [00:14:37] Art Bell:  
 That should do it. Peter, thank you so much. I've got a couple of things I've got to squeeze in before the bottom of the hour.
 
-Peter Davenport:  
+[00:14:43] Peter Davenport:  
 I'll let you go, Art.
 
 [00:14:44] Art Bell:  
@@ -191,10 +191,10 @@ I guess it all gets underway next week. The one thing I'm unclear about, and may
 [00:22:32] Stephen Bassett:  
 Well, there's two issues there. One, will they televis it?
 
-Art Bell:  
+[00:22:35] Art Bell:  
 Yeah, yeah.
 
-Stephen Bassett:  
+[00:22:36] Stephen Bassett:  
 I'm sure that some of it will be televised, but there are some aspects of it, even by constitutional law, that cannot be. But more importantly, there's another basis for seeing it, namely this: that the Senate is filled with mostly men, as it happens, who I think they're a lot smarter and wiser than their House counterparts, and they don't have any plans, as far as I can see, to throw themselves on the bonfire that the House has built. So if you're out parking the car, you just might miss the conclusion to this one-year fiasco, because I think they're going to wrap it up pretty quickly.
 
 [00:23:12] Art Bell:  
@@ -281,10 +281,10 @@ But Stephen, you're you're dealing here. Let me be me with a secret that, if it 
 [00:32:09] Stephen Bassett:  
 Well, we talked about that in past shows, and I hope I can come back and really dig into this.
 
-Art Bell:  
+[00:32:14] Art Bell:  
 Well, it's important,
 
-Stephen Bassett:  
+[00:32:15] Stephen Bassett:  
 But essentially that's what they've been doing for 50 years: information management. All right, and it was a this is a the UFO issue is a subwing, a highly very concrete bunkered subwing of the secret empire, the larger intelligence infrastructure that we built up, and managing information, whether it be in this country or other countries or propaganda, E V O A, or whatever else they do, and they're very good at it, is what they have done for 50 years. The problem is is that the awareness level, the evidence, the number of people that are getting involved, media, television, high technology, you name it, has simply gotten so massive that they cannot cover all the holes. They can't plug up the holes in the dike, and they're simply running out of the ability to manage the issue. And while they may some may keep trying, they're losing ground, and as a result, disclosure will take place because they're not going to allow themselves to be completely backed into a force majeure.
 
 But let me add some very important point. Even if one made the case that it'll never happen through this political initiative, and somehow it's going to have to come in through the back door or never at all, I believe we must have a political initiative because if this business does at least commit the attempt, because if this business comes through a back door or through some sort of force majeure, it is going to be a very unpleasant experience for the American people. It is very disempowering to have that kind of thing crammed down your throat.
@@ -319,10 +319,10 @@ Yes, yes. But his speaking of his particular nose, he's going to want a legacy. 
 [00:36:18] Stephen Bassett:  
 Clinton may be the perfect president for this, and here's why. He is a liberal. He is much more of a populist president. Therefore, he's probably, in spite of some very disturbing directives that he signed during his presidency, which have kind of been bones thrown to the military-industrial complex, which is a whole nother show. But certainly, in terms of his major, his principal policies, he's been a populist. The people are on his side. He is certainly a president who potentially could help ensure that the people's interest in a, how would you say, pre-to-post paradigm transition would be well served, but at the same time, because he is very lame, disgraced, some would say, not too much of that being sort of the guy the right guy at the right time would I think accrue to the Democratic Party. The Republicans would probably still hold their own in the next election and not suddenly find that the balance has been way tipped to the Democratic side. So it's like a fair playing field for them. They could still have Clinton be the disclosure president, and yet have a decent chance to elect their own president in the year 2000. So and Clinton gets a legacy, everybody wins. So in a sense, I like the setup.
 
-Art Bell:  
+[00:37:29] Art Bell:  
 Right?
 
-Stephen Bassett:  
+[00:37:30] Stephen Bassett:  
 It's obviously pretty complicated setup. It's not like setting the table, but I think the time is right. I don't want to wait for the next election. There's too many things that could happen. You could see an entrenchment of the conservatives again. You could see, well, the continuumization of the militarization process as we're seeing. I think would be ill advised to wait. So I'm advising your audience to get on the stick, get on the fax, get on the email, on the phone. Let's start putting the pressure on the Congress now. Let's give Clinton his legacy.
 
 [00:37:57] Art Bell:  
@@ -450,18 +450,18 @@ The actual authenticity and pristine originality of the information in these doc
 [00:58:03] Art Bell:  
 We'll be right back.
 
-Ross Mitchell:  
+[00:58:10] Ross Mitchell:  
 Now again, here's Art.
 
-Art Bell:  
+[00:58:12] Art Bell:  
 Well, good morning to you. Welcome to Disclosure '99. That's what we'll call it. We have a variety of guests for you. Stephen Bassett is here. Joe Firmage is here, and in a moment we'll be joined by Dr. Steven Greer. Dr. Greer is an emergency room physician. He's the founder and international director of CSETI, the Center for the Study of Extraterrestrial Intelligence, and he's got some updates for us. And I've got a couple of questions. All of that's coming up next.
 
 All right, let's do a quick status check and see if we have all the electronics correct. Stephen Bassett.
 
-Stephen Bassett:  
+[00:59:15] Stephen Bassett:  
 Yes, indeed.
 
-Art Bell:  
+[00:59:16] Art Bell:  
 Joseph Firmage,
 
 [00:59:18] Joseph Firmage:  
@@ -470,10 +470,10 @@ Here.
 [00:59:19] Art Bell:  
 and Doctor Steven Greer.
 
-Steven Greer:  
+[00:59:21] Steven Greer:  
 Yes, hi Art, glad to be here.
 
-Art Bell:  
+[00:59:22] Art Bell:  
 So glad to have you back, Doctor. Two just quick questions from me, and they are number one: the news was racing across the net that CSETI, your organization, had been included in a list on ABC.com, an incredible list as a millennium cult.
 
 [00:59:43] Steven Greer:  
@@ -886,19 +886,19 @@ Science, whatever we would need. Greer is advert, you know, needs support, and h
 [01:53:13] Richard C. Hoagland:  
 Yeah. But remember, Peter. Remember one of your CAUS Updates warned against waiting for the savior.
 
-Peter Gersten:  
+[01:53:19] Peter Gersten:  
 Yeah, right.
 
-Richard C. Hoagland:  
+[01:53:20] Richard C. Hoagland:  
 Let's not fasten on Joe Firmage, the mark of the savior. To me, the democratization, organizing a lot of people to move in the direction of disclosure, unveiling, or finding the truth, is much more important than putting the hopes on any one individual. Because one individual is a single point failure, and if the other side sees him as too much of a threat, maybe things will happen to that that person.
 
 [01:53:46] Stephen Bassett:  
 And maybe we'll have, I think, some more people joining this. There are a lot of people out there, really close to the edge, that almost have the will, the courage to move forward. I think Joe is is going to make a statement here. You may have four or five more like that. So the funding for the Greer-type projects, the priming, that one part, one hull of this two-hulled boat may very well turn up. The beauty of the other hull, the political side, is it's remarkably cheap. Simple case in point. You know, you've got 15 million total listeners or 27 million total listeners on a long-term basis, Art.
 
-Art Bell:  
+[01:54:23] Art Bell:  
 Yes.
 
-Stephen Bassett:  
+[01:54:23] Stephen Bassett:  
 If two million of them were to simply go to the websites, download the either the email petition or the paper petition, and we got two million signatures to get, that would cost nothing. I mean, virtually cost nothing to collect those things. We could be putting together a news conference down here with two million signatures, and I guarantee you we would have the national press in front of us. That doesn't take any money. So it's kind of an interesting dynamic. We need both sides. One's really not that expensive. The other is expensive, but one can't go without the other. But I have great confidence that the money for the one side is going to be there, and the interest of the public, the will of the public, on the other, will be there.
 
 [01:54:58] Peter Gersten:  
@@ -931,10 +931,10 @@ And a happy New Year to you.
 [01:58:04] Art Bell:  
 Good night, Richard.
 
-Richard C. Hoagland:  
+[01:58:05] Richard C. Hoagland:  
 Yes, indeed. Good night.
 
-Art Bell:  
+[01:58:06] Art Bell:  
 All right, we'll take a break, and when we come back, we'll be joined by William J. Erjavec. I hope I've got that right. And of course, Peter Gersten remains with Stephen Bassett.
 
 Once again, here I am. You're hearing from many of the top names in ufology tonight in what we call Disclosure '99 and one of the names that I tossed out, James Erjavec, will be here, but he is not next. In fact, next and coming up in a moment is William J. Birnes. Bill is a new publisher of UFO magazine, co-author of The Day After Roswell with Colonel Philip Corso, which exploded onto the scene, and that's almost not a strong enough word. In early 1997, with allegations putting the alien craft hypothesis and government transfer of alien technology, he will join Peter Gersten and Stephen Bassett and myself in a moment. That's what's coming up next. As the old saying goes, don't touch that dial.
@@ -1116,10 +1116,10 @@ Good morning, Art.
 [02:19:26] Art Bell:  
 Steve, Bill.
 
-William J. Birnes:  
+[02:19:27] William J. Birnes:  
 Yes,
 
-Art Bell:  
+[02:19:28] Art Bell:  
 Welcome.
 
 [02:19:29] Stephen Bassett:  
@@ -1181,7 +1181,7 @@ What is it? It's a group of scientists. Most of us communicate mainly by email, 
 [02:24:55] Stephen Bassett:  
 Has not the case changed that this group is virtually entirely made up of mainstream scientists, engineers, and professionals?
 
-James Erjavec:  
+[02:25:00] James Erjavec:  
 Correct.
 
 It is many are you know from institutions, universities, and that you know working with industry and with the governments. Yeah, it is a very mainstream.
@@ -1189,7 +1189,7 @@ It is many are you know from institutions, universities, and that you know worki
 [02:25:10] Stephen Bassett:  
 Some of them have worked for NASA in the past.
 
-James Erjavec:  
+[02:25:12] James Erjavec:  
 Correct.
 
 That is correct.
@@ -1232,7 +1232,7 @@ Interesting. There are, you know, I've had information from my sources that that
 [02:33:00] James Erjavec:  
 Yeah, and I think in part we've helped them. All of us who have looked at Cydonia have helped NASA out. I think there's no question about that.
 
-Stephen Bassett:  
+[02:33:07] Stephen Bassett:  
 But still, it doesn't explain the paradox. This enormous reluctance, when in fact the agency would be showered with money. What is the source of this ambivalence and reluctance?
 
 [02:33:19] William J. Birnes:  
@@ -1277,16 +1277,16 @@ I think that there's a wonderful irony and metaphor here, and that is that we ha
 [02:38:32] Jim Marrs:  
 So who's been studying Erjavec?
 
-Art Bell:  
+[02:38:34] Art Bell:  
 What now?
 
-Jim Marrs:  
+[02:38:34] Jim Marrs:  
 Who's been studying Erjavec?
 
-Stephen Bassett:  
+[02:38:36] Stephen Bassett:  
 Exactly.
 
-Art Bell:  
+[02:38:37] Art Bell:  
 I thought that's what you were going to.
 
 [02:38:40] Stephen Bassett:  
@@ -1320,10 +1320,10 @@ Well, that was an ask though, and that really intrigued me because from what I k
 [02:41:14] James Erjavec:  
 The standard line is that comes from comets. That's the standard line. That's the standard line for how the oceans were formed on the Earth. Is that it was cometary water that was input to the Earth?
 
-Jim Marrs:  
+[02:41:24] Jim Marrs:  
 That's right.
 
-James Erjavec:  
+[02:41:25] James Erjavec:  
 I don't know if that's true or not, but that's the standard line on that.
 
 [02:41:28] Jim Marrs:  
@@ -1420,10 +1420,10 @@ James, this is Art. I'm, I'm curious. You have this collection of professionals.
 [02:53:01] James Erjavec:  
 You mean in going public, you know, making claims that we have found artificial structures or just,
 
-Art Bell:  
+[02:53:08] Art Bell:  
 Okay, yes,
 
-James Erjavec:  
+[02:53:09] James Erjavec:  
 It depends if we feel the evidence is there. I'm willing to step out and go public and say, I sure think we still have a strong case for it, and there's some very anomalous objects that cannot be explained geologically. I'm not going to say they are for certain yet, because as a geologist, it's tough to do those kind of things. You know, I'm willing to. I know there are a number of others who are willing to do those kinds of things and go public with it. It's, you know, I've had a number of interviews and talked with papers and things like that, as many of the other group members have. But then the interest all just went flat after that cat box image.
 
 [02:53:42] Jim Marrs:  
@@ -1507,10 +1507,10 @@ There was a sense that he was a brief president, and the implication of that tho
 [03:05:42] Jim Marrs:  
 Yeah, that they both need to work in concert for.
 
-Stephen Bassett:  
+[03:05:45] Stephen Bassett:  
 Yeah, in that way,
 
-Jim Marrs:  
+[03:05:46] Jim Marrs:  
 Isn't that exactly what Corso was saying?
 
 [03:05:49] Stephen Bassett:  
@@ -1622,8 +1622,8 @@ Right.
 [03:16:34] Art Bell:  
 So things have changed, gentlemen. I'm afraid we are out of time. Jim, you've got Alien Agenda. It's a good overall look at the whole alien thing. People want to get hold of your book, Amazon.com. I'm sure and everywhere else. All right, folks, we're out of time. Thank you, Jim and Stephen Bassett. Thank you so much for all you have organized and good night.
 
-Stephen Bassett:  
+[03:16:57] Stephen Bassett:  
 Pleasure.
 
-Art Bell:  
+[03:16:58] Art Bell:  
 Good night, all.

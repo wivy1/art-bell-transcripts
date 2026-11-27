@@ -25,10 +25,10 @@ There is one quick call I want to pick up. West of the Rockies, you are on the a
 [00:04:24] Caller 1 (Dave):  
 Yeah, this Dave from Aurora, Colorado.
 
-Art Bell:  
+[00:04:25] Art Bell:  
 Hi, Dave. How are you?
 
-Caller 1 (Dave):  
+[00:04:26] Caller 1 (Dave):  
 I'm doing pretty good, Art. I love your program. I used to listen to you were in you were in the Top Union Plaza in Las Vegas.
 
 [00:04:33] Art Bell:  
@@ -55,7 +55,7 @@ Did you play? Yeah.
 [00:04:56] Caller 1 (Dave):  
 Yeah, yeah.
 
-Art Bell:  
+[00:04:57] Art Bell:  
 That's what we were playing 45s.
 
 [00:04:58] Caller 1 (Dave):  
@@ -126,13 +126,13 @@ Yes, he. A character is putting it mildly. Thank you. Yeah, sure. Yeah, Wolf. We
 
 All right, back now to to Rodger. Are you there, Rodger?
 
-Rodger Skinner:  
+[00:06:51] Rodger Skinner:  
 Still here and enjoying this evening immensely.
 
-Art Bell:  
+[00:06:54] Art Bell:  
 All right, excellent. Anyway, listen, you have packaged all three of these possible things into one rulemaking, and there's a reason
 
-Rodger Skinner:  
+[00:07:03] Rodger Skinner:  
 Package. And the reason is they are all tied together. Let me start the little scenario here, if I may, for just a moment. Chairman, the new FCC chairman William Kennard is our first minority chairman. He is sensitive to minority ownership in broadcasting, which has decreased of late.
 
 [00:07:28] Art Bell:  
@@ -150,7 +150,7 @@ But you know that's a whole other story. Anyhow, we're looking at ways in my pro
 [00:08:12] Art Bell:  
 Well, that's an interesting tack to take, but actually, you're fighting the current wave because the current wave is that to give preference to minorities, women, blah blah blah blah, is in itself discrimination. That's the current wave.
 
-Rodger Skinner:  
+[00:08:30] Rodger Skinner:  
 Well, I've created in my proposal a way that they can own a radio station for less than the price of a new car. They won't need minority preferences as in the past that ran into some oh constitutional problems.
 
 Art Bell:  
@@ -165,13 +165,13 @@ Now, you cannot be coming at this without quite a bit of background in piracy. M
 [00:09:15] Rodger Skinner:  
 I am familiar with all that's going on. I've researched this topic for years. I started out myself. You know, a lot of us broadcasters did with a little pirate station in the basement. It launched a 35 year career for me.
 
-Art Bell:  
+[00:09:28] Art Bell:  
 Are you in broadcasting now?
 
-Rodger Skinner:  
+[00:09:30] Rodger Skinner:  
 Yes, I own a low power television station here in Fort Lauderdale that is going to be knocked off the air because it's a secondary service, and that's another thing I'd like to bring into this discussion. There are many needs here that we're talking about and trying to serve with this petition, the so-called hobby broadcasters or pirate radio operators that we've been talking about tonight. Yes, a lot of these have something to say. A lot of these are worthwhile and can serve their community and have been.
 
-Art Bell:  
+[00:09:59] Art Bell:  
 Even if it's nothing but a bark between records, that's a little you know.
 
 [00:10:04] Rodger Skinner:  
@@ -180,7 +180,7 @@ Well, no, no, see, you can't really.
 [00:10:06] Art Bell:  
 I mean, if somebody wants to bark between records, I mean, fine.
 
-Rodger Skinner:  
+[00:10:08] Rodger Skinner:  
 I don't have to be open. In my petition, I don't say what you have to broadcast. I don't say that you have to be non-commercial or that you have to be commercial. But what I'm saying is, give you an example. I sunk my life savings into this television station here, this low-power TV station.
 
 [00:10:23] Art Bell:  
@@ -189,10 +189,10 @@ Yeah.
 [00:10:23] Rodger Skinner:  
 It was a secondary service. Well, back in 1980, when I applied for the license, the only way I could get bumped would be if a existing TV station were to move from one tower to another, and I became short spaced.
 
-Art Bell:  
+[00:10:37] Art Bell:  
 Right,
 
-Rodger Skinner:  
+[00:10:37] Rodger Skinner:  
 It was very unlikely, and I was willing to take that risk.
 
 [00:10:39] Art Bell:  
@@ -207,16 +207,16 @@ Now you know what? I'm not even sure that's constitutional. I know they're doing
 [00:11:24] Rodger Skinner:  
 But I mean-that's a long story. It's a little bit off topic, but yeah, the point that I'm trying to make.
 
-Art Bell:  
+[00:11:29] Art Bell:  
 Well, it is and it isn't because more people who are now not in broadcasting could be in broadcasting, and instead they're giving this to existing licensees.
 
-Rodger Skinner:  
+[00:11:39] Rodger Skinner:  
 Correct. I filed a petition for reconsideration, as did about 200 other people. They were all thrown out, and they said, "This is what we're doing." And I mean, you know, we could discuss that if you want.
 
-Art Bell:  
+[00:11:50] Art Bell:  
 No, no, no, that's right. That would take us down another road.
 
-Rodger Skinner:  
+[00:11:53] Rodger Skinner:  
 That's a whole other thing. But secondary services, I mentioned. I'm proposing that the micro broadcasters, the pirate broadcasters, the guy that wants the bark in between records-I can't expect a full-power FM station in the market, fifty or a hundred thousand watts, if they decide they need to move their antenna site, and all of a sudden, bark radio is in the way.
 
 [00:12:16] Art Bell:  
@@ -231,10 +231,10 @@ All right. Well, the FCC did quickly snap up your proposed rulemaking, and they'
 [00:13:13] Rodger Skinner:  
 They're accepting comments until April 27th at the FCC. I should point out that I have a website that has the entire petition if people want to read it.
 
-Art Bell:  
+[00:13:24] Art Bell:  
 All right.
 
-Rodger Skinner:  
+[00:13:24] Rodger Skinner:  
 And I found out that your website has a link to my website.
 
 [00:13:29] Art Bell:  
@@ -253,10 +253,10 @@ Do you?
 [00:14:31] Rodger Skinner:  
 That's folly. That's pure folly.
 
-Art Bell:  
+[00:14:33] Art Bell:  
 I agree.
 
-Rodger Skinner:  
+[00:14:33] Rodger Skinner:  
 That's like saying, Art, let's take away the stop signs and the red lights on the highways.
 
 [00:14:38] Art Bell:  
@@ -268,7 +268,7 @@ Yeah, I've been arguing with some of them. They're discussing, I should say, on 
 [00:15:29] Art Bell:  
 Well, you take my little area of the I live in a place called Pahrump, and it's a valley. It's a big valley, actually about twice the size of Las Vegas, and while there are FM signals in here, frankly, the FM dial is pretty empty, and I mean empty. But because there are regulations that talk about radio stations that are somewhere in California, perhaps in LA or in Las Vegas or way out there somewhere, the dial must essentially remain empty, and it's just like a vast wasteland. There's so much open space here. It's a pirate's dream.
 
-Rodger Skinner:  
+[00:16:11] Rodger Skinner:  
 Well, there are. This will open up probably several frequencies in each market that could be used for low power FM, and I'd like to revisit that power issue we talked about for just a moment.
 
 [00:16:23] Art Bell:  
@@ -277,19 +277,19 @@ Okay.
 [00:16:23] Rodger Skinner:  
 A lot of people go three kilowatts and they cringe, you know.
 
-Art Bell:  
+[00:16:27] Art Bell:  
 Well, only because look, I know and you know, how commercial broadcasters are going to react to that. Oh, come on!
 
-Rodger Skinner:  
+[00:16:33] Rodger Skinner:  
 But I, but I hasten to add, a lot of the frequencies won't hold three kilowatts. We're proposing that as a purely as a maximum. For instance, I did a study on a channel down here in the Fort Lauderdale area that I'm interested in. It won't hold three kilowatts. It will hold 900 watts. Now that'll give me about 10 to 11 miles.
 
-Art Bell:  
+[00:16:53] Art Bell:  
 Right.
 
-Rodger Skinner:  
+[00:16:53] Rodger Skinner:  
 So there's no present class of license that would embrace that.
 
-Art Bell:  
+[00:16:57] Art Bell:  
 No.
 
 So it remains an empty, unoccupied frequency for that distance.
@@ -303,28 +303,28 @@ Okay.
 [00:17:13] Rodger Skinner:  
 You would have to protect 96.3, and then three channels up 96.5, 96.7, 96.9.
 
-Art Bell:  
+[00:17:22] Art Bell:  
 Right,
 
-Rodger Skinner:  
+[00:17:22] Rodger Skinner:  
 and three channels down the other way. Well, under my proposal, due to the fact that these rules were created thirty forty years ago, receiver designs have improved with sawtooth filters, etc., to where the second and third adjacent channel restrictions today are superfluous.
 
-Art Bell:  
+[00:17:40] Art Bell:  
 You're correct; they're not needed. Yes, you're right,
 
-Rodger Skinner:  
+[00:17:43] Rodger Skinner:  
 And this was proven as I point out in my petition. I took the time to do my homework, and I quoted from the short space grandfathered FM station proceeding of a couple years ago, whereby one engineering firm after another stated the same thing that that these rules are superfluous. In fact, you've had hundreds of full power stations operating for years nationwide on second and third adjacent channels that are currently taboo to a new station.
 
 [00:18:14] Art Bell:  
 All right, listen. We're running out of time. I want to ask you about something here, and it is the following: Have you considered the possibility of setting aside a certain portion of the spectrum, perhaps adjacent to the present FM band, or somewhere else in the VHF range, where you would allow people to put on broadcast stations, virtual anarchy, put on what you want, do what you want, in this spectrum only, and then begin to offer radios to people that would receive it. I mean, that is another possibility. Had you thought of that?
 
-Rodger Skinner:  
+[00:18:54] Rodger Skinner:  
 That that's been talked about. I don't give it much hope because I think what's important here is people need to be able to hear it.
 
-Art Bell:  
+[00:19:03] Art Bell:  
 Well, it's true, but I mean,
 
-Rodger Skinner:  
+[00:19:05] Rodger Skinner:  
 Also people aren't going to buy radio. The manufacturers aren't going to make special radios.
 
 [00:19:10] Art Bell:  
@@ -348,13 +348,13 @@ Well, are we really going to put them out of business? Are the big hundred thous
 [00:19:45] Art Bell:  
 Well, I've been around too long. I don't think so either. But do you? Have you seen advertising?
 
-Rodger Skinner:  
+[00:19:51] Rodger Skinner:  
 But yes.
 
-Art Bell:  
+[00:19:51] Art Bell:  
 But okay. But but you asked a question, and no, you're not going to put them out of business. But are they going to fight it tooth and nail? You're damn right they are.
 
-Rodger Skinner:  
+[00:20:01] Rodger Skinner:  
 Well, there's a lot of people, you know, are going to fight it. There's a lot of people that want it. Chairman Kennard wants it. Some of the other commissioners, I understand, want it.
 
 [00:20:12] Art Bell:  
@@ -384,10 +384,10 @@ I'm doing okay, sir.
 
 Where are you?
 
-Caller 2 (Gene):  
+[00:21:25] Caller 2 (Gene):  
 Gene calling from Hawaii.
 
-Art Bell:  
+[00:21:27] Art Bell:  
 Hawaii, yes, sir.
 
 [00:21:28] Caller 2 (Gene):  
@@ -467,10 +467,10 @@ Well, see, you got licenses to risk. You know, they'll yank that sucker in a sec
 [00:24:25] Caller 2 (Gene):  
 Right, not amateur, not amateur radio operations. I think.
 
-Art Bell:  
+[00:24:29] Art Bell:  
 Oh, even amateur radio.
 
-Caller 2 (Gene):  
+[00:24:30] Caller 2 (Gene):  
 Quick question.
 
 [00:24:31] Art Bell:  
@@ -568,10 +568,10 @@ And we run a low watt station down here. It's only five watts, but we put out pr
 [00:29:05] Art Bell:  
 I would think now. I'm. How many watts?
 
-Caller 3:  
+[00:29:08] Caller 3:  
 Five.
 
-Art Bell:  
+[00:29:08] Art Bell:  
 Five. Five. I would think from the FCC's point of view, they would be less inclined. I wonder if they'd be more or less inclined to go after somebody who's broadcasting just outside the FM band, say, just below it, or just above it, versus somebody in the present FM band.
 
 [00:29:26] Caller 3:  
@@ -641,16 +641,16 @@ Yes, John.
 [00:31:05] Caller 4 (John):  
 Okay. Mainly, I want to talk about ham TV.
 
-Art Bell:  
+[00:31:08] Art Bell:  
 Okay.
 
 [00:31:09] Caller 4 (John):  
 And first, I will say that I, my voice is a little hoarse. I've been fighting a cold. Years back, when I was a kid, or probably 1958 or so, you know, I fooled around with little AM transmitters. And I remember when I used crystal radios. I living in an apartment, there wasn't much room to put up a wire or something. So I remember hooking it up to the telephone to the finger stop on the phone.
 
-Art Bell:  
+[00:31:32] Art Bell:  
 Oh, that's right. That's right. It acts as an antenna.
 
-Caller 4 (John):  
+[00:31:35] Caller 4 (John):  
 Right. So when I built my first little, probably two three watt transmitter, I got the same idea. Well, why not try that? And I found out that I could go and trace the wires underground for miles, or at least two miles, probably something like that. You'd find spots you couldn't hear it, and then closer you held the radio to the ground, you would be able to hear. You know, I was playing music and stuff like that.
 
 [00:31:58] Art Bell:  
@@ -659,22 +659,22 @@ Well, that's underground lines. Now it's really effective in above ground.
 [00:32:04] Caller 4 (John):  
 Yeah, some of those lines, no doubt, are going we're going into people's homes also.
 
-Art Bell:  
+[00:32:08] Art Bell:  
 Oh, absolutely.
 
-Caller 4 (John):  
+[00:32:09] Caller 4 (John):  
 So it was probably radiating all. I never did check to see, you know, how great it was working.
 
-Art Bell:  
+[00:32:14] Art Bell:  
 Drives the phone company nuts.
 
-Caller 4 (John):  
+[00:32:15] Caller 4 (John):  
 It. I am assuming it did. You know. Tonight you're talking about Lafayette Radio. You're talking Heathkit. I worked for both of them. You remember? You remember the Lafayette that he was talking about? Phonographs.
 
-Art Bell:  
+[00:32:26] Art Bell:  
 Yeah. Yeah. Yeah.
 
-Caller 4 (John):  
+[00:32:26] Caller 4 (John):  
 I used to work for him as a technician.
 
 [00:32:28] Art Bell:  
@@ -683,16 +683,16 @@ Did you really?
 [00:32:29] Caller 4 (John):  
 And I worked for Heath as a technician. There was another case where you know we worked for Heathkit as a technician. You had to be good. I think you can imagine that because you can imagine what kind of stuff would come in that wouldn't work because it was wired wrong. But not only would it not be
 
-Art Bell:  
+[00:32:46] Art Bell:  
 That must have been a really frustrating job.
 
-Caller 4 (John):  
+[00:32:48] Caller 4 (John):  
 It was. But one thing that I learned after working I worked for Lafayette for many years and then I worked for Heath and I was all stumbling on one thing and one of the other technicians says to me, "Hey, don't rely on the band on the diode being on the right end.
 
-Art Bell:  
+[00:33:05] Art Bell:  
 No, you check it with an ohm meter.
 
-Caller 4 (John):  
+[00:33:07] Caller 4 (John):  
 Yeah, but you don't pay attention. You're looking for front to back.
 
 [00:33:10] Art Bell:  
@@ -707,34 +707,34 @@ No.
 [00:33:15] Caller 4 (John):  
 But now some of these guys wanted to be hams, but what stopped them was the fact that they couldn't do the code. Well, I was lucky. It always it came very easily to me. Some people it doesn't like. Some people can play musical instruments. Some people
 
-Art Bell:  
+[00:33:31] Art Bell:  
 That's right.
 
-Caller 4 (John):  
+[00:33:31] Caller 4 (John):  
 But anyway, aside from that, let me tell you, ham television. Now, some people, if you live in a big city, especially, you may want to look for channel sixty on your TV in the cable position.
 
-Art Bell:  
+[00:33:45] Art Bell:  
 Yep.
 
-Caller 4 (John):  
+[00:33:45] Caller 4 (John):  
 In the CATV,
 
-Art Bell:  
+[00:33:47] Art Bell:  
 Yeah,
 
-Caller 4 (John):  
+[00:33:47] Caller 4 (John):  
 and you're likely in a big city to pick up ham television,
 
-Art Bell:  
+[00:33:51] Art Bell:  
 Yeah. Now that's licensed,
 
-Caller 4 (John):  
+[00:33:53] Caller 4 (John):  
 Oh yes. But let me tell you a story that happened that I did way back. I was transmitting in Long Island, in New York City, in Queens, actually, back oh probably 1965, something like that. I ran about 500 watts.
 
-Art Bell:  
+[00:34:08] Art Bell:  
 Oh my God!
 
-Caller 4 (John):  
+[00:34:09] Caller 4 (John):  
 On 439.25, which is would be channel 60 on you know cable in the ham band,
 
 [00:34:14] Art Bell:  
@@ -773,10 +773,10 @@ That's right.
 [00:35:47] Caller 4 (John):  
 The little transistor TV.
 
-Art Bell:  
+[00:35:48] Art Bell:  
 Sure.
 
-Caller 4 (John):  
+[00:35:48] Caller 4 (John):  
 Put it in her lap. Pull up this antenna that looked like a measuring tape, and turn it on, and there he is. And my friend is working on his mouth with a pair of pliers.
 
 [00:35:59] Art Bell:  
@@ -849,10 +849,10 @@ So no, it's a trade off. Look, AM is wonderful. I love it. There's nothing like 
 [00:40:05] Caller 5 (Hurricane Frank):  
 Yeah, and one other thing, I just want to say. I remember listening to you when I used to live up in Sacramento. Talk 650 KSTE. There was a morning disc jockey show. I mean, talk show that you were on.
 
-Art Bell:  
+[00:40:18] Art Bell:  
 That's right.
 
-Caller 5 (Hurricane Frank):  
+[00:40:18] Caller 5 (Hurricane Frank):  
 You were interviewed.
 
 [00:40:19] Art Bell:  
@@ -901,10 +901,10 @@ Oh yes,
 [00:44:25] Caller 6 (John):  
 And oh, probably seventy miles from Sacramento, we couldn't pick up you from San Francisco or Sacramento.
 
-Art Bell:  
+[00:44:33] Art Bell:  
 Right,
 
-Caller 6 (John):  
+[00:44:34] Caller 6 (John):  
 You know, it was when the Hayleys call was out - the best I ever saw it. And we finally got you on the BayGen, and it was from Four Corners. I think it's thirteen two. Came in clear as the bells. Yeah, you just never know.
 
 [00:44:47] Art Bell:  
@@ -924,10 +924,10 @@ Hello, Art. This is Sluggo from Richmond, California.
 [00:46:35] Art Bell:  
 Sluggo.
 
-Caller 7 (Sluggo):  
+[00:46:37] Caller 7 (Sluggo):  
 Yes, Sluggo.
 
-Art Bell:  
+[00:46:39] Art Bell:  
 Sluggo. That's an interesting name.
 
 [00:46:42] Caller 7 (Sluggo):  
@@ -942,10 +942,10 @@ That Steve Schiff had died.
 [00:46:55] Art Bell:  
 Our congressman. Yes, I have heard that.
 
-Caller 7 (Sluggo):  
+[00:46:57] Caller 7 (Sluggo):  
 Oh, okay.
 
-Art Bell:  
+[00:46:57] Art Bell:  
 Yes, he passed away. I'm sorry to say, he had a very aggressive form of cancer, and we knew that was coming. Yes. So another sad death.
 
 [00:47:08] Caller 7 (Sluggo):  
@@ -960,7 +960,7 @@ Yes.
 [00:47:16] Art Bell:  
 And there's been a lot of problem in the UFO community.
 
-Caller 7 (Sluggo):  
+[00:47:21] Caller 7 (Sluggo):  
 Yes, there has.
 
 Well, thank you. I just wanted to make sure that you.
@@ -977,16 +977,16 @@ Yes, sir.
 [00:47:54] Caller 8 (Ed):  
 This is Ed from Pacoima, California.
 
-Art Bell:  
+[00:47:56] Art Bell:  
 Hi, Ed.
 
-Caller 8 (Ed):  
+[00:47:57] Caller 8 (Ed):  
 I just had a couple.
 
-Art Bell:  
+[00:47:58] Art Bell:  
 Okay, turn your radio off.
 
-Caller 8 (Ed):  
+[00:47:59] Caller 8 (Ed):  
 I had it off.
 
 [00:48:00] Art Bell:  
@@ -994,7 +994,7 @@ Number one.
 
 There we go. Thank you.
 
-Caller 8 (Ed):  
+[00:48:03] Caller 8 (Ed):  
 I thought I had an interesting thing. I'm a musician for years, and I lived in Casper, Wyoming, for a long time. And we were playing for a lawn party back in the early '50s. And in between songs, we could hear talking. Couldn't figure where it was coming from, and all of a sudden, it was coming from my amplifier.
 
 [00:48:20] Art Bell:  
@@ -1006,7 +1006,7 @@ And it was the signing of the Japanese peace treaty in San Francisco. And I just
 [00:48:35] Art Bell:  
 This was when?
 
-Caller 8 (Ed):  
+[00:48:37] Caller 8 (Ed):  
 Back in the early '50s, probably '51, '52, somewhere in there.
 
 [00:48:42] Art Bell:  
@@ -1057,10 +1057,10 @@ Yes, sir.
 [00:51:42] Caller 9 (Johnny):  
 I had a couple of things I wanted to relay to you that led into last night's guest, Dannion.
 
-Art Bell:  
+[00:51:50] Art Bell:  
 Yes,
 
-Caller 9 (Johnny):  
+[00:51:50] Caller 9 (Johnny):  
 And both these things are kind of verifiable. I would say you're familiar with Edgar Mitchell.
 
 [00:51:57] Art Bell:  
@@ -1069,10 +1069,10 @@ Ah, I've interviewed Edgar many times.
 [00:51:59] Caller 9 (Johnny):  
 Yeah, and after his flight, you know, where he had his spiritual experience at Apollo 14.
 
-Art Bell:  
+[00:52:05] Art Bell:  
 Yeah,
 
-Caller 9 (Johnny):  
+[00:52:06] Caller 9 (Johnny):  
 He became involved in, I think, one of the sponsors of a outfit called Institute for Noetic Sciences.
 
 [00:52:14] Art Bell:  
@@ -1081,22 +1081,22 @@ Yes,
 [00:52:14] Caller 9 (Johnny):  
 in Berkeley.
 
-Art Bell:  
+[00:52:15] Art Bell:  
 That's correct.
 
-Caller 9 (Johnny):  
+[00:52:15] Caller 9 (Johnny):  
 And one of the, I guess, the offshoot you might say, was a program on that aired on PBS is called Thinking Aloud. I don't know if you ever saw it or not.
 
-Art Bell:  
+[00:52:27] Art Bell:  
 Okay, where are we going here?
 
-Caller 9 (Johnny):  
+[00:52:28] Caller 9 (Johnny):  
 Okay, well, what I wanted to get around to you was there was a guest on this show, and usually the people who were came to the institute became guests on this show. This guy was an anthropologist or an archaeologist, and he said that you know they have a game that they play at the Society of Archaeology, and it's worldwide. Like, and if you come up with something that doesn't go along with the program, well, you have to suppress it. And he said there was over a hundred sites worldwide that they had found, not he himself, but people, different people had that had proof of civilized societies that went back 30 to hundred million years,
 
-Art Bell:  
+[00:53:16] Art Bell:  
 Sure.
 
-Caller 9 (Johnny):  
+[00:53:17] Caller 9 (Johnny):  
 And one of them was this tunnel they dug through the mountains when they were putting the railroad from east to west.
 
 [00:53:21] Art Bell:  
@@ -1114,7 +1114,7 @@ First time caller line, you're on the air.
 
 Hi.
 
-Caller 10 (Travis):  
+[00:55:06] Caller 10 (Travis):  
 Hey, Art Bell. This is Travis from Ohio.
 
 [00:55:08] Art Bell:  
@@ -1141,7 +1141,7 @@ No, I hadn't heard that.
 [00:55:42] Caller 10 (Travis):  
 Yeah, that.
 
-Art Bell:  
+[00:55:43] Art Bell:  
 I I can imagine a lot of effects of El Niño, but I cannot imagine it actually lengthening the day. In what's lengthening the day? In what sense? You mean more sunlight?
 
 [00:55:54] Caller 10 (Travis):  
@@ -1153,7 +1153,7 @@ Well, no, I'm sorry. I wish I could help you out, but I don't. I can't. No, I ca
 [00:56:30] Caller 11 (Super Dave):  
 Hello, Art. Super Dave Anchorage, Alaska.
 
-Art Bell:  
+[00:56:32] Art Bell:  
 Hello, Super Dave.
 
 How are you doing?
@@ -1191,10 +1191,10 @@ What the hell's the matter with those people? It should be talk shows. It should
 [00:57:54] Caller 11 (Super Dave):  
 We actually have a couple different channels that are like that, and they broadcast assembly meetings. You know, local city assembly meetings.
 
-Art Bell:  
+[00:58:01] Art Bell:  
 That's great.
 
-Caller 11 (Super Dave):  
+[00:58:01] Caller 11 (Super Dave):  
 Other ones that broadcast advertising. If you want to pay some fee, you can actually advertise, and it's just like a scrolling, you know, you know, scrolling photos that keep changing, and actually have you know real estate that you can just view right there on the cable. But the public access.
 
 [00:58:18] Art Bell:  
@@ -1217,10 +1217,10 @@ Yes.
 [00:59:21] Caller 11 (Super Dave):  
 Little tiny town, really not that many people.
 
-Art Bell:  
+[00:59:23] Art Bell:  
 No,
 
-Caller 11 (Super Dave):  
+[00:59:24] Caller 11 (Super Dave):  
 You know it's kind of tucked in the mountains, so no radio stations really get back in there too well.
 
 [00:59:28] Art Bell:  
@@ -1229,10 +1229,10 @@ Right.
 [00:59:28] Caller 11 (Super Dave):  
 From Anchorage, so these guys decided to put together a little three-watt station.
 
-Art Bell:  
+[00:59:34] Art Bell:  
 Yep.
 
-Caller 11 (Super Dave):  
+[00:59:35] Caller 11 (Super Dave):  
 And I think they started at one and eventually bumped it up to three.
 
 [00:59:38] Art Bell:  
@@ -1277,10 +1277,10 @@ It's a hundred milliwatts.
 [01:00:41] Caller 11 (Super Dave):  
 I get a lot of those little catalogs out of the back of you know the Popular Communications and Popular Electronics magazines, you know, and you look at a lot of those little clandestine catalogs, and I get a bunch of them in the mail, and they were offering a 25 watt built ready to go
 
-Art Bell:  
+[01:00:56] Art Bell:  
 Oh yeah
 
-Caller 11 (Super Dave):  
+[01:00:57] Caller 11 (Super Dave):  
 tube station
 
 [01:00:58] Art Bell:  
@@ -1303,10 +1303,10 @@ East of the Rockies, you're on the air.
 [01:02:24] Caller 12 (Ken):  
 Hi. Hi, Art. I this Ken from Florida.
 
-Art Bell:  
+[01:02:28] Art Bell:  
 Yes, sir.
 
-Caller 12 (Ken):  
+[01:02:29] Caller 12 (Ken):  
 I assume that you support the Constitution of the United States. Do you?
 
 [01:02:32] Art Bell:  
@@ -1315,28 +1315,28 @@ I do.
 [01:02:34] Caller 12 (Ken):  
 And you note that in the Constitution of the United States, the authority of the national government into the affairs within a state is limited to the Commerce Clause.
 
-Art Bell:  
+[01:02:46] Art Bell:  
 Yeah, Tenth Amendment stuff.
 
-Caller 12 (Ken):  
+[01:02:48] Caller 12 (Ken):  
 Well, it's not tenth amendment.
 
-Art Bell:  
+[01:02:50] Art Bell:  
 Well, yes, sir. You're going to argue it using the tenth amendment.
 
 [01:02:54] Caller 12 (Ken):  
 The point is that the very act that the FCC is operating under only allows them to regulate interstate, not intrastate.
 
-Art Bell:  
+[01:03:06] Art Bell:  
 I know.
 
-Caller 12 (Ken):  
+[01:03:07] Caller 12 (Ken):  
 And it's time that we got our fingers out of our butts and stop the national government from doing all the illegal things. Just a real simple example, and I'm not arguing that we shouldn't debate by the concepts therein.
 
 [01:03:23] Art Bell:  
 Well, okay, let me stop you. Are you arguing that the Communications Act of 1934 is unconstitutional?
 
-Caller 12 (Ken):  
+[01:03:31] Caller 12 (Ken):  
 Well, if it says interstate, it's not unconstitutional. But the enforcement is unconstitutional when it comes in and acts upon things that don't go beyond the borders of the state.
 
 Now, just to give you an example, there's a case called Dyett versus Turner.
@@ -1347,25 +1347,25 @@ Yeah,
 [01:03:54] Caller 12 (Ken):  
 D Y E T T. It's 1968. I think it's 435 or 439 Pacific Second. It's out of Utah. It's the Supreme Court of Utah. In that case, they spend about 14, 15 pages going through the entire history of the 13th, 14th, and 15th Amendments.
 
-Art Bell:  
+[01:04:12] Art Bell:  
 Yes,
 
-Caller 12 (Ken):  
+[01:04:13] Caller 12 (Ken):  
 and show very clearly that according to any common sense and legal perception of the facts, they were never ratified. But it doesn't make any difference. Another case says it doesn't. The Supreme Court said-
 
-Art Bell:  
+[01:04:26] Art Bell:  
 Look, you live in America where if you really want to argue these fine legal points and maybe win, who knows? You can you can get an attorney, find an attorney or a team of them, and take this thing all the way up.
 
-Caller 12 (Ken):  
+[01:04:40] Caller 12 (Ken):  
 How about a little support from the talk radio hosts, Art?
 
 [01:04:44] Art Bell:  
 I give you all the support. I mean, argue all you want. That's what America's all about.
 
-Caller 12 (Ken):  
+[01:04:48] Caller 12 (Ken):  
 Then let's tell the FCC to shove it back into the district of criminals when it doesn't go beyond state borders.
 
-Art Bell:  
+[01:04:55] Art Bell:  
 Well, if you want to look, if you want to fight that fight, you go right ahead. I don't want to fight that fight because I happen to believe that without that regulation, we would, with regard to the FCC, we would live in a place where we couldn't understand anything, where commercial broadcasting is being clobbered, I'm not for that. I'm sorry, I'm not.
 
 [01:05:19] Caller 12 (Ken):  
@@ -1383,10 +1383,10 @@ Oh bull! I mean, look, lots of people fight fights that Art Bell doesn't fight,
 [01:05:43] Caller 12 (Ken):  
 Just like the income tax being illegally enforced. I mean, I don't want to get into the specific issues.
 
-Art Bell:  
+[01:05:50] Art Bell:  
 No.
 
-Caller 12 (Ken):  
+[01:05:51] Caller 12 (Ken):  
 I simply want to get in the context of when people allow it to happen.
 
 [01:05:56] Art Bell:  
@@ -1407,7 +1407,7 @@ But you're welcome to go fight that fight, but don't don't tell me what I that I
 [01:06:49] Caller 13:  
 Hi, I heard Brian.
 
-Art Bell:  
+[01:06:52] Art Bell:  
 I can barely hear you. You must have your phone on your chin.
 
 [01:06:55] Caller 13:  
@@ -1434,10 +1434,10 @@ But anyway, my question is, how could I get into doing this pirate radio?
 [01:07:20] Art Bell:  
 Yeah, I think that I have to refrain from giving you specific instructions because I really don't want to get in more trouble than I'm in already, but there are lots of. Are you? You're on the internet, right? You said you had a computer. Go to one of the search engines, Yahoo, whatever, and just enter pirate radio. And
 
-Caller 13:  
+[01:07:44] Caller 13:  
 Oh yeah, I've done that before. I got a couple of.
 
-Art Bell:  
+[01:07:45] Art Bell:  
 Well, you don't need me to tell you what to do. There, okay.
 
 Okay,
@@ -1445,16 +1445,16 @@ Okay,
 [01:07:49] Caller 13:  
 Enjoy your show a lot. Your web page is great.
 
-Art Bell:  
+[01:07:52] Art Bell:  
 Thank you. It is. It is very different. And those of you who would like, take a look. I think you'll enjoy it. `www.artbell.com`. West of the Rockies, you're on the air. Hi.
 
 [01:08:04] Caller 14 (Eric):  
 Hey Art.
 
-Art Bell:  
+[01:08:05] Art Bell:  
 Hey, yes.
 
-Caller 14 (Eric):  
+[01:08:06] Caller 14 (Eric):  
 Surprise! I got through.
 
 [01:08:07] Art Bell:  
@@ -1499,7 +1499,7 @@ Okay.
 [01:09:22] Caller 14 (Eric):  
 It turns out that I ran into a friend of mine up here. Him and his family know of an exact spot where they, I don't know, live or whatever it may be.
 
-Art Bell:  
+[01:09:32] Art Bell:  
 Oh.
 
 Caller 14 (Eric):  
@@ -1703,16 +1703,16 @@ Ah, University of Hawaii, a bachelor of science, political science degree. Unive
 [01:20:49] Pat Murphy:  
 Well, the association is, by the way, thanks for having me on.
 
-Art Bell:  
+[01:20:53] Art Bell:  
 Sure.
 
-Pat Murphy:  
+[01:20:54] Pat Murphy:  
 And after listening to my resume, I realize I can't hold a steady job. Ah.
 
-Art Bell:  
+[01:20:59] Art Bell:  
 Nobody in broadcasting does, Pat.
 
-Pat Murphy:  
+[01:21:03] Pat Murphy:  
 Right. The Association of Clandestine Radio Enthusiasts is a group of people who many of us have military backgrounds in communications, but we enjoy listening to pirates and people who seize the airwaves. It's not that we promote pirate radio, although the FCC is at times said we promote it. But then again, in my job as political analyst, I talk about politicians, which doesn't mean I necessarily promote crooked politicians either.
 
 [01:21:34] Art Bell:  
@@ -1735,10 +1735,10 @@ Sure, happy to be one of your affiliates, but God, don't use my name.
 [01:22:58] Pat Murphy:  
 It's funny. I find that the chief engineers of many radio stations are are quite sympathetic to the pirates because, for the most part, I have to admit, as a youngster, I had one of those nice little Lafayette, what they called a turntable amplifier.
 
-Art Bell:  
+[01:23:14] Art Bell:  
 That's right. I had one too,
 
-Pat Murphy:  
+[01:23:16] Pat Murphy:  
 And it was in this little aqua green case. And I put together a little radio station when I was in high school in my basement, and we broadcast to the neighborhood until we really got interested in girls, and then it was a weekend thing.
 
 [01:23:30] Art Bell:  
@@ -1753,13 +1753,13 @@ Yeah, I think there were some real serious ones down in Florida recently, weren'
 [01:23:54] Pat Murphy:  
 Oh well, there was one. In fact, it was Tampa's Party Pirate in Tampa, where they used SWAT team of U.S. marshals to go in, which certainly is overkill. The guy had a hundred watt station. Most of these stations are twenty watt.
 
-Art Bell:  
+[01:24:09] Art Bell:  
 That's pretty good size. A hundred watts, what on FM?
 
-Pat Murphy:  
+[01:24:12] Pat Murphy:  
 On FM.
 
-Art Bell:  
+[01:24:13] Art Bell:  
 Oh, that's pretty serious.
 
 [01:24:14] Pat Murphy:  
@@ -1774,13 +1774,13 @@ Yeah,
 [01:24:20] Art Bell:  
 They probably are going to be real concerned about somebody doing pirate broadcasting. Was it like a twenty four hour operation?
 
-Pat Murphy:  
+[01:24:28] Pat Murphy:  
 Yes, it was. Yeah, see, most of these guys getting busted are doing twenty four hours around the clock, and but they've got a lot of people involved. If they're doing something that the local commercial broadcasters have long ago abandoned, and that is that they get the community involved in the station. They're talking about local people. We've gotten with the consolidation in commercial broadcasting, and with consultants who have mediocratized everything in broadcasting. Everything's at the lowest common denominator. They take chances. They do interesting radio, and the big chains don't do that anymore because they have one national program director who says, "Well, I'll do it this way."
 
-Art Bell:  
+[01:25:09] Art Bell:  
 I know,
 
-Pat Murphy:  
+[01:25:10] Pat Murphy:  
 And that's the end of any creativity. So I think they are filling a gap in that respect. But I'm wondering because I know that Bill Kennard of the FCC is is interested in this. He's opened the door for the Mass Media Bureau to accept petitions. There's at least four petitions in front of the FCC now to open up some form of low power broadcasting, but I do wonder that if they do legitimize this, how many of these people that are pirates now will in fact get a license?
 
 [01:25:43] Art Bell:  
@@ -1818,7 +1818,7 @@ Now, there's there's other aspects. We're talking about the micro power FM broad
 [01:28:32] Art Bell:  
 That's well. There's some things I can't talk about. It can be done. Believe me, it can be done using channel single channel modulators and line amplifiers. And
 
-Pat Murphy:  
+[01:28:48] Pat Murphy:  
 You're just being up on a hill someplace. There's nothing else.
 
 [01:28:50] Art Bell:  
@@ -1842,10 +1842,10 @@ That's right.
 [01:30:08] Art Bell:  
 All right. If somebody came along with a big signal, not twenty thousand watts, but big enough to be clobbering some of your coverage area with some sort of blasphemous pirate station, you'd really be [unclear: chicks].
 
-Pat Murphy:  
+[01:30:24] Pat Murphy:  
 Well, but I think that that the proper means of dealing with that would be what deal with it is a property right and go through a local court to actually counter that. I don't know that that the FCC is is serving the function that it was ever intended to do. I mean, they're getting into culture control, and I'm not a big Howard Stern fan. I do find him humorous at times.
 
-Art Bell:  
+[01:30:50] Art Bell:  
 Ah, Howard's funny,
 
 Pat Murphy:  
@@ -1857,10 +1857,10 @@ I don't think he paid the fines.
 [01:31:08] Pat Murphy:  
 Actually, they fined the station.
 
-Art Bell:  
+[01:31:10] Art Bell:  
 Yeah,
 
-Pat Murphy:  
+[01:31:10] Pat Murphy:  
 You finally paid the fine.
 
 [01:31:12] Art Bell:  
@@ -1886,7 +1886,7 @@ Oh, no kidding.
 
 Has he stopped saying the words?
 
-Pat Murphy:  
+[01:31:23] Pat Murphy:  
 Not that I know of, and nor should he. I just don't think it's the government's fine. In fact, Congress will make no law bridging the right to freedom of speech. If you don't like it, don't listen to it.
 
 [01:31:34] Art Bell:  
@@ -1895,10 +1895,10 @@ Yeah, I really generally agree with that. I don't use that language on the air, 
 [01:31:40] Pat Murphy:  
 But that's your free choice.
 
-Art Bell:  
+[01:31:41] Art Bell:  
 Exactly.
 
-Pat Murphy:  
+[01:31:42] Pat Murphy:  
 Yeah.
 
 [01:31:43] Art Bell:  
@@ -1971,16 +1971,16 @@ So then, on what basis did they knock his door down and come rushing in?
 [01:34:43] Pat Murphy:  
 They had more guns and more people.
 
-Art Bell:  
+[01:34:45] Art Bell:  
 Yeah, I know, but they had to have some kind of legal paper in their hand, right?
 
-Pat Murphy:  
+[01:34:49] Pat Murphy:  
 And and if you look at the search warrant, I did see the search warrant which they did have.
 
-Art Bell:  
+[01:34:54] Art Bell:  
 Okay.
 
-Pat Murphy:  
+[01:34:54] Pat Murphy:  
 In my reading of the search warrant, it was more of a general search warrant, which is forbidden by the Constitution, than it was stating specifically, you know, what kind of transmitter other than just radio operating equipment.
 
 [01:35:09] Art Bell:  
@@ -2047,10 +2047,10 @@ True.
 [01:38:19] Pat Murphy:  
 The problem now is with the consolidation, and here in Norfolk is a good example. We had a fellow that had one local talk station, and it was a pretty good talk station. And he decided to buy another station. In fact, he ended up buying four stations. He couldn't run them, and as a result, he ended up putting satellite programming on all four of the stations. All four of the stations have dropped in ratings.
 
-Art Bell:  
+[01:38:43] Art Bell:  
 Right.
 
-Pat Murphy:  
+[01:38:43] Pat Murphy:  
 That's where the problem is: is when an operator thinks that they're going to operate four stations at the same overhead that they operate one station. So I would have to disagree that you're taking jobs away from anyone because all across America right now there are board operators sitting there who are hitting the commercial times and are listening, and they have a job.
 
 [01:39:03] Art Bell:  
@@ -2113,10 +2113,10 @@ Oh, absolutely.
 
 I think I think to tell these people, yes, you can broadcast, but you can't generate the revenue for overhead is is nonsense. It truly is nonsense. And to tell them, well, you can do it as a nonprofit. We know all the all the PBS and I call them the pleading broadcasting system stations are all tied into tax dollars, and not to mention the fact that they have to beg every five minutes for money to keep big brother. He's going on.
 
-Art Bell:  
+[01:42:32] Art Bell:  
 Yeah, I know.
 
-Pat Murphy:  
+[01:42:32] Pat Murphy:  
 And I don't think these guys with the low power want to do that. I do think you have to give them the ability to raise revenue, but I don't think they're going to step on the toes of the bigger stations because the mom and pops can't afford to buy those big rates as it is. I just, to me, it seems like it's a win-win situation. I do think, however, that at some point, if they can't make money, that you're going to see them start to either disappear or they'll go back to the pirate ways.
 
 [01:43:01] Art Bell:  
@@ -2142,16 +2142,16 @@ The competition would occur two levels. One level would be in the ratings, and I
 
 So off we went, and I built. I was always the engineer for these things, mind you. So I built a little transmitter. We went on the air. Then I built a bigger transmitter, and I was running about fifty watts. But I had this gigantic antenna, full resonant antenna, for our frequency, 1610 on the AM dial. You know, way up at the top,
 
-Pat Murphy:  
+[01:45:45] Pat Murphy:  
 Sure,
 
-Art Bell:  
+[01:45:46] Art Bell:  
 clear frequency at that time, and we went on the air, and we were on the air twenty-four hours a day, seven days a week for one year, playing oldies. Everybody on Amarillo Air Force Base listened, most everybody. Now we were about forty miles, thirty-five, forty miles at least, from the city of Amarillo, that a town, city of about oh, I don't know, one hundred and fifty thousand.
 
-Pat Murphy:  
+[01:46:11] Pat Murphy:  
 Sure.
 
-Art Bell:  
+[01:46:13] Art Bell:  
 Unfortunately, my efforts at building a better transmitter and antenna, which I constantly worked on, were working, and we had a signal in Amarillo. Now, Arbitron rates radio, and one terrible day, the Arbitron ratings came out for Amarillo, and our little pirate station KMED, we called it K Medical Squadron and KMED, showed up in the Arbitron ratings.
 
 Well, just about every commercial broadcast station called the commanding general of Amarillo Air Force Base and said, "What the hell are you guys doing out there?" About ten minutes later, we were standing in front of the general, preparing to have our heads lopped off. And needless to say, that day we went off the air. But because we were on a federal, in a federal area, I guess it didn't go any farther. They shut it down. That was it. But for a year, boy, did we have fun. Yeah, we really had fun. Now,
@@ -2267,7 +2267,7 @@ One to fifty.
 [01:51:35] Pat Murphy:  
 Fifty watts.
 
-Art Bell:  
+[01:51:35] Art Bell:  
 Oh no, even fifty watts will cover a small town in the Midwest.
 
 Yes, sir. And and you want to allow commercial presentation?
@@ -2275,28 +2275,28 @@ Yes, sir. And and you want to allow commercial presentation?
 [01:51:44] Pat Murphy:  
 Now, this is just me speaking. I'm not speaking on behalf of any anyone other than just my opinion about this. But I don't think you can ask someone, or especially if you're going to ask them to put a licensed station on, they're going to have to get type accepted equipment, which I think is going to discourage a lot of people as well. But if you're going to ask them to put this on with overhead, where they've got to pay not only electricity but maybe even pay for people, I just don't see how you can do it without raising revenue through selling commercials.
 
-Art Bell:  
+[01:52:14] Art Bell:  
 Yeah, are you going to allow this without license?
 
-Pat Murphy:  
+[01:52:18] Pat Murphy:  
 I think I think in order to make it, you're asking the guy who's the president of the Association, Clintus.
 
-Art Bell:  
+[01:52:25] Art Bell:  
 That's right. I am.
 
 Pat Murphy:  
 Now, if it was licensed, I wouldn't listen to it.
 
-Art Bell:  
+[01:52:29] Art Bell:  
 So, if it was licensed, you wouldn't listen. All right, so obviously your proposal would be without license.
 
 [01:52:36] Pat Murphy:  
 No, I think you have to have it licensed to make it. You have to have it licensed.
 
-Art Bell:  
+[01:52:39] Art Bell:  
 Sure.
 
-Pat Murphy:  
+[01:52:40] Pat Murphy:  
 Yeah, to make the low power work, you have to have it licensed.
 
 [01:52:44] Art Bell:  
@@ -2307,10 +2307,10 @@ And so, how are you going to get that one through?
 [01:53:03] Pat Murphy:  
 You know, the FCC manpower has been reduced drastically.
 
-Art Bell:  
+[01:53:08] Art Bell:  
 Right.
 
-Pat Murphy:  
+[01:53:08] Pat Murphy:  
 They've closed down field offices all over the country. I don't see how they could enforce it, even if they did license it. The rulemaking proposal is to license.
 
 [01:53:21] Art Bell:  
@@ -2388,10 +2388,10 @@ All right. Just before, I hope everybody has their paper and pencil. If not, go 
 
 When I was a lot younger, maybe twenty years ago, Pat, a friend of mine in the Bay Area and myself in the twelve to thirteen megahertz area used to talk to SAC bombers. B-52s, and you know what? They would talk back. They would talk briefly, but they would engage. I guess they were bored up there. You know that those were the days when B-52s would go out and fly, and they'd be up for twelve or thirteen hours or more and come back.
 
-Pat Murphy:  
+[01:57:18] Pat Murphy:  
 That's right.
 
-Art Bell:  
+[01:57:19] Art Bell:  
 And we talked to B-52s.
 
 [01:57:23] Pat Murphy:  
@@ -2412,10 +2412,10 @@ Well, we know they're still they're still there, pretty much on the same frequen
 [01:57:43] Art Bell:  
 Now I'm gonna I'm yeah. No, it's a backup. And anyway, then there's one other little story I'm going to tell. I have lived in the Las Vegas area now for about 15 years, and this was about 13 years ago.
 
-Pat Murphy:  
+[01:58:01] Pat Murphy:  
 Okay,
 
-Art Bell:  
+[01:58:02] Art Bell:  
 I lived in a residential neighborhood in Las Vegas. I and a friend of mine built the cable system in Las Vegas, which was at that time was Times Mirror, and we built all the cable amps and the microwave shots, carsban microwave shots, and so forth and so on. So anyway, I had access to a lot of equipment.
 
 And I took a single a channel seven modulator. A channel seven modulator, which was really designed for cable use, and took a line amplifier, cable line amplifier, a big one, and opened that sucker all the way up. Put a dipole up about twenty five feet, and went on the air on channel seven, full color and video, and we played movies, and we played movies and played movies, and you could see that sucker two miles away.
@@ -2427,10 +2427,10 @@ We we have nothing here, nothing. Well, we'd like to come out and take some phot
 [02:00:33] Pat Murphy:  
 But you did it because you enjoyed it.
 
-Art Bell:  
+[02:00:36] Art Bell:  
 I did it because it was more fun than you can possibly imagine.
 
-Pat Murphy:  
+[02:00:39] Pat Murphy:  
 Exactly. You didn't have a bean counter sitting there going, no, you know that that hole up there is costing us more than we can.
 
 [02:00:48] Art Bell:  
@@ -2439,10 +2439,10 @@ No, it's true, it's true. All right, listen. I promise to get your information o
 [02:01:01] Pat Murphy:  
 Very easy. In fact, we publish a bulletin. It's about 25 pages every month that reports on pirate, clandestine, covert, and other unexplained broadcasts on all the spectrum. And if you'll send me two first class stamps, I'll be happy to send you a copy of the bulletin. And in fact, just send it to the ACE. We call ourselves the ACE to shorten up instead of doing the Association of Clandestine Radio to an A C E.
 
-Art Bell:  
+[02:01:26] Art Bell:  
 I've got it.
 
-Pat Murphy:  
+[02:01:27] Pat Murphy:  
 PO Box 12112, Norfolk, Virginia, 23541. That's PO Box 12112, Norfolk, Virginia, 23541. Send me two first class stamps and I'll be happy to send you a copy of the bulletin.
 
 [02:01:45] Art Bell:  
@@ -2453,10 +2453,10 @@ Sure. Well, the very first part of our bulletin is called Dialogs, and it is a l
 
 Then we have a section. Pirates have a, I think maybe even a bad habit of what they call QSLing. Hams are familiar with the term. Where if you hear a pirate, you can write to them to a PO box.
 
-Art Bell:  
+[02:02:35] Art Bell:  
 Yes,
 
-Pat Murphy:  
+[02:02:36] Pat Murphy:  
 But it's a PO box that's run by what they call a drop operator who will forward that information. It's not illegal to run a drop box, but it's illegal to do the broadcast. So that's the way they get around that. And the pirate will send a QSL card to you.
 
 [02:02:51] Art Bell:  
@@ -2468,10 +2468,10 @@ Yes.
 [02:02:52] Art Bell:  
 Now, now everybody should know. In order to get a card like that back from a pirate, you will have to include some identif.
 
-Pat Murphy:  
+[02:03:01] Pat Murphy:  
 Well, yeah,
 
-Art Bell:  
+[02:03:02] Art Bell:  
 But some identifying words that were said or time of broadcast, that kind of thing.
 
 [02:03:08] Pat Murphy:  
@@ -2480,7 +2480,7 @@ Frequency, time, and then details of the broadcast. I've got one sitting on my w
 Art Bell:  
 All right,
 
-Pat Murphy:  
+[02:03:21] Pat Murphy:  
 These they're so creative, you can't help but giggle.
 
 [02:03:24] Art Bell:  
@@ -2497,7 +2497,7 @@ Yeah, and I don't understand that because it's probably the most innocuous of th
 [02:03:56] Pat Murphy:  
 All right, you got to think like a Fed, and the FM broadcasters are tied down to one location. There was a phenomenon I wrote about here about two years ago for one of the hobby magazines, where the pirates have come up with this little ten watt AM transmitter that they use on 6955 kilohertz.
 
-Art Bell:  
+[02:04:14] Art Bell:  
 All right, that's really an important frequency. That is the current popular pirate frequency, right?
 
 [02:04:19] Pat Murphy:  
@@ -2518,25 +2518,25 @@ These guys are being heard in Germany.
 Art Bell:  
 Yes, I know.
 
-Pat Murphy:  
+[02:04:39] Pat Murphy:  
 In South Africa,
 
-Art Bell:  
+[02:04:41] Art Bell:  
 And listen - the sunspot cycle is beginning to improve, and as it does, ten watts eventually could be heard worldwide on a fairly regular basis.
 
 [02:04:50] Pat Murphy:  
 When I did the article for Popular Communications on this, I went back to school pretty much and started looking into propagation and things. And ten watts will bounce three hundred miles on the first bounce.
 
-Art Bell:  
+[02:05:02] Art Bell:  
 Oh yes.
 
-Pat Murphy:  
+[02:05:03] Pat Murphy:  
 And you're right. If there's a sunspot or activity is up, it will bounce for a thousand miles.
 
-Art Bell:  
+[02:05:09] Art Bell:  
 That's right.
 
-Pat Murphy:  
+[02:05:09] Pat Murphy:  
 It's quite remarkable.
 
 [02:05:10] Art Bell:  
@@ -2547,10 +2547,10 @@ Listen, I've got someone on the line I want to bring in to the conversation. He 
 [02:05:48] Rodger Skinner:  
 Yes. Good morning, Art. How are you?
 
-Art Bell:  
+[02:05:50] Art Bell:  
 Good morning. Where are you, Rodger?
 
-Rodger Skinner:  
+[02:05:52] Rodger Skinner:  
 I'm in the Fort Lauderdale, Florida area.
 
 [02:05:54] Art Bell:  
@@ -2558,7 +2558,7 @@ Okay.
 
 And you have actually proposed rulemaking to the FCC?
 
-Rodger Skinner:  
+[02:06:00] Rodger Skinner:  
 That's right. I like like the other fellows talking tonight. I'm a former pirate. I have to admit, I think the statute of limitations has run out, like you said.
 
 [02:06:08] Art Bell:  
@@ -2567,33 +2567,33 @@ On, I hope so.
 [02:06:10] Rodger Skinner:  
 I got to tell you a real quick funny story. When I was about 16 years old, a friend and I built a little pirate station, and we were AM and FM, and we ended up on 24 hours a day, automated with an old Roberts reel-to-reel machine with big 10 and a half inch reels.
 
-Art Bell:  
+[02:06:27] Art Bell:  
 Oh yeah.
 
-Rodger Skinner:  
+[02:06:28] Rodger Skinner:  
 So we started giving out the phone number. My mother couldn't understand why the phone kept ringing and ringing and ringing.
 
 Art Bell:  
 Were you doing music?
 
-Rodger Skinner:  
+[02:06:37] Rodger Skinner:  
 Just yeah, we were top 40, you know, DJ types, and it's how it's what started my career in broadcasting. I've been in the broadcast business 35 years now, but I got a call from the local police station who said, you know, this is the police department, and I thought, oh my God, we're going to be busted, you know, you know.
 
 And all they wanted was to for us to play Jailhouse Rock by Elvis Presley.
 
-Art Bell:  
+[02:06:59] Art Bell:  
 Oh my!
 
-Rodger Skinner:  
+[02:07:03] Rodger Skinner:  
 Like you, we kept on each summer. We did it for about three summers. Each summer we got bigger and better and got out a little further. And by the third summer, a friend called from a local radio station. He says, Rodger, he says, you better shut down. I said, Why is that? He said, They want to know where these call letters came from that just showed up in the rating book.
 
-Art Bell:  
+[02:07:22] Art Bell:  
 Oh God, you did it too.
 
-Rodger Skinner:  
+[02:07:24] Rodger Skinner:  
 Yeah,
 
-Art Bell:  
+[02:07:25] Art Bell:  
 That's see, that's the danger. If if ratings are taken away from stations, there's going to be a fight. If income is taken away, there's going to be a war. So you have rulemaking. What is your rulemaking proposal, Rodger?
 
 [02:07:40] Rodger Skinner:  
@@ -2601,54 +2601,54 @@ Well, I've been studying this issue for years. I've been working on the rulemaki
 
 One is I want to see the mom and pops, the small station owners, be brought back into the broadcast business, local ownership. I'm talking about, and you talked earlier about the consolidation, be it good or bad. I'm not saying that we change that. I'm not saying that they should have to sell their stations. Let them keep what they have. They've consolidated it to the nth degree.
 
-Art Bell:  
+[02:08:44] Art Bell:  
 I understand.
 
 Look, I understand your complaint, but let's assume that you got your way and that small stations could be licensed and could even commercially broadcast. Okay, okay. Let's assume we get there.
 
-Rodger Skinner:  
+[02:08:58] Rodger Skinner:  
 I think it's essential that we have commercials. In other words, if someone wants to operate with volunteers who may or may not show up at a certain time and operate that type of station, that's fine, and they can operate non-commercial.
 
-Art Bell:  
+[02:09:12] Art Bell:  
 I understand. I look. So you want commercials?
 
-Rodger Skinner:  
+[02:09:15] Rodger Skinner:  
 We want commercials. We have to pay the overhead.
 
-Art Bell:  
+[02:09:17] Art Bell:  
 Fine.
 
-Rodger Skinner:  
+[02:09:18] Rodger Skinner:  
 I plan on applying for a station, and if I get it, I plan on being able to support my family with this station as my full time job.
 
-Art Bell:  
+[02:09:28] Art Bell:  
 That's a wonderful concept, but here comes the tough, hard to answer question. Let's say that the FCC allows such a thing, and low power commercial stations begin to pop up all over the place. Then let's say I'm a guy with money, and I come to you and a lot of other people, and I start buying your stations. Now, would there be some rule in this that would not allow you to sell the station so that the very consolidation that you're so concerned about now would not occur at your level?
 
-Rodger Skinner:  
+[02:09:59] Rodger Skinner:  
 Exactly. If if you read my petition, it's about 25 pages. In there, you'll see ownership restrictions that I have proposed as a starting point. I propose that anyone applying for a low power FM station must live within 50 miles of the station's proposed antenna site. I put 50 miles because I realize some people commute. You know, they live outside the town. They would also not be allowed to sell to anyone who also you know did not meet those local restrictions, so it would guarantee local ownership.
 
-Art Bell:  
+[02:10:38] Art Bell:  
 All right,
 
-Rodger Skinner:  
+[02:10:39] Rodger Skinner:  
 of the station, and I think would serve the public interest.
 
-Art Bell:  
+[02:10:42] Art Bell:  
 All right, I guess my show is crazy enough that I do some pretty crazy stuff. A lot of pirates run me. I know I can. I hear from these stations. I never heard of these stations, and eventually I hear from the operator, and they say, "Oh yeah, I'm running Art Bell." Would these stations be allowed to run syndicated programming?
 
 [02:11:04] Rodger Skinner:  
 Well, I propose three classes of stations. If we have the time, I'll break them down real quick.
 
-Art Bell:  
+[02:11:09] Art Bell:  
 Yeah, go.
 
-Rodger Skinner:  
+[02:11:10] Rodger Skinner:  
 Yeah, the first and the lowest class would be what I call an LPFM-3, this would be one to twenty watts for special events. That Pat was kind enough to mention before. If you've got a boating regatta, you've got a tennis match in town.
 
-Art Bell:  
+[02:11:25] Art Bell:  
 Sure,
 
-Rodger Skinner:  
+[02:11:25] Rodger Skinner:  
 want to operate for a few days, a little station. It would require that you have an engineering study just to show that you're not causing interference on the channel that you pick. It would be a ten day temporary permit. The NAB did that. They does that at their conventions in Las Vegas.
 
 [02:11:42] Art Bell:  
@@ -2657,22 +2657,22 @@ Now, how do you suppose they get authorized for that?
 [02:11:44] Rodger Skinner:  
 They're the NAB.
 
-Art Bell:  
+[02:11:45] Art Bell:  
 Well, man, I'm going to have to put a moat around my house. They're going to be out here next week.
 
-Rodger Skinner:  
+[02:11:51] Rodger Skinner:  
 I've spoken to the commission about that, and there is a real concern that there will be thousands upon thousands of requests for these special event stations, and more than likely, if this comes to pass, we'll have to set up some type of private organization to help coordinate these. To take, otherwise, the FCC would be buried in those types of applications.
 
-Art Bell:  
+[02:12:13] Art Bell:  
 That's right. That's right.
 
-Rodger Skinner:  
+[02:12:14] Rodger Skinner:  
 So, some type of industry organization, a volunteer organization that would help coordinate these to prevent interference, and I think that could be done.
 
-Art Bell:  
+[02:12:23] Art Bell:  
 All right.
 
-Rodger Skinner:  
+[02:12:23] Rodger Skinner:  
 The other class of station I call an LPFM-2, and this is my answer to the micro broadcaster that we've been talking about all evening.
 
 [02:12:33] Art Bell:  
@@ -2681,10 +2681,10 @@ Right.
 [02:12:33] Rodger Skinner:  
 These people, a lot want to operate non-commercial. Some want to have commercials. That's fine. We're proposing to give them from one up to fifty watts, and we're proposing to give them an antenna height up to 150 feet above average terrain. Now that would give them a coverage area of 3.6 miles to the one millivolt contour. That's the 60 dBu. That'd be out in even flat country. This is taken right from the FCC rule charts, the graphs that are part of the FCC rules.
 
-Art Bell:  
+[02:13:10] Art Bell:  
 All right, that would be a Class Two station.
 
-Rodger Skinner:  
+[02:13:12] Rodger Skinner:  
 That would be a Class Two. Now that would be a secondary service, as I proposed it.
 
 [02:13:17] Art Bell:  
@@ -2692,7 +2692,7 @@ All right, hold it right there, and we'll pick up at that point. We've got a bre
 
 All right, back now. First to Pat Murphy. Pat, I want to find out how long you can hang with us. I know you do a morning show.
 
-Pat Murphy:  
+[02:14:05] Pat Murphy:  
 I can hang on till about four o'clock. At that, sorry.
 
 [02:14:08] Art Bell:  
@@ -2707,28 +2707,28 @@ All right. Let's very very quickly then go back to Rodger and we were with your 
 [02:14:22] Rodger Skinner:  
 Yeah, the LPFM-2 as I call it, one watt to fifty watts with a hundred fifty feet maximum height above average terrain antenna. This would give you a one millivolt contour out to three point six miles, and that's taken from the FCC rules.
 
-Art Bell:  
+[02:14:37] Art Bell:  
 Okay,
 
-Rodger Skinner:  
+[02:14:37] Rodger Skinner:  
 the graphs, charts as they call them. Of course, the signal will go a little bit further than that, and I think a lot of a mistake a lot of pirates make is saying, well, you know, if I've got fifty watts, it'll go more than three point six miles, and it certainly will. But it lots of times won't be a good, strong, listenable signal, and we know from experience that a lot of people, if they start hearing a lot of static, fading, picket fencing, as it's called on FM, they're going to flip to another channel.
 
-Art Bell:  
+[02:15:04] Art Bell:  
 On the other hand, if you make your programming bizarre enough, they'll listen through the static, to some degree.
 
-Rodger Skinner:  
+[02:15:10] Rodger Skinner:  
 Yeah, yeah. But there's an old sage that somebody told me once when I first got in broadcasting: the three essential items: programming, engineering, and sales.
 
-Art Bell:  
+[02:15:22] Art Bell:  
 Yep.
 
-Rodger Skinner:  
+[02:15:22] Rodger Skinner:  
 And it's like a three legged stool. If any one of those falls down, you've got a problem.
 
-Art Bell:  
+[02:15:26] Art Bell:  
 It's true. All right, and your third class of license?
 
-Rodger Skinner:  
+[02:15:30] Rodger Skinner:  
 The third class, and the one that's that that the broadcasters are saying, wait a minute, like yourself, is the LPFM-1. This would be a primary service. By that I mean it can't be bumped. It would have to be protected by other full power, you know, broadcasters. This will be 50 watts up to three kilowatts, three thousand watts, and that's the old class A FM power level. The antenna height would be the same as the old class A, three hundred twenty-eight feet, which is a hundred meters. That would give you a maximum range of your one millivolt contour out to fifteen miles.
 
 Now, I'd like to point out that this power level was the old class A for standard FM broadcast stations. It was the lowest broadcast station there was on FM. It wasn't fifty thousand watts nor hundred thousand, but these folks, a lot of them, found that three kilowatts just wasn't cutting it. So they've gotten it raised to six thousand watts now.
@@ -2754,7 +2754,7 @@ Well, they're not separate proposals. They're all they're all in one proposal.
 Art Bell:  
 Oh.
 
-Rodger Skinner:  
+[02:16:59] Rodger Skinner:  
 They're basically saying there there are three areas here that need to be addressed, and the primary service that I'm talking about is is very important to bring the mom and pop broadcasters back into the business. These are people that may have been forced out because it's just gotten too expensive. People like myself who wanted to own their own radio station since they've been 16.
 
 I've got 35 years in the business. I don't want to have to move to Podunk, Idaho, where I might be able to afford a station. I live in South Florida. The FM stations here - if you could find one that you could buy that hasn't been bought up already - the going price is $50 million, which is a little more than I carry on me. You know, my air unit - it's just out of question. Even AM stations. Somebody said, "Why don't you buy an AM station, Rodger?" Well, even the lowest stations in the market with signal problems and so forth are going for $1.5 million, $2 million, $3 million.
@@ -2768,19 +2768,19 @@ Sure.
 [02:18:07] Art Bell:  
 All right. All right. All night guy. All right. Pat.
 
-Pat Murphy:  
+[02:18:10] Pat Murphy:  
 Yes.
 
-Art Bell:  
+[02:18:11] Art Bell:  
 What are your comments on Rodger's rulemaking?
 
 [02:18:15] Pat Murphy:  
 I got to tell you that the first thought that crosses my mind, and I'm sure you're familiar with the history of broadcasting, is back in the 1920s we started off with five, ten, twenty watt radio stations, and by the Second World War we've gotten up to 500 kilowatt WLW there in Cincinnati.
 
-Art Bell:  
+[02:18:32] Art Bell:  
 Sure.
 
-Pat Murphy:  
+[02:18:33] Pat Murphy:  
 And and it progressively gotten bigger and bigger until the bigness has now excluded the local broadcasters. We're now going full cycle back to the 10, 15, 20 watt stations to reach the local people. I don't think that the three kilowatt. Although you know the class A, he does have a good point. If it's considered a class A commercial, it may go through. It seems that from the top down at the FCC, because the new chairman Bill Kennard is in fact interested in establishing a low power radio service so that small business, churches, and community groups can use the airways to broadcast to their communities. Well, if it's from the top down, there's a good chance for it.
 
 [02:19:20] Art Bell:  
@@ -2792,19 +2792,19 @@ I would say that would be the sticking point.
 [02:19:26] Art Bell:  
 Yeah. So it's it's sort of a shame that he hasn't broken that up into separate rulemaking possibilities. Anyway, I'll ask him about that. I've got several questions for you that are very relevant. Number one, please ask your guest Art how much radiated power can you generate now without a license?
 
-Pat Murphy:  
+[02:19:45] Pat Murphy:  
 Hundred milliwatts.
 
 [02:19:47] Art Bell:  
 And the antenna?
 
-Pat Murphy:  
+[02:19:49] Pat Murphy:  
 Antenna has to be. You can't generate. I'm trying to do this from memory. I don't think you can generate even like a half a millivolts with the antenna. It's not antenna height. It's how much electricity actually comes out of the antenna itself. I would say I'm thinking of this Ramsey kit. That's 100 milliwatts.
 
-Art Bell:  
+[02:20:11] Art Bell:  
 Right.
 
-Pat Murphy:  
+[02:20:12] Pat Murphy:  
 The antenna would be much like you'd have on a scanner. It would screw into the top and would stick out of the top, and would be maybe all of two feet tall.
 
 [02:20:21] Art Bell:  
@@ -2831,7 +2831,7 @@ I'll tell you what I'll do. I'll I'll take a good clear shot of it, and I'll let
 [02:21:23] Pat Murphy:  
 I'm watching you on the internet.
 
-Art Bell:  
+[02:21:25] Art Bell:  
 Exactly.
 
 All right. Here we go. Is there any law against a clandestine radio operator broadcasting off a ship just outside the territorial limits? They have, of course, been doing that kind of thing in Europe for some time. That's from David in Toronto. So could you get it? Could you get a ship and go in the international waters?
@@ -2860,13 +2860,13 @@ Yes.
 [02:22:42] Art Bell:  
 So do I. He's in the Bay Area. Stephen is one of the original pirates in the world. He is still at this time broadcasting, and has been in a grip lock battle with the FCC now for years, and actually has won a couple of rounds, and they are not shutting Stephen down. How come?
 
-Pat Murphy:  
+[02:23:03] Pat Murphy:  
 Well, because Stephen has taken an interesting tack. He is, by the way, getting some pro bono work from a freedom of speech group out there, and I read Judge Wilken. He did find a sympathetic judge in San Francisco to rule on the case. Judge Wilken said that Dunifer is challenging the FCC not based on free speech, but that the regulations that require him to operate at such a high power limit and pay so much money to do this is is unconstitutional. Not that it violates his freedom of speech, but that the regulations themselves are unconstitutional. And Judge Wilken has upheld this and kept the FCC in an absolute tizzy.
 
-Art Bell:  
+[02:23:48] Art Bell:  
 Oh, they're really upset about this now. It's liable to go to a higher court, but the FCC so far hasn't busted Stephen because Stephen figures they're afraid to go to a higher court because they're afraid of what the ruling might be. Do you think there would be substance in that? Is that why they're leaving them alone?
 
-Pat Murphy:  
+[02:24:10] Pat Murphy:  
 Oh, absolutely. Because if you look again at the Communications Act of 1934, it talks about interstate, and Dunifer clearly is not going outside of the limits of California.
 
 [02:24:24] Art Bell:  
@@ -2881,16 +2881,16 @@ And so he broadcasts in Berkeley.
 [02:24:32] Pat Murphy:  
 Yes, and so he's not going outside of the state boundaries.
 
-Art Bell:  
+[02:24:36] Art Bell:  
 How long has he been on the air?
 
-Pat Murphy:  
+[02:24:37] Pat Murphy:  
 Oh my golly, at least three or four years now.
 
-Art Bell:  
+[02:24:41] Art Bell:  
 Three or four years,
 
-Pat Murphy:  
+[02:24:41] Pat Murphy:  
 And he's doing that at 100 watts.
 
 [02:24:43] Art Bell:  
@@ -2898,7 +2898,7 @@ At 100 watts.
 
 Yep. What do you think will come of this stalemate? I mean, are they going to wait for Stephen to die?
 
-Pat Murphy:  
+[02:24:56] Pat Murphy:  
 I think they're going to have to, since he has found a sympathetic ear with that federal judge in San Francisco, who has upheld all of the petitions that his attorneys have filed, saying that the FCC rules are unconstitutional. Either the FCC will have to modify their rules so that the judge will finally say yes, you have to shut down, or they're going to have to pass the low power FM petitions.
 
 One of them, as I said before, I think Skinner's proposal is probably the best. I do think that the three kilowatts is going to be the sticking point, but there are at least four different proposals right now for low power. I think the commission is going to have to pass something in order to deal with this and say, okay, we've we've addressed this problem of low power. Now, Mr. Dunifer, either comply or we're going to shut you down.
@@ -2935,10 +2935,10 @@ You mean that's the subject?
 [02:26:55] Pat Murphy:  
 That's it. That's the subject of it. There's a station called Happy Hanukkah, which talks only about Hanukkah, usually only hear that in December.
 
-Art Bell:  
+[02:27:03] Art Bell:  
 Oh no!
 
-Pat Murphy:  
+[02:27:04] Pat Murphy:  
 Station KOLD, which is an oldies kind of a station, a big band type thing. There's KNS Cannabis Radio, which is put on by the California Cooperative of Growers that talks about the wonders of marijuana.
 
 [02:27:20] Art Bell:  
@@ -2947,7 +2947,7 @@ Yes.
 [02:27:21] Pat Murphy:  
 There's Radio Free Speech, which talks strictly about government and the limitation of the right of free speech. And in fact, it was that station that took something that Rush did. Look up. I guess this guy has to have no life because he took what had to be hours and hours of Rush programs and sliced them up to say what they have Rush say. So instead
 
-Art Bell:  
+[02:27:42] Art Bell:  
 of instead of Rush saying what he normally says, Rush
 
 [02:27:45] Pat Murphy:  
@@ -2959,16 +2959,16 @@ Rush was doing the opposite.
 [02:27:48] Pat Murphy:  
 Yes,
 
-Art Bell:  
+[02:27:48] Art Bell:  
 That must have been a howl. Do you have any tapes of that?
 
-Pat Murphy:  
+[02:27:51] Pat Murphy:  
 Yeah, I'd be happy to send it to you.
 
-Art Bell:  
+[02:27:53] Art Bell:  
 Really?
 
-Pat Murphy:  
+[02:27:53] Pat Murphy:  
 Sure. I think you would chuckle beyond belief.
 
 [02:27:58] Art Bell:  
@@ -3001,16 +3001,16 @@ And so, in other words, you could go to this frequency 6955, and you might hear 
 [02:28:55] Pat Murphy:  
 And by the way, I've heard that I have a portable. I have I have a Sangean. I also have a Yacht Boy 400.
 
-Art Bell:  
+[02:29:01] Art Bell:  
 Right.
 
-Pat Murphy:  
+[02:29:01] Pat Murphy:  
 I listen on my Kenwood R-5000, which is it's my baby.
 
-Art Bell:  
+[02:29:05] Art Bell:  
 Oh yeah.
 
-Pat Murphy:  
+[02:29:06] Pat Murphy:  
 And I'll tell you, it is some of the most entertaining stuff that you will ever hear on the radio, and it reminds me of back in the '60s when there was a lot of creativity on AM radio that seems to have gone away, and I guess these guys all decided they'd become pirates and start doing these things on shortwave.
 
 [02:29:26] Art Bell:  
@@ -3031,16 +3031,16 @@ Yeah, you know, they said, "But, but your number was on the screen." I said, "Th
 [02:30:39] Pat Murphy:  
 I'll tell you another place you can listen for pirates and hear a lot right now is in what is called the expanded band, which is the new part of the AM band that's opening up between 1600 and 1700.
 
-Art Bell:  
+[02:30:49] Art Bell:  
 Yeah,
 
-Pat Murphy:  
+[02:30:50] Pat Murphy:  
 kilohertz. Still, a lot of pirates up in that area that are on 1680 has a pirate on called Dog Radio.
 
-Art Bell:  
+[02:30:58] Art Bell:  
 Dog Radio,
 
-Pat Murphy:  
+[02:30:59] Pat Murphy:  
 And he's been very active. Another pirate.
 
 [02:31:02] Art Bell:  
@@ -3061,7 +3061,7 @@ Oh my god!
 [02:31:18] Pat Murphy:  
 Now, now you'll see some of the consultants. I'm sure listen to this and probably come up with a way to format it.
 
-Art Bell:  
+[02:31:27] Art Bell:  
 Yeah, that's right. Well, look, our research shows only three barks between each record is.
 
 [02:31:33] Pat Murphy:  
@@ -3070,22 +3070,22 @@ Well,
 [02:31:36] Art Bell:  
 God, it sure has been fun having you on the air. I'm sorry you have to go do your own show.
 
-Pat Murphy:  
+[02:31:40] Pat Murphy:  
 I have to make a living to pay this mortgage and for my teenage daughters.
 
-Art Bell:  
+[02:31:43] Art Bell:  
 I understand.
 
-Pat Murphy:  
+[02:31:44] Pat Murphy:  
 It is. It's an interesting area that I think the FCC has got to deal with, and with this rulemaking. And you know, Rodger said that the FCC was very quick in accepting his rulemaking petition.
 
-Art Bell:  
+[02:31:57] Art Bell:  
 Oh yeah,
 
-Pat Murphy:  
+[02:31:57] Pat Murphy:  
 Well, I think that shows that they want to get this taken care of.
 
-Art Bell:  
+[02:32:01] Art Bell:  
 In accepting, I know, but that may mean they just want to deal with and get it the hell out of the way, as in forget it.
 
 [02:32:07] Pat Murphy:  
@@ -3115,16 +3115,16 @@ Oh, I, I didn't mean whether you were personally going to put on a pirate statio
 [02:33:17] Pat Murphy:  
 Well, no. In fact, we used to have a local FCC inspector here named J.J. Freeman, who is rather notorious for busting pirates. And and I was actually friends with Jerry because he used to say, "Look, you're encouraging these guys." And and as I said at the beginning of the program, I do political analysis, but that doesn't mean I encourage crooked politicians either. It just means that I'm watching, observing, and commenting on the phenomena.
 
-Art Bell:  
+[02:33:40] Art Bell:  
 Very good.
 
-Pat Murphy:  
+[02:33:41] Pat Murphy:  
 That's sort of a disclaimer.
 
-Art Bell:  
+[02:33:43] Art Bell:  
 Have a good show this morning, Pat.
 
-Pat Murphy:  
+[02:33:45] Pat Murphy:  
 Great, thanks. It's pleasure to be with you.
 
 [02:33:46] Art Bell:  

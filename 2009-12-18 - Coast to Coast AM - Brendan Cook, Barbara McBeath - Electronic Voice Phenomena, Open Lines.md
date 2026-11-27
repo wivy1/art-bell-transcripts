@@ -124,7 +124,7 @@ That's interesting. Chosen to stay. Chosen to stay. Brendan Cook and Barbara McB
 [00:27:53] Barbara McBeath:  
 Hello, Art.
 
-Brendan Cook:  
+[00:27:53] Brendan Cook:  
 Good morning, Art.
 
 [00:27:55] Art Bell:  
@@ -139,7 +139,7 @@ It's been a long time. I hear that you guys have been like making babies, procre
 [00:28:05] Barbara McBeath:  
 Some of us have. Some of us are too old.
 
-Art Bell:  
+[00:28:11] Art Bell:  
 Yeah. I also heard that this is going to be a little scary tonight.
 
 [00:28:20] Brendan Cook:  
@@ -157,10 +157,10 @@ You don't write books, though. I'm sure you will one day. You don't solicit mone
 [00:28:53] Brendan Cook:  
 No, and you know we have no reason whatsoever to defraud anybody. I mean, we have spent years and years doing this. I think this is our tenth year doing shows with you.
 
-Art Bell:  
+[00:29:05] Art Bell:  
 Yeah, I think it is.
 
-Brendan Cook:  
+[00:29:06] Brendan Cook:  
 I mean, we have never in that time taken one cent for anything we've done, and we've had offers, especially through your program, from publishers. You know, advertisements for our site, that kind of thing, and we've always turned them down.
 
 [00:29:21] Art Bell:  
@@ -222,7 +222,7 @@ Okay. All right. All right. Let's then. Let's get to it. Now they're going to be
 [00:35:18] Brendan Cook:  
 Oh yeah, yeah. The where the you know how the place looks, the history of the place, and also, I mean, the context of what was happening at the time the voice was recorded. I did hear at the beginning of the show you talking about anybody can do this. You can spend as much or as little money on it as you want, and that's ultimately why we've been doing this as long as we have to show people. If you don't believe it, just try it. I mean, it's not going to hurt you. Everybody has something in their house that can record some kind of sound.
 
-Art Bell:  
+[00:35:52] Art Bell:  
 Sure.
 
 [00:35:52] Brendan Cook:  
@@ -249,7 +249,7 @@ If there is any children here, please speak loud and clear so they may I may und
 [00:37:47] Unknown Speaker 3:  
 Mama, there's a man here. Mama, there's a man here. Mama, there's a man here.
 
-Art Bell:  
+[00:37:57] Art Bell:  
 Oh my God, I will be exiting your gravesite. Now that's from the person who took the EVP. But then you hear the EVP saying, "Mama doesn't want you here." Oh my God, the children. All right, one more time. Let's do cut one.
 
 [00:38:13] Unknown Speaker 2:  
@@ -270,7 +270,7 @@ Now another point. I don't hear the word "mama," and many times we don't agree o
 [00:39:22] Art Bell:  
 Really? I'm sorry, back there. I need cut one. One more time, please. I'm going to see what I hear. Cut one. Okay, hang in.
 
-Unknown Speaker 2:  
+[00:39:36] Unknown Speaker 2:  
 If there's any children here, please speak loud and clear so they may I may understand. I will be exiting your group site.
 
 [00:39:48] Art Bell:  
@@ -364,7 +364,7 @@ Okay, let's listen very closely to cut three.
 [00:45:09] Unknown Speaker 6:  
 Anybody want to talk to us?
 
-Unknown Speaker 7:  
+[00:45:17] Unknown Speaker 7:  
 Love me. Love me. Love me.
 
 [00:45:23] Art Bell:  
@@ -381,12 +381,12 @@ It doesn't sound like grandma. Yeah. Let's listen again. So once again, listen f
 [00:46:21] Unknown Speaker 6:  
 Anybody want to talk to us?
 
-Unknown Speaker 7:  
+[00:46:27] Unknown Speaker 7:  
 Love me.
 
 Love me, love me.
 
-Art Bell:  
+[00:46:36] Art Bell:  
 Well, maybe there still is some sort of Let me ask you in previous cuts, all the ones you've done in the past, is there any indication that there is still the what's right word? I don't know. Still, still the sensation of sexuality on the other side.
 
 [00:47:01] Brendan Cook:  
@@ -427,7 +427,7 @@ Well, I imagine that happens quite a bit.
 [00:48:53] Barbara McBeath:  
 Yes, it does.
 
-Art Bell:  
+[00:48:55] Art Bell:  
 Although I think probably most times people dismiss it and don't think of it as an EVP, just extraneous something or another. All right, cut four.
 
 [00:49:05] Unknown Speaker 8:  
@@ -460,7 +460,7 @@ Yeah, pretty much. That's pretty much what we do. I mean, ultimately, it is the 
 [00:51:18] Barbara McBeath:  
 Yeah, I mean, there's been times when five of us hear five different things.
 
-Art Bell:  
+[00:51:22] Art Bell:  
 Yeah, you know, it's just you know a lot of this is very, very troubling, and the children's voices are probably, of course, the most troubling of all. All right, this next one, where from?
 
 [00:51:35] Brendan Cook:  
@@ -477,10 +477,10 @@ Are you ready to go to bed?
 
 Tired. Tired. Talking to us.
 
-Art Bell:  
+[00:52:45] Art Bell:  
 Well, it may be the power of suggestion, but I can hear something about I feel real tired, or I something close to that. And it doesn't sound like a happy voice either.
 
-Brendan Cook:  
+[00:53:07] Brendan Cook:  
 No, that sounds like she's very strained, almost.
 
 [00:53:12] Art Bell:  
@@ -489,7 +489,7 @@ Yeah, you know the other side is supposed be, you know. I mean, the classic. You
 [00:53:47] Paulina:  
 Are you ready to go there? You're hired. Are you talking to us?
 
-Unknown Speaker 10:  
+[00:53:53] Unknown Speaker 10:  
 Follow you. Follow you. Follow you.
 
 [00:53:56] Art Bell:  
@@ -501,7 +501,7 @@ Why she's tired or something? I mean, just.
 [00:54:05] Art Bell:  
 Well, again, you can't help but leap to some conclusions about the other side. Now, if you're in spirit form, you ought not be all that tired, and probably don't sleep a lot because you're not in physical form anymore. So I don't.
 
-Barbara McBeath:  
+[00:54:21] Barbara McBeath:  
 They're troubling, aren't they?
 
 [00:54:23] Art Bell:  
@@ -519,10 +519,10 @@ Can you move the door?
 [00:54:51] Unknown Speaker 11:  
 It's not Charles. It's not Charles. It's not Charles.
 
-Art Bell:  
+[00:55:03] Art Bell:  
 Very clear and whispery. Very whispery.
 
-Brendan Cook:  
+[00:55:03] Brendan Cook:  
 Yeah, and again with the whispers, you're right.
 
 [00:55:05] Art Bell:  
@@ -630,22 +630,22 @@ You're inviting something in.
 [01:03:14] Art Bell:  
 Yeah, you're inviting something in. But as you, how does that differ if you see where I'm going from listening to these?
 
-Brendan Cook:  
+[01:03:20] Brendan Cook:  
 There's a big difference, Barbara and I differ because I look at a, you know, a Ouija board is really. I mean, I don't recommend people use it. I mean, if they want, they can. Barbara is dead set against it. I don't think it's, you know, I don't think there's anything to it. You're playing with a piece of wood. That to me, that's what it is.
 
-Barbara McBeath:  
+[01:03:41] Barbara McBeath:  
 You're not playing with a piece of wood. Okay. It's promoted as a game, and it's and it's not a game.
 
 [01:03:48] Art Bell:  
 Well, you know, it is in one sense just a piece of wood. But when you sit down and play with a Ouija board, you are in fact inviting entities in. If they exist, you're inviting them in.
 
-Barbara McBeath:  
+[01:04:01] Barbara McBeath:  
 That's right.
 
-Art Bell:  
+[01:04:02] Art Bell:  
 So when you listen to this kind of thing, how is that different from a Ouija board?
 
-Barbara McBeath:  
+[01:04:08] Barbara McBeath:  
 A ghost is a person who has lived and has had a body. They are haunting that location where you recorded their voice.
 
 [01:04:22] Art Bell:  
@@ -669,7 +669,7 @@ This was sent to us by the Historic Ghost Watch, and Ed says you're going to hea
 [01:04:56] Art Bell:  
 Talk to me longer. All right. Cut eight.
 
-Unknown Speaker 14:  
+[01:05:00] Unknown Speaker 14:  
 Flash.
 
 [01:05:02] Unknown Speaker 15:  
@@ -698,7 +698,7 @@ Yeah, yeah. This is, and it goes with a book that was written, I'd say, twenty f
 [01:06:04] Barbara McBeath:  
 Longer than that, it was.
 
-Brendan Cook:  
+[01:06:05] Brendan Cook:  
 Was it? Okay, it was called "Phone Calls from the Dead," and it went along with the same kind of EVP premise that you know, loved ones that passed on would call loved ones still living, trying to communicate. And this clip was sent to us. The man had said that there was no phone call that came in. Their answering machine just suddenly started recording, and you're going to hear on this clip the answering machine saying "Message Four," and then this kind of breathing noise, and then a man just says, "They're coming home."
 
 [01:06:41] Art Bell:  
@@ -725,7 +725,7 @@ I understand. All right, cut nine. One more time.
 [01:07:47] Unknown Speaker 16:  
 It's four. Wednesday, eight, twelve a.m.
 
-Art Bell:  
+[01:07:54] Art Bell:  
 Yeah, very clear. You know, in a lot of movies made about EVP, of course, the EVP for the purpose of a movie is never sufficient, and inevitably in the movies, the EVP turns into something much more tangible very quickly, and they're hopping out of phones or computers or something like that, and causing great discontent and trouble. Have you ever had any brush with anything that is like that?
 
 [01:08:40] Brendan Cook:  
@@ -775,7 +775,7 @@ And we also need to mention Barbara doesn't mind it. She actually wouldn't mind 
 [01:10:37] Barbara McBeath:  
 No, I don't mind, you know. But you know, a lot of people do. They don't want living with them. You know, my husband is that way. He gets upset when something follows us home. He doesn't like it.
 
-Art Bell:  
+[01:10:49] Art Bell:  
 Yeah, I under-I understand your husband's point of view. And how do you comfort him when he gets perhaps upset at the fact that something has followed you home, Barbara?
 
 [01:11:02] Barbara McBeath:  
@@ -861,7 +861,7 @@ And I have found over the years, places associated with the dead most likely wil
 [01:16:11] Art Bell:  
 Indicating that the spirits remain near what used to be their physical bodies. Troubling,
 
-Brendan Cook:  
+[01:16:19] Brendan Cook:  
 Not necessarily.
 
 [01:16:20] Barbara McBeath:  
@@ -894,7 +894,7 @@ I mean, there was no talking. I mean, we. I think Brendan had set his recorder d
 [01:17:46] Brendan Cook:  
 Yeah, I said that.
 
-Art Bell:  
+[01:17:47] Art Bell:  
 Okay, and we ought to add for the audience that was not looped. In other words, most of them we play three times or something, right? That was just straight.
 
 [01:17:54] Barbara McBeath:  
@@ -930,7 +930,7 @@ That's good if you hear that.
 [01:19:47] Brendan Cook:  
 Yeah, I can hear both ways.
 
-Art Bell:  
+[01:19:52] Art Bell:  
 You don't hear it. You don't hear that, right?
 
 [01:19:53] Barbara McBeath:  
@@ -975,7 +975,7 @@ Why?
 [01:22:17] Brendan Cook:  
 Because we all click so well. I mean, we're an extremely eclectic group. We're all we all come from different backgrounds. My wife's Native American. I'm Catholic. Barbara was raised. What were you raised, Barb?
 
-Barbara McBeath:  
+[01:22:33] Barbara McBeath:  
 Mormon.
 
 [01:22:34] Brendan Cook:  
@@ -1032,10 +1032,10 @@ All right. Well, here comes cut twelve.
 [01:25:52] Brendan Cook (recording):  
 If there is anybody down here,
 
-Unknown Speaker 20:  
+[01:25:54] Unknown Speaker 20:  
 Why won't you leave?
 
-Brendan Cook (recording):  
+[01:25:55] Brendan Cook (recording):  
 Please, I ask that you do talk to me. That's that's why we're all here.
 
 [01:26:02] Unknown Speaker 20:  
@@ -1061,10 +1061,10 @@ It's my basement. Why don't you leave? All right, cut twelve, please. One more t
 [01:27:13] Brendan Cook (recording):  
 If there is anybody down here,
 
-Unknown Speaker 20:  
+[01:27:14] Unknown Speaker 20:  
 Why won't you leave?
 
-Brendan Cook (recording):  
+[01:27:16] Brendan Cook (recording):  
 Please, I ask that you do talk to me. That's that's why we're all here.
 
 [01:27:22] Unknown Speaker 20:  
@@ -1076,7 +1076,7 @@ Yeah. Would you agree with that? Then again, I'm not, you know, present when you
 [01:27:52] Barbara McBeath:  
 I'd say probably a good majority of them.
 
-Brendan Cook:  
+[01:27:56] Brendan Cook:  
 Yeah, no, and it isn't even so much what they're saying; it's just the tonal quality.
 
 [01:28:01] Art Bell:  
@@ -1126,7 +1126,7 @@ Boy, I guess the power of suggestion is very very strong because even though I t
 [01:31:04] Barbara McBeath:  
 All right, this is still in that same museum, and you'll hear Brendan say, "Okay, there's some odd humming in the background. It's the furnace, and I've heard some banging. No big deal. That also comes from the furnace. Other than that, I haven't noticed anything weird." And then he recorded. Sounds like the same woman's voice, but in a it sounds like it's in a different language singing.
 
-Art Bell:  
+[01:31:29] Art Bell:  
 That's weird. All right, let's see what we hear. Cut fourteen.
 
 [01:31:36] Brendan Cook (recording):  
@@ -1266,7 +1266,7 @@ And if you recall from past shows, we get told that a lot.
 [01:43:20] Art Bell:  
 Yeah, it's like you're not welcome, and it's like they know what you're doing, and you're just not welcome. And that would worry me as an investigator. Being told to get out like that
 
-Barbara McBeath:  
+[01:43:36] Barbara McBeath:  
 brings us back for more.
 
 [01:43:40] Brendan Cook:  
@@ -1311,10 +1311,10 @@ Hi.
 [01:48:21] Art Bell:  
 At the end, the voice At the end sounds like a woman's voice, and it sounds like that was funny or that was funky. I can't. I can't quite make it out.
 
-Unknown Speaker 23:  
+[01:48:32] Unknown Speaker 23:  
 I can't either.
 
-Art Bell:  
+[01:48:37] Art Bell:  
 But at that point, the radio was off, if not broken. In previous EVPs that you've presented to us, you've never had a radio with you, and it surprises me that you had one this time. What was up with that?
 
 [01:48:56] Brendan Cook:  
@@ -1383,7 +1383,7 @@ All right, number eighteen.
 [01:52:55] Brendan Cook (recording):  
 Hello. Okay. Does nobody's radio work?
 
-Unknown Speaker 24:  
+[01:53:03] Unknown Speaker 24:  
 Oh my!
 
 [01:53:08] Art Bell:  
@@ -1403,13 +1403,13 @@ Yeah, this one. It's again in the same house, and this was this one freaked me o
 [01:54:58] Barbara McBeath:  
 Yeah, and it's very small.
 
-Brendan Cook:  
+[01:55:00] Brendan Cook:  
 Yeah. Anyway, you're going to hear footsteps coming from upstairs, and then you're going to hear me say, "Okay, make a note to check at 13:47 on the recording." You know, just to see if I could hear the footsteps on the recording. Then the footsteps continue. Then you hear me say, "Okay, something's definitely odd here. I'm going to leave the condenser mic down here unless I see something or hear something upstairs. Then I'll relocate everything up there. As of now, I'm going to leave it down here and take the handheld recorder. So I'm now exiting the room. You'll hear me walk upstairs. You hear me say hello. Can you hear me? And then, as soon as I finish saying "Can you hear me," you hear what sounds like crashing right next to the microphone downstairs, where nobody should be.
 
 [01:55:45] Barbara McBeath:  
 And Brendan didn't hear anything crashing.
 
-Brendan Cook:  
+[01:55:47] Brendan Cook:  
 Yeah.
 
 And I mean, as loud as this is, I should have been able to hear it. And as soon as the crashing finishes, you hear-I can only describe it as animal noises, grunting, growling, kind of pig noises, sort of. And as soon as that stops, you know, I'm upstairs for about 10 minutes. So I actually put about a second of silence to constitute the 10 minutes I'm upstairs, and nothing happened. And then, after that second of silence, you hear me walking back down the stairs, back to the microphone, and you're going to hear me say, "Okay, I'm back from upstairs, and I found nothing." And as soon as I finish saying nothing, you hear just this loud, loud pounding. I mean, the footsteps basically became banging on the walls, and you hear me say, "Okay, the footsteps have now turned into full-on what sounds like banging."
@@ -1453,7 +1453,7 @@ The only thing I can think of is this isn't the only time it's happened in this 
 [02:02:04] Barbara McBeath:  
 and then banging. It was Barry that experienced it. He was in there by himself, and all of a sudden he said all hell broke loose and had banging footsteps up at stairs, going across the floor that he could hear. He didn't stay there. He wouldn't stay there any longer. He left.
 
-Art Bell:  
+[02:02:26] Art Bell:  
 The expression "all hell breaking loose" is-I don't know if it's good in this context. Anyway, let us repeat cut nineteen.
 
 [02:02:43] Brendan Cook (recording):  
@@ -1520,7 +1520,7 @@ Just out curiosity, if you were in 2080, what was it like?
 [02:09:25] Caller 2 (Bob):  
 You don't. You really want to know, Art?
 
-Art Bell:  
+[02:09:27] Art Bell:  
 I wouldn't have asked otherwise. Yeah,
 
 [02:09:28] Caller 2 (Bob):  
@@ -1544,7 +1544,7 @@ Sure.
 [02:11:18] Caller 3 (Marcia):  
 Okay. Well, I've had a similar experience in my house. I have a walk-in closet with attic access, and plain as day, very angry. I heard FUB come from my attic, and I've had lots of experiences in my house. I've had a lamp where I plugged it in, turned it on, I unplugged it, and the light bulb, the light still stayed on until I thought in my head, how could the light still be on, and then it would click off.
 
-Barbara McBeath:  
+[02:11:52] Barbara McBeath:  
 Have you recorded? Have you tried to record?
 
 Caller 3 (Marcia):  
@@ -1556,7 +1556,7 @@ Any kind of research at that location of who might have lived there.
 [02:12:03] Caller 3 (Marcia):  
 Well, it's a new house, but there was an old house that was torn down before that. It was standing on.
 
-Barbara McBeath:  
+[02:12:09] Barbara McBeath:  
 Your house was built on a place that had a prior home on it.
 
 [02:12:15] Caller 3 (Marcia):  
@@ -1576,13 +1576,13 @@ All right, thank you very much. And again, I'm hoping some of the audience will 
 [02:13:16] Caller 4 (Keith):  
 Yeah, hi, Art. I've been listening to you for you might know as long as I can remember. These two here are my favorite guests.
 
-Unknown Speaker 25:  
+[02:13:25] Unknown Speaker 25:  
 Thank you.
 
-Caller 4 (Keith):  
+[02:13:26] Caller 4 (Keith):  
 There's one track that you're all in disagreement with, track thirteen. I put my ear, I just jammed it right to the speaker, and you might agree. I clearly hear. Please don't blame me. If you can play that, Art.
 
-Art Bell:  
+[02:13:46] Art Bell:  
 What was the track thirteen?
 
 [02:13:47] Caller 4 (Keith):  
@@ -1609,7 +1609,7 @@ Wow.
 [02:14:27] Barbara McBeath:  
 I can hear that very now that you said that.
 
-Art Bell:  
+[02:14:30] Art Bell:  
 That really points out the power of suggestion involved in these, doesn't it?
 
 [02:14:34] Barbara McBeath:  
@@ -1618,7 +1618,7 @@ Oh yeah, yeah, definitely. Because I could never hear he's complaining, but that
 [02:14:41] Art Bell:  
 That's remarkable.
 
-Brendan Cook:  
+[02:14:41] Brendan Cook:  
 That actually makes that makes a lot more sense, and I do hear that a lot stronger than I hear he's complaining. Oh, I also do want to mention during the break I posted all these EVPs on the website, so anybody who wants to re-listen to them can actually just go to the site and download them now.
 
 [02:15:00] Art Bell:  
@@ -1728,7 +1728,7 @@ I just wanted to wish you guys Merry Christmas. And I'm your track 17. The lady 
 [02:24:21] Art Bell:  
 Well, I think it was supposed to be that was funny, but it was hard. I didn't think it was that. So
 
-Caller 8 (Luanne):  
+[02:24:28] Caller 8 (Luanne):  
 No, I didn't think it was anything you know near funny. But
 
 [02:24:33] Art Bell:  
@@ -1766,10 +1766,10 @@ Okay, well, listen, thank you for the call. We just don't have a lot of time lef
 [02:29:15] Brendan Cook:  
 Fairly common.
 
-Art Bell:  
+[02:29:18] Art Bell:  
 Was it?
 
-Brendan Cook:  
+[02:29:18] Brendan Cook:  
 What he just reported? If you do Google that, the old hag sleep paralysis.
 
 [02:29:24] Art Bell:  
@@ -1811,7 +1811,7 @@ I'm not looking at to prove anything. I just see what would happen.
 [02:31:06] Brendan Cook:  
 Right? No, no, we haven't done that.
 
-Caller 10 (Red):  
+[02:31:09] Caller 10 (Red):  
 Ah, quick theory, logical theory. Everybody knows that when the body dies, the spirit leaves it. Now, I don't believe there's dimensions and parallel universes. It just doesn't make sense. Death is very logical. It doesn't take a rocket scientist to figure it out. Very simply put, when the spirit leaves the body, it stays. It can stay on Earth. It can go anywhere it wants. It can, you know, just based on thought, it can say, you know, let's go to the moon and be standing there looking at the Earth, hypothetically. Okay, but these spirits know what's going on. They see what's going on. They know you guys are there. And sounded like that guy wasn't too happy. And it's how ironic it's the same guy's voice in all three, but two three clips there, and he wants you to leave. And basically, that last one was a kind of encouragement: don't come back type of deal. Does that make sense? But well,
 
 [02:32:15] Art Bell:  

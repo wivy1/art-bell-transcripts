@@ -58,7 +58,7 @@ All right, let's do as promised and go to let's see, west of the Rockies. You're
 [00:16:45] Caller 1:  
 Well, it's about time. I'm me. I'm your old from KDWN. Met you in the hall outside. Put my hand out. You put your lunch down. You brought down your square. You thought I was going to clean your truck, and you finally realized I just wanted to shake your hands. And you took me inside, showed me around, and then I left. That was about 1990, somewhere along there,
 
-Art Bell:  
+[00:17:15] Art Bell:  
 A long time ago. Yes, well, welcome back.
 
 [00:17:18] Caller 1:  
@@ -82,7 +82,7 @@ Yeah, no, I remember.
 [00:18:04] Caller 1:  
 Well, bless your cotton pickin' heart. You've been around a time or two since then. You know how old I am.
 
-Art Bell:  
+[00:18:12] Art Bell:  
 I'm afraid to ask, but let's ask. How old?
 
 [00:18:16] Caller 1:  
@@ -131,7 +131,7 @@ That's true. That's true.
 [00:24:17] Art Bell:  
 Yeah,
 
-Caller 2 (Harry):  
+[00:24:18] Caller 2 (Harry):  
 I've seen something like that one time before. If I could- could I relate to you what I saw in 1978 and see if you had ever heard of this before?
 
 [00:24:26] Art Bell:  
@@ -154,13 +154,13 @@ You know, at the time, I really felt like I would. That's what was holding me th
 
 But I went upstairs to tell my wife about it. And when I opened the door of the apartment, she's hollering my name in a fearful tone. And I go into the bedroom and I say, "Honey, what's matter?" She says, "I had this terrible feeling that I was being watched. Just terrible feeling." And I told her what had happened. So we've never really figured out what that was all about. I know I saw it, and it cannot be explained. Like I said, it was a large ring, hollow in the center. You could see through it. It was a neon blue.
 
-Art Bell:  
+[00:26:46] Art Bell:  
 Got it.
 
-Caller 2 (Harry):  
+[00:26:46] Caller 2 (Harry):  
 That pulsated around the edges like a wave. And so that's my story. I witnessed it in '78. I don't know what it was.
 
-Art Bell:  
+[00:26:56] Art Bell:  
 And I don't know. All I can say, as we say to everybody else, is welcome to the club. You know, who knows what you saw? Who knows what it was? All I know is that these things are appearing to millions and millions and millions of people around the world. Millions of Americans. We could sit here taking "Guess what I saw, Art" calls for you know that as long as I could sit on the air and take calls. And so there's nobody that's going to tell me that there's not something going on. I don't know what it is. I don't know who knows about it, what their intent is, or any of the rest of it. I just know it really is going on, and that's what propels interest in this topic and keeps it going. Just it's really amazing.
 
 West of the Rockies, you are on the air. Hello,
@@ -174,13 +174,13 @@ Glad to have you on the air, Tom. What's up?
 [00:28:04] Caller 3 (Tom):  
 I just wanted- I, for years I have wanted to relate a story to you. In 1994, I had a dream. I guess I when I woke up the next morning, we'll put it this way: that it felt like it had been a dream. At the time, I wasn't sure at the time whether I was dreaming or not.
 
-Art Bell:  
+[00:28:36] Art Bell:  
 Okay, what was it?
 
-Caller 3 (Tom):  
+[00:28:37] Caller 3 (Tom):  
 Well, around midnight, I woke up to my father standing outside my door. I was in high school, and he asked me if I was ready. And I was getting dressed. I said, "Yeah." And we went outside, climbed into a vehicle, and began driving into a desert north of town. Along the way, it was about a four-mile journey to get to the desert. Along the way, there were many vehicles all traveling in the same direction. We got out into the desert, parked the truck, and I was more concerned looking around to see if I recognized anybody, because this is a town that I grew up in. My been here for a long time. Didn't recognize anybody. Everybody was kind of making their way over to a staircase that led up into the belly of a massive ship in the desert north of town. Here, there's many pretty deep bowls and canyons. It's all bentonite.
 
-Art Bell:  
+[00:29:50] Art Bell:  
 Yeah, where are- where are you actually?
 
 [00:29:52] Caller 3 (Tom):  
@@ -261,7 +261,7 @@ Art, I've been waiting to call you for a long time. Finally got through. I've he
 [00:35:57] Art Bell:  
 Somewhere in there. Long time ago.
 
-Caller 6:  
+[00:36:00] Caller 6:  
 We remember seeing these little darting. Back then, it was impossible for anything to go that fast. I was only about six, seven, eight years old, and these things would go close to it. Then they dart away real fast in a different direction. Even my dad said nothing. Nothing we had could go that fast then.
 
 [00:36:23] Art Bell:  
@@ -276,7 +276,7 @@ Very well, thank you.
 [00:37:00] Caller 7:  
 Oh, by the way, I love that little hint you gave us into the birth of Coast to Coast when that older gentleman called.
 
-Art Bell:  
+[00:37:07] Art Bell:  
 Oh yes,
 
 [00:37:07] Caller 7:  
@@ -288,10 +288,10 @@ Yeah, actually, I underdid the consternation that was there when I flipped it an
 [00:37:30] Caller 7:  
 They well, they were wrong and you were right. I'd like to say about animals and humans and our nature.
 
-Art Bell:  
+[00:37:39] Art Bell:  
 Yes.
 
-Caller 7:  
+[00:37:39] Caller 7:  
 I don't believe we have souls. I believe we are souls. We have bodies. It's not semantics. It changes the way you think of us. My dogs here on my bed. They are souls. They have bodies, and their bodies will. I'm sad to say, wear out someday. But they're not. Their souls aren't going to wear out. They'll be with me forever, just as your cats are with you.
 
 [00:38:02] Art Bell:  
@@ -338,7 +338,7 @@ How old were you at this point?
 [00:43:45] Amelia Kinkade:  
 I was about 23.
 
-Art Bell:  
+[00:43:47] Art Bell:  
 Okay.
 
 [00:43:48] Amelia Kinkade:  
@@ -365,7 +365,7 @@ And then she said, "I'm asking him his favorite place to sit." And he tells me t
 [00:46:13] Art Bell:  
 All right.
 
-Amelia Kinkade:  
+[00:46:15] Amelia Kinkade:  
 At this point, my jaw hit the linoleum. I mean, I could have fainted. I had a peach-colored couch in the den, and across the street was a little white terrier. And I didn't know that he went over there and made that dog bark.
 
 [00:46:30] Art Bell:  
@@ -401,7 +401,7 @@ But I went out and found a beautiful little black and white coquette named Betty
 [00:48:55] Art Bell:  
 Wow! All right, so at this point, you're a believer. I mean, at this,
 
-Amelia Kinkade:  
+[00:49:00] Amelia Kinkade:  
 Yeah, she had sold me, but I didn't think I could do it.
 
 [00:49:05] Art Bell:  
@@ -478,10 +478,10 @@ Well, right. How's your batting average?
 [00:55:45] Amelia Kinkade:  
 Oh, that's a very funny and tricky question. A thousand, I'd have to say.
 
-Art Bell:  
+[00:55:57] Art Bell:  
 In other words, you-I take it you do consults for people. You get together with the people in their animals, right?
 
-Amelia Kinkade:  
+[00:56:03] Amelia Kinkade:  
 I teach now.
 
 [00:56:05] Art Bell:  
@@ -581,10 +581,10 @@ Three. I have three cats.
 [01:08:04] Amelia Kinkade:  
 Oh, three cats. I'm sorry.
 
-Art Bell:  
+[01:08:05] Art Bell:  
 Yeah, I've got kind of a story for you, Amelia. My wife Ramona died, and actually, you know, my cats at that time were about the only thing that kept me alive. You want to know the truth? And so, I spent a lot of time with them, curled up with them, and they kept me alive. I mean, I came as close to communicating. Some interesting things happened. They did keep me alive, Amelia.
 
-Amelia Kinkade:  
+[01:08:42] Amelia Kinkade:  
 And they saved your life, didn't they?
 
 [01:08:44] Art Bell:  
@@ -592,10 +592,10 @@ Yeah, they did save my life. Absolutely, no question about it. They saved my lif
 
 And then months later, I ended up going to the Philippines, where I met a woman. And I, before I left, I had these long heart-to-heart talks with my cats, and I promised them they were coming. They were going to come with me. Period. They were not going to be abandoned. Boy, I just really laid it on them, and it worked. It worked in the sense that they came without difficulty. They didn't go berserk. It's as if they understood what was happening.
 
-Amelia Kinkade:  
+[01:09:49] Amelia Kinkade:  
 Of course.
 
-Art Bell:  
+[01:09:51] Art Bell:  
 And then when I returned to America, I went through the exact same thing. And boy, did they understand what was going on. They understood the packing. They understood what was about to happen. They understood when the cat carriers- we used a- actually, transporting my cats was more expensive than transporting myself by large margin. We used this wonderful door to door service, and they understood what was happening.
 
 [01:10:22] Amelia Kinkade:  
@@ -604,7 +604,7 @@ Of course, they did.
 [01:10:23] Art Bell:  
 I just I had these long talks with them, and for example, Yeti, who's a very bright cat, he would just sit there and stare into my eyes as I told him what was going to happen and promised him that there's no way on God's green earth he was going to be abandoned, and he'd be with me the whole time. I promise. I promise. Boy, did you could look into his eye, you could look into his soul, and you could understand that he understood, as did Abydos. And then on the return trip, we adopted a little cat in Manila, a little street cat in Manila. Boy, what a joy she is, and brought her back, and she is so close to- anyway. You know, I'm just rattling on here, but I had these long discussions with my cats, and I know they understood. I know they understood. They grieved with me. They understood when I took them away.
 
-Amelia Kinkade:  
+[01:11:17] Amelia Kinkade:  
 Do you know what? It's arrogant idea it is that human beings, that human monkeys, have come up with that we're so much more intelligent than all the other living beings on this planet. I mean, that's the other enormous paradigm shift that we have to make.
 
 [01:11:32] Art Bell:  
@@ -613,10 +613,10 @@ Well, we can talk.
 [01:11:34] Amelia Kinkade:  
 Is that we have to eliminate the idea that we're somehow more intelligent. I don't think so.
 
-Art Bell:  
+[01:11:43] Art Bell:  
 Well, we can talk. We have the ability to vocalize, as you and I are right now. Other than that,
 
-Amelia Kinkade:  
+[01:11:47] Amelia Kinkade:  
 Birds have the ability to talk, especially mocking birds. If we were going to single out an animal that can communicate better with- within its species, ants- ants can communicate better and have the most harmonious society of almost any other species on this planet. What about termites? I mean, how do they communicate with each other when they're creating some piece of architecture that is beyond our wildest dreams? They have to say, "Hey Bob, would you go pick up that block and bring it over here because I'm building a pyramid." I mean, of course they can communicate. Lions hunt in telepathic formation. All animals can speak to each other. The only one that's gotten bumped out of the chain is us because we're so obsessed with ourselves that we're just not open communing.
 
 [01:12:46] Art Bell:  
@@ -649,7 +649,7 @@ Amelia, is it like an OBE?
 [01:15:59] Amelia Kinkade:  
 It is because this is the same thing as remote viewing. It's a form of remote viewing.
 
-Art Bell:  
+[01:16:08] Art Bell:  
 All right. Well, there have always been certain-
 
 [01:16:11] Amelia Kinkade:  
@@ -745,10 +745,10 @@ All right, now one of the properties of telepathic communication, the way that y
 
 The second property is that you couldn't have made that up. I wouldn't have told the African National News that the cheetah said that he likes to eat squash and play with human baby bottles, because I don't want to make a fool out of myself on national television.
 
-Art Bell:  
+[01:29:20] Art Bell:  
 Sure.
 
-Amelia Kinkade:  
+[01:29:21] Amelia Kinkade:  
 So the quality of left field that it's so strange. You ask the dog his favorite food, and he says cream cheese on a bagel, and the person says, "Oh, I gave that to her last night." So that's the third, the second property. The third property is the level of emotion. If you're with an animal and you get hit with a wave of sadness, or you suddenly get a pang in your one of your teeth, and you go, "Whoa, I should have this cat's teeth checked," or you feel their nausea, or you feel the pain in their lower back.
 
 [01:29:58] Art Bell:  
@@ -775,10 +775,10 @@ Now that's how available it is. If you check your body and you scan your own bod
 
 Then all sorts of information is going to come in with this cheetah. First of all, he, the person who was keeping the cheetah, told me that they would throw squash into Joseph's pen so that he could play with them. He'd bat them around, and they tied human baby bottles on a carousel, and that's how they would exercise the cheetah. And he had a mate named Charlie, and they had had two cubs. And she got sent up to De Wildt, so they had taken his mate away, and he was absolutely miserable about it.
 
-Art Bell:  
+[01:33:21] Art Bell:  
 Sure.
 
-Amelia Kinkade:  
+[01:33:22] Amelia Kinkade:  
 So if you're asking me, I'm going to take this a step further. What do cats think about on a daily basis? I went into the next pen, and I was working with a cat named Kaya. I said, "Tell me a big secret, because you know the news is here, and I want to really prove to these people that you are incredibly intelligent and that you can communicate with us." And Kaya said to me- I ran a body scan on him. He was lying down; he hadn't stood up yet. He said- and my- and this is how we can ascertain where the pain is in their body. My focus kept going to his bladder, and I went, "Ouch! Does this still hurt?" He said, "No, I'm fine now, but I had two cases of cystitis." He said, "Tell the humans thank you; their medicine worked." I said, "When was the last one?" He said, "January," and I was there in November. I said, "What else is going on with your body?" He said, "My legs are uneven, so when I stand up, my hips hurt because I've got hip dysplasia." I said, "Did you have an accident?" He said, "No, it was a birth defect."
 
 I said, "Okay, tell me something really marvelous." Tell me a secret. He said, "Well, they're writing a book about me." And I said, "About all the cheetah in the sanctuary?" And he said, "No, just me." He is very happy about this. Very full of himself.
@@ -915,7 +915,7 @@ Right.
 [01:50:10] Amelia Kinkade:  
 Okay. Let me give you a thumbnail sketch of this. Let's say that we're looking at a horse, and we're going to do a medical scan on that horse. That means we're going to go into the body of the horse and very, very gently and slowly feel our way through that body, only with the horse's permission, because sometimes animals don't want to do that. But if they do want to do that, every organ is vibrating at a particular frequency, so it's as if it's all in harmony, like a band. One- the liver could be the string section, and the stomach could be the flutes. I mean, it's a crazy analogy, but it works. Now let's say that one of those organs is out of balance, so it's not vibrating at the proper level where it should be. It's going to be out of tune, or it's going to feel off. If there's cancer in the body, it's going to be like there's timpani crashing over the flute solo. So if there's something wrong within the energetic field, you're going to feel it.
 
-Art Bell:  
+[01:51:22] Art Bell:  
 Okay. Well, this is obviously at the very next level. In other words, establishing some kind of communication in the way you described earlier in the crash course, and now what you're describing is going to be the next level of learning because you're talking about a sort of scanning and recognizing individual organs that are not vibrating at the right level.
 
 [01:51:48] Amelia Kinkade:  
@@ -976,7 +976,7 @@ I mean, for every story that there is out there, and the next book I'm going to 
 [01:57:33] Art Bell:  
 Now, I guess believe me, I've read these stories on the air. I know it's true.
 
-Amelia Kinkade:  
+[01:57:37] Amelia Kinkade:  
 Is that not reasoning? I mean, I don't think we can. Why? I don't think we can write that off as instinct.
 
 [01:57:45] Art Bell:  
@@ -1025,7 +1025,7 @@ They're brilliant cats. They're very smart.
 [02:01:58] Amelia Kinkade:  
 They're very, very special, magical.
 
-Art Bell:  
+[02:02:00] Art Bell:  
 All right, I've got a lot of people want to talk to you, so let's see what we've got out there. Mike in Ohio, you're on with Amelia Kinkade. Hi.
 
 [02:02:07] Caller 8 (Mike):  
@@ -1064,10 +1064,10 @@ That's remarkable.
 [02:04:06] Amelia Kinkade:  
 And the African shamans believe, and have always believed, that their ancestors are lions, and that the lions are sacred beings. And I work down there with those shamans, and they do believe that humans and lions are interchangeable. And even Cayce didn't necessarily believe that all species can reincarnate as other species. Although I think that now we can, but that dolphins and humans were interchangeable,
 
-Art Bell:  
+[02:04:35] Art Bell:  
 Wow!
 
-Amelia Kinkade:  
+[02:04:36] Amelia Kinkade:  
 Which means we better take a better, a closer look at how we're taking care of them.
 
 [02:04:40] Art Bell:  
@@ -1126,7 +1126,7 @@ Oh.
 [02:08:49] Amelia Kinkade:  
 And sometimes you'll say, well, my cat all of a sudden started doing something that he's never done before, but my old cat used to do exactly.
 
-Caller 10 (Margie):  
+[02:08:55] Caller 10 (Margie):  
 He did that.
 
 [02:08:56] Amelia Kinkade:  
@@ -1143,7 +1143,7 @@ But I feel like in your specific instance, I think that your other one is sharin
 [02:09:24] Caller 10 (Margie):  
 Huh.
 
-Amelia Kinkade:  
+[02:09:24] Amelia Kinkade:  
 Mine do it all the time.
 
 [02:09:26] Art Bell:  
@@ -1188,13 +1188,13 @@ That's reasoning.
 [02:11:17] Caller 11 (Daniel):  
 Is he really? Is he mad at me? Is he trying to tell me something? And is there anything I can do to retrain this guy?
 
-Amelia Kinkade:  
+[02:11:24] Amelia Kinkade:  
 Okay, I would sanction him off. If you can give him his own separate box in a separate room, that's what I would do.
 
 [02:11:34] Art Bell:  
 Well, they'll all go take it. I had Comet, who was kind of mentally challenged because he had been starved as a kitten, and so he was scared of everything. And somebody sent us one of those automatic cat boxes, and he thought that thing came straight from the devil. He wouldn't have a thing to do with it. Anything that moved automatically over what he had just done or when he just left it was just straight from the devil as far as he was concerned.
 
-Amelia Kinkade:  
+[02:12:03] Amelia Kinkade:  
 Well, they make a horrible noise.
 
 [02:12:04] Art Bell:  
@@ -1227,7 +1227,7 @@ Yeah, what a smart guy, Lee in Columbus, Georgia. You're on with Amelia.
 [02:13:14] Caller 12 (Lee):  
 Hi, Amelia. Hi, Art. How you doing?
 
-Amelia Kinkade:  
+[02:13:16] Amelia Kinkade:  
 Hi, Lee.
 
 [02:13:18] Caller 12 (Lee):  
@@ -1250,10 +1250,10 @@ Yes,
 [02:16:14] Amelia Kinkade:  
 And Rupert actually took my workshop in London. He was keynoting the field conference, the quantum physics conference, and they brought me in as the animal link. And Rupert actually took my workshop, which was one of the biggest compliments I've ever had in my life, but the book is called Dogs Who Know When Their Owners Are Coming Home.
 
-Art Bell:  
+[02:16:35] Art Bell:  
 Right,
 
-Amelia Kinkade:  
+[02:16:36] Amelia Kinkade:  
 And he's done the most extensive scientific research with double-blind experiments and cameras, and yeah, you can't deny it. The dog would run to the door ten minutes before the person comes home, no matter what time of day the person comes home.
 
 [02:16:53] Art Bell:  
@@ -1287,13 +1287,13 @@ Well, that's fascinating. I'm actually going to have bees in my workshop in Engl
 [02:19:49] Art Bell:  
 That's probably right on.
 
-Amelia Kinkade:  
+[02:19:52] Amelia Kinkade:  
 Something to them must not smell right. You know, one of the most amazing new discoveries in medicine right now is about wasps. That not only do they have dogs that are sniffing cancer, there are wasps being trained to sniff cancer, bombs, and dead bodies.
 
-Art Bell:  
+[02:20:10] Art Bell:  
 Wow!
 
-Amelia Kinkade:  
+[02:20:11] Amelia Kinkade:  
 And they do it with a sugar substance. So they're giving them a treat, and the wasps are actually able to smell cancer. So they must have such an acute sense of smell. And my first instinct is that something doesn't smell right.
 
 [02:20:31] Art Bell:  
@@ -1349,13 +1349,13 @@ Okay.
 [02:24:07] Amelia Kinkade:  
 Now, if you upset her in some way, do you know of a reason that she would have left?
 
-Caller 14 (Jenna):  
+[02:24:12] Caller 14 (Jenna):  
 I a possible reason. I was, it was. She left Christmas Eve, and the night before, I was really upset at FedEx, and I was screaming on the phone. And two months before that, we brought a new puppy home.
 
-Amelia Kinkade:  
+[02:24:25] Amelia Kinkade:  
 Oh.
 
-Caller 14 (Jenna):  
+[02:24:26] Caller 14 (Jenna):  
 So there's a couple possible reasons.
 
 [02:24:28] Amelia Kinkade:  
@@ -1411,7 +1411,7 @@ It does make sense, and it does work better.
 [02:27:00] Art Bell:  
 Jennifer in Tennessee, you're on the air with Amelia. Hi,
 
-Caller 15 (Jennifer):  
+[02:27:03] Caller 15 (Jennifer):  
 Hi. Good morning, both of you. Good morning. Yes, I am visually impaired, and I have had several pets and been acquainted with several other animals. And it has been my experience that within the, I'd say up to the maybe third or fourth time, I've seen that animal, a particular animal, they will realize that I have a disability and will tend to either look out for me or learn or realize that they need to stay out of my way, otherwise they may get stepped on. And that just to me shows extreme intelligence because there are people who can see, there are humans who can see who don't realize that.
 
 [02:27:50] Amelia Kinkade:  
@@ -1423,10 +1423,10 @@ Interesting.
 [02:27:52] Amelia Kinkade:  
 Isn't that amazing? I'm so glad you called. I had a guy come to one of my seminars who was a Navy captain, and he trained seeing eye dogs for the blind. And he said it was a regular occurrence that the humans would say, "Oh, I see this, I see that, I see you know landmarks in the neighborhood that there was no way that they could know were there. And when he said, "How is it that you could see those?" the people say, "Well, I saw it through the eyes of the dog."
 
-Caller 15 (Jennifer):  
+[02:28:22] Caller 15 (Jennifer):  
 Or you know, even the dog. I've had a service dog before, and I tell you this: he was the closest friend I have ever had, and I had to return him due to circumstances out of my control. But for the two years that I was with him, I never felt alone, and I never felt unsafe.
 
-Amelia Kinkade:  
+[02:28:47] Amelia Kinkade:  
 How beautiful!
 
 [02:28:48] Art Bell:  
@@ -1438,7 +1438,7 @@ Yeah,
 [02:28:56] Art Bell:  
 Could actually see through the eyes of their companion.
 
-Amelia Kinkade:  
+[02:28:59] Amelia Kinkade:  
 Yes, right. Yeah, I worked with children in Mexico City this last summer that were not only blind but they were also deaf, and there are animals that can help guide these kids, and if the children can actually learn how to be more in tune telepathically with the animal, of course that child's going to be safer.
 
 [02:29:27] Art Bell:  
@@ -1471,10 +1471,10 @@ Okay, that's and it's like it's been absolutely okay.
 [02:32:24] Amelia Kinkade:  
 They develop immunities more than we give them credit for. Now they're out being exposed to cats that have leukemia and cats that have AIDS. Now this is no different from a human virus. You're not going to catch every virus you're exposed to. If you if you were, we'd all be dead.
 
-Art Bell:  
+[02:32:42] Art Bell:  
 Right.
 
-Amelia Kinkade:  
+[02:32:43] Amelia Kinkade:  
 Okay, we're exposed to things every day. What I would do in your situation, I'd put them on some really good vitamins, and you can get vitamins at PetSmart or Petco. Boost their immunities. There's a herb called olive leaf. And what is called olive leaf, and it's the only thing that we know of that is antiviral, antifungal, and antibacterial. It helps fight viral infections and just boosts the immune systems. Okay, and tell those kitties every day you're strong, you're healthy, you're fabulous in every way. You have perfect, radiant, dynamic health. You're not going to get sick.
 
 [02:33:25] Caller 17 (Billy):  
@@ -1504,10 +1504,10 @@ Okay, all right, Ashley in Michigan, you're on with Amelia Kinkade. Hello.
 [02:34:31] Caller 18 (Ashley):  
 Hi. I always wanted a dog, and but unfortunately, we live close to a highway, so we always have chosen against that. Well, I ended up getting a kitten, and she's about a year old now, and she plays fetch, and she
 
-Amelia Kinkade:  
+[02:34:49] Amelia Kinkade:  
 Yeah, I love that.
 
-Caller 18 (Ashley):  
+[02:34:50] Caller 18 (Ashley):  
 Literally brings you know those little milk cap rings that the rings when you untwist the milk jug.
 
 [02:34:58] Amelia Kinkade:  
@@ -1519,10 +1519,10 @@ They come off. She just loves those. Those are her favorite toys, and I was just
 [02:35:11] Amelia Kinkade:  
 Well, you know what? I think you're so right about that because no expensive toy would ever take the place of one of those plastic things that comes off a milk carton.
 
-Caller 18 (Ashley):  
+[02:35:20] Caller 18 (Ashley):  
 That's right.
 
-Amelia Kinkade:  
+[02:35:22] Amelia Kinkade:  
 A bottle cap. Those are their favorite things. Yes, I love kitties that fetch. A lot of Maine Coons will fetch pieces of candy.
 
 [02:35:31] Caller 18 (Ashley):  

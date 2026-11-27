@@ -48,7 +48,7 @@ Thank you for being here. And I'm not slaughtering your name, am I?
 [00:12:53] Larry Schweiger:  
 No, it's Schweiger. That's right.
 
-Art Bell:  
+[00:12:56] Art Bell:  
 Good, good, good, good. All right. I understand. Well, let me ask you first: Are you acquaintance of Al Gore's?
 
 [00:13:04] Larry Schweiger:  
@@ -164,7 +164,7 @@ Well, the spill that I was describing earlier, where all this raw oil was sittin
 
 And what we see today at the spill site is I don't know if you've noticed, but when you see all that oil coming out of the wellhead, you also notice that a white stream of chemicals are being injected into that stream of oil.
 
-Art Bell:  
+[00:34:24] Art Bell:  
 And that's the Corexit.
 
 [00:34:26] Larry Schweiger:  
@@ -202,7 +202,7 @@ All right. Once again, Larry Schweiger, welcome back, Larry.
 [00:41:55] Larry Schweiger:  
 Thank you.
 
-Art Bell:  
+[00:41:56] Art Bell:  
 I, you know, it's hard to know where to go, but let me ask you about some of the things running around the internet right now, a lot of people are blogging about fractures. This is beyond, you know, the well itself, the wellhead itself. Fractures in the floor of the Gulf that are spewing oil. Is there? Have you heard anything about that? Is there anything to it?
 
 [00:42:19] Larry Schweiger:  
@@ -216,7 +216,7 @@ Yeah, that's right, and that's part of the challenge is because they're at such 
 
 So we're adding a lot of methane to the water column as well as oil, and the methane helps to suck the oxygen out of the water, and when you talk about dead zones, you're really talking about the biological oxygen demand of oil dispersed into the water, and also the so-called BOD of the methane as it consumes oxygen. And the warmer the waters get, the more biological activity there is working on the more the bugs in the ocean begin to work on the oil, the more they suck the oxygen out of the water, and therefore cause and it creates a potential having enormous dead zones in the Gulf of Mexico.
 
-Art Bell:  
+[00:44:56] Art Bell:  
 Oh God! All right. The federal, our federal government, the president's kind of between a rock and a hard place. You know, on the one hand, I mean, this becomes a little political. But if the president touches this disaster, then as the talking heads suggest, he owns it. After a while, he owns it, and I guess by now he sort of owns it politically. And the president's approval numbers are tumbling right now as a result of owning this. But I think he had no choice as president of the United States. How is the federal government doing now in terms of their role in trying to help the impact the cleanup, working with BP, all the rest of it?
 
 [00:45:48] Larry Schweiger:  
@@ -300,7 +300,7 @@ God. So that could be. That could be. Well, who knows? But twenty, thirty, forty
 [00:59:09] Larry Schweiger:  
 It's hard. It's hard to say, and I don't want to, you know, call a number. But you know, I think clearly. You know, we're seeing extraordinarily high numbers of oil gallons of oil flowing into the Gulf, and you know, we should also remember that the this oil was destined to be burned, and if it were, it would be carbon dioxide going into the atmosphere. It would be invisible, but it nonetheless would be put into the sky.
 
-Art Bell:  
+[00:59:37] Art Bell:  
 All right, Larry. I'm sorry. We're at another break. Stay right there, and we'll be right back from Manila, Philippines, other side of the world. I'm Art Bell.
 
 Good morning from the other side of the world. How are you, my guest? My guest is the chief executive officer of the National Wildlife Federation, Larry Schweiger. We're talking about, of course, the oil spill, and I'm going to venture out on a limb here a little bit. And I've been wondering about this for a long time, and people are seem afraid to talk about it, but I want to ask the question anyway. And I'll give Larry a moment to think about it. BP has made some statements, made them early on, that one final thing that they might do is implode the well, implode the well. Now it seems to me if they were going to do that, it would have been best done some long time ago before we had so much oil go into the Gulf. But is it possible? That's one question I have. And how do you implode a well?
@@ -324,7 +324,7 @@ I think it's it starts with a scientific decision. You know the idea of first of
 
 The other thing that I would point out is that it would be a violation of international treaties to do such a thing. And beyond that, though, you know, the idea of setting off a nuclear bomb in the clathrates because of all this methane that is under the sea,
 
-Art Bell:  
+[01:05:27] Art Bell:  
 I think that's a good point.
 
 [01:05:29] Larry Schweiger:  
@@ -356,7 +356,7 @@ Yeah, the rock structure there is such that you know it is contained at this mom
 
 You know the thing about all this is that we're drilling at a depth that the U.S. government doesn't even have a vessel that can get on there and independently inspect this well site. You know we have to depend on equipment that BP provides for us, and if it weren't for example Congressman Markey, we would not even be seeing the spill itself because BP was not allowing the public to see the wellhead, even though they had film footage of that from the very beginning. So we you know we're really at a depth where humans can't go, and where we don't even have a vessel to get on to that level to see what's actually taking place down there,
 
-Art Bell:  
+[01:11:11] Art Bell:  
 Including our nuclear submarines,
 
 [01:11:13] Larry Schweiger:  
@@ -422,7 +422,7 @@ Ah, okay. You write about natural feedbacks in your book. Can you explain what t
 [01:23:29] Larry Schweiger:  
 Well, you know, first of all, starting with the Greenland trip, you know, we're seeing a rapid increase in ice melting in Greenland, and it's a it's an area that's about two miles thick in ice. You know, so if you go to the upper surface, you know, 80-plus percent of Greenland is solid ice, and that ice is melting at a significant pace. In fact, Greenland itself has added now to and onward to three new Nile rivers to the ocean. So, the equivalent of flow from the Nile River is going in, you know, coming in from Greenland. So, as I describe in my book, what happens in Greenland will not stay in Greenland. It will affect, you know, island nations. It will affect mega deltas like the coast of Louisiana. It will affect, you know, if you increase the sea level by, you know, one meter, you're going to displace about a hundred million people on the planet.
 
-Art Bell:  
+[01:24:30] Art Bell:  
 A hundred million people.
 
 [01:24:33] Larry Schweiger:  
@@ -486,13 +486,13 @@ And they have been, and you know, both from a British panel of scientists as wel
 
 Every time we discover something in science, particularly environmental science, the scientist involved becomes the target of you know huge pressure. When Rachel Carson proved that DDT was damaging bird reproduction, they attacked Rachel Carson, and she responded by asking who speaks and why. But nonetheless, she became a victim of their attacks. When Doctor Herbert Needleman proved lead was interfering with children's mental development, he was attacked. They filed an academic complaint against him. He was later proven to be right, but nonetheless, Herb and had a had to spend a great deal of his own money defending himself before an academic attack from those who were being affected.
 
-Art Bell:  
+[01:38:20] Art Bell:  
 So have we caught? Have we caught the people who broke in?
 
 [01:38:23] Larry Schweiger:  
 No, in fact, there's not been a lot said about them, and you know, the question is, who paid for all this? This was not some high school hacker that did this. This was a well organized cyber attack. Broke into the email system and into the computers, and then moved the records over to a Russian computer so that these records could not be, you know, we could not trace who actually did it, and then they were carefully packaged and worded in such a way that people got little snippets that confused them.
 
-Art Bell:  
+[01:39:07] Art Bell:  
 Gee, I wonder who could have been behind that, Larry? Gosh! All right, we're at a we're at another break point, and I appreciate your patience. I wish we could just go and go from Manila in the Philippines. All these islands. Good morning, everybody. I'm Art Bell, and we will be right back.
 
 It is good morning from the other side of the world, the island nation of the Philippines. I am Art Bell. My guest is the chief executive officer of the National Wildlife Federation. His name is Larry Schweiger, and it's an honor to have him here this morning. We're talking about all sort of, I guess, environmental issues, and that includes global warming. And I know that's where a lot of you sort of go around the corner and get very angry. And I see that reflected in the messages that come to me, some of them anyway. And it's amazing to me. It's astounding to me. And I guess it's just because of you know the possible change that we all face. I mean, it is going to be disruptive. We're going to have to change the way we do things. We're going to have to explore new avenues of energy. And I'm not suggesting the world come to a stop. And we need oil between now and when we do it.
@@ -577,7 +577,7 @@ Well, thank God somebody's doing it, but it should be us. It should have been us
 
 Listen, we've got one more hour coming up, Larry. I wonder if you would be willing to answer some questions of callers, that sort of thing.
 
-Larry Schweiger:  
+[01:57:43] Larry Schweiger:  
 Oh, sure, terrific.
 
 [01:57:45] Art Bell:  
@@ -593,7 +593,7 @@ Good morning, all. Here I am. Larry Schweiger is my guest. He's the chief execut
 
 By the way, as always, I'd love to hear from you. Feel free to email me. I answer all those that I'm able to. I'm Art Bell, A-R-T-B-L at mindspring.com. That's M-I-N-D-S-P-R-I-N-G dot com. `artbell@mindspring.com`. All right, Larry, if you're ready, we're going to go to the phones and.
 
-Larry Schweiger:  
+[01:59:56] Larry Schweiger:  
 Sure.
 
 [01:59:56] Art Bell:  
@@ -604,10 +604,10 @@ So prepare yourself. Here we go, Westport, California. You're on the air with La
 [02:00:06] Caller 1:  
 Good morning, Art and Larry. My question is about what's going on in the Gulf with that oil spew. But a quick reference to that 7.1 earthquake in the Solomon Islands.
 
-Art Bell:  
+[02:00:15] Art Bell:  
 Yes.
 
-Caller 1:  
+[02:00:15] Caller 1:  
 There's a partial eclipse of the moon that starts about the time the show ends tonight, and that will be visible in the West Coast PDT 6 a.m. Setting into the ocean, but the point being, once again, Jim Berkland's work really seems to be again affirmed.
 
 Now, my question concerning the oil spew is with all that black oil on the surface absorbing heat, then the 255 plus fires that are on the surface spewing smoke into the atmosphere, along with more heat and the dispersants, causing further evaporation. Some of the chemicals in those dispersants, I believe, are related to the same thing in chemtrails, which are for weather modification. We've had a couple of horrible floods-one in Arkansas, one in Oklahoma-some battering weather off Cape Cod, and tornadoes up clear up into the Canadian area. And the recent weather pattern has been blowing due north across the Gulf and catching that stream that comes across from the west with huge storms. Plus, two hurricanes in the Eastern Pacific, probably generated from the moisture in that Gulf area. One of which is a Cat Five and could swing towards Hawaii.
@@ -659,13 +659,13 @@ Yeah. I'm Bob Card, New Orleans, WRNO. Great to have you back on. Sorry, missed 
 [02:07:23] Art Bell:  
 Great to be here. I wish. I really wish it was a happier subject to be covering than this.
 
-Caller 4 (Bob):  
+[02:07:28] Caller 4 (Bob):  
 But I do too. Congratulations on your family. And there are some crazy rumors going around on Facebook, and it's that workers are first of all coming down with this is on Google. It's hard to find. Also, it's hard to find this information because it seems like it's being so well controlled that people are dropping dead. With according to one of these workers, who seems scared to death of a flu like something that's resistant to over the counter cold medication. Also, that whales are being blown up.
 
-Art Bell:  
+[02:08:11] Art Bell:  
 What?
 
-Caller 4 (Bob):  
+[02:08:12] Caller 4 (Bob):  
 That helicopters are flying over and picking up dolphins. That this thing is much worse than we're being told. And good morning, Larry. I wanted to get your take on it, Art, because you always got the you always get your finger on the pulse of this stuff. And you know, are we being told everything? What's going on?
 
 [02:08:33] Larry Schweiger:  
@@ -722,7 +722,7 @@ Hello.
 [02:16:27] Art Bell:  
 Yes, hello. Go ahead, sir.
 
-Caller 6:  
+[02:16:29] Caller 6:  
 Okay. It's me. All right. Okay, Art. Well, I've been listening to you all night, and I disagree with most of the things you're saying, especially when you're slamming the Republicans. Now, I know when I make my statement, you're going to spin it in some way. So, what I'd like to do now is say, if anyone's really interested in this subject, that you get a book called Energy Victory by Robert Zubrin, Z-U-B-R-I-N. Read that book, and you'll see. It's called Energy Victory. You'll see that there's a very a solution to our environmental problems, our energy independence problems, our transportation problems, and it's American technology invented in the '70s. Brazil is using it to great success, but we are going. We're following all the failed models in the world. Cap and trade, all this baloney. All we have to do is legislate that every car sold in the United States is a flex fuel vehicle. That's a vehicle that runs either on gasoline, ethanol, or methanol, or any combination of three.
 
 [02:18:01] Art Bell:  
@@ -735,7 +735,7 @@ Well, all right. Once again, and quickly back to the phones. Wildcard line. Good
 [02:20:16] Caller 7 (TJ):  
 Good morning, Art. What an honor and privilege it is to speak with you again, my friend. This is TJ, K7CD, and I'd like
 
-Art Bell:  
+[02:20:24] Art Bell:  
 You ought not identify yourself in that manner, but go right ahead.
 
 [02:20:30] Caller 7 (TJ):  
@@ -805,10 +805,10 @@ I hear you. Into you.
 [02:30:28] Caller 9:  
 Okay. Thank you so much for taking my call, Larry. I can't think of anybody I'd rather be speaking to, and this is my first call tonight, and I just feel so privileged to be able to speak with you. My husband and I have a registered wildlife habitat in the city of Garden Grove, California.
 
-Larry Schweiger:  
+[02:30:50] Larry Schweiger:  
 Oh, wonderful!
 
-Caller 9:  
+[02:30:51] Caller 9:  
 And we've made our home a haven for wildlife for as long as we've been here. And I happen to be along the ilk of a consultant to master gardeners. And by the way, to address one of your earlier callers, we have plenty of bees. The problem is there's no habitat. It's dwindling, and I find that what we really need to be saying out there is getting the message across of what people need to be doing because they're lost. They follow trends. They don't really know what they need to be doing to help the environment, to address the politicians, who to write to, and KFI does a really good job of this during the day with the hot topics. You know, they say who to write, who to call, who to email, and I think the Wildlife Federation could help in that respect, in that regard, to either via the internet in some way, get the word out because people are hungry for the information.
 
 They just need the direction, and we give tours. We belong to a koi club. We have water gardens and lilies, and you know all the different things that wildlife needs to survive, and man needs to learn to accept, to be willing to live with wildlife all over the globe. And if they want to save their environment and save other species, they have to accept that. And so, if you can just help get that word out, what people need to be doing, and you will find they're hungry for that information. They want to learn how to save their climate and their environment and live with other species.
@@ -819,7 +819,7 @@ All right. Well, listen. Thank. We're short on time, but thank you very much for
 [02:32:57] Larry Schweiger:  
 Yes. In fact, if folks want to learn more about it, please go nwf.org and you can learn a lot about everything from backyard habitats that were mentioned. And if you look at our oil spill site, we also have a large section on climate change and on wildlife. And also, we spend a lot of our effort trying to bring more kids into the outdoors and through both backyard habitat programs and Green Hour and No Child Left Inside and a number of other important programs. So I would encourage listeners to check our website out.
 
-Art Bell:  
+[02:33:37] Art Bell:  
 Okay, wildcard line. Good morning. You're on the air with Larry Schweiger and Art Bell.
 
 [02:33:43] Caller 10 (Larry):  

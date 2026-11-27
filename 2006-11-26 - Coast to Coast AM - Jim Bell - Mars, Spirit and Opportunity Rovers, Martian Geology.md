@@ -199,7 +199,7 @@ It sure is. Personally, I've got a few years left to go, and I just rather not t
 [00:32:04] Art Bell:  
 Well, I was listening, as I said, to William Shatner, and he thinks he's deathly afraid of death.
 
-Caller 4 (Stephen):  
+[00:32:12] Caller 4 (Stephen):  
 You know, he would be probably a good interview, and Art. I think all you'd have to do is pick up the phone and get him on any night that you want it.
 
 [00:32:20] Art Bell:  
@@ -217,7 +217,7 @@ December.
 [00:32:50] Art Bell:  
 In- no, no, no. June 17th.
 
-Caller 4 (Stephen):  
+[00:32:51] Caller 4 (Stephen):  
 Oh, that's right, June. That's right.
 
 [00:32:53] Art Bell:  
@@ -229,19 +229,19 @@ That's going back. I'm gonna tell you that would be one to really think about. B
 [00:33:13] Art Bell:  
 I thought it was fine. I thought it was predictable, and I guess I'm kind of like the stock market. The stock market just loves it when we have divided government.
 
-Caller 4 (Stephen):  
+[00:33:21] Caller 4 (Stephen):  
 Didn't go up, didn't it? And one other thing, I really enjoyed your guest last night, Joel Garreau. He was really good.
 
 [00:33:28] Art Bell:  
 He was good, wasn't he?
 
-Caller 4 (Stephen):  
+[00:33:29] Caller 4 (Stephen):  
 Well, I'd love to hear him again, and I'm going to try to pick his book up. Of the radical, I think radical evolution, right?
 
 [00:33:35] Art Bell:  
 Anybody, yes, anybody who does an interview like that is bound to have written a really good, understandable, fun to read book.
 
-Caller 4 (Stephen):  
+[00:33:44] Caller 4 (Stephen):  
 So he must really been prepared for your show last night too.
 
 [00:33:47] Art Bell:  
@@ -355,7 +355,7 @@ I've had an X-ray. It changes shape. It moves.
 [00:39:43] Art Bell:  
 Oh, really?
 
-Caller 6 (Terry):  
+[00:39:45] Caller 6 (Terry):  
 Rays, it's a triangle, and the other times it's a square. He removed it and put it in a vial, and it went liquid. We put it back in my chest, and it went back to solid again.
 
 [00:39:55] Art Bell:  
@@ -492,10 +492,10 @@ All right, all right. Let me ask you, even if it's technical, how present me wit
 [00:51:45] Jim Bell:  
 Yeah. Several different lines of evidence. One piece of evidence I mentioned was the minerals. So there are certain kinds of minerals there, and they're similar in some ways to minerals that we find on the Earth. And I'll give you one example: a certain kind of mineral called jarosite. J-A-R-O-S-I-T-E. It's an iron-bearing sulfate mineral that has water or hydroxide in its mineral structure. And this is off. This kind of mineral is found on the Earth as well in places where water and rock are interacting. And it requires this mineral requires water, liquid water, in order to form. And some of that water is actually still there in the mineral structure, and we can see evidence for it. We can measure its presence and abundance with the instruments on the rover.
 
-Art Bell:  
+[00:52:35] Art Bell:  
 And you have found it in the amount of abundance that would clearly say this did not come from I don't know something that crashed into the planet.
 
-Jim Bell:  
+[00:52:46] Jim Bell:  
 Right. Yeah. Exactly. It's not like a fluke, you know, meteorite or something. No, it's really it's in the rock in outcrop rocks that we see on the ground in tens of percent abundances. And it's not the only one. There are other kinds of hydrated. They're called hydrated minerals when they have water in their structure. And that water has to come from somewhere. And just like on the Earth, it comes from water that was on the surface, rainwater, groundwater. You that's interacting with the rock in a warm and wet and ultimately very Earth-like environment. Long time ago,
 
 [00:53:24] Art Bell:  
@@ -578,7 +578,7 @@ Yeah. Wow, that's actually a temperature we could survive in.
 [01:03:30] Jim Bell:  
 Yeah, I mean it's cold, but survivable. Certainly comparable to balmy day in the Antarctic or Greenland, for example. The issue, the big issue with people being on Mars is the atmosphere. It's extremely thin. There isn't.
 
-Art Bell:  
+[01:03:43] Art Bell:  
 Now that was my next question. What is the atmosphere?
 
 [01:03:47] Jim Bell:  
@@ -587,7 +587,7 @@ It's almost all carbon dioxide, CO2, but it's very very thin. It's only about 1%
 [01:04:17] Art Bell:  
 Yeah, isn't that a shame?
 
-Jim Bell:  
+[01:04:19] Jim Bell:  
 Well, it's a start.
 
 [01:04:21] Art Bell:  
@@ -612,7 +612,7 @@ Cockroach, we would see. Yes, we would see that too. We would see any kind of in
 
 Now, one thing I will say, and this is you know I touched on this earlier, and it's exciting. There is the possibility that there is life under the surface on Mars, and I think many scientists would agree that that possibility still exists today. If there was a lot of liquid water there, and we think there was, and if it's warm under the surface as you go down into the surface, just like on the Earth, as you go deeper, it gets warmer, then maybe there's still water down there today, and maybe that's a haven for any life that was on the surface a long time ago. Now that's speculation. That's wild speculation. We don't have any evidence. We've never drilled into Mars. We've never pulled samples up from underground like we do on the Earth all the time. But one thing the rovers and the other missions that are there have done is make that a sort of a respectable, reasonable scientific hypothesis that underground, deep underground, there may be environments that are still conducive to life as we know.
 
-Art Bell:  
+[01:09:05] Art Bell:  
 Well, professor, I saw a very interesting. I guess it was Nova or something like Nova. I can't recall, but it suggested that if a four or five mile diameter rock would crash into Earth, it would destroy all life on Earth, right on down to the microbial level. However, down deep in the Earth, there would be an area between, I guess, the core of the Earth where it's too hot for any kind of life to survive, and the surface which would be sterilized. But there would be this area where microbial life would survive, perhaps millions or billions of years, to eventually one day repopulate the Earth with some form of life in some sort of cycle of life and death that planets may go through. Is it possible that Mars is in sort of an opposite cycle of Earth right now? That cycle between life and, I guess we could say, death, and that that life is harbored at some point under the surface of Mars to one day with some giant change that would come along once again come to the surface.
 
 [01:10:24] Jim Bell:  
@@ -662,7 +662,7 @@ Boy, it sure is. What is your best guess, Professor? When you look into the sky,
 [01:19:50] Jim Bell:  
 I would agree with that. I'm sort of, I guess you could call it the, you know, the Carl Sagan school of life in the cosmos. Just you win by the numbers alone. The many billions and billions just add up in your favor. I think the big debate, the big argument that we're having now is is it simple bacterial life forms or is it large complex life?
 
-Art Bell:  
+[01:20:13] Art Bell:  
 Got it, Professor. Take a good deep breath. We'll relax and we'll be right back. This is Coast to Coast AM.
 
 Indeed, here I am. What an opportunity we have. Professor Jim Bell is our guest. He's an associate professor in the Cornell University Astronomy Department. He received his B.S. degree from Caltech and his Ph.D. from the University of Hawaii. He's a guy who runs Spirit and Opportunity, those little machines we have scurrying around much more of Mars than we originally anticipated, and we've been asking him. I hope a lot of questions that a lot of you wanted answered, and we'll get some of the you know the more complex stuff. Richard Hoagland, Big Dick, sent a number of questions, which we will pummel the professor with shortly, but we've been doing some basics on Mars, and they certainly are fascinating and a little worrisome from my point of view. As I mentioned to the professor, what happened there, and he agrees, could well occur here, and that's a good reason for studying Mars and the other planets in our system and any other system we're able to reach.
@@ -694,16 +694,16 @@ However, let me ask this: in the early days, Professor, when it really did look 
 [01:26:18] Jim Bell:  
 I don't know, Art. I mean, I was only eight years old at the time. I really can't tell you. I know that. What I can tell you is that. I mean, seriously, I think it was in high school at the time, and you know, it part of the reason that people are so fascinated by Mars is because of things like that, because of enigmas, both real and imagined, going all the way back to Percival Lowell and before. It's a place that we can picture ourselves being. It's a place that we can project, you know, a civilization like ours onto because it seems familiar, and that's part of the allure of Mars. And I would be, you know, I'd be dishonest if I said that things like the Face on Mars controversy, you know, didn't sort of get me a little inspired about studying Mars and learning more about the mysteries and enigmas of our solar system. Good. So I think on balance, it's a net positive thing, and I don't, I'm not, you know, one of these, you know, anti-face fighters, you know, that gets all hung up about it. I just, I want to see good science done, and that involves posing hypotheses and testing them, and I think that's what a lot of people are doing. I like to.
 
-Art Bell:  
+[01:27:33] Art Bell:  
 Yes, it does. All right. Circulating around the internet recently, there has been a photograph apparently taken by one of your cute little machines of what absolutely looks like a skull. Now, I'm sure you've seen this photograph. Comments?
 
 Jim Bell:  
 I don't know exactly which one you're talking about, and I'm not trying to be coy, to be honest with you, because I've seen an enormous number of rocks and landforms that you know one could say kind of looks like a skull. It looks like a funny rock or whatever, but I don't know exactly which one you're talking about.
 
-Art Bell:  
+[01:28:12] Art Bell:  
 To be really, maybe one of my web gurus back there can get it quickly posted up on the site.
 
-Jim Bell:  
+[01:28:18] Jim Bell:  
 Okay, that would. I'd be happy to look at that. Yeah,
 
 [01:28:20] Art Bell:  
@@ -721,10 +721,10 @@ Yes, actually, and we have. And I had an article in Sky and Telescope a few mont
 [01:30:16] Art Bell:  
 I am.
 
-Jim Bell:  
+[01:30:17] Jim Bell:  
 So it's not like looking through a telescope; it's just like taking your camera out in your backyard. So you're still seeing primarily stars. We're not, you know, zooming in and seeing the rings of Saturn or any of that kind of stuff. But still, there are some cool things to see in the night sky of Mars, and particularly the two moons of Mars, Phobos and Deimos, are the most prominent things in the night sky of Mars, moving across the sky. And it turned out that we looked into this early on, it turned out that the orbits of those moons hadn't been carefully monitored by astronomers since the late 1980s, and so we had a way sitting on the surface to measure the positions of the moons against the background stars and just update the orbits of the moons. And Phobos, for example, is really close to Mars and it's slowly spiraling into Mars. It's going to take
 
-Art Bell:  
+[01:31:08] Art Bell:  
 Oh really?
 
 [01:31:08] Jim Bell:  
@@ -756,13 +756,13 @@ All right. What about our own moon? Is our own moon absolutely stable in its orb
 [01:33:01] Jim Bell:  
 Well, yeah, our own moon is slowly moving away from us. Actually, when I was a kid, there was this wonderful science fiction TV series called Space:1999. Maybe you watched it, or you know, the moon was ripped away from the Earth, and that's really happening in reality. A few centimeters. I'm trying to remember. I want to quote you a number. Few centimeters per century, or something on that order. Very, very slowly. I apologize. I don't know the exact number, but it is slowly moving away because of tides, and that energy is being lost by tidal dissipation in Earth Moon system, and so that slowly moves the moon away from the Earth, and it
 
-Art Bell:  
+[01:33:42] Art Bell:  
 Now this is- here's a science fiction question for you. We always talk about something hitting the Earth. What if something hit the Moon and hit the Moon hard enough to actually send it out of its current orbit around the Earth? What effect would that have on the Earth?
 
 [01:34:03] Jim Bell:  
 Well, it would change certainly the tides. The Moon is a major cause of the ocean tides, so that all those cycles that fishermen and people who live along the coast are used to would change dramatically. It would also be a big loss to all the poets and romantics of the world, right?
 
-Art Bell:  
+[01:34:24] Art Bell:  
 Oh, it sure would.
 
 Jim Bell:  
@@ -786,7 +786,7 @@ We have those of us on the camera team haven't been asked by anyone higher up in
 
 Another factor is that it's winter time at both rover sites, and so it's very very low power situation. It's hard to have enough power to run the rovers at night, and then make sure that they'll survive the next day.
 
-Art Bell:  
+[01:37:32] Art Bell:  
 [unclear: I'm right]. Okay. Well, here's a far out question for you. I'm going to give you a lot of those, professor. And it's you know we know the roughly the current condition of Mars. Is there anything that we could do as humans if we had enough money to change Mars in any way to change the climate? Certainly, man, as you mentioned, is beginning to change the climate of Earth without trying that hard. It's just what we're doing. If we actually wanted to change the climate of Mars or in some form terraform Mars, is that a reasonable thing to contemplate?
 
 [01:38:15] Jim Bell:  
@@ -856,7 +856,7 @@ All right, here comes another Richard question. In the 19th century, serious mai
 [01:49:00] Jim Bell:  
 Yeah, that would be a fun experiment to try. I, my estimate would be no, that we would not be able to see that. Again, it comes down to two issues. One is the sensitivity of the camera for taking pictures of astronomical objects is not very high. You also have to remember that the Earth is only is a morning or an evening star on Mars, just like Venus is for us. So it's always in the twilight sky. So it's never in the pitch black skies. It's already lose lost a bunch of contrast. It's also the Earth is only about the size of one or so pixel picture elements in the camera. So we don't, you know, we've seen the Earth in our pictures. It appears just as a point like star in the sky. And so, unfortunately, we I don't think we'd have the sensitivity to do that experiment. It'd be a cool
 
-Art Bell:  
+[01:49:54] Art Bell:  
 Is Mars is the Mars sky itself actually? If we were standing on the surface of Mars, would we see a reddish color in the sky? There are people who say it's blue.
 
 [01:50:05] Jim Bell:  
@@ -890,19 +890,19 @@ That said, how has NASA's attitude about the kind of thing that Robert Bigelow a
 [01:56:26] Jim Bell:  
 Well, I don't speak for NASA. I don't work for NASA. I'm a professor at Cornell University, so I can cheer NASA or I can boo them. It doesn't matter. You know, my job's secure that way. But so I don't speak for the NASA administrator or whatever. But my impression is that at least the current administration in NASA and even the current administration in Washington is very supportive of efforts to privatize space and to seek ways to you know ease the government's burden on getting payloads into Earth orbit and eventually getting people up there, it's still you know I think there's a small amount of NASA funding that goes to support that. I don't personally see evidence of antagonism, and just as a personal private citizen and a scientist, I support it. I think it's a good idea.
 
-Art Bell:  
+[01:57:19] Art Bell:  
 I think there may have been a bit of antagonism early on when NASA sort of regarded space as their own.
 
 [01:57:25] Jim Bell:  
 Yeah, maybe for a number of years,
 
-Art Bell:  
+[01:57:27] Art Bell:  
 Kind of their own private domain,
 
-Jim Bell:  
+[01:57:28] Jim Bell:  
 Like a competitive spirit, maybe.
 
-Art Bell:  
+[01:57:30] Art Bell:  
 Yeah, that's right. Yeah,
 
 [01:57:31] Jim Bell:  
@@ -938,16 +938,16 @@ Sort of does.
 [02:02:39] Jim Bell:  
 It's fuzzy. It's obviously been processed in some way. It's hard to know, you know. And I think that's what these things always come down to, Art. It's the old again, you know. I quote my mentor Carl Sagan often. You know, extraordinary claims require extraordinary evidence, and this is some evidence, but it's not that smoking gun that you know, you know it when you see it kind of picture, and we haven't seen anything like that. As hard as we've been looking, and as much as we might want inside, deep inside ourselves, boy, it'd be great to find a fossil or some evidence that there was or is life on Mars. We just haven't done it.
 
-Art Bell:  
+[02:03:18] Art Bell:  
 Well, speaking of searching and looking, I frequently interview people from SETI, and it's getting to a pretty interesting point with SETI. Probably harder and harder to justify whatever little money they do spend looking for some signal from anywhere out there. The last time I think I interviewed Seth, he said that you know, if we don't in the next I forget X number of years locate something, anything, we are going to have to make some sort of statement about the fact that maybe there isn't anything. Do you have any thoughts on what SETI's done and [unclear: Mars Talent]?
 
 [02:04:02] Jim Bell:  
 Yeah, first of all, I have just incredible respect for those folks and the fact that I mean they're I don't believe they're government funded at all. I think it's
 
-Art Bell:  
+[02:04:10] Art Bell:  
 That's right.
 
-Jim Bell:  
+[02:04:11] Jim Bell:  
 Most all private funding now. People visionaries, you know, saying hey, let's look because we can. I think the search has to go on for some time because space is big. It takes a long time for radio signals to move among the stars, and even intentional signals can only travel at the speed of light, and so we have to look for some number of years before you know we we'd be able to say hey you know we can't see anything and maybe the reason is that our equipment isn't good enough maybe the reason is we haven't been looking long enough or maybe the reason is that we're alone there's nobody out there and when such a statement is made you know those folks are very reputable scientists and they're doing this in wide open you know easy to follow ways I think whatever statement they make whether they find something or don't it'll be believable and we'll just move on from there.
 
 [02:05:09] Art Bell:  
@@ -956,7 +956,7 @@ It would be awfully sad if in the end we don't find anything, to contemplate the
 [02:05:24] Jim Bell:  
 What a waste of space! One of my favorite lines. Yeah, you know, I agree with you, but I also think that we are just in the infancy of doing the search art. I mean, we have the technology, and we've been looking for enough time to survey a you know a tiny number of stars in our neighborhood, and this is a search that can go on for a very long time before we could get positive or negative results. Our galaxy is enormous, and it's just one of you know an enormous number of galaxies, and There may, you know, one possible end result of this may be, and it may not be possible for us to know this, but it may be the case that our galaxy and other galaxies are teeming with civilizations, advanced civilizations, and we just have no way of communicating with each other because the distances are so vast. I mean, that that's a possibility.
 
-Art Bell:  
+[02:06:20] Art Bell:  
 I have no- there's one other possibility, Professor, and that is that we are being visited. Now, it is very difficult to ignore all of the sightings that there have been and there continue to be. I mean, I certainly can't. I've had my own sightings. Now, these are things that are just completely inexplicable, and I suppose it could be some experimental U.S. Craft that I saw, but it certainly didn't seem that way. And maybe we are being visited. Maybe, perhaps we are being monitored. Have you ever wondered about that?
 
 [02:07:02] Jim Bell:  
@@ -1054,7 +1054,7 @@ It does appear to be a skull. There's no question about that. But again, the hum
 [02:15:31] Caller 9 (Shane):  
 Hi, Mr. Bell, Professor Bell. How you gentlemen doing tonight?
 
-Art Bell:  
+[02:15:35] Art Bell:  
 Hello. The bells are fine.
 
 [02:15:37] Caller 9 (Shane):  
@@ -1128,7 +1128,7 @@ Hey there, Steve.
 [02:22:51] Caller 11 (Steve):  
 I'm sure Art, you've gotten plenty of my fast blast messages. It is very hard to get you on the phone.
 
-Art Bell:  
+[02:22:59] Art Bell:  
 Well, here you are.
 
 [02:23:01] Caller 11 (Steve):  
@@ -1167,10 +1167,10 @@ Yes, sir.
 [02:25:09] Jim Bell:  
 Hey, Tim.
 
-Caller 12 (Tim):  
+[02:25:10] Caller 12 (Tim):  
 I have a question about something that I've never fully understood. I am a, I guess you'd say, a little bit versed in astronomy and physics. I'm sure you're both probably familiar with the Drake Equation regarding just how many technological civilizations probably actually are in our galaxy.
 
-Jim Bell:  
+[02:25:32] Jim Bell:  
 Okay. Yeah. Yeah.
 
 [02:25:33] Caller 12 (Tim):  
@@ -1233,7 +1233,7 @@ Wonderful. Thank you so very much.
 [02:29:16] Jim Bell:  
 I was able to get about 150 of our best pictures into this book that's out. I don't know if
 
-Art Bell:  
+[02:29:22] Art Bell:  
 Oh, you have a book out.
 
 [02:29:23] Jim Bell:  
@@ -1242,16 +1242,16 @@ I think you guys have a link. It's called Postcards from Mars. It just came out 
 [02:29:44] Art Bell:  
 Okay, Postcards from Mars, huh?
 
-Jim Bell:  
+[02:29:46] Jim Bell:  
 Yep.
 
-Art Bell:  
+[02:29:47] Art Bell:  
 All right, let me ask you something that I ask the SETI people all the time, and I'm just trying to give me the best answer you can. If Professor, you came across a photograph that you just weren't ready for, something that indicated some larger form of life. I mean, something really, really shocking.
 
 Jim Bell:  
 Yep.
 
-Art Bell:  
+[02:30:11] Art Bell:  
 What would be the release procedure on something like that?
 
 [02:30:15] Jim Bell:  
@@ -1275,7 +1275,7 @@ Oh sure.
 [02:32:52] Jim Bell:  
 So the whole goal is to share it all. Let's just see what.
 
-Art Bell:  
+[02:32:54] Art Bell:  
 Well, that's great. But the possible negative, professor, obviously would be very religious people who would be extremely upset. Not all of them, but a substantial number of them to see large life suddenly apparent in a photograph from Mars. I mean, it just would be.
 
 [02:33:18] Jim Bell:  
@@ -1299,13 +1299,13 @@ Oh, two very very different questions. First one about Mars airplanes. There are
 [02:35:09] Art Bell:  
 Would the atmosphere support it?
 
-Jim Bell:  
+[02:35:11] Jim Bell:  
 Yes, you can actually fly a light aircraft in the atmosphere. It has to have a pretty big wingspan, and it can't be too heavy. But some folks who do aerodynamics calculations and aeronautics people have figured out that you can, in fact, fly gliders, and you can, of course, fly balloons as well.
 
-Art Bell:  
+[02:35:30] Art Bell:  
 Wow!
 
-Jim Bell:  
+[02:35:30] Jim Bell:  
 Martian atmosphere. Yeah.
 
 [02:35:31] Art Bell:  
@@ -1335,7 +1335,7 @@ Well, what I'd really like, you know, somebody should get Steve a video camera h
 [02:38:28] Art Bell:  
 I'm even a skeptical person. There's no question about what I saw, Professor. None whatsoever. None. But what that was, of course, I'm skeptical about that. It could have been one of ours, although I sincerely doubt it. Well, listen, it has been an absolute pleasure having you here. I didn't know that you had a book out, Postcards from Mars, and you say it contains how many photographs?
 
-Jim Bell:  
+[02:38:52] Jim Bell:  
 That contains about 150 photos, including some large four foot wide pullouts, panoramas and a whole bunch of stories about the rover missions, what they've done, some of the people involved. Just hundreds and hundreds of people from around the world have brought these images to us and keep the rovers going every day. So you can actually just if you Google Postcards from Mars, if you go and do an internet search on Mars rovers or Pancam, you'll find a huge number of sites on the internet where you can get at the pictures and follow along the mission yourself.
 
 [02:39:28] Art Bell:  

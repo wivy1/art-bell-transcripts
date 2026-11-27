@@ -13,7 +13,7 @@ I just want to first, I want to thank the people of New York City and Los Angele
 
 In Los Angeles, a 7.7 share for adults 25 to 54. Awesome. So listen, I want to thank everybody in New York City and Los Angeles, and we'll kind of keep you informed you know as the ratings come in. But really, truly, from the heart, everybody, for being here, for listening, for supporting everything the way you have, thank you so very much. Get ready, because we've got a big report coming in from Linda.
 
-Art Bell:  
+[00:05:14] Art Bell:  
 She's been a science reporter for us for [unclear: Isaiah] Whitley on Dreamland, of course, and here on Coast for years and years and years now, a lot of years. She has written any number of books on essentially things that go bump in the night, the unexplained, crop circles, animal mutilations, that sort of thing. She has had award-winning documentaries, and it goes on and on. She is Linda Moulton Howe, and when she's here, like Mr. Buffett, people listen because she does the hard science. So what you're about to hear is pretty amazing from somebody of hard science. Linda Moulton Howe, Linda, hi.
 
 [00:05:57] Linda Moulton Howe:  
@@ -30,13 +30,13 @@ Four of us were at one end of a long wall above the valley, and four more witnes
 [00:06:51] Art Bell:  
 All right, you know what, Linda? We better warn people because of the spontaneous nature of what you're about to hear - a very serious sighting that occurred. You're going to hear it. There's going to be some bad language.
 
-Linda Moulton Howe:  
+[00:07:03] Linda Moulton Howe:  
 Well, I actually edited out most of the emotional swear words.
 
-Art Bell:  
+[00:07:07] Art Bell:  
 Oh, did you really? I was just going to say.
 
-Linda Moulton Howe:  
+[00:07:09] Linda Moulton Howe:  
 There's one, I think.
 
 [00:07:10] Art Bell:  
@@ -67,13 +67,13 @@ Look, look, right up here. A triangle, there.
 [00:08:51] Unknown Speaker 3:  
 Yeah. Yeah. It's huge and it's just creeping. Yeah. If that's a triangle,
 
-Linda Moulton Howe:  
+[00:09:00] Linda Moulton Howe:  
 It cannot be one thing, can it? Brent Cader, retired TV broadcast engineer from Clarksville, Arkansas.
 
 Brent Cader:  
 And what I saw when I finally did see them were three lights in a triangle formation, very high, very high up in the stars. Seemingly, all three lights seem to stop almost directly overhead.
 
-Linda Moulton Howe:  
+[00:09:31] Linda Moulton Howe:  
 Don Klinebrink, service engineer for industrial equipment in Southaven, Mississippi.
 
 [00:09:39] Don Klinebrink:  
@@ -88,10 +88,10 @@ It could have been huge because I really had no reference point or them up again
 [00:10:36] Linda Moulton Howe:  
 And that would tend to support the idea that this was a formation of three objects moving in exquisite precision over three minutes, not any kind of a large object, especially since all of us seem to see the stars in and around the moving stars. Yes, Nancy Martin, corporate marketing assistant in Olivet, Missouri.
 
-Nancy Martin:  
+[00:11:00] Nancy Martin:  
 They were moving too slowly to be satellites, and they moved till almost directly overhead, and then they faded to a brownish color and kind of flickered out.
 
-Linda Moulton Howe:  
+[00:11:12] Linda Moulton Howe:  
 Did you, watching through binoculars, note if all three lights, when they stopped, did they fade out together, or did one fade out and then another and another?
 
 [00:11:24] Nancy Martin:  
@@ -106,23 +106,23 @@ Deanna Ming, TV studio tech, Memphis, Tennessee.
 [00:12:01] Deanna Ming:  
 I think it was something alien, and I think it was something that was attempting to be hidden, but maybe we were supposed to see it. I'm not sure.
 
-Linda Moulton Howe:  
+[00:12:17] Linda Moulton Howe:  
 Stephen Kelbs, maintenance engineer in Wood River, Illinois.
 
-Stephen Kelbs:  
+[00:12:21] Stephen Kelbs:  
 It was just exhilarating. It's the only way I can put it for myself. It was just very exhilarating at that in that particular moment. I just never felt so alive. I was witness to something special. It was. I had adrenaline flowing through my veins like never before, and I was just so happy to be able to witness that, and I just kept thinking I wanted to see more.
 
 [00:12:50] Linda Moulton Howe:  
 Joanne Scarpellini, retired researcher, assistant in neurology and neurochemistry at Washington University Medical School in St. Louis.
 
-Joanne Scarpellini:  
+[00:13:01] Joanne Scarpellini:  
 What are they? What kind of mechanics are here? What who has something that we haven't, or at least as far as I know, don't have a clue as to propulsion and so on? Because these things can stop in flight and then continue. And sure wasn't a helicopter, and I think that's about the only thing we have that can do that.
 
 What are they here to do?
 
 How long have they been here? Why they doing it? There's just no end to the questions.
 
-Linda Moulton Howe:  
+[00:13:34] Linda Moulton Howe:  
 There are NASA satellites called clusters launched in July 2000 to study the magnetosphere. There are four of them that travel polar orbits together, and I wondered if cluster satellites could explain the strange triangle formation. So I contacted Melvin Goldstein, project manager of the Cluster Satellite Program at NASA Goddard in Greenbelt, Maryland.
 
 [00:14:00] Melvin Goldstein:  
@@ -134,7 +134,7 @@ So they could not the cluster two satellites could not explain that sighting on 
 [00:14:48] Melvin Goldstein:  
 No, I don't. No, I don't think that's going to be viable as an explanation. I really have no idea what phenomena these people saw? There aren't that many satellites that are visible by naked eye, but there are a few.
 
-Linda Moulton Howe:  
+[00:15:11] Linda Moulton Howe:  
 But we just eliminated that cluster too. Could not.
 
 [00:15:14] Melvin Goldstein:  
@@ -180,10 +180,10 @@ That's an incredible story with an incredible, impressive array of witnesses, of
 [00:19:24] Linda Moulton Howe:  
 Yes, and that the constellations there was a starting point and a stopping point in what we know as constellations, and now what I'd like to have is to join.
 
-Art Bell:  
+[00:19:36] Art Bell:  
 Just before you do, Linda, I should note for the audience that Linda, I'm sorry, but we've killed your website temporarily. Oh, I'm getting a thousand fast blasts, and we took it down like a mafia-led weight on a bad guy. You know.
 
-Linda Moulton Howe:  
+[00:19:49] Linda Moulton Howe:  
 Well, hopefully the server will get themselves back up. They know that-
 
 [00:19:53] Art Bell:  
@@ -209,10 +209,10 @@ Well, in a manner of speaking, yes. There's a generally not, but there's one anc
 
 Now, this could be fragments of imagination. It could be. I mean, this is a prophecy, so who knows what they mean? It could be a reference to a still earlier time when some kind of cosmic catastrophe occurred, and it looked as though the, you know, the earth might have been out of kilter, but it looked as though the stars were not pursuing their course.
 
-Art Bell:  
+[00:21:41] Art Bell:  
 John, John-
 
-John Anthony West:  
+[00:21:41] John Anthony West:  
 Who knows?
 
 [00:21:42] Art Bell:  
@@ -257,7 +257,7 @@ $50 each week.
 [00:24:21] Art Bell:  
 $50 a week?
 
-Unknown Speaker 4:  
+[00:24:23] Unknown Speaker 4:  
 Yeah. I do so much around here.
 
 [00:24:26] Art Bell:  
@@ -269,10 +269,10 @@ $5.
 [00:24:29] Art Bell:  
 So you don't want much then. You want a ten times boost in your allowance.
 
-Unknown Speaker 4:  
+[00:24:34] Unknown Speaker 4:  
 Yeah.
 
-Art Bell:  
+[00:24:34] Art Bell:  
 But what would you be willing to do for that?
 
 [00:24:36] Unknown Speaker 4:  
@@ -281,16 +281,16 @@ Do laundry, do the dishes, clean the living room, my brothers and sisters' bedro
 [00:24:42] Art Bell:  
 That's pretty heavy.
 
-Unknown Speaker 4:  
+[00:24:43] Unknown Speaker 4:  
 Yeah.
 
-Art Bell:  
+[00:24:44] Art Bell:  
 Tell your parents, Art said ten times.
 
-Unknown Speaker 4:  
+[00:24:45] Unknown Speaker 4:  
 Okay.
 
-Art Bell:  
+[00:24:47] Art Bell:  
 All right.
 
 [00:24:48] Unknown Speaker 4:  
@@ -326,7 +326,7 @@ Yes.
 [00:25:20] Deborah:  
 Along comes the friendly garden snake who enlightens her, and when the omnipotent God of Adam asked who gave him the fruit of the tree of knowledge, Adam did not hesitate to rat Eve out.
 
-Art Bell:  
+[00:25:31] Art Bell:  
 Well, it was obvious that it was her.
 
 [00:25:33] Deborah:  
@@ -350,19 +350,19 @@ Hello. The satanic feminist. You know, there's a lot of people say it. Well, the
 [00:26:00] Unknown Speaker 5:  
 Coast to Coast AM with Art Bell. Anyone for a dentist?
 
-Art Bell:  
+[00:26:03] Art Bell:  
 East of the Rockies, you're on the air.
 
-Unknown Speaker 6:  
+[00:26:05] Unknown Speaker 6:  
 Hi, Art. I'd like to thank you for your show. It's kept me going. I do crown and bridge work. I own a crown and bridge dental laboratory.
 
 [00:26:13] Art Bell:  
 Oh.
 
-Unknown Speaker 6:  
+[00:26:13] Unknown Speaker 6:  
 And there are many, many crowns with a little Art Bell twist on them.
 
-Art Bell:  
+[00:26:19] Art Bell:  
 Are you serious?
 
 [00:26:20] Unknown Speaker 6:  
@@ -371,16 +371,16 @@ Yeah, I weave little A's and B's into the anatomy.
 [00:26:26] Art Bell:  
 So there are people walking around with my initials in their anatomy and their crown of bridge, yeah. How many of these things do you?
 
-Unknown Speaker 6:  
+[00:26:35] Unknown Speaker 6:  
 Oh, I've done thousands.
 
-Art Bell:  
+[00:26:39] Art Bell:  
 That's the best yet. All right, I appreciate it, sir.
 
-Unknown Speaker 6:  
+[00:26:43] Unknown Speaker 6:  
 All right, thanks, Art.
 
-Art Bell:  
+[00:26:45] Art Bell:  
 Take care. Oh my God. So my mark is in your mouth. Thousands of mouths.
 
 [00:26:52] Art Bell:  
@@ -403,19 +403,19 @@ It's just what the doctor ordered. Well, all right, very quickly, I'm getting in
 [00:32:37] Linda Moulton Howe:  
 Yes, thank you. That's one of the things I was hoping for, and my email address is `earthfiles@earthfiles.com`. That is the same as my website `www.earthfiles.com`, where these reports tonight are posted, and for people who would like to fax me, I'm at 215-491-9842. That's 215-491-9842.
 
-Art Bell:  
+[00:33:14] Art Bell:  
 Right, and Linda, our other guest, John Anthony West, has provided a link which we've got up on the website right now, which gives you a virtual tour of Egypt. I mean, it's awesome. So, audience, I'd again see that too.
 
 [00:33:27] Linda Moulton Howe:  
 Yes, that is an amazing website, and John also has a website for his research and his communication, which is `www.jawest`.
 
-Art Bell:  
+[00:33:37] Art Bell:  
 We've got a link for that. We've got a link for that also.
 
-Linda Moulton Howe:  
+[00:33:43] Linda Moulton Howe:  
 Oh, great.
 
-Art Bell:  
+[00:33:44] Art Bell:  
 At ArtBell.
 
 [00:33:45] Linda Moulton Howe:  
@@ -430,10 +430,10 @@ Oh right.
 [00:34:20] Art Bell:  
 Who said Zahi has some big new title, and I'm sure you've got it.
 
-John Anthony West:  
+[00:34:26] John Anthony West:  
 That's right.
 
-Art Bell:  
+[00:34:26] Art Bell:  
 And that that they're after they're talking about all these gold mummies, but according to Dannion, now maybe you can knock this rumor down. But but these gold mummies, he says, are kind of a distraction that they're providing in Egypt right now because there's something a lot more interesting going on. Is that true?
 
 [00:34:41] John Anthony West:  
@@ -445,13 +445,13 @@ Oh yes.
 [00:34:58] John Anthony West:  
 It's `www.magicalegypt.com`.
 
-Art Bell:  
+[00:35:01] Art Bell:  
 Yeah, as I said to my audience, though, John, if they just go to tonight's guest info,
 
-John Anthony West:  
+[00:35:09] John Anthony West:  
 Ah right,
 
-Art Bell:  
+[00:35:09] Art Bell:  
 We've got the link. So get it there. Okay. Yeah, absolutely.
 
 [00:35:12] John Anthony West:  
@@ -463,13 +463,13 @@ Yeah, that's why.
 [00:35:14] John Anthony West:  
 Yeah, that's why. Yeah, anyway, yeah. Zahi, I mean, Zahi has now been made the director of antiquities, so he's now the big boss there. But he's kept his office on the Giza plateau. He goes there every you know a couple of days every week. So he's the man in charge now, which from my point of view is actually good, believe it or not. I mean, a couple of years ago, you know, this was war, all-out war. It was like Israel and Palestine.
 
-Art Bell:  
+[00:35:39] Art Bell:  
 I recall very well. Yes.
 
 [00:35:41] John Anthony West:  
 But in the last few years, in fact, you were when we were together on that Alaska cruise that the thaw was starting to happen then, and since that time we've become it's better than just polite. I mean, we're actually on very good personal terms, even though he's as publicly as opposed to our theories as ever.
 
-Art Bell:  
+[00:35:58] Art Bell:  
 Would you use the word friend?
 
 [00:36:00] John Anthony West:  
@@ -526,7 +526,7 @@ Yeah, well there is there's a technique called isotopic analysis, which is to st
 
 Only problem to date is, or big problem I should say, is that no one is really sure if this will give dates in terms of let's say thousands of years rather than terms of tens of thousands of years. So whether or not it's good enough to tell us that something is 20,000 BC or 30,000 BC or something like that, we're not sure till we can do it.
 
-Art Bell:  
+[00:42:36] Art Bell:  
 Can't they ultimately though, John, calibrate that using other dating methods to see if it's accurate in the nearer term?
 
 [00:42:43] John Anthony West:  
@@ -538,31 +538,31 @@ Yes, I know.
 [00:42:55] John Anthony West:  
 I don't really. I, as I said, first things first, and first thing is to get this water weathering thing established once and for all.
 
-Art Bell:  
+[00:43:02] Art Bell:  
 Should we be believing and following what Zahi and company are suggesting that we keep our eyes on in Egypt, or are there things going on, perhaps elsewhere, that they'd rather not have us looking real hard at?
 
 [00:43:18] John Anthony West:  
 Oh, I don't. Not that I know of. I used to think that something was being concealed, but quite frankly, I'm. I don't think so. And knowing Zahi as well as I know him now, I think that there was something really important. He's very patriotic, Zahi.
 
-Art Bell:  
+[00:43:33] Art Bell:  
 Oh yes, oh yes.
 
-John Anthony West:  
+[00:43:34] John Anthony West:  
 Anything that's good for Egypt,
 
-Art Bell:  
+[00:43:35] Art Bell:  
 That's right.
 
-John Anthony West:  
+[00:43:36] John Anthony West:  
 He will do, and I find it very hard to imagine him sitting on something that he doesn't want us to know. I used to think otherwise, but I really do now believe that if there was something major, and you know, Zahi, you know, he likes to be in the he likes to be in front of the public. He does.
 
 [00:43:53] Art Bell:  
 He does, but he's also very protective and patriotic of his own country. As
 
-John Anthony West:  
+[00:43:59] John Anthony West:  
 Oh, absolutely,
 
-Art Bell:  
+[00:44:00] Art Bell:  
 As he rightly should be. Now, if there's something that comes up that challenges what Egyptians believe to have been true, I mean, after all, you look at us and the Brookings report and all the rest of that, and how would Egypt be any different?
 
 [00:44:14] John Anthony West:  
@@ -571,10 +571,10 @@ Yeah,
 [00:44:14] Linda Moulton Howe:  
 And John, on this most recent trip, didn't you talk with Zahi Hawass about this science panel?
 
-John Anthony West:  
+[00:44:22] John Anthony West:  
 Oh yeah,
 
-Linda Moulton Howe:  
+[00:44:22] Linda Moulton Howe:  
 Can you tell us what his reaction was?
 
 [00:44:24] John Anthony West:  
@@ -644,7 +644,7 @@ To create that circle. But those are relatively, you know, it's not as though th
 [00:49:53] Art Bell:  
 Yeah, you're thinking though of the Sphinx at 36,000 years. That's a gigantic jump, John.
 
-John Anthony West:  
+[00:49:57] John Anthony West:  
 Oh yeah, gigantic. Yes, I am. But as I said, though it sounds wild, excuse me, it does correspond to let's say hints within the Egyptian texts themselves, and just the nature of the Sphinx itself.
 
 I'll tell you a funny little anecdote. I can tell it now. Schoch always never wanted me to tell it, but when he first got into the Sphinx enclosure, he stood there, awed, as you do when you're in by the Sphinx and looking around at this tremendously deeply weathered rock. He sort of looked around and he's a geologist, so he sees rock where everyone else sees statue, and he said, "Wow!" He said these rocks look like they're hundreds of thousands of years old. And then he turns to me and said, "[unclear: Wolfy, said] don't quote me on that."
@@ -674,19 +674,19 @@ One thing's for certain, anything can happen on Coast to Coast AM. No ands, ifs,
 [00:52:57] Unknown Speaker 7:  
 I'm with the society, but it's not the Masons. It's an offshoot called the Mystical Order of the Dequodgerble.
 
-Art Bell:  
+[00:53:05] Art Bell:  
 And you lying sucker! The Mystical Order of the Dequodgerble, my eye! I don't believe it for a second.
 
-Unknown Speaker 7:  
+[00:53:13] Unknown Speaker 7:  
 Oh really?
 
-Art Bell:  
+[00:53:14] Art Bell:  
 Declawed gerbil. Declawed gerbil. There's no such thing.
 
 Unknown Speaker 7:  
 Oh yeah, we. It's a rigorous process to get in.
 
-Art Bell:  
+[00:53:22] Art Bell:  
 Yeah, I'm sure it is, and I'm sure a lot of your members end up in the hospital too. Goodbye, you're out of here. This quarter, the declawed gerbil, my butt. That I should
 
 [00:53:59] Unknown Speaker 8:  
@@ -723,7 +723,7 @@ Ohio Congressman James Traficant was convicted April 11th of taking bribes and k
 [00:58:43] Jason Walker:  
 Another losing day on Wall Street Tuesday. The Dow was off 47 points. Active trading on the tech side. The Nasdaq fell 28 points. Jason Walker with news on the USA Radio Network.
 
-Art Bell:  
+[00:58:56] Art Bell:  
 Call
 
 [00:59:02] Art Bell:  
@@ -732,7 +732,7 @@ right now to reserve your copy of the April issue of the one and only After Dark
 [01:00:44] Ross Mitchell:  
 1-800-618-8255. East of the Rockies, 1-800-825-5033. First time callers may reach Art at 1-775-727-1222, and the wild card line is open at 1-775-27-1295. To reach Art on the toll free international line, call your AT&T operator and have them dial 800-893-0903. This is Coast to Coast AM with Art Bell from the Kingdom of Nye.
 
-Art Bell:  
+[01:01:44] Art Bell:  
 In your wildest dreams, indeed. We're about to talk to a monster hunter. How's that for a job description, huh? Somebody who actually hunts monsters. Peter von Puttkamer, film director, joined the monster hunters on their quest to prove the existence of creatures science says aren't there, don't exist. He's been traveling through dark jungles and mountain caves around the world to document their journey. Two years in the making, segments shot in England, Puerto Rico, Tasmania, Southern Australia, New Jersey-that's right, New Jersey-and British Columbia. There is a Jersey Devil, you know. His documentary delves into the bizarre world of cryptozoology and the obsessed people who inhabit it. Obsessed.
 
 Peter von Puttkamer has been producing international award-winning films in the U.S. and Canada over the last twenty years. His documentaries have aired on Discovery Channel, TLC, Canada, U.S. and Europe, Global TV, CBC, CTV, SBS, everywhere it seems. These programs have won more than fifty international awards. Von Puttkamer has also directed short dramas and worked as a director of photography and editor on PBS documentaries. Programs have dealt with a variety of issues: anthropology, environment, socio-political themes of various sorts, medical breakthroughs, and films produced for and about Native Americans.
@@ -741,7 +741,7 @@ His interest in the mythology and cultures of Native peoples led to a lifelong f
 
 His most recent film, Monster Hunters, won the Platinum Award from the 35th annual Worldfest Houston Festival in two categories: Best TV Documentary Series and Best TV Documentary Special. He is a monster hunter, and we've got eyewitness taped reports for you tonight. You're just not going to believe it. Stay right
 
-Art Bell:  
+[01:07:53] Art Bell:  
 Well, all right. Here is Peter von Puttkamer, and I hope I'm doing that fairly well.
 
 [01:08:00] Peter von Puttkamer:  
@@ -828,16 +828,16 @@ Yeah, I believe that they. I mean, my own philosophy on this now, and having tal
 [01:15:31] Art Bell:  
 And yet, for example, in a relatively urban area like New Jersey, we've still got the Jersey Devil. Can we play one of those segments? I
 
-Peter von Puttkamer:  
+[01:15:40] Peter von Puttkamer:  
 Sure.
 
-Art Bell:  
+[01:15:41] Art Bell:  
 Can I do that?
 
 [01:15:42] Peter von Puttkamer:  
 Yeah, absolutely.
 
-Art Bell:  
+[01:15:43] Art Bell:  
 Sort of just do it as we go. In, in New Jersey, of all places, what is it we're about to hear?
 
 [01:15:50] Peter von Puttkamer:  
@@ -846,7 +846,7 @@ You know what? I'm not entirely sure, but I suspect it's one of the hunts.
 [01:15:55] Art Bell:  
 All right, I've got three apparent tracks that relate to the Jersey Devil. Let's see what we've got.
 
-Peter von Puttkamer:  
+[01:16:03] Peter von Puttkamer:  
 Okay.
 
 [01:16:03] Art Bell:  
@@ -855,7 +855,7 @@ Here we go.
 [01:16:04] Mrs. Higginbotham:  
 I seen this thing going across the top of the bushes, and the only way I can describe it is that it was like the Mobil horse, the sign of the Mobil horse.
 
-Randy Higginbotham:  
+[01:16:16] Randy Higginbotham:  
 Yeah, it sounds like a woman screaming, but real loud. If you can picture amplification, you know, loudest scream you ever heard, maybe ten times more or even fifteen times more, where it would wake you up out of a dead sleep, and it would just scream bloody murder, and I'm telling you, you had to hear it to believe actually how loud it would be.
 
 [01:16:37] Art Bell:  
@@ -870,16 +870,16 @@ The Jersey Devil has been called the official state demon of the state of New Je
 Unknown Speaker 11:  
 The Jersey Devil has a number of forms. Quite a few monsters just have maybe one form that they're known for, but the Jersey Devil has been anything from a demonic type of shape. One of its most common features, kind of gargoyle looking, with a horse-like head, bat wings. Put that all together, it makes it a kind of a different, unexplained monster.
 
-Art Bell:  
+[01:17:38] Art Bell:  
 And then finally, on the scream of the Jersey Devil.
 
-Unknown Speaker 12:  
+[01:17:43] Unknown Speaker 12:  
 Yeah, we're all in. Yeah, I'm good. All right, let's keep going. Mary, Lori, hear something?
 
 Unknown Speaker 13:  
 Yeah, I do.
 
-Unknown Speaker 14:  
+[01:17:53] Unknown Speaker 14:  
 We we've come across the Jersey Devil screech a couple times collectively, the people in the group, and it sounded like machinery and a woman and an animal all combined.
 
 It sent chills up my spine.
@@ -904,7 +904,7 @@ would you want to really encounter it?
 [01:19:36] Peter von Puttkamer:  
 No, I mean it was actually very scary to be out there. It was actually of all the places we went to in the world, New Jersey was the scariest. Where we were in that forest, and you got a picture like every few hundred yards. I mean, you're out in the forest. It's very noisy in there, as you could hear.
 
-Art Bell:  
+[01:19:57] Art Bell:  
 Yeah.
 
 [01:19:57] Peter von Puttkamer:  
@@ -925,7 +925,7 @@ Well, I-I can tell you a little bit more about those first two eyewitness things
 [01:21:02] Art Bell:  
 Please do,
 
-Peter von Puttkamer:  
+[01:21:02] Peter von Puttkamer:  
 As it's very interesting. These people, they're called the Pineys, and it's actually become a bit of a derogatory term now, but it used to be the way they were referred to, and they're people that live in the Pine Barrens.
 
 A lot of folks don't know that southern New Jersey is actually kind of a pristine wilderness. There's an area the size of Delaware down there that's all these Pine Barrens and dunes and swamps, and it's very desolate. And you know there could possibly be a species of animal in there that you wouldn't know about.
@@ -947,16 +947,16 @@ Right here on Earth, right now. All right, hold on, I'm Art Bell, and we have wi
 
 You are on the air on the international line. Where are you calling from, please?
 
-Unknown Speaker 15:  
+[01:24:02] Unknown Speaker 15:  
 Vancouver, Scotland.
 
-Art Bell:  
+[01:24:03] Art Bell:  
 You are the first caller from Scotland. Where are you, please?
 
 [01:24:06] Unknown Speaker 16:  
 I'm in Madrid, Spain.
 
-Art Bell:  
+[01:24:07] Art Bell:  
 In Madrid, Spain. On the international line, you're on the air. Hello.
 
 [01:24:10] Maria:  
@@ -965,16 +965,16 @@ Maria from South Africa, Cape Town.
 [01:24:12] Art Bell:  
 On the international line, you're on the air. Where are you, please?
 
-Unknown Speaker 17:  
+[01:24:14] Unknown Speaker 17:  
 I'm from Norway.
 
-Art Bell:  
+[01:24:15] Art Bell:  
 Coast to Coast AM with Art Bell.
 
-Unknown Speaker 18:  
+[01:24:18] Unknown Speaker 18:  
 Coast to Coast and worldwide.
 
-Kayla:  
+[01:25:27] Kayla:  
 Hi, this is Kayla. I'd like you about the shadow people I've seen.
 
 [01:25:33] Art Bell:  
@@ -992,16 +992,16 @@ I got up and I went in my grandma's room and I could not sleep there anymore.
 [01:25:59] Art Bell:  
 You've got your radio on, don't you? Turn your radio off.
 
-Unknown Speaker 19:  
+[01:26:03] Unknown Speaker 19:  
 Is this Harp?
 
 Art Bell:  
 Yes, it is. Extinguish your radio, please.
 
-Unknown Speaker 19:  
+[01:26:08] Unknown Speaker 19:  
 Okay, just a second.
 
-Art Bell:  
+[01:26:08] Art Bell:  
 Yes, turn your radio off.
 
 [01:26:09] Unknown Speaker 19:  
@@ -1010,7 +1010,7 @@ Who's this?
 [01:26:11] Art Bell:  
 What's your best guess?
 
-Unknown Speaker 19:  
+[01:26:12] Unknown Speaker 19:  
 Are you Art Bell?
 
 [01:26:13] Art Bell:  
@@ -1022,49 +1022,49 @@ Hi.
 [01:26:21] Art Bell:  
 Hello.
 
-Unknown Speaker 20:  
+[01:26:23] Unknown Speaker 20:  
 Who am I calling?
 
-Art Bell:  
+[01:26:23] Art Bell:  
 Well, now with regard to who you're calling, you would know more about that than I would.
 
-Unknown Speaker 20:  
+[01:26:28] Unknown Speaker 20:  
 I'm trying to reach Art Bell.
 
 [01:26:29] Art Bell:  
 Uh huh. Who do you think you've reached?
 
-Unknown Speaker 20:  
+[01:26:32] Unknown Speaker 20:  
 Oh, I have no idea.
 
-Art Bell:  
+[01:26:35] Art Bell:  
 Well, you wanted what kind of pizza?
 
-Unknown Speaker 20:  
+[01:26:36] Unknown Speaker 20:  
 Oh, I don't want any pizza.
 
-Art Bell:  
+[01:26:39] Art Bell:  
 No. You did order one, anchovies, right?
 
 [01:26:43] Unknown Speaker 20:  
 No, no anchovies. I can't stand anchovies.
 
-Unknown Speaker 21:  
+[01:26:46] Unknown Speaker 21:  
 Coast to Coast AM with Art Bell. Be sure to turn your radio off. Know who you're calling and know who you are.
 
-Art Bell:  
+[01:26:52] Art Bell:  
 Are you sure you're canceling this order then?
 
 [01:26:57] Unknown Speaker 20:  
 No pizza.
 
-Art Bell:  
+[01:26:57] Art Bell:  
 All right. Well, all right.
 
 [01:26:58] Art Bell:  
 Fine. Military weather control, the Indiana Hum, Planet X, Earth changes, underground cities, human experiments by the Grays at New Mexico military bases, lizard people under the Denver airport, green children, robot cats. What on earth am I talking about? Of course, it's the one and only After Dark newsletter. Would you believe everything I just mentioned is packed into one single issue? Read all about it and more. If you can believe that, in the April issue of After Dark, subscribe right now by calling toll free 1-888-727-5505 for just $39.95. You get two free issues, fourteen for the price of twelve. The number to subscribe is 1-888-727-5505 or log on artbell.com. Hit the library link to the secure server to order. Call now 1-888-727-5505.
 
-Ross Mitchell:  
+[01:28:29] Ross Mitchell:  
 East of the Rockies, 1-800-825-5033. First time callers may reach Art at 1-775-727-1222, or use the wildcard line at 1-775-727-1295. To reach Art on the toll free international line, call your AT&T operator and have them dial 800-893-0903. This is Coast to Coast AM with Art Bell on the Premiere Radio Network.
 
 [01:29:28] Art Bell:  
@@ -1084,7 +1084,7 @@ But it's so odd. I mean, it's like if it happens once, you go, okay, well, you k
 [01:34:00] Art Bell:  
 I don't know, but you gave us one description. I mean, what is the Jersey Devil known to have done? Is it actually ever known to have done anything? As in,
 
-Peter von Puttkamer:  
+[01:34:11] Peter von Puttkamer:  
 Yes, very much, very much so. Going back to the original legend, and there's a lot of different variations on this story. You know, things started during the Revolutionary Wars, and I mean, the most popular legend is there was a lady, Mother Leeds. Now the Leeds family was a wealthy family in that area, had twelve children, was you know burdened with you know too many kids to care of or what have you, and declared let this next child be the be a devil. And this baby was born apparently first it was it looked normal and then it transformed into a demon in front of them, and in one of the more popular accounts actually killed a whole bunch of people, like ate the parents and then flew out the window.
 
 [01:35:03] Art Bell:  
@@ -1096,7 +1096,7 @@ And that that's one of the more demonic stories about it. And the
 [01:35:12] Art Bell:  
 The only trouble I have with that is that if there's a paranormal aspect to these creatures, how could they eat people in this dimension where they can barely just appear, scaring the hell out of us? But I mean that's that would imply that this is some real creature, not some paranormal phenomenon.
 
-Peter von Puttkamer:  
+[01:35:39] Peter von Puttkamer:  
 Well, yeah, I mean I think we're talking about a flesh and blood demon here, and I mean the fact that you've got a hero of the Revolutionary War, Commodore Decatur, you know, at a firing range testing cannon shells for his war against the Barbary pirates, and he sees the Jersey Devil go by and fires into it, and some of the grape shot goes through the wing of the Jersey Devil, and it keeps flying.
 
 [01:36:13] Art Bell:  
@@ -1110,7 +1110,7 @@ Yes. Well, what was interesting over there is it is the sightings of phantom big
 [01:37:24] Art Bell:  
 Yes.
 
-Peter von Puttkamer:  
+[01:37:24] Peter von Puttkamer:  
 They all knew they existed. The RSPCA know they're there, but here's the mystery part. No no bodies have shown up. No dead creatures on the highway, and the government has not officially acknowledged the presence of these animals in the country.
 
 So
@@ -1124,13 +1124,13 @@ Yes.
 Art Bell:  
 Okay. Here's a police officer in the United Kingdom, whose name is a police constable Dave Toon.
 
-Dave Toon:  
+[01:37:54] Dave Toon:  
 When I lowered the binoculars and turned to my right, about ten yards to my right was this big black cat, and I could see that it was about the size of a small fox, certainly two to three times bigger than a household cat. It turned, looked at me, and then ran off. But as it ran, it ran in a loping sort of movement, keeping its head very, very still and very low to the ground, which again is reminiscent of large black cats, such as panthers and that type of animal.
 
 [01:38:24] Art Bell:  
 All right, so there you have a police officer down in the United Kingdom. Very interesting. And then there's a, I guess yet, well, no, there is not. That was the same cut. I see. Okay, so we're going to move from there to chupacabras in a second. But these phantom cats, do they? So they disappear. They just poof.
 
-Peter von Puttkamer:  
+[01:38:52] Peter von Puttkamer:  
 Well, I'll tell you, I'm in touch with some of the monster hunters we work with over there, Quentin Rhodes, who is an actual animal, very unusual. I mean, this man learned his trapping techniques from the Cree and Chippewa Indians in northern Canada. He's very very British. He's like a small Welshman. He's out there with a leopard trap. He's the only person in England licensed to carry a leopard trap that will actually trap live leopards in the United Kingdom. So you'll see him in sight of you know sort of 16th century castles setting up a leopard trap. It's a very odd thing, and other people like the Spencers who run something called the Leicestershire Rutland Panther Watch, and they get a sighting about once a week, very common.
 
 [01:39:51] Art Bell:  
@@ -1152,7 +1152,7 @@ Yeah, I mean, we heard variations. There was a lady who described one hovering b
 [01:43:04] Art Bell:  
 Yeah, wouldn't these be? Why wouldn't they be classified as vampires? I mean, if they put two holes in the neck and they draw out all the blood, that sure sounds a lot like a vampire to me.
 
-Peter von Puttkamer:  
+[01:43:17] Peter von Puttkamer:  
 Well, amongst our group, the Beyond Boundaries group that was down there, I mean, there are a lot of different theories, and one of them was that, you know, it was an some kind of alien pet, because alien
 
 [01:43:32] Art Bell:  
@@ -1161,7 +1161,7 @@ Pet,
 [01:43:32] Peter von Puttkamer:  
 Alien pet, because they had there were sightings of UFOs and then chupacabras. You know, it's a genetic experiment, military. There's so many military secret bases in Puerto Rico, including one right at the very, very top of El Yunque, the Taino Indians' legendary mountain, that you know sits right in the rainforest, right where this thing is supposed to exist, and it gets you thinking. You know, is this some kind of government genetic experiment gone wrong? And that's what one of our monster hunters believes.
 
-Art Bell:  
+[01:44:09] Art Bell:  
 All right, would that be Bob Buck?
 
 [01:44:11] Peter von Puttkamer:  
@@ -1176,16 +1176,16 @@ Not an animal. I think you'd really want to upset. Anything can kill a healthy 1
 [01:44:33] Unknown Speaker 22:  
 And one night, we can hear rattling noises. Cages were bent in. Some of them just the wounds were in the neck. The ones that were laid on the floor, but the ones that were still in their cages, it seems like whatever it was was pulling the rabbits out of the cages.
 
-Art Bell:  
+[01:44:49] Art Bell:  
 All right, and here's one more eyewitness.
 
-Unknown Speaker 23:  
+[01:44:53] Unknown Speaker 23:  
 I personally do not believe or disbelieve on the chupacabra. I take it that the people that see these witnesses aren't lying, aren't crazy, aren't drunk, and that well, illusions don't kill animals. It's definitely a creature, and once you determine that, then you look at the evidence to try to determine what this creature may be.
 
-Art Bell:  
+[01:45:16] Art Bell:  
 Okay, let's move back one more time to the actual eyewitness accounts.
 
-Unknown Speaker 22:  
+[01:45:21] Unknown Speaker 22:  
 And one night, we could hear rattling noises. Cages were bent in. Some of them just the wounds were in the neck. The ones that were laid on the floor, but the ones that were still in their cages, it seems like whatever it was was pulling the rabbits out of the cages.
 
 Art Bell:  
@@ -1200,7 +1200,7 @@ Oh, really?
 [01:46:52] Peter von Puttkamer:  
 Mm-hmm.
 
-Art Bell:  
+[01:46:52] Art Bell:  
 And what did he say?
 
 [01:46:54] Peter von Puttkamer:  
@@ -1229,7 +1229,7 @@ Well, maybe because, as a society, we kind of like believing in monsters to scar
 
 It's real.
 
-Peter von Puttkamer:  
+[01:49:54] Peter von Puttkamer:  
 Yeah, yeah, I would agree with that. I mean, I mean, that's one of the things that drew me to these projects is just people's need to have monsters in our midst. Why do we need a wild man? Why do we need this hairy other out there? Why do we need blood sucking alien vampires?
 
 [01:50:11] Art Bell:  
@@ -1262,10 +1262,10 @@ First time caller line, you're on the air.
 
 Hello.
 
-Unknown Speaker 4:  
+[01:52:50] Unknown Speaker 4:  
 How are you?
 
-Art Bell:  
+[01:52:50] Art Bell:  
 I'm all right. How old are you?
 
 Unknown Speaker 4:  
@@ -1277,7 +1277,7 @@ Thirteen. Since you've gone through, you can make a prediction for 2002. Somethi
 [01:53:03] Unknown Speaker 4:  
 I'll get a really high allowance.
 
-Art Bell:  
+[01:53:06] Art Bell:  
 Like how big?
 
 [01:53:08] Unknown Speaker 4:  
@@ -1295,13 +1295,13 @@ Oh, what do you presently get?
 [01:53:15] Unknown Speaker 4:  
 Five dollars.
 
-Art Bell:  
+[01:53:17] Art Bell:  
 So you don't want much then. You want a ten times boost in your allowance.
 
-Unknown Speaker 4:  
+[01:53:22] Unknown Speaker 4:  
 Yeah.
 
-Art Bell:  
+[01:53:23] Art Bell:  
 What would you be willing to do for that?
 
 [01:53:24] Unknown Speaker 4:  
@@ -1313,10 +1313,10 @@ That's pretty heavy. Tell your parents, Art said ten times.
 [01:53:36] Unknown Speaker 4:  
 Okay.
 
-Art Bell:  
+[01:53:36] Art Bell:  
 All right.
 
-Unknown Speaker 4:  
+[01:53:36] Unknown Speaker 4:  
 Thank you.
 
 [01:53:37] Art Bell:  
@@ -1328,7 +1328,7 @@ Network News.
 [01:54:00] Jason Walker:  
 I'm Jason Walker. No word on the cause of that head-on collision between a commuter train and a freight south of Los Angeles that killed two people. Richard Santiago has the latest.
 
-Richard Santiago:  
+[01:54:15] Richard Santiago:  
 MetroLink Sharon Gavin says they are not responsible for coordinating what trains go through this area.
 
 [01:54:21] Sharon Gavin:  
@@ -1337,7 +1337,7 @@ This is a situation where MetroLink shares the track with the Burlington Norther
 [01:54:30] Richard Santiago:  
 The MetroLink train came to a complete halt before the crash, while the Burlington Northern and Santa Fe train was unable to do so. The NTSB has not said which of the trains was not supposed to be there. In Placentia, I'm Richard Santiago.
 
-Jason Walker:  
+[01:54:41] Jason Walker:  
 A top al-Qaeda leader telling U.S. officials the terrorist group had planned to use a so-called dirty bomb against the United States. Pennsylvania GOP Congressman Curt Weldon says the results could be horrific.
 
 [01:54:54] Curt Weldon:  
@@ -1348,7 +1348,7 @@ Israel says it will not allow a United Nations fact-finding team into the Jenin 
 
 Republicans are accusing the Democrats of stealing one of their party slogans. More on that story from USA's John Decker.
 
-John Decker:  
+[01:56:37] John Decker:  
 At his weekly news conference, House Majority Leader Dick Armey showed up with photographs dating back to 1999 that showed his party using the slogan "Securing America's Future" to promote its agenda on matters from tax relief to education. Armey noted that Democrats had started using the same slogan as they opposed the Republican proposals and promote election year measures of their own. Armey and other Republicans plan an event Wednesday to make the case again that the catchy line is a GOP slogan. John Decker, USA Radio News, Washington.
 
 [01:57:09] Jason Walker:  
@@ -1368,7 +1368,7 @@ Military weather control. The Indiana Hum. Planet X. Earth changes. Underground 
 [02:00:46] Ross Mitchell:  
 Call Art Bell in the Kingdom of Nye from west of the Rockies at 1-800-618-8255. East of the Rockies 1-800-825-5033. First time callers may reach Art at 1-775-727-1222, and the wildcard line is open at 1-775-727-1295. To reach Art on the toll free international line, call your AT&T operator and have them dial 800-893-0903. This is Coast to Coast AM with Art Bell from the Kingdom of Nye.
 
-Art Bell:  
+[02:01:46] Art Bell:  
 It absolutely is. Hello there, everybody. If you want to see something that'll make your blood run cold, maybe we'll get it up here shortly on the website, just in case you've never seen it. We did a show on the Mothman while we're on the subject of monsters, and the Mothman photographs that we had or depictions. Well, there was somebody who took a picture of the 9/11 disaster and flying to the or adjacent to, or behind, actually, it looks like one of the large skyscraper buildings. Is this incredible thing? My God, it'll make your blood run absolutely cold. If I can get a hold of Keith, and I'm trying to get the photograph up there under what's new, we will.
 
 But the person who took the photograph also then later supplied a blowup. I hope Keith has that version of blowup of this creature. And there's no question; it's a pterodactyl of some sort. But you look at that, and it flew right as the whole 9/11 thing was occurring. You see that photograph, and I to me, it makes my blood run cold to see that. And we'll try and get it up there if I can get a hold of Keith.
@@ -1413,7 +1413,7 @@ Yeah.
 [02:08:42] Art Bell:  
 You know, he heads up the SETI project, and he takes a lot of flack himself, but he doesn't believe in this kind of thing. Scientists don't.
 
-Peter von Puttkamer:  
+[02:08:51] Peter von Puttkamer:  
 Well, it's it does make you think when you're at that Arecibo, you know, you think of them sending signals out into space for all these you know forty to fifty years and you know where would you know where would a craft or where would an alien you know head in on they'd head in on a beam coming from that location I mean it's been sending signals out for decades actually
 
 [02:09:17] Art Bell:  
@@ -1440,10 +1440,10 @@ Great monster.
 Peter von Puttkamer:  
 This is a great monster. This is one I am quite certain exists I think there's really something going on here for one thing if you haven't seen the photograph we've got one on our website monsterhunters.com but it's basically I think the best cryptozoological image that I've ever seen short of maybe that famous Patterson film from Sasquatch days back in 1967 I mean this is there isn't this is better than any image that was ever taken of Loch Ness or any other lake monster there's a picture of a juvenile version of one of these creatures that's been pulled from the belly of a sperm whale and it was propped up on the dock and I was taken by a first aid officer. This is at a whaling station in northern British Columbia, 1937, and these pictures were taken of it.
 
-Art Bell:  
+[02:11:26] Art Bell:  
 All right, listen, I'm on. I'm trying to get on your website right now. It's jammed up, unfortunately, because we're talking about it. So, can you describe what's in this photo? I'll eventually get to it, but for us right now that can't see it.
 
-Peter von Puttkamer:  
+[02:11:41] Peter von Puttkamer:  
 Sure, I'll tell you what it is. Is there's a see? Okay, I'll describe it briefly, and then I'll give you a little background on this creature. So, what it is essentially is a snake like creature with clear humps and a camel like head, and a tail that's quite detailed, and it's you know if you can actually blow this up and you can see a kind of an articulated, almost hand like you know almost like a lobster tail or something coming around on it, and it's about sort of 12 to 14 feet long.
 
 They we actually interviewed in the show 86 year old dock worker who was there when they pulled this thing out, and he was a real no nonsense guy, and he just said you know we saw lots of things come out of whale stomachs, but we never saw anything like this. That's why we took the time. We were busy people, but we took the time to set this thing up. They put white sheets in behind it, so you could see its color. You know, you could it would stand out against the gray wood of the dock, and they took several pictures of it, and it's very clear.
@@ -1464,7 +1464,7 @@ Cadborosaurus. And then it you just click once and leave the mouse cursor on the
 
 But I'll tell you in the meantime that you know this creature has been cited for centuries by Native Indians. It's integral. This is what makes it better to me than Loch Ness, is that you've got you know Native Indian people that I've talked to who've seen it to this day. But it's an integral part of their culture. I mean, it's on drums, it's on their whaling canoes, and it fits the description. Like their image of it fits the eyewitness descriptions that happen much much later of what people actually saw with a horse or camel like head, a kind of a mane and these humps, and this animal has been described as being anywhere from 25 feet to 80, 90, 100 feet in length.
 
-Art Bell:  
+[02:14:29] Art Bell:  
 Aye aye aye.
 
 [02:14:29] Peter von Puttkamer:  
@@ -1476,7 +1476,7 @@ Your page is really loading very slowly. I'm coming up on it. I see a horse head
 [02:14:45] Peter von Puttkamer:  
 Okay. Well, you go. You just go to Monster Profiles and then you click on Chupacabra and then you have to go to the image and I think it's the middle button. You just click and hold on that and the picture should come up. But in any case. Else can I tell you about?
 
-Art Bell:  
+[02:15:03] Art Bell:  
 Well, how about we play the we've got eyewitness stuff here. Terry Osland.
 
 [02:15:09] Peter von Puttkamer:  
@@ -1485,7 +1485,7 @@ Yeah.
 [02:15:10] Art Bell:  
 And Don.
 
-Peter von Puttkamer:  
+[02:15:11] Peter von Puttkamer:  
 Tell you a lot.
 
 [02:15:12] Art Bell:  
@@ -1512,10 +1512,10 @@ There you are. So there you are, a one who saw this incredible thing, and I gues
 [02:16:50] Peter von Puttkamer:  
 Well, there's an area in near Victoria on Vancouver Island, so this is British Columbia, and it's called a place called Deep Cove, and this is where the most frequent sightings happen. And this one person you heard was actually a commercial pilot, and we actually went up with him and surveyed the area, and we were and went with one of the scientists, and there are in fact two scientists, former head of oceanography, University of British Columbia, Paul LeBlond, and biologist Dr. Ed Bousfield from back east, and the two of them have been trying to get this classified as a legitimate creature for 30 years.
 
-Art Bell:  
+[02:17:32] Art Bell:  
 I know there have also been sonar, a lot of sonar reports of creatures of this sort, haven't there?
 
-Peter von Puttkamer:  
+[02:17:43] Peter von Puttkamer:  
 Yes, I'm not too sure about the Cadborosaurus, but I think there are other accounts like that. Yeah.
 
 [02:17:52] Art Bell:  
@@ -1575,10 +1575,10 @@ You know, and so you kind of go, oh yeah, well, gee, that sounds pretty fantasti
 [02:21:53] Art Bell:  
 Well, yeah, but these descriptions, for example, of the long neck, that sounds like Nessie. Yeah. That mean? I mean, there have been pictures of Nessie, and we've all seen that long neck coming up out of the water. Sounds just like that.
 
-Peter von Puttkamer:  
+[02:22:08] Peter von Puttkamer:  
 Mm-hmm. Well, I, I mean, the one thing that we talked to, you know, a well-respected scientist, and about this whole phenomenon, and he was actually pretty open-minded about it. I mean, he said for him, the deep ocean is, you know, uncharted territory, and he is open to the idea of there being these types of creatures there, and a friend of his, he told us kind of off the record, I guess, but he said that a friend of his who is also you know whose opinion he respects as a trained scientist and so on did see a wake moving at about 20 knots through deep cove one day, and it just you know totally confused him. He couldn't figure out what it was. It wasn't a whale. It wasn't a seal, and it was very very odd. So he had an open mind. So I think that there's something to this.
 
-Art Bell:  
+[02:23:07] Art Bell:  
 That's different for a scientist, right, Peter? Hold on. Ah, we're talking with a monster hunter. I guess we've agreed on that much. Peter von Puttkamer is my guest, and you've seen pictures of Nessie, I'm sure, right? Do you know that we actually know a lot less about what's at the very deepest part of our oceans than we know about near Earth space, which we inhabit on a regular basis. We don't inhabit the depths on a regular basis. I'm Art Bell.
 
 We'll be right back.
@@ -1594,7 +1594,7 @@ I'm all right. How old are you?
 [02:24:07] Unknown Speaker 4:  
 Thirteen.
 
-Art Bell:  
+[02:24:07] Art Bell:  
 Thirteen. Since you've gone through, you can make a prediction for 2002. Something you think might happen or will happen, or I will even accept you would like to happen.
 
 [02:24:17] Unknown Speaker 4:  
@@ -1603,7 +1603,7 @@ I'll get a really high allowance.
 [02:24:19] Art Bell:  
 Like how big?
 
-Unknown Speaker 4:  
+[02:24:22] Unknown Speaker 4:  
 $50 each week.
 
 [02:24:23] Art Bell:  
@@ -1621,10 +1621,10 @@ $5.
 [02:24:31] Art Bell:  
 So you don't want much then. You want a ten times boost in your allowance.
 
-Unknown Speaker 4:  
+[02:24:36] Unknown Speaker 4:  
 Yeah.
 
-Art Bell:  
+[02:24:36] Art Bell:  
 But what would you be willing to do for that?
 
 [02:24:38] Unknown Speaker 4:  
@@ -1633,10 +1633,10 @@ Do laundry, do the dishes, clean the living room, my brother's and sister's bedr
 [02:24:44] Art Bell:  
 That's pretty heavy. Tell your parents, Art said ten times.
 
-Unknown Speaker 4:  
+[02:24:49] Unknown Speaker 4:  
 Okay.
 
-Art Bell:  
+[02:24:49] Art Bell:  
 All right.
 
 [02:24:50] Unknown Speaker 4:  
@@ -1645,10 +1645,10 @@ Thank you.
 [02:24:50] Art Bell:  
 Bye. I'll see you later. I would look for lightning to strike before you get it, but you can ask. A west of the Rockies, you are on the air. Are you going to speak?
 
-Deborah:  
+[02:25:04] Deborah:  
 Art?
 
-Art Bell:  
+[02:25:04] Art Bell:  
 Yes.
 
 [02:25:05] Deborah:  
@@ -1660,7 +1660,7 @@ How you doing?
 [02:25:08] Deborah:  
 Very good, and I am a satanic feminist.
 
-Art Bell:  
+[02:25:12] Art Bell:  
 A satanic feminist?
 
 [02:25:13] Deborah:  
@@ -1672,10 +1672,10 @@ Yes.
 [02:25:22] Deborah:  
 Along comes the friendly garden snake who enlightens her, and when the omnipotent God of Adam asks who gave him the fruit of the tree of knowledge, Adam did not hesitate to rat Eve out.
 
-Art Bell:  
+[02:25:33] Art Bell:  
 Well, it was obvious that it was her.
 
-Deborah:  
+[02:25:35] Deborah:  
 Could have said that the snake gave him the fruit of the tree of knowledge. He didn't have to immediately rat Eve out.
 
 [02:25:43] Art Bell:  
@@ -1684,7 +1684,7 @@ You're saying this for real, huh?
 [02:25:44] Deborah:  
 Well, of course it's for real. Why would I want to lie about something like this?
 
-Art Bell:  
+[02:25:47] Art Bell:  
 Because you're satanic.
 
 Deborah:  
@@ -1696,7 +1696,7 @@ Hello. The satanic feminist. You know, there's a lot of people that say, "Well, 
 [02:26:02] Unknown Speaker 5:  
 Coast to Coast AM with Art Bell. Anyone for a dentist?
 
-Art Bell:  
+[02:26:06] Art Bell:  
 East of the Rockies, you're on the air.
 
 [02:26:07] Unknown Speaker 6:  
@@ -1705,7 +1705,7 @@ Hi, Art. I'd like to thank you for your show. It's kept me going. I do crown and
 [02:26:14] Art Bell:  
 Oh.
 
-Unknown Speaker 6:  
+[02:26:15] Unknown Speaker 6:  
 And there are many, many crowns with a little Art Bell twist on them.
 
 [02:26:20] Art Bell:  
@@ -1717,22 +1717,22 @@ Yeah, I weave little A's and B's into the anatomy.
 [02:26:28] Art Bell:  
 So there are people walking around with my initials in their anatomy and their crown of bridge.
 
-Unknown Speaker 6:  
+[02:26:34] Unknown Speaker 6:  
 Yeah.
 
 [02:26:34] Art Bell:  
 How many of these things do you?
 
-Unknown Speaker 6:  
+[02:26:37] Unknown Speaker 6:  
 Oh, I've done thousands.
 
-Art Bell:  
+[02:26:42] Art Bell:  
 That's the best yet. All right, I appreciate it, sir.
 
-Unknown Speaker 6:  
+[02:26:45] Unknown Speaker 6:  
 All right, thanks, sir.
 
-Art Bell:  
+[02:26:46] Art Bell:  
 Take care. Oh my God. So my mark is in your mouth. Thousands of your mouths. Every time you chomp down on a quarter pounder, you're doing it with my initials.
 
 [02:27:04] Art Bell:  
@@ -1748,13 +1748,13 @@ Now we have to thank somebody out there for this. Stephen Moran, who apparently 
 
 Once me, this is a monster, and I don't know what else you'd call it something prehistoric, something paranormal. There maybe I don't know, but it's an extremely clear shot. Peter, were you able to bring that up on your computer?
 
-Peter von Puttkamer:  
+[02:33:15] Peter von Puttkamer:  
 I was yes, I've had a look at it.
 
 [02:33:17] Art Bell:  
 What do you think of that?
 
-Peter von Puttkamer:  
+[02:33:18] Peter von Puttkamer:  
 Now it's pretty remarkable. It's definitely not a fuzzy image. It's very clear, even in the blow up, it holds up very well.
 
 [02:33:27] Art Bell:  
@@ -1768,10 +1768,10 @@ No, it's definitely odd. I mean I'd like to see it. You know. I'd like to see so
 [02:34:00] Art Bell:  
 They definitely weren't after that. They were obviously after the, you know, the pictures of the devastation going on. I mean, that's
 
-Peter von Puttkamer:  
+[02:34:09] Peter von Puttkamer:  
 Yes,
 
-Art Bell:  
+[02:34:09] Art Bell:  
 Photography was all about them. But yeah,
 
 [02:34:11] Peter von Puttkamer:  
@@ -1794,10 +1794,10 @@ We know of. So you know, it's hard to say just on first.
 [02:35:12] Art Bell:  
 And of course, if it's behind that building, as it actually would appear to be in the photograph, it's monstrous. Anyway, onward. We we've got what you call or what is called Yowie.
 
-Peter von Puttkamer:  
+[02:35:25] Peter von Puttkamer:  
 Yes.
 
-Art Bell:  
+[02:35:26] Art Bell:  
 Yowie. What's Yowie?
 
 [02:35:27] Peter von Puttkamer:  
@@ -1805,10 +1805,10 @@ Oh yeah, Yowie. Yowie's another great creature. What we tried to do in this show
 
 Now, what we're talking about is a Bigfoot-like creature in Australia, one that's been recorded again in Aboriginal stories and but it seems to be quite a bit meaner than our one over here. And if you hear Dean does talk on the clip about its preferred killing method. It's just it's nocturnal, and all the hunts are conducted at night with minimal, almost virtually no lighting actually at all. It was a real challenge for us to tag along on that one. They actually communicate. Monster hunters communicate through tiny sapphire lights, sort of you know button size lights on their lapels.
 
-Art Bell:  
+[02:37:13] Art Bell:  
 Oh really?
 
-Peter von Puttkamer:  
+[02:37:13] Peter von Puttkamer:  
 They flash at each other.
 
 [02:37:14] Art Bell:  
@@ -1823,19 +1823,19 @@ All right. We're going to hear from Dean Harrison now, and we're going to follow
 [02:37:31] Dean Harrison:  
 The favorite means of death of animals by the Yowie: decapitation, a quick break of the neck, and bodily dismemberment. All those things don't sit very well with me.
 
-Unknown Speaker 26:  
+[02:37:42] Unknown Speaker 26:  
 I was told we have kangaroos, wallabies, wombats, everything, but what I heard behind that bush is something I have never heard, and nor could I describe that roar to anybody. It was so menacing, so savage, and it was directed at me. It made the hair on my neck literally stand up. I break out into goose pimples every time I think about it.
 
 [02:38:09] Art Bell:  
 All right, now, now we've got a school teacher who actually saw what he's just talking about. The Yowie.
 
-Neil Black:  
+[02:38:15] Neil Black:  
 It stood up directly in front of me. It was about six foot. It was standing outside. It reached across through the bush at me and roared in my face. It then took off through the bush at rather high speed, pushing everything out of its road like a mechanical backhoe. I suppose the best way to describe it. It pushed everything out of the road and roared as it went.
 
-Art Bell:  
+[02:38:35] Art Bell:  
 All right. Now, there you have it, Peter. I, I too have it. I have a what is said to be a legitimate recording of a Bigfoot sound. I don't know whether you've ever heard this, but take a second and listen to this. That Peter was recorded in this country by some researchers said to be a Bigfoot scream, and the way he described that. Of course, we didn't hear it, but the way he described it, it sounded sort of the same.
 
-Peter von Puttkamer:  
+[02:39:36] Peter von Puttkamer:  
 Well, I'll tell you, having done the show on Bigfoot and then coming to this Yowie phenomenon, I was impressed. Number of people that come forward on this. There was one neighborhood where apparently sixty people, sixty people have seen this in one area. It's so common that they actually, I mean, they basically went on a chase with it every night. They go chase it through the bush, and they'd hear it stomping like a freight train moving in front of them.
 
 There was a schoolteacher, Neil. His family was like something like Harry and the Hendersons. I mean, they had this animal in their backyard swamp, and the kids knew about it. And it was, oh yeah, we're going to go down and try and you know have another encounter with this thing.
@@ -1843,7 +1843,7 @@ There was a schoolteacher, Neil. His family was like something like Harry and th
 [02:40:26] Art Bell:  
 Well, in this country, Peter, people paint Bigfoot as gigantic, extremely strong, but very shy, avoiding man almost every opportunity it gets. And then when it does have interaction with man, it's very friendly. It's generally very friendly. But this doesn't sound friendly at all.
 
-Peter von Puttkamer:  
+[02:40:50] Peter von Puttkamer:  
 No, the juvenile versions of them. They that's the one Neil saw. They talking about an animal about six feet high. That they decided they it liked to play hide and seek with them, and it would come by. They'd leave food out for it. It would take the food. I mean, you should. I saw the areas. I mean, they're talking about you know huge, you know trees and bushes have been pushed out of the way. It's not something sort of a person jogging down a trail would do. So they're talking about something that leaves a big footprint on the land, so to speak. It when it moves, it just crashes and moves everything out of the way. And our Yowie hunters have had incidents where they've had rocks thrown at them.
 
 [02:41:38] Art Bell:  
@@ -1884,10 +1884,10 @@ Yes.
 [02:44:18] Peter von Puttkamer:  
 And it's coming up on the 30th. And basically we went into these caves to shoot film a never before seen blind cave tarantula.
 
-Art Bell:  
+[02:44:30] Art Bell:  
 Oh my god.
 
-Peter von Puttkamer:  
+[02:44:31] Peter von Puttkamer:  
 We had to go a mile underground.
 
 [02:44:32] Art Bell:  
@@ -1902,13 +1902,13 @@ Oh. Oh. You must have lost your mind. Tell me, I've heard a lot of stories about
 [02:45:04] Peter von Puttkamer:  
 We did, and then we found some even bigger ones in Venezuela that are the size of dinner plates.
 
-Art Bell:  
+[02:45:10] Art Bell:  
 Ah.
 
-Peter von Puttkamer:  
+[02:45:11] Peter von Puttkamer:  
 And then we cooked them up with the natives down there and ate them.
 
-Art Bell:  
+[02:45:17] Art Bell:  
 What? What did you really? You say spiders the size of dinner plates?
 
 [02:45:22] Peter von Puttkamer:  
@@ -1920,13 +1920,13 @@ Oh.
 [02:45:24] Peter von Puttkamer:  
 And they these guys revere them as messengers of the dead.
 
-Art Bell:  
+[02:45:27] Art Bell:  
 Ah.
 
-Peter von Puttkamer:  
+[02:45:28] Peter von Puttkamer:  
 They speak to these in the hallucinogenic drug ritual. They speak to these spiders.
 
-Art Bell:  
+[02:45:33] Art Bell:  
 Ah.
 
 [02:45:34] Peter von Puttkamer:  
@@ -1986,10 +1986,10 @@ Uh huh. And if you could get down far enough, you have to wonder what indeed mig
 [02:49:04] Peter von Puttkamer:  
 Well, I actually seem to remember hearing quite an interesting one on your show one night, which was some kind of hole where someone had been like putting miles of fish line down into it.
 
-Art Bell:  
+[02:49:15] Art Bell:  
 That would be Mel Waters, yeah. Yeah, and he's now found a second hole that you might be interested in, located here in the state of Nevada. And the people doing investigation, follow up investigation on this hole, are finding. People in the area of the original Mel's Hole up in Washington State that are backing his story about this hole, while nobody's actually, you know, an organized party has found it yet. They are looking, and they think they're closing in on it, and they think they know roughly where it is. So there may be some portholes to some other place below us in the Earth.
 
-Peter von Puttkamer:  
+[02:49:56] Peter von Puttkamer:  
 Well, it's interesting you mention that. I in my film Sasquatch Odyssey: The Hunt for Bigfoot, we actually went in some caves around Mount St. Helens, and I think you've had Ray Crow on your show before.
 
 [02:50:09] Art Bell:  
@@ -1998,7 +1998,7 @@ Oh yes.
 [02:50:10] Peter von Puttkamer:  
 And we were with his group, but they, I know that. There are people that believe that Bigfoot actually gets around in a network of tunnels, and there is a theory about that.
 
-Art Bell:  
+[02:50:27] Art Bell:  
 That would account for a lot, actually.
 
 [02:50:29] Peter von Puttkamer:  
@@ -2027,13 +2027,13 @@ Coast to Coast AM with Art Bell. If it's important to you, it's important to him
 [02:52:54] Unknown Speaker 27:  
 Well, some. I was thinking if you could build your own coffin and get used to it.
 
-Art Bell:  
+[02:53:00] Art Bell:  
 People, they don't think about these things, but yeah, you could go out and buy a coffin and just sort of try to get used to it.
 
-Unknown Speaker 27:  
+[02:53:05] Unknown Speaker 27:  
 Sleeping.
 
-Art Bell:  
+[02:53:06] Art Bell:  
 Oh, that's right. You know, spend a little recreational time in your coffin.
 
 [02:53:10] Unknown Speaker 27:  
@@ -2048,7 +2048,7 @@ Yeah, but see, I want sound in there.
 [02:53:14] Art Bell:  
 Coffins are generally quiet.
 
-Unknown Speaker 27:  
+[02:53:16] Unknown Speaker 27:  
 Well, but that doesn't go together, so I decided to be cremated instead because it's too quiet.
 
 [02:53:22] Art Bell:  
@@ -2095,10 +2095,10 @@ Blakey, chairman of the NTSB, says they now know what happened.
 [02:56:39] Marion Blakey:  
 The MetroLink train, in fact, would have been diverted onto a different track had it been able to proceed as planned. But in point of fact, it was struck before it could divert.
 
-Richard Santiago:  
+[02:56:51] Richard Santiago:  
 What they now want to know is why.
 
-Marion Blakey:  
+[02:56:53] Marion Blakey:  
 If the signal was functioning properly, the Burlington Northern train would have had a red signal at that point.
 
 [02:57:00] Richard Santiago:  
@@ -2118,7 +2118,7 @@ Turns out Father Graf was a match. So doctors removed the right lobe of his live
 [02:58:38] Michael Abecassis:  
 There have been no complications, and I think that we're looking forward to a full recovery.
 
-Jason Walker:  
+[02:58:44] Jason Walker:  
 That is Doctor Michael Abecassis. On Wall Street Tuesday, the Dow lost 47 points in active trading. Jason Walker with news on the USA Radio Network.
 
 [02:59:02] Art Bell:  
@@ -2175,13 +2175,13 @@ All right, and now, Doctor Archer, Doctor Michael Archer, who apparently is prep
 [03:10:05] Michael Archer:  
 We've discovered that a pickled pup of a thylacine, an animal we all thought and accept broadly is extinct, has been extinct since 1936, was actually preserved by a collector in Tasmania in 1866. In pickling this pup, he passed into the future the possibility that its DNA could be preserved. So we dipped into this pickled pup just on the off chance and against a storm of people who said it's impossible. You'll never find it. And when we came up, there was this wonderful, high-quality DNA in vast quantities. We have the thylacines' complete DNA.
 
-Art Bell:  
+[03:10:41] Art Bell:  
 Great. So they-I mean, this sounds like something out of Jurassic Park. That's what they did in Jurassic Park, right?
 
 [03:10:54] Peter von Puttkamer:  
 That's correct. And the Australian Museum has-they seem to be in a bit of a race with the mammoth people because there's a group trying to clone a mammoth, and the mammoth people aren't having much luck.
 
-Art Bell:  
+[03:11:07] Art Bell:  
 Well, woolly mammoth.
 
 [03:11:08] Peter von Puttkamer:  
@@ -2190,10 +2190,10 @@ Yeah, the woolly mammoth, and based on the frozen, you know, carcass that they f
 [03:11:39] Art Bell:  
 How good of an idea do you think this is? I'm serious. How good an idea do you personally believe this is?
 
-Peter von Puttkamer:  
+[03:11:47] Peter von Puttkamer:  
 Well, I, I, I, I just, I mean, personally, I, I don't think it's a good idea to be tinkering around with something in nature like this. I mean, we have no idea. Okay, so maybe the first one will be okay, but you know what? What is going to be the impact down the road, and what you know when you bring something like this into the world?
 
-Art Bell:  
+[03:12:12] Art Bell:  
 Well, and couldn't it not be true that the here'd be my thinking: the natural course of events as evolution plods on and time plods on is that some animals become extinct for some specific reason, either what they eat is gone, or you know climate change has or something or another has changed so that they're extinct. Whatever it is that causes an animal to go extinct, but if you bring them back in a modern world that's not ready for them,Inevitably, as they said in Jurassic Park, there's some mathematical formula that covers this, but it's going to go all wrong.
 
 [03:12:55] Peter von Puttkamer:  
@@ -2214,13 +2214,13 @@ Hello.
 [03:14:03] Art Bell:  
 Hi, Art.
 
-Caller 1:  
+[03:14:04] Caller 1:  
 Hello, Art. Hi, Peter.
 
-Peter von Puttkamer:  
+[03:14:05] Peter von Puttkamer:  
 Hi there.
 
-Caller 1:  
+[03:14:06] Caller 1:  
 I've been listening to Art Show for a long time, and that gives me the opportunity to hear different sounds that are emitted by different creatures.
 
 [03:14:15] Art Bell:  
@@ -2232,13 +2232,13 @@ And connecting the dot, it seems to me, and I have that question: How do you? Wh
 [03:14:54] Art Bell:  
 No, I think you're doing very well. In other words, you're saying that the sound that some of these monsters make is not one of native Earth.
 
-Caller 1:  
+[03:15:03] Caller 1:  
 No.
 
-Art Bell:  
+[03:15:03] Art Bell:  
 Yeah, that actually makes sense. And then in other cases, it is easily quantifiable as being from our native Earth. You agree with that, Peter?
 
-Peter von Puttkamer:  
+[03:15:15] Peter von Puttkamer:  
 Well, I think that's I hadn't actually heard that before. I think that's a
 
 [03:15:24] Art Bell:  
@@ -2247,7 +2247,7 @@ In other words,
 [03:15:25] Peter von Puttkamer:  
 fantastic thought. I hadn't really thought of that.
 
-Art Bell:  
+[03:15:27] Art Bell:  
 Okay, substitute. I mean, we did talk about the paranormal, right?
 
 [03:15:31] Peter von Puttkamer:  
@@ -2280,10 +2280,10 @@ Good morning, gentlemen.
 [03:16:24] Art Bell:  
 Hi,
 
-Caller 2 (Scott):  
+[03:16:25] Caller 2 (Scott):  
 Scott from your San Francisco.
 
-Art Bell:  
+[03:16:26] Art Bell:  
 Yes, sir.
 
 [03:16:27] Caller 2 (Scott):  
@@ -2295,7 +2295,7 @@ Yes.
 [03:17:06] Caller 2 (Scott):  
 Ah, I'll grant you, there's an awful lot about places we don't know, and even here in the San Francisco Bay Area, I know for doggone sure there are places in Santa Cruz Mountains where a man has never put his foot.
 
-Art Bell:  
+[03:17:18] Art Bell:  
 That's truth. That's truth. I've been up in those mountains. He's absolutely right. So, even in the places that we consider the most urban of all, nearby there are areas, as he points out, Santa Cruz Mountains are a really good example, that are just absolute, total, for the most part, untouched wilderness. Places where man has never put his foot. Peter.
 
 [03:17:45] Peter von Puttkamer:  
@@ -2304,7 +2304,7 @@ I yeah, the pterodactyl thing is fascinating to me, especially because tonight s
 [03:18:10] Art Bell:  
 You know, I don't think I have seen that. I know your wife is with you during the show tonight, isn't she?
 
-Peter von Puttkamer:  
+[03:18:18] Peter von Puttkamer:  
 My wife,
 
 [03:18:18] Art Bell:  
@@ -2355,16 +2355,16 @@ All right, east of the Rockies, you're on the air with Peter von Puttkamer. Hi.
 [03:19:13] Caller 3:  
 Good morning, Art.
 
-Art Bell:  
+[03:19:14] Art Bell:  
 Good morning, sir.
 
 [03:19:15] Caller 3:  
 Good morning, Peter.
 
-Art Bell:  
+[03:19:16] Art Bell:  
 Where are you?
 
-Caller 3:  
+[03:19:18] Caller 3:  
 I'm in Denver.
 
 Art Bell:  
@@ -2382,10 +2382,10 @@ I don't.
 [03:19:49] Peter von Puttkamer:  
 Written a book called The Psychic Sasquatch, but he claims to have had several encounters with sasquatches that did actually speak to him. Some of the more hard nosed people like René Dahinden or Doctor Grover Krantz, they probably wouldn't go along with that.
 
-Art Bell:  
+[03:20:08] Art Bell:  
 But I have recordings on the air.
 
-Peter von Puttkamer:  
+[03:20:10] Peter von Puttkamer:  
 Yes.
 
 [03:20:11] Art Bell:  
@@ -2403,10 +2403,10 @@ And addressing, yeah, okay, yeah.
 [03:20:35] Art Bell:  
 I've actually had these recordings on the air, Peter.
 
-Peter von Puttkamer:  
+[03:20:38] Peter von Puttkamer:  
 Okay.
 
-Art Bell:  
+[03:20:38] Art Bell:  
 They're astounding. So, you know, I West of the Rockies, you're on the air with Peter. Good morning.
 
 [03:20:44] Caller 4:  
@@ -2418,10 +2418,10 @@ Where are you, sir?
 [03:20:46] Caller 4:  
 I'm in Tucson.
 
-Art Bell:  
+[03:20:48] Art Bell:  
 Okay.
 
-Caller 4:  
+[03:20:48] Caller 4:  
 Yeah, reference Sasquatch and chupacabra.
 
 [03:20:54] Art Bell:  
@@ -2453,7 +2453,7 @@ But there is a sort of school of thought about this that talks about fur, and it
 [03:22:34] Art Bell:  
 Your show, the one that you put together, how can it be seen? Where can it be seen?
 
-Peter von Puttkamer:  
+[03:22:39] Peter von Puttkamer:  
 Our program called Monster Hunter.
 
 [03:22:41] Art Bell:  
@@ -2465,7 +2465,7 @@ Yes, it's on TLC. There's actually two episodes that we've done right now, and t
 [03:22:59] Art Bell:  
 When would be the next opportunity?
 
-Peter von Puttkamer:  
+[03:23:00] Peter von Puttkamer:  
 Okay, so the date is May 7th.
 
 [03:23:03] Art Bell:  
@@ -2492,52 +2492,52 @@ I love an earthquake. I love a bigger earthquake. They're never as big as I'd li
 Art Bell:  
 George, a twenty-five would turn entire continents over.
 
-George Carlin:  
+[03:24:23] George Carlin:  
 Ah, now you're talking, Art.
 
-Unknown Speaker 28:  
+[03:24:27] Unknown Speaker 28:  
 Coast to Coast AM with Art Bell, weeknights on this station.
 
 [03:25:31] Art Bell:  
 You are on the air on the international line. Where are you calling from, please?
 
-Unknown Speaker 15:  
+[03:25:34] Unknown Speaker 15:  
 From Scotland.
 
-Art Bell:  
+[03:25:35] Art Bell:  
 You are the first caller from Scotland. Where are you, please?
 
-Unknown Speaker 16:  
+[03:25:37] Unknown Speaker 16:  
 I'm in Madrid, Spain.
 
 Art Bell:  
 In Madrid, Spain, on the international line, you're on the air. Hello.
 
-Maria:  
+[03:25:42] Maria:  
 I'm from South Africa, Cape Town.
 
 [03:25:44] Art Bell:  
 On the international line, you're on the air. Where are you, please?
 
-Unknown Speaker 17:  
+[03:25:46] Unknown Speaker 17:  
 I'm from Norway.
 
-Unknown Speaker 18:  
+[03:25:47] Unknown Speaker 18:  
 Coast to Coast AM with Art Bell. Coast to Coast and worldwide.
 
 [03:25:58] Art Bell:  
 You've got your radio on, don't you? Turn your radio off.
 
-Unknown Speaker 19:  
+[03:26:02] Unknown Speaker 19:  
 Is this Art?
 
-Art Bell:  
+[03:26:02] Art Bell:  
 Yes, it is. Extinguish your radio, please.
 
-Unknown Speaker 19:  
+[03:26:05] Unknown Speaker 19:  
 Thank you.
 
-Art Bell:  
+[03:26:07] Art Bell:  
 Yes, turn your radio off.
 
 [03:26:08] Unknown Speaker 19:  
@@ -2546,7 +2546,7 @@ Who is this?
 [03:26:10] Art Bell:  
 What's your best guess?
 
-Unknown Speaker 19:  
+[03:26:11] Unknown Speaker 19:  
 Are you Art Bell?
 
 [03:26:12] Art Bell:  
@@ -2558,7 +2558,7 @@ Hi.
 [03:26:20] Art Bell:  
 Hello.
 
-Unknown Speaker 20:  
+[03:26:20] Unknown Speaker 20:  
 Who am I calling?
 
 [03:26:22] Art Bell:  
@@ -2567,7 +2567,7 @@ Well, now with regard to who you're calling, you would know more about that than
 [03:26:29] Unknown Speaker 20:  
 I was trying to reach Art Bell.
 
-Art Bell:  
+[03:26:29] Art Bell:  
 Uh huh. Who do you think you've reached?
 
 [03:26:30] Unknown Speaker 20:  
@@ -2579,7 +2579,7 @@ So who? Well, you wanted what kind of pizza?
 [03:26:35] Unknown Speaker 20:  
 Oh, I don't want any pizza.
 
-Art Bell:  
+[03:26:38] Art Bell:  
 No
 
 [03:26:38] Unknown Speaker 20:  
@@ -2594,10 +2594,10 @@ No, no anchovies. I can't stand anchovies.
 [03:26:45] Unknown Speaker 21:  
 Coast to Coast AM with Art Bell. Be sure to turn your radio off. Know who you're calling and know who you are.
 
-Art Bell:  
+[03:26:51] Art Bell:  
 Are you sure you're canceling this order then?
 
-Unknown Speaker 20:  
+[03:26:56] Unknown Speaker 20:  
 No pizza.
 
 Art Bell:  
@@ -2606,7 +2606,7 @@ All right. Right now to reserve your copy of the April issue of the one and only
 [03:28:29] Ross Mitchell:  
 East of the Rockies, 1-800-825-5033. First time callers may reach Art at 1-775-727-1222, or use the wildcard line at 1-775-727-1295. To reach Art on the toll free line, call your AT&T operator and have them dial 800-893-0903. This is Coast to Coast AM with Art Bell on the Premiere Radio Networks.
 
-Art Bell:  
+[03:29:28] Art Bell:  
 It certainly is. Good morning, everybody. My guest is Peter von Puttkamer and in a moment we've got, I guess a colleague of hers, his rather, Jason Walton, who is a caddie researcher. We'll find out what that is in just a moment. Stay right where you are.
 
 I'm going to send this again, just make sure. I want to get it up on the website right away for all of you. This is an amazing, amazing picture. So let's see. Let me send it to a different address. Okay, got to do this sometimes on the fly, on the sly, on the fly and sly. So there it goes to yet another address. All right, this amazing photograph, which I have just sent off to Keith to get up on the web, and this is, oh my God, what?
@@ -2629,7 +2629,7 @@ Yeah.
 [03:33:18] Art Bell:  
 A gigantic one. I mean, there are one, two, three, four, five, six Civil War soldiers spaced out and still not covering how long this thing is, eh?
 
-Peter von Puttkamer:  
+[03:33:29] Peter von Puttkamer:  
 Right.
 
 [03:33:29] Art Bell:  
@@ -2662,7 +2662,7 @@ Okay, what can you tell us about it?
 [03:34:43] Jason Walton:  
 Well, what we have is about 300 years, starting back with native folklore and myth of a large serpentine animal, anywhere from 30 to 60 feet long, that people have been seen, and right up to this very day, and reporting off the waters here on the island. And we started a group called CaddyScan in 1999 with Ed Bousfield and Paul LeBlond, a couple of marine biologists who had previously written a book, and now we're trying to find some sort of definitive footage or physical evidence for this unknown animal.
 
-Art Bell:  
+[03:35:24] Art Bell:  
 And how did the two of you come together?
 
 [03:35:27] Jason Walton:  
@@ -2698,7 +2698,7 @@ Yeah.
 [03:37:18] Jason Walton:  
 Oh, Peter, Peter emailed that to me. Peter, what was the date on that?
 
-Peter von Puttkamer:  
+[03:37:24] Peter von Puttkamer:  
 You mean the actual image you wanted to take?
 
 Jason Walton:  
@@ -2725,7 +2725,7 @@ You can also request the original pictures if you like in the BC archives. That 
 [03:39:20] Art Bell:  
 Well, are you?
 
-Jason Walton:  
+[03:39:20] Jason Walton:  
 That was donated by the fellow who took the pictures.
 
 [03:39:23] Art Bell:  
@@ -2755,7 +2755,7 @@ Which most of these guys do. There's a lot of guys that run tours and things lik
 [03:41:26] Art Bell:  
 Okay. Well, again, I've got to ask this question of you, Jason. We covered it earlier, but I mean, even if we actually get a live specimen of one of these things, we live in such a-I don't know-a cynical Photoshop world that I don't care how live it is. You know, it's liable to go on tour, and everybody will view it as some sort of weird oddity or malformation of something, or you know, they'll call it a million things. But will they really scientifically admit?Here's what we've got. I don't know. I don't think that's too likely. How about you?
 
-Jason Walton:  
+[03:42:05] Jason Walton:  
 Well, I think Ed or Paul, being the scientists, they could better answer this question. A number of things could happen. I actually hope that if it happens, it is a dead specimen, so that we don't have to go through, you know, all the moral decisions of what what's going to happen next. There's every possibility we might get a live one. We do have considerations for live marinas here on the island that are friends of theirs that will deal with this if this happens, because we have had a lot of reports of people walking down the beach and seeing what they describe as baby dragons.
 
 [03:42:38] Art Bell:  
@@ -2764,7 +2764,7 @@ So then, there's actually a plan in place should this occur.
 [03:42:42] Jason Walton:  
 Yeah, we have sort of strategic. Yeah, it's there's a plan for you say a dead carcass or a live one, but you do have to make these just in case, one in a million chance.
 
-Peter von Puttkamer:  
+[03:42:52] Peter von Puttkamer:  
 There was a lady who reported finding a juvenile one on the beach and then dragging it back into the water, right?
 
 [03:42:59] Art Bell:  
@@ -2779,7 +2779,7 @@ I, I, I put it back in the water. That just must kill you.
 [03:43:38] Peter von Puttkamer:  
 See, see what I said about the Native Indian stuff earlier. They know that these things come up on the beach. That's, I mean, it's part of their education for their young people. They tell them, go to that island because that's where the serpents come up out of the water, and they come on the beach. And there's different theories about them maybe birthing up there or going for you know fresh water or God knows what. But there's you know they might be like turtles you know that have to come ashore for these sorts of things.
 
-Jason Walton:  
+[03:44:14] Jason Walton:  
 It's really hard to say. Ed sometimes has theorized that these might be animals that give birth to live young and may come into warm channels or be it right onto land to give birth. And it's sort of the whole thing is kind of ending up more like a detective story than a mystery, really, of tying all this stuff together and whether this is the same species or not have been seen at the same location, as well as you know somebody might report something that looks a little different, maybe male, female, sexual dimorphism, larger heads, perhaps a mane. It's fascinating what we hear and what the information that comes from are from blue collar Canadians and people in careers. They have absolutely nothing to gain by phoning us up.
 
 [03:45:03] Art Bell:  
@@ -2806,7 +2806,7 @@ Yeah, the big oops.
 [03:46:01] Jason Walton:  
 Yes, and then another oops a few years later. So I don't know. With the DNA, it's one of those things that people should say, "Well, it's all right. Let's put that law into fact, and as long as nobody goes over that." But of course, someone's always going to want to go further and further. So no answer.
 
-Art Bell:  
+[03:46:18] Art Bell:  
 I want to get this on again for sure because a lot of people are going to ask. The show is coming up May 5th, you said.
 
 [03:46:25] Peter von Puttkamer:  
@@ -2821,7 +2821,7 @@ May 7th.
 [03:46:28] Art Bell:  
 Ooh, important distinction. May 7th on the
 
-Peter von Puttkamer:  
+[03:46:30] Peter von Puttkamer:  
 May seventh at nine o'clock on the Learning Channel on TLC. Okay, and also on June 25th. That's actually episode two. June 25th at ten o'clock. You know, check your local listings. The first episode covers Jersey Devil, UK Phantom, Big Cats, and Chupacabra, and then episode two is Cadborosaurus Yowie and this Tasmanian Tiger.
 
 [03:46:56] Art Bell:  
@@ -2836,10 +2836,10 @@ What about you, Jason? Do you have a view on why people like monsters so much?
 [03:47:57] Jason Walton:  
 Oh, well, it's fun. I mean, I watch a lot of movies myself.
 
-Art Bell:  
+[03:48:02] Art Bell:  
 Me too.
 
-Jason Walton:  
+[03:48:02] Jason Walton:  
 It's something that I've always been interested in-the the mysterious aspect of it all, with animals and the unknown earth and all that. It's great stuff. It's great stuff, and of course legends and sea serpents and all that. For the etchings and all this, and then to have to actually be talking to someone who's describing that-it's the most fascinating thing I've ever been a part of.
 
 [03:48:26] Art Bell:  
@@ -2905,7 +2905,7 @@ weather control, the Indiana Hum, Planet X, Earth changes, underground cities, h
 
 West of the Rockies, you're on the air. Hello.
 
-Unknown Speaker 29:  
+[03:53:18] Unknown Speaker 29:  
 Who is it?
 
 [03:53:20] Art Bell:  
@@ -2929,7 +2929,7 @@ No, it's not.
 [03:53:32] Art Bell:  
 Oh well. So you think I'm just kidding you?
 
-Unknown Speaker 29:  
+[03:53:36] Unknown Speaker 29:  
 Yeah.
 
 [03:53:37] Art Bell:  
@@ -2944,7 +2944,7 @@ I'm Jason Walker. We're learning more now about that head-on collision of a comm
 [03:54:13] Richard Santiago:  
 NTSB Chairman Marion Blakey says that by the time the trains noticed each other, it was too late for the 67 car and three locomotive freight train to stop.
 
-Marion Blakey:  
+[03:54:21] Marion Blakey:  
 Emergency brakes were applied approximately 2,100 feet before the impact, and we had about 370 feet in which the Burlington Northern train carried the MetroLink train down the track.
 
 [03:54:37] Richard Santiago:  
@@ -2956,7 +2956,7 @@ A captured al-Qaeda leader says the terrorist group had planned to use the so-ca
 [03:55:04] Curt Weldon:  
 We are taking every possible precaution, both from the intelligence standpoint and the physical protection standpoint, but we just don't know whether or not they are actually physically in the U.S.
 
-Jason Walker:  
+[03:55:13] Jason Walker:  
 The Justice Department says 94 employees at three major airports in the Washington area have been arrested. Suspects allegedly lied to obtain security badges, giving them broad access to sensitive areas. This is USA Radio News.
 
 Major carrier could soon allow pilots to be armed with stun guns.

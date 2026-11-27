@@ -101,7 +101,7 @@ Millions of years.
 [00:09:40] Richard L. Thompson:  
 Yeah.
 
-Art Bell:  
+[00:09:41] Art Bell:  
 All right. In your new book, you're looking at the possibility of a scientifically advanced civilization that would go back how far?
 
 [00:09:51] Richard L. Thompson:  
@@ -568,7 +568,7 @@ Well, they must have been traveling. Now, speaking of traveling,
 [01:00:28] Art Bell:  
 Yes,
 
-Richard L. Thompson:  
+[01:00:29] Richard L. Thompson:  
 there's another whole category of evidence that indicates that people were not only traveling between India and Egypt, which isn't so far-fetched. I mean, they had camels in those days too. You could go from basically the Pakistan northern India area over to, to Egypt, would have been a long trip, but it was possible.
 
 But there is indication of transoceanic travel, also involved with this ancient cosmological system. I can tell you that story briefly. Basically, the way it works is if you look at this system, of cosmology, as I mentioned, it talks about astronomy and geographical terms. Because as I was saying, one thing we started out with is the whole idea of the flat Earth. This cosmology has a flat Earth, but it turns out to be the solar system.
@@ -661,10 +661,10 @@ Yes, but we have lots of physical evidence of all of that. And to have that much
 [01:11:21] Richard L. Thompson:  
 Right, well let me give you another example of what can happen to physical evidence.
 
-Art Bell:  
+[01:11:26] Art Bell:  
 Good yes.
 
-Richard L. Thompson:  
+[01:11:27] Richard L. Thompson:  
 This one's pretty well accepted. It's called the Antikythera computer. Now I'm not sure if I'm pronouncing that correctly. It's the name of a Greek island, off the coast of Greece.
 
 [01:11:39] Art Bell:  
@@ -727,7 +727,7 @@ And you believe that it was accurately dated? Is that correct?
 [01:14:39] Richard L. Thompson:  
 I have no reason to doubt the date.
 
-Art Bell:  
+[01:14:41] Art Bell:  
 Huh.
 
 [01:14:42] Richard L. Thompson:  
@@ -831,10 +831,10 @@ No, we don't. We have not come as far with robotics as we were supposed to have 
 [01:20:24] Richard L. Thompson:  
 Right. So interesting thing is, if you go to medieval India, go back to say 1100 AD.
 
-Art Bell:  
+[01:20:31] Art Bell:  
 Yes.
 
-Richard L. Thompson:  
+[01:20:33] Richard L. Thompson:  
 There was a very flourishing science fiction literature then about robots.
 
 [01:20:37] Art Bell:  
@@ -1035,10 +1035,10 @@ Where are you?
 [01:34:59] Caller 2 (Eric):  
 Portland, Oregon. Once again.
 
-Art Bell:  
+[01:35:01] Art Bell:  
 Yes, sir.
 
-Caller 2 (Eric):  
+[01:35:02] Caller 2 (Eric):  
 This is Eric Tom or Eric calling out of Portland.
 
 [01:35:05] Art Bell:  
@@ -1047,10 +1047,10 @@ Right.
 [01:35:05] Caller 2 (Eric):  
 First comment is for you, Art. Quite an amazing thing that happened earlier today, wasn't it, or yesterday?
 
-Art Bell:  
+[01:35:12] Art Bell:  
 Yes.
 
-Caller 2 (Eric):  
+[01:35:13] Caller 2 (Eric):  
 I do have to comment because I am a former resident of Las Vegas, and I was actually in contact with some people down there, and we're having more than one affirmation as to something strange. And secondly, to you, Art, if you actually leave the office today and get out into the open desert, you might find that glow you're looking for.
 
 [01:35:34] Art Bell:  
@@ -1183,7 +1183,7 @@ Wooden wings.
 [01:43:57] Richard L. Thompson:  
 That much we know, and it's said to be powered by something involving heating mercury in a vessel. And I really don't know how that would work, but there's a description like that. And furthermore, whatever this propulsion device was, it made a lot of noise because there's the story that one would use this to sort of swoop down over war elephants and make them stampede because of the very loud noise that it made.
 
-Art Bell:  
+[01:44:26] Art Bell:  
 Ha ha ha ha ha.
 
 [01:44:29] Richard L. Thompson:  
@@ -1203,10 +1203,10 @@ Dr. Richard L. Thompson is my guest, co-author of Forbidden Archaeology, and the
 [01:47:58] Caller 3 (Mike):  
 Hi, this is Mike calling from Azusa, California.
 
-Art Bell:  
+[01:48:01] Art Bell:  
 Hi, Mike.
 
-Caller 3 (Mike):  
+[01:48:01] Caller 3 (Mike):  
 Listening on KFI 640 AM, more stimulating talk radio.
 
 [01:48:05] Art Bell:  
@@ -1238,10 +1238,10 @@ Yeah, that's the young earth approach, yeah. Right.
 [01:49:11] Richard L. Thompson:  
 The young earth approach. Basically, in the work I've done, I have more or less assumed the broad validity of the geological time scale.
 
-Caller 3 (Mike):  
+[01:49:21] Caller 3 (Mike):  
 Okay.
 
-Richard L. Thompson:  
+[01:49:22] Richard L. Thompson:  
 And I haven't really seen much reason to doubt that. Now, of course, you can say there's a motive there because, in the Indian,
 
 [01:49:32] Caller 3 (Mike):  
@@ -1264,10 +1264,10 @@ Well, that's what you wanted, yes, sir. I try to remember every time. Well, two 
 
 Art, I just wanted to say, last night I got in at the last minute, and I didn't get a chance to finish what I wanted to say. And that what I really wanted to say at the end was, I thought you were magnificent last night, the way you handled that debate as a moderator.
 
-Art Bell:  
+[01:50:50] Art Bell:  
 Ah, thank you.
 
-Caller 4 (Christopher):  
+[01:50:51] Caller 4 (Christopher):  
 And unfortunately, you were untimely interrupted, but you were just fantastic.
 
 [01:50:56] Art Bell:  
@@ -1319,10 +1319,10 @@ Yes.
 [01:55:39] Caller 5:  
 Oh, okay. Hi, I'm calling from Miami.
 
-Art Bell:  
+[01:55:42] Art Bell:  
 Yes, sir.
 
-Caller 5:  
+[01:55:43] Caller 5:  
 I had a couple of questions, actually. As far as
 
 [01:55:53] Art Bell:  
@@ -1537,10 +1537,10 @@ Hi Roger.
 [02:13:55] Caller 7 (Roger):  
 Hi. I got a few questions for you related to the McKenna brothers.
 
-Art Bell:  
+[02:13:59] Art Bell:  
 Sure.
 
-Caller 7 (Roger):  
+[02:14:00] Caller 7 (Roger):  
 Which I'm really grateful that you've had on the air. It's been a great service to the world.
 
 [02:14:04] Art Bell:  
@@ -1608,10 +1608,10 @@ Oh, that's for sure.
 [02:16:03] Art Bell:  
 And yeah, I'd love to have him on. That's actually a pretty good idea. I wonder what I would do with Phil though. I wonder how I'd handle it.
 
-Caller 7 (Roger):  
+[02:16:12] Caller 7 (Roger):  
 What he'd do to you?
 
-Art Bell:  
+[02:16:12] Art Bell:  
 Yeah, what he'd do to me is a good question. He does the best imitation of me of anybody presently on the air.
 
 [02:16:20] Caller 7 (Roger):  
@@ -1760,16 +1760,16 @@ All right. Well, I'll see what I can do. The best thing you can do if you want a
 
 On the international line, you're on the air. Good morning.
 
-Caller 10:  
+[02:21:50] Caller 10:  
 Good morning. How are you, Art?
 
-Art Bell:  
+[02:21:51] Art Bell:  
 I'm just fine. Where are you?
 
-Caller 10:  
+[02:21:53] Caller 10:  
 I'm calling from Melbourne, Australia.
 
-Art Bell:  
+[02:21:55] Art Bell:  
 Melbourne. All right. Glad to have you. What's up or down in your case?
 
 [02:22:00] Caller 10:  
@@ -1796,10 +1796,10 @@ Well, the CSIRO are saying that the temperature has gone up by about two degrees
 [02:22:48] Art Bell:  
 An average of two.
 
-Caller 10:  
+[02:22:50] Caller 10:  
 That's right.
 
-Art Bell:  
+[02:22:51] Art Bell:  
 And what was the hottest day? Do you recall?
 
 [02:22:55] Caller 10:  
@@ -1811,13 +1811,13 @@ Which translates to what Fahrenheit?
 Caller 10:  
 To be honest with you, I wouldn't have a clue.
 
-Art Bell:  
+[02:23:04] Art Bell:  
 I don't have a clue either.
 
-Caller 10:  
+[02:23:07] Caller 10:  
 We talk in Celsius, not Fahrenheit.
 
-Art Bell:  
+[02:23:09] Art Bell:  
 I know, I know, I understand, and I really should know. I have a conversion chart somewhere, but not in front of me. So that shows to go you. Here, here we are. We're all glued to Fahrenheit here, and you all are glued to Celsius there. And we both have charts in front of us. But hot,
 
 [02:23:25] Caller 10:  
@@ -1848,10 +1848,10 @@ Actually, I'm not sure if I call the right number, but no big deal. I'm calling 
 [02:24:52] Art Bell:  
 Well, are you a first-time caller to the program?
 
-Caller 11:  
+[02:24:56] Caller 11:  
 I sure am.
 
-Art Bell:  
+[02:24:56] Art Bell:  
 Okay, well you've got the right number.
 
 [02:24:58] Caller 11:  
@@ -1953,7 +1953,7 @@ Could be.
 [02:32:57] Caller 14 (Dave):  
 I mean, he's going to be spewing a. I mean,
 
-Art Bell:  
+[02:32:58] Art Bell:  
 We know we've we know we've got an oil guy there, right?
 
 [02:33:01] Caller 14 (Dave):  
@@ -2052,10 +2052,10 @@ Okay, thank you.
 [02:36:26] Art Bell:  
 Okay, thank you, and take care. That just came rolling off my lips. I don't know. There are many I have interviewed. Now I think thousands of people. So that was just a recent one that came to mind. West of the Rockies, you're on the air. Hi.
 
-Caller 16:  
+[02:36:46] Caller 16:  
 Good morning, Art.
 
-Art Bell:  
+[02:36:46] Art Bell:  
 Good morning.
 
 [02:36:46] Caller 16:  
@@ -2211,10 +2211,10 @@ Precisely. Well, Dr. McKenna covered that. He said that research on NDEs has con
 [02:42:18] Caller 17 (James):  
 Uh huh. Now, J. C. Callaway, who he was talking about, did research for almost ten years on this at the Kuopio Institute in Finland. Now, there's other things that cause your pineal gland to do spikes, and one of the things is is stress. One of the things is sleep deprivation or change in sleep habits.
 
-Art Bell:  
+[02:42:38] Art Bell:  
 Right.
 
-Caller 17 (James):  
+[02:42:38] Caller 17 (James):  
 When you were on the plane and you flew over there, and then you got out and you said you said when you were describing your OBE that your sleep cycle was all messed up.
 
 [02:42:48] Art Bell:  
@@ -2232,10 +2232,10 @@ Yeah.
 [02:42:53] Art Bell:  
 When I was on the island of Okinawa, I spent ten years there, and I worked in radio for the only commercial broadcast rock and roll station in the Far East, the only one that ever existed, in fact.
 
-Caller 17 (James):  
+[02:43:05] Caller 17 (James):  
 Uh huh.
 
-Art Bell:  
+[02:43:05] Art Bell:  
 And I did some pretty stupid stuff. I was young. One of the stupid things I did was I broke a world record. I stayed up and stayed on the air for 116 hours and 15 minutes. That record has long since been shattered.
 
 [02:43:21] Caller 17 (James):  
@@ -2244,10 +2244,10 @@ Wow.
 [02:43:22] Art Bell:  
 But about three quarters of the way through that experience, I moved into a completely different world. I began to hallucinate, and I was just using like frozen cans of orange juice up against my carotid artery to stay awake. And they, I had a doctor in attendance. He stopped me from drinking coffee because of my heartbeat.
 
-Caller 17 (James):  
+[02:43:46] Caller 17 (James):  
 Wow.
 
-Art Bell:  
+[02:43:46] Art Bell:  
 But I began to see things, sir, and I moved into an entirely different world. So there is a great case of sleep deprivation for you.
 
 [02:43:55] Caller 17 (James):  

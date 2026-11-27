@@ -229,10 +229,10 @@ Anyway, so Art, I know you may differ from me on this, and it's okay. We can agr
 [00:28:48] Art Bell:  
 All right. In his own words, that was Professor Courtney Brown on the day prior to the release of the photograph. Then we released the photograph on the internet. Whitley Strieber and myself did it simultaneously. Within 24 hours, we knew that photograph was a fraud. We knew that photograph within 24 hours had been taken by the University of Hawaii, and here is Dr. Olivier Hainaut, who is himself an astronomer, not the one who took the photograph, but a colleague of the one who took the photograph that we are going to discuss tonight. Here he is from Hawaii. We are speaking with Olivier Hainaut. Olivier, do I have your last name correct? Is it Hainaut?
 
-Olivier Hainaut:  
+[00:29:38] Olivier Hainaut:  
 Yeah, it's perfect. Yes.
 
-Art Bell:  
+[00:29:40] Art Bell:  
 Very good. And you work at the where is it you work?
 
 [00:29:44] Olivier Hainaut:  
@@ -247,10 +247,10 @@ Oh, Dave Tholen is a colleague of mine. I don't work especially with him. Is one
 [00:30:03] Art Bell:  
 All right, myself and Whitley Strieber released a photograph, given to us by Prudence Calabrese and Professor Brown from Emory University, on the 15th of this month. I presume that you saw that photograph?
 
-Olivier Hainaut:  
+[00:30:24] Olivier Hainaut:  
 Yes.
 
-Art Bell:  
+[00:30:24] Art Bell:  
 And recognized that photograph?
 
 [00:30:27] Olivier Hainaut:  
@@ -265,22 +265,22 @@ Yes.
 [00:31:01] Art Bell:  
 All right. Let us go through the points. You you begin by saying that a careful comparison of the central region of the original image shows the comet in the same position with respect to the background stars.
 
-Olivier Hainaut:  
+[00:31:16] Olivier Hainaut:  
 Right.
 
-Art Bell:  
+[00:31:16] Art Bell:  
 Now, does that mean that it could only have been taken on that day?
 
 [00:31:22] Olivier Hainaut:  
 Oh, it's much stronger than that. It means that it has been taken within, let's say, fifteen minutes, half an hour from the picture taken by Tholen. That the comet is moving, so the position of the comet with respect to the star background gives you really the time with a very good accuracy. So we know that it has been taken around 8 p.m. Hawaiian time on August 31st, '95.
 
-Art Bell:  
+[00:31:52] Art Bell:  
 August 31, '95.
 
-Olivier Hainaut:  
+[00:31:53] Olivier Hainaut:  
 Yep.
 
-Art Bell:  
+[00:31:55] Art Bell:  
 All right. The photograph could not have been taken, you say, from Eastern Asia or Australia.
 
 [00:32:02] Olivier Hainaut:  
@@ -383,7 +383,7 @@ Well, I think at this point it's the only thing that has to be done, in the sens
 [00:39:30] Art Bell:  
 Well, there is a big difference, doctor, between a mistake and an intentional fraud.
 
-Olivier Hainaut:  
+[00:39:37] Olivier Hainaut:  
 Definitely, definitely.
 
 Art Bell:  
@@ -472,13 +472,13 @@ Oh, and indeed, in that program there is no question. If you listen to Prudence.
 [00:49:16] Courtney Brown:  
 Yeah, well, understand, Prudence is my employee.
 
-Art Bell:  
+[00:49:18] Art Bell:  
 That's right.
 
-Courtney Brown:  
+[00:49:19] Courtney Brown:  
 She's done what I asked. She's our webmaster, and she described that photograph very well. And even when I heard it the second time through, when you played it in the beginning of this program, I was very proud of her. She simply described the photograph that I requested her to do for your show as it was given. She does not have the abilities to determine if it was a fraud.
 
-Art Bell:  
+[00:49:41] Art Bell:  
 No, but the astronomer certainly would. I mean
 
 [00:49:43] Courtney Brown:  
@@ -554,10 +554,10 @@ Well, we have not yet said anybody specifically did this. We simply know this to
 [00:52:24] Courtney Brown:  
 Well, look, if it if it is a fraud, someone perpetrated it.
 
-Art Bell:  
+[00:52:27] Art Bell:  
 Yeah.
 
-Courtney Brown:  
+[00:52:28] Courtney Brown:  
 The question is, why did they want to slip it through to us?
 
 [00:52:31] Art Bell:  
@@ -590,10 +590,10 @@ Well, I. But you're you're, you know, I've told you everything that we do know, 
 [00:53:00] Art Bell:  
 No, professor.
 
-Courtney Brown:  
+[00:53:01] Courtney Brown:  
 Yes.
 
-Art Bell:  
+[00:53:02] Art Bell:  
 And that's what we want.
 
 [00:53:03] Courtney Brown:  
@@ -776,13 +776,13 @@ You qualified the guy as a top ten astronomer from one of the top ten universiti
 [01:00:17] Courtney Brown:  
 Well, that's that's the difficult. That's what's been so concerning us. All right, because we've had such a difficult time accepting the fact that it might have been done intentionally. I tell you, to this to this moment, I'm having trouble with that. But the evidence is pointing in that direction.
 
-Art Bell:  
+[01:00:31] Art Bell:  
 But it's overwhelming.
 
-Courtney Brown:  
+[01:00:32] Courtney Brown:  
 It's pointing in that direction.
 
-Art Bell:  
+[01:00:33] Art Bell:  
 It's overwhelming.
 
 Yeah, it's overwhelming.
@@ -795,7 +795,7 @@ The hell with him coming out! This is a fraud. It's time to out him, not as the 
 
 I mean,
 
-Courtney Brown:  
+[01:01:19] Courtney Brown:  
 The impression was obvious when both of you, both of you, this is apparently beat-up-Courtney night, and that's okay.
 
 [01:01:24] Art Bell:  
@@ -819,13 +819,13 @@ In other words, Troy. In other words, Art and Whitley, listen to this. It this h
 [01:02:48] Art Bell:  
 Courtney, you got evidence. We've got evidence from this astronomer. Courtney,
 
-Courtney Brown:  
+[01:02:52] Courtney Brown:  
 I accept that responsibility.
 
-Art Bell:  
+[01:02:54] Art Bell:  
 You supplied that.
 
-Courtney Brown:  
+[01:02:55] Courtney Brown:  
 My career-
 
 [01:02:56] Art Bell:  
@@ -933,13 +933,13 @@ Yeah,
 [01:07:14] Courtney Brown:  
 I was talking about. I was talking about this earlier.
 
-Whitley Strieber:  
+[01:07:16] Whitley Strieber:  
 Send us the negatives.
 
-Courtney Brown:  
+[01:07:17] Courtney Brown:  
 Should sort of circulate these photos around again.
 
-Art Bell:  
+[01:07:20] Art Bell:  
 And so you won't send the prints.
 
 [01:07:24] Courtney Brown:  
@@ -969,7 +969,7 @@ and we are assuming that the rest, at least myself, I am assuming that that make
 [01:08:59] Art Bell:  
 Well, yes. How can you? How can you?
 
-Whitley Strieber:  
+[01:09:01] Whitley Strieber:  
 It's just that the assumption that it was done innocently when you're talking about a bald-faced fraud is a real hard mistake.
 
 [01:09:07] Courtney Brown:  
@@ -996,16 +996,16 @@ We're just saying we want to follow the trail, and if you won't let us follow th
 [01:10:22] Courtney Brown:  
 Finish the sentence. Art, you're then going to say then the buck stops here, and you're going to accuse me of doing-
 
-Art Bell:  
+[01:10:27] Art Bell:  
 I'm not going to. No, I'm not.
 
-Courtney Brown:  
+[01:10:29] Courtney Brown:  
 Or you're going to find, or somebody else will accuse me of doing the fraud.
 
-Art Bell:  
+[01:10:32] Art Bell:  
 No.
 
-Courtney Brown:  
+[01:10:32] Courtney Brown:  
 Let it be. The point is that I have been truthful from the very beginning, but I'm not willing to go to the extra steps that you were. I'm not going to turn this into a chase.
 
 [01:10:41] Art Bell:  
@@ -1017,10 +1017,10 @@ I was very open to the very end.
 [01:10:51] Art Bell:  
 You didn't want it released.
 
-Courtney Brown:  
+[01:10:51] Courtney Brown:  
 Yeah, that's right.
 
-Art Bell:  
+[01:10:52] Art Bell:  
 Well,
 
 [01:10:54] Courtney Brown:  
@@ -1032,10 +1032,10 @@ The best way to stop a stir is with the truth, and you're not helping us get to 
 [01:11:20] Courtney Brown:  
 I don't like the way you're going about getting to the truth. You're demanding.
 
-Art Bell:  
+[01:11:24] Art Bell:  
 How else would- how else?
 
-Courtney Brown:  
+[01:11:26] Courtney Brown:  
 Let me speak.
 
 [01:11:26] Art Bell:  
@@ -1191,13 +1191,13 @@ Look, there is a witch. Somebody sat down at a computer and perpetrated an inten
 [01:19:39] Courtney Brown:  
 And that person already knows who he or she is. And in addition, I must say that professor now is almost certainly listening to this broadcast.
 
-Art Bell:  
+[01:19:47] Art Bell:  
 Well, yeah, if he hasn't called you back,
 
 [01:19:49] Whitley Strieber:  
 So he should. He I hope he helps you by coming forward because Courtney,
 
-Courtney Brown:  
+[01:19:55] Courtney Brown:  
 But he may.
 
 [01:19:55] Whitley Strieber:  
@@ -1209,13 +1209,13 @@ But Whitley, if he's done this on purpose, he's not going to help me by coming f
 [01:20:10] Whitley Strieber:  
 I think it's highly unlikely that he was duped. I mean, a professional astronomer. It didn't take the people at at Hawaii too long to figure out what was was going on.
 
-Art Bell:  
+[01:20:19] Art Bell:  
 24 hours.
 
-Whitley Strieber:  
+[01:20:20] Whitley Strieber:  
 Well, exactly.
 
-Courtney Brown:  
+[01:20:21] Courtney Brown:  
 Of course, it was one of their own photographs,
 
 [01:20:23] Whitley Strieber:  
@@ -1224,7 +1224,7 @@ But well, and yes, and then and by the same token, it wasn't one of his own phot
 [01:20:35] Art Bell:  
 Plus, Courtney, the-
 
-Courtney Brown:  
+[01:20:36] Courtney Brown:  
 I'm with you, and I'm as confused about that as you could.
 
 [01:20:40] Art Bell:  
@@ -1330,10 +1330,10 @@ Uh huh. All right. This is typical of the faxes coming in, Art. Obviously, Court
 [01:28:00] Courtney Brown:  
 Art, we've talked about this, but you gave one of your faxes. You want to hear one of mine?
 
-Art Bell:  
+[01:28:03] Art Bell:  
 Yes, sir.
 
-Courtney Brown:  
+[01:28:04] Courtney Brown:  
 When they came over just now.
 
 [01:28:05] Art Bell:  
@@ -1345,7 +1345,7 @@ Courtney, stick to your guns. There is no paper trail. A FedEx receipt is not a 
 [01:28:23] Art Bell:  
 Well, I'll I'll give you what you need, Courtney.
 
-Courtney Brown:  
+[01:28:25] Courtney Brown:  
 Let me just come up right here.
 
 [01:28:26] Art Bell:  
@@ -1423,10 +1423,10 @@ What you're doing, Courtney, by by refusing to give any information, is you're l
 [01:31:56] Courtney Brown:  
 No, no, no.
 
-Art Bell:  
+[01:31:57] Art Bell:  
 Yes, yes, yes.
 
-Courtney Brown:  
+[01:31:58] Courtney Brown:  
 The astronomer, the astronomer, either is responsible for this himself, or he knows that he's been duped himself, and he's in an embarrassing situation, and it's his responsibility to go after his.
 
 [01:32:08] Art Bell:  
@@ -1453,10 +1453,10 @@ There aren't any because of the fact that the fraud is real.
 [01:33:08] Courtney Brown:  
 Yeah, Whitley, I'm sorry, but the advice, the legal advice of you and Art Bell does not.
 
-Whitley Strieber:  
+[01:33:14] Whitley Strieber:  
 No, I'm not.
 
-Courtney Brown:  
+[01:33:15] Courtney Brown:  
 Is not is not something I'm taking too seriously right now.
 
 [01:33:18] Whitley Strieber:  
@@ -1682,10 +1682,10 @@ Okay. The answer is easy, Vicki. Yeah. The the photograph in question, the only 
 [01:48:24] Caller 3 (Vicki):  
 Okay, and I have one other comment.
 
-Art Bell:  
+[01:48:26] Art Bell:  
 Yes.
 
-Caller 3 (Vicki):  
+[01:48:27] Caller 3 (Vicki):  
 It might help us understand Courtney Brown's position.
 
 [01:48:30] Art Bell:  
@@ -1772,7 +1772,7 @@ Absolutely, I feel like that you and Mr. Strieber have have put your point very 
 [01:53:45] Art Bell:  
 All right,
 
-Whitley Strieber:  
+[01:53:46] Whitley Strieber:  
 Right.
 
 [01:53:47] Art Bell:  
@@ -1874,7 +1874,7 @@ and be examined. So and that's certainly enough. It's a start.
 [01:59:11] Art Bell:  
 Right. That's right. Because to all appearances, and you're welcome to look at my website, and I believe it may be on yours as well.
 
-Whitley Strieber:  
+[01:59:18] Whitley Strieber:  
 It's online too, I believe now.
 
 [01:59:19] Art Bell:  
@@ -1925,10 +1925,10 @@ I rest my case. Well, Whitley, we're just about out of time. It has not been an 
 [02:02:08] Whitley Strieber:  
 No, it's been a tough night.
 
-Art Bell:  
+[02:02:10] Art Bell:  
 Yeah.
 
-Whitley Strieber:  
+[02:02:11] Whitley Strieber:  
 Well, all I can say in conclusion is that I surely hope that Prudence and Courtney can see their way to making it very clear that this other evidence - the photographs and the roll of film, the six prints - is entirely real by sending it to a neutral party for further examination. That's, I think, the next step that has to be done.
 
 [02:02:34] Art Bell:  
@@ -1940,10 +1940,10 @@ Well, hopefully he'll think about it and do it because it's got to be done.
 [02:02:51] Art Bell:  
 Uh-huh. I quite agree with you. This has been a long and very difficult odyssey.
 
-Whitley Strieber:  
+[02:02:57] Whitley Strieber:  
 Yes.
 
-Art Bell:  
+[02:02:58] Art Bell:  
 And again, it's worth saying to the people that although this photograph is obviously a hoax, that does not necessarily end the controversy with regard to Shramek's and other photographs.
 
 [02:03:14] Whitley Strieber:  

@@ -70,7 +70,7 @@ Right.
 [00:05:01] Joe Rogan:  
 And then I was worried because there were some episodes that we did where they really kept upping the ante further and further, and there was a few accidents where nobody got hurt, not nothing serious, but it was like, wow, this is more risky than we ever did before, and I always felt like we got lucky the first time around. Especially, there was a few stunts like they had a ride bulls, and I'm like, that is just a risk. You're just rolling the dice.
 
-Art Bell:  
+[00:05:27] Art Bell:  
 Oh yeah,
 
 [00:05:28] Joe Rogan:  
@@ -145,13 +145,13 @@ Well, I like people that stir things up. I loved Ross Perot back when he was run
 [00:09:33] Art Bell:  
 Right. Like over double, I think. The next guy. So yeah,
 
-Joe Rogan:  
+[00:09:38] Joe Rogan:  
 Oh, it's early. It's an early game, and we all know that sometimes it's not. It's like running a marathon. You know, you see a guy sprint right out the gate, running full blast.
 
-Art Bell:  
+[00:09:45] Art Bell:  
 Sure,
 
-Joe Rogan:  
+[00:09:45] Joe Rogan:  
 How long can that guy keep that up? Most of the time, they can't.
 
 [00:09:49] Art Bell:  
@@ -166,10 +166,10 @@ Right.
 [00:10:11] Joe Rogan:  
 there's some MP3s floating around of him live from Hawaii, from the Big Island, on a broadband spectrum radio signal.
 
-Art Bell:  
+[00:10:21] Art Bell:  
 That's right.
 
-Joe Rogan:  
+[00:10:21] Joe Rogan:  
 Fascinating, fascinating podcast from or excuse me, radio show from back in the day, and I've listened to it many times.
 
 [00:10:28] Art Bell:  
@@ -206,7 +206,7 @@ Any danger?
 [00:14:03] Joe Rogan:  
 I think anytime you're dealing with something so mind bogglingly extraordinary, there's the possibility that people with weak hearts, people that don't have the steadiest nerves, or perhaps maybe the they don't have the best grip on reality. I think anybody that has real psychological problems should probably avoid psychedelic drugs until they've reached some form of stability in their life.
 
-Art Bell:  
+[00:14:28] Art Bell:  
 Anyway, have you ever had a flashback?
 
 [00:14:31] Joe Rogan:  
@@ -238,10 +238,10 @@ You said that you heard different languages from, I guess, entities or whatever.
 [00:18:24] Joe Rogan:  
 Well, the language seems to be you. You seem to hear it telepathically more than anything. And there's a lot of like repeating themes. Like you hear, there's a lot of people say you hear. Look at this. I've heard that. I've heard it, and I've heard a lot of other people say the same thing. They show you different insane things. I remember one time I did it. I was literally crying because they kept saying, "Look at this," and they would show me something insanely beautiful. And then it was like I have little kids. I have a five year old and a seven year old. And one of the things that my five year old says, she'll say things that are they're really cute and adorable. Like, "I love you a million five hundred thousand million five hundred thousand billion zillion infinity times a million times."
 
-Art Bell:  
+[00:19:08] Art Bell:  
 Right.
 
-Joe Rogan:  
+[00:19:08] Joe Rogan:  
 You know, numbers that aren't real. Well, they that happened in my DMT experience, one of the first ones I ever did. They would sing a little song like, "I love you six hundred million five hundred thousand five hundred million times." Then it would go, "Look at this," and then every time I go, "Look at this," it would show you something infinitely more beautiful than what you just saw, and then it would keep going on and on and on until tears were like rolling down my face, I think a lot of that-it's-it's a sound. I mean, you-you're understanding what they're saying, you're understanding words, but I'm not exactly sure you're hearing it more than you're-you're hearing it in your mind.
 
 And it's one of the reasons why I connect it to the UFO abduction experience, because one of the things that you hear from these people that have been that have had these classic UFO abduction scenarios is telepathic communication, where there's words in their mind, and they're not exactly sure if they're hearing them or if they're being transmitted somehow directly to their consciousness, and that it kind of feels like that when you're doing DMT.
@@ -326,7 +326,7 @@ You really need somebody if you're going to do comedy. You really need somebody 
 [00:29:17] Joe Rogan:  
 Yeah, but they're not always comedy. See, my podcast is very confusing. Like, it's in the comedy section, but sometimes I'm talking to professors. Tomorrow, I'm talking to Jeff Novitzky, who is the guy who busted Lance Armstrong, and he's gonna- We're going to talk all about the different performance-enhancing drugs they use in the Tour de France and how they avoid getting caught and what's going on right now in professional sports where they test and how they get around these things. He's the guy that was hired by the UFC recently to clean up the sport. The UFC has quite an image issue when it comes to performance-enhancing drugs. Mixed martial arts in general does. There's just so much on the line for these guys that a lot of them are willing to take chances with illegal substances, and we're going to discuss that tomorrow.
 
-Art Bell:  
+[00:29:59] Art Bell:  
 So is the UFC real?
 
 [00:30:03] Joe Rogan:  
@@ -353,16 +353,16 @@ Well, you're up in Pahrump, right? You're up in. If you ever want to come down, 
 [00:30:29] Art Bell:  
 Well, you know what some of the rep of regular wrestling was. I mean, so
 
-Joe Rogan:  
+[00:30:33] Joe Rogan:  
 Of course, regular wrestling is entertainment. It's a choreographed entertainment show, no different than a play. And a lot of people love it. It's not my cup of tea, but a lot of people really enjoy it because it's fun and it's crazy and it's wild. The UFC is very different. It's a much more primal experience and it is absolutely 100 non-scripted and real.
 
 [00:30:55] Art Bell:  
 So, kind of like Fear Factor. Some ways.
 
-Joe Rogan:  
+[00:30:59] Joe Rogan:  
 Fear Factor was scripted in sense of we knew what the stunts would be, but as far as the reactions,
 
-Art Bell:  
+[00:31:04] Art Bell:  
 Yes, exactly.
 
 All right. Staying or extending from DMT, I understand that you have been. This really interests me, Joe. You experiment with sensory deprivation chambers. True.
@@ -370,10 +370,10 @@ All right. Staying or extending from DMT, I understand that you have been. This 
 [00:31:17] Joe Rogan:  
 Yes, I have one in my house. I have one in my basement, and I have been a big fan of them. I first got one in 2002. I got my first one, and I had heard about him years before, from really originally from that Altered States movie.
 
-Art Bell:  
+[00:31:34] Art Bell:  
 Right,
 
-Joe Rogan:  
+[00:31:35] Joe Rogan:  
 That was where I was first introduced to him, and then I got into John Lilly's books. I read some of his stuff on them, and then I realized that that Altered States movie was actually based a lot of it was based on him. The crazy, if you don't know Lilly is John Lilly was the guy who invented the sensory deprivation tank, and he was a pioneer in interspecies communication. He would do all these experiments on dolphins and trying to communicate with dolphins. And one of the things he used to do is he used to take LSD and set up a sensory deprivation tank near dolphins and try to communicate with them.
 
 [00:32:09] Art Bell:  
@@ -382,7 +382,7 @@ Wow,
 [00:32:10] Joe Rogan:  
 Yeah, he was out there.
 
-Art Bell:  
+[00:32:11] Art Bell:  
 All right, so describe to me the sensory tank experience. Is it warm water? Is it
 
 [00:32:18] Joe Rogan:  
@@ -445,7 +445,7 @@ Oh yeah, I don't think I've ever made a bad decision in the tank. As weird as th
 [00:36:05] Art Bell:  
 I made a lot of them in the shower. So
 
-Joe Rogan:  
+[00:36:06] Joe Rogan:  
 Yeah, me too. Like singing.
 
 [00:36:11] Art Bell:  
@@ -460,10 +460,10 @@ Just fine.
 [00:36:18] Caller 1 (Dwight):  
 I wanted to say I don't know if Joe remembers me. I was actually a contestant on Fear Factor.
 
-Joe Rogan:  
+[00:36:24] Joe Rogan:  
 Whoa!
 
-Caller 1 (Dwight):  
+[00:36:25] Caller 1 (Dwight):  
 I believe it was season two.
 
 [00:36:28] Joe Rogan:  
@@ -481,10 +481,10 @@ Oh yeah, I had to. I believe it was an elk's penis.
 [00:36:38] Joe Rogan:  
 Oh okay. So we were in the park. Were you?
 
-Caller 1 (Dwight):  
+[00:36:42] Caller 1 (Dwight):  
 Yeah.
 
-Joe Rogan:  
+[00:36:43] Joe Rogan:  
 Yeah, that was Griffith Park? Is that what it was?
 
 [00:36:47] Caller 1 (Dwight):  
@@ -541,7 +541,7 @@ Joe, have you seen a new TV show? Actually, not so new. Three, four seasons now.
 [00:38:39] Joe Rogan:  
 Yes. Yeah, I have seen it.
 
-Art Bell:  
+[00:38:40] Art Bell:  
 That thing is wild. I wonder how far so called reality TV is gonna go. I mean, you take somebody completely naked, a man and woman, throw them in the middle of Borneo.
 
 [00:38:51] Joe Rogan:  
@@ -559,7 +559,7 @@ Well, they do. They've got a producer, and then they've got a little medical cre
 [00:39:11] Joe Rogan:  
 Oh, definitely, but bizarre too. You know, like why are we doing this? Like, why are we exposing people to this? Like, what is it about these silly shows that makes us so excited? And also, it's a great wake up call for people when you realize how vulnerable you actually are out alone in the woods and how difficult it is to survive.
 
-Art Bell:  
+[00:39:33] Art Bell:  
 Yeah, with no shoes. I mean, imagine no shoes, and you're walking on these. Oh God, it's awful.
 
 [00:39:39] Joe Rogan:  
@@ -577,7 +577,7 @@ Well, they made movies about it.
 [00:40:13] Joe Rogan:  
 Yeah, I mean they have these team fighting sports in Russia now, where they'll have like five people fight five people inside a cage.
 
-Art Bell:  
+[00:40:22] Art Bell:  
 Right.
 
 Joe Rogan:  
@@ -648,10 +648,10 @@ Thank you.
 [00:43:14] Caller 4 (Don):  
 Glad to be here. Joe, I have a UFC question for you. If you could answer that,
 
-Joe Rogan:  
+[00:43:20] Joe Rogan:  
 Sure.
 
-Caller 4 (Don):  
+[00:43:21] Caller 4 (Don):  
 A guy asked earlier about Ronda Rousey, and he got me wondering. You really you said it was really special being there, seeing her do that. Out of all the other fighters and fighters, you know fights you've seen, which ones felt the most supernatural? Like you were seeing something special. Other than her, what are the top guys that just you felt like you were seeing something epic?
 
 [00:43:42] Joe Rogan:  
@@ -675,10 +675,10 @@ You are.
 [00:44:32] Caller 5:  
 With my two heroes, I can't believe it. Okay, I have two questions for you. One of them is serious, and one of them is silly. The silly one is, what kind of motorcycles do you guys ride? The real question that I'm calling about, and I understand, Joe, if you don't want to talk about it, but I'm still going to ask. Excuse me. NewsRadio was like genius. It was the best thing that ever happened to TV, and I still love it. And when Phil died, I my question is, was there any animosity on the set towards Andy Dick? I just said Dick on the radio.
 
-Art Bell:  
+[00:45:12] Art Bell:  
 It's his name.
 
-Caller 5:  
+[00:45:13] Caller 5:  
 Yeah. But was there any of that? Because I know the rumors. I'm sure you do better than any of us do. That's my question.
 
 [00:45:23] Joe Rogan:  
@@ -762,7 +762,7 @@ Well, that's my favorite movie of all time, so I know that scene so well. Exactl
 
 And I would never even blink the rest of my life until in 1972-ish, '73, the Meier story was on the news in Canada. We moved back to Canada to live with my real father because my mom divorced again. And then I said, "Oh my God, that's what I saw." So that was the beginning of being able to place the experience. But to not make contact with him again, my entire life didn't make any sense. Why would they, you know, single me out in the crowd? And I don't know how many other kids or people
 
-Art Bell:  
+[00:54:31] Art Bell:  
 They always single people out. No question about it. Listen, let me back up a little bit. I want you're going to talk a lot about quantum physics. I believe tonight, in the sense that you believe that quantum communication is going to be possible? Is that correct?
 
 [00:54:50] David B. Sereda:  
@@ -771,10 +771,10 @@ Electrically possible, yeah.
 [00:54:51] Art Bell:  
 Electrically, okay. I still don't have a grasp of quantum physics. I'm not sure anybody really does, but there's this thing where called entanglement. You know about that, right? Where
 
-David B. Sereda:  
+[00:55:04] David B. Sereda:  
 Yeah, sure.
 
-Art Bell:  
+[00:55:05] Art Bell:  
 Okay, nobody can really explain it, and I don't expect you to. But if you have any thoughts on it, I'd love to hear them because I'm struggling with it.
 
 [00:55:15] David B. Sereda:  
@@ -815,10 +815,10 @@ Yeah, so they does a wave. So because it's they can't see the wave, or of course
 [00:58:36] Art Bell:  
 Well, look, here's the deal. Here's the deal. If we are ever going to get to another star system, we're going to have to figure out how this communication works and either use it to communicate or use it in some way to travel. Because oh, I don't know, this recent Earth two they found it's a thousand light years away. A thousand light years. So we're not
 
-David B. Sereda:  
+[00:59:03] David B. Sereda:  
 Not very far, actually.
 
-Art Bell:  
+[00:59:05] Art Bell:  
 Well,
 
 [00:59:05] David B. Sereda:  
@@ -836,7 +836,7 @@ All right, wait, hold on, hold on. We've got we have to do a break. Hold on, we 
 [01:00:09] David B. Sereda:  
 Rubles, money, time, and I think even Seth knows that they're just you know so bored over there, probably far more bored than the beginning of the movie Contact. You know, kind of actually that book, the book Contact is phenomenal.
 
-Art Bell:  
+[01:00:24] Art Bell:  
 Yes, it is. I don't blame them for looking. I mean, look, it's.
 
 I think I would be looking too. Now I think I would be getting to the point where I'd be almost ready to say we've looked at just about everything, frankly, and there's nothing to be heard.
@@ -844,7 +844,7 @@ I think I would be looking too. Now I think I would be getting to the point wher
 [01:00:45] David B. Sereda:  
 Well, exactly. There's nothing to be heard, and there's never been anything to be heard in the radio bands, and that's why I think it's a waste of money. And because we know this quantum function is faster than light,
 
-Art Bell:  
+[01:00:59] Art Bell:  
 We do, but we don't know how to use it.
 
 [01:01:01] David B. Sereda:  
@@ -864,7 +864,7 @@ Yeah, I mean, but see, that's where you have to get. You need a sensor, and you 
 
 But one of the things I did is I looked at the Great Pyramid as a giant crystal oscillator, and I did a huge amount of math on it. It took me a year to calculate all the frequencies the pyramid would generate, and that's when I became convinced when I looked at the numbers.
 
-Art Bell:  
+[01:04:12] Art Bell:  
 Wait, wait, wait! The pyramid would generate or does generate?
 
 [01:04:16] David B. Sereda:  
@@ -876,7 +876,7 @@ Right?
 [01:04:53] David B. Sereda:  
 And the free the way you cut crystal and its size, and you excite electrons in it within a certain amount of voltage and current, you generate different frequencies in the crystal. So the crystal is responsible for the frequency. So whenever you have two oscillators at the same frequency, you have communication. So if everybody's listening to you on an FM band, a frequency modulated band, and they all tune their quartz oscillators via their technology to that frequency, we're all together, all hearing Art Bell. Now, that's only part of radio. The other part of radio was we used to use tubes to amplify the signal because it's so weak with these crystal oscillators, so that you could actually hear something.
 
-Art Bell:  
+[01:05:42] Art Bell:  
 Well, transistors perform the same function with less noise.
 
 [01:05:46] David B. Sereda:  
@@ -900,7 +900,7 @@ Okay, I am not familiar with anybody who has measured and if you can point me in
 [01:08:26] David B. Sereda:  
 Yeah, that's Fritz-Albert Popp, German physicist, very good physicist, classically trained. He's the one who did it. He's the first one who did it.
 
-Art Bell:  
+[01:08:34] Art Bell:  
 How in the world? You said using an atomic clock.
 
 [01:08:38] David B. Sereda:  
@@ -909,10 +909,10 @@ Sure, you use atomic clocks to measure the speed of a transmission of one a sign
 [01:09:26] Art Bell:  
 Yeah, I might buy that, and that somehow brings us to the consciousness thing.
 
-David B. Sereda:  
+[01:09:33] David B. Sereda:  
 I think it does, and that's where now Google this, everybody. Google DNA transistors, and you're going to see this happened years ago that the military was developing transistors that interfaced with living tissue because of exactly what I'm talking about. Living tissue has the ability to do this, and you're going to start to see why Colonel Philip Corso said that the Roswell ETs were half living, half technology, half literally solid state technology.
 
-Art Bell:  
+[01:10:10] Art Bell:  
 You know, I've had a lot of people on recently that have sort of debunked Corso. You're obviously not one of them.
 
 [01:10:16] David B. Sereda:  
@@ -964,10 +964,10 @@ Are you telling me you've got a picture of an alien creature that is not public?
 [01:18:15] David B. Sereda:  
 This particular picture is not public. No, I never went public with it.
 
-Art Bell:  
+[01:18:21] Art Bell:  
 Would you?
 
-David B. Sereda:  
+[01:18:21] David B. Sereda:  
 Would for the reason, Art, that people don't believe because they don't look at data deep enough. They only look at the surface, and when you look at the surface in an investigation, you're it's too easy for people to disbelieve because they won't look at everything properly.
 
 [01:18:41] Art Bell:  
@@ -976,7 +976,7 @@ All right,
 [01:18:42] David B. Sereda:  
 And this particular photo disturbs me because you know I was a darkroom master photographer. I looked at film, real film, for twenty years before everything went digital.
 
-Art Bell:  
+[01:18:52] Art Bell:  
 Okay, do you think it's legit?
 
 [01:18:54] David B. Sereda:  
@@ -988,13 +988,13 @@ Gee, David, why don't you share this photograph with me?
 [01:19:10] David B. Sereda:  
 I will. I will, and I'm making a movie about it. But I want to do it piece by piece, part by part, because this thing really got messed up. This Boyd Bushman story really got messed up. But I believe exactly like he said, they are part AI, and they just like we are now doing, we're now making transistors that interface with living DNA for a very good reason because of the properties of DNA. In fact, the very first successful transistor that John Bardeen and Will Brattain invented was immersed in water. It worked in water, but when they took it out of the water, it didn't work.
 
-Art Bell:  
+[01:19:50] Art Bell:  
 Wait, wait, David. I'm sorry to stop you again, but you said we're making transistors that interface with human DNA.
 
-David B. Sereda:  
+[01:19:58] David B. Sereda:  
 I didn't say human DNA. I said DNA.
 
-Art Bell:  
+[01:20:00] Art Bell:  
 Okay, DNA.
 
 [01:20:01] David B. Sereda:  
@@ -1006,7 +1006,7 @@ Really?
 [01:20:37] David B. Sereda:  
 And that was shocking.
 
-Art Bell:  
+[01:20:38] Art Bell:  
 Actually, that's not shocking. I mean, why would that be shocking? We are creatures of the Earth. We come from the Earth. Depending on what you believe, God did it all in however many days, or we have slowly emerged from the muck of the Earth. So we are part of the Earth, are we not?
 
 [01:21:00] David B. Sereda:  
@@ -1018,16 +1018,16 @@ So I'm not.
 David B. Sereda:  
 So our DNA would read that frequency, and it shocked the researchers for only one reason: is the wavelength of DNA is so small as a coil. If you look at it as an inductor coil, and we can explain inductance really easily. That inductance is like, and I've done this in my house. So you take one coil, one like copper coil, wind up some wire around a cylinder, and connect it to a signal generator. Generate a frequency and set it in front of your computer speakers, and you'll hear a tone. You'll hear.
 
-Art Bell:  
+[01:21:30] Art Bell:  
 I can explain it even easier. The new Androids use induction to charge. In other words, you take your Android phone, you put it on a little, you just lay it on this thing, and it charges magically. That's induction.
 
 [01:21:46] David B. Sereda:  
 Yeah, that's induction. Induction is transferring energy from one coil to another, and one of them doesn't have any power in it.
 
-Art Bell:  
+[01:21:52] Art Bell:  
 That's right.
 
-David B. Sereda:  
+[01:21:53] David B. Sereda:  
 But this is even a different function of induction. Is I get two coils in the house,
 
 [01:21:58] Art Bell:  
@@ -1079,7 +1079,7 @@ It's based on the mathematical radius of those five suns scaled. So when you pla
 [01:26:18] Art Bell:  
 All right. My question is, where did you obtain the recordings we're about to play?
 
-David B. Sereda:  
+[01:26:23] David B. Sereda:  
 I didn't get. I didn't obtain the recordings. What I did is, I got the radius on NASA's website, and based on the radius, I calculated the frequencies, generated, scaled the frequencies mathematically, and then generated them in a frequency generator and recorded it.
 
 [01:26:39] Art Bell:  
@@ -1088,7 +1088,7 @@ Okay.
 [01:26:40] David B. Sereda:  
 So I didn't.
 
-Art Bell:  
+[01:26:40] Art Bell:  
 All right. So then we've got the frequency according to you a Pleiades or it's Alcyone right?
 
 [01:26:48] David B. Sereda:  
@@ -1115,10 +1115,10 @@ Yeah, that see, actually they sound. If you listen to the sound of the sun, it's
 [01:27:56] Art Bell:  
 That's where we're going next. This, you say, this is the sound or the frequency of our own sun? What we're about?
 
-David B. Sereda:  
+[01:28:04] David B. Sereda:  
 Well, it's a blend. You see, you never get one frequency in a sphere. You get a huge bandwidth of frequencies, and that's why you get a scaling of frequencies. So NASA did this recording of our sun that you're going to.
 
-Art Bell:  
+[01:28:15] Art Bell:  
 Of our sun, okay. This is from NASA. Is that correct?
 
 [01:28:17] David B. Sereda:  
@@ -1133,7 +1133,7 @@ See what NASA did there, Art, is they you normally wouldn't hear the wavelength,
 [01:30:26] Art Bell:  
 That is really interesting, actually.
 
-David B. Sereda:  
+[01:30:27] David B. Sereda:  
 Yes, it's tremendously interesting, and the fact that we dream at the frequency of our own planet means do Pleiadians dream at the frequency of their planet and their sun, and do all beings who live over the universe
 
 [01:30:41] Art Bell:  
@@ -1147,7 +1147,7 @@ And when I take NASA's radius, so here's how you do the frequency at the equator
 [01:31:47] Art Bell:  
 I've got Sirius A and B here. Is it long? Do I have time?
 
-David B. Sereda:  
+[01:31:49] David B. Sereda:  
 No, it's very short. Very short.
 
 [01:31:51] Art Bell:  
@@ -1162,7 +1162,7 @@ Right?
 [01:33:11] David B. Sereda:  
 Then we are tuned to this solar system.
 
-Art Bell:  
+[01:33:15] Art Bell:  
 All right, all right. So I want to roll over this one more time with David and the way these tones are derived, other than the sun, which was actually measured by NASA. Very interesting, but these other tones are derived by measuring the planet itself. In other words, very much like our own Earth, measuring the size of the planet and various things, and then coming up with the tone, much as you would for Earth. For Earth is that correct, David?
 
 [01:33:48] David B. Sereda:  
@@ -1176,7 +1176,7 @@ So it's a whole blending of frequencies. Like for example, this is quite shockin
 
 So what's shocking is the slope angle of the Great Pyramid is 51 degrees and 51 minutes. So if I take the square base of the capstone of the pyramid, which is 2288.8 primitive inches, so 572.2 times four, and then I change it into modern inches, and then I resolve the speed of light in inches, and I calculate the frequency. It's 5151. It's 5.151 megahertz square. That's the same number as the slope angle, which means the builder knew the speed of light because we didn't know the speed of light even accurately until after 1972. So when Einstein was making a lot of his calculations, we didn't even have an accurate speed of light. The speed of light has to be so perfect in order for me to get the number that I got on the Great Pyramids.
 
-Art Bell:  
+[01:36:08] Art Bell:  
 It is very interesting. I'll give you that.
 
 [01:36:10] David B. Sereda:  
@@ -1185,7 +1185,7 @@ The builder knew the speed of light.
 [01:36:12] Art Bell:  
 Okay,
 
-David B. Sereda:  
+[01:36:12] David B. Sereda:  
 We had 5.151 megahertz square. So what does that frequency do? Why did the Egyptians make such a massive crystal oscillator, and we make tiny ones?
 
 [01:36:23] Art Bell:  
@@ -1209,7 +1209,7 @@ Vega was the star in the movie Contact. I love the sound of Vega. I mean, on my 
 [01:36:50] Art Bell:  
 All right, let's see how they sound on everybody's speakers. This is going to be Vega. Oh, that actually is pretty cool. So that's Vega.
 
-David B. Sereda:  
+[01:37:12] David B. Sereda:  
 Yeah, I could scale it even better. I mean, if I had supercomputers, I could get more and more bands of resolution going up the sides of the sphere, and it would be even smoother sounding than that.
 
 [01:37:23] Art Bell:  
@@ -1221,7 +1221,7 @@ Yeah, that's probably just a little bit of. I don't hear that when I'm playing i
 [01:37:57] Art Bell:  
 I'm not sure.
 
-David B. Sereda:  
+[01:37:57] David B. Sereda:  
 And does that open a line of communication between us and Vega? And that's what I found.
 
 [01:38:03] Art Bell:  
@@ -1257,13 +1257,13 @@ Well, see, that's how radio works. Whenever you have two distant frequencies tha
 [01:40:11] Art Bell:  
 Okay.
 
-David B. Sereda:  
+[01:40:11] David B. Sereda:  
 The rest of the frequencies are on the file. And believe me, if you can try this, you can take a signal generator and put two hertz into your speakers and take the cover off your speakers and you'll see the speaker cone moving around.
 
 [01:40:26] Art Bell:  
 Yeah.
 
-David B. Sereda:  
+[01:40:26] David B. Sereda:  
 So a coil will transmit ultra low frequencies even very low frequency.
 
 [01:40:32] Art Bell:  
@@ -1278,10 +1278,10 @@ Yes, yes, yes.
 [01:41:25] David B. Sereda:  
 That's because there they didn't have enough separation in the frequencies. So if there was another planet or star with the same frequency that you were tuning to, we would all be entangled together in that moment. But the universe didn't create planets and stars the same size. In fact, every star NASA measures-they're never the same. They're all different, and when I scale them, they all sound different because the numbers are all different.
 
-Art Bell:  
+[01:41:53] Art Bell:  
 And if they relate to the size and mass, then yes, of course they're different. They would have.
 
-David B. Sereda:  
+[01:41:57] David B. Sereda:  
 They're all different.
 
 [01:41:58] Art Bell:  
@@ -1290,10 +1290,10 @@ Yeah, they would have.
 [01:41:58] David B. Sereda:  
 And that sets their own unique frequency apart from every single other star out there.
 
-Art Bell:  
+[01:42:07] Art Bell:  
 Okay.
 
-David B. Sereda:  
+[01:42:07] David B. Sereda:  
 Now it's true that some can be incredibly close, like Sirius B and Earth are almost the same. They're not really, you know. In the world of radio, you would, you know, you if you were tuning down the radio band, you would skip over it. But in the old days, with you know very low frequency radio, you get a lot of static, but you can hear the other side of the planet. Like, why could you hear? You know, I remember having one of those radios in Long Beach, Vancouver Island. I'm listening to a radio station in Japan, and that's because those long waves wrap around the sphere, whereas the higher frequencies can't do that, there the wavelengths are too short. They won't go around the planet.
 
 So that's where it gets really, really amazing. Is that when I started doing this, Art, I was you know I didn't know what was going to happen. I wasn't like trying to point. All I did is I recorded. I took a recording of my wife Crystal singing this beautiful jazz song, "Fly Me to the Moon" by Frank Sinatra, and I met my wife at the House of Blues with Dan Aykroyd and beautiful jazz singer. And I just thought, what a great song to send out to the Pleiades. So I did this a different way. I actually encoded her song into the ratio of all the stars, and I sent it out in this transmitter in Sedona, Arizona, and I sent it out, and I said, "Well, that's probably going to be the end of that fun experiment."
@@ -1316,7 +1316,7 @@ And that's where it gets interesting, is because most of what the Pleiadians hav
 
 The next step to prove it to the world is you need that DNA transistor to amplify this ultra weak signal that the brain is picking up. You see, the brain is able to perceive in delta less than one hertz, less than one wave a second, right? But my point is, the brain is sensitive enough to electrically pick up ultra low frequencies, which are the wavelengths of big planets and stars, actually. But you can't tell me what the brain is picking up. You only know that the brain can measure a frequency that low, but what if you have a DNA transistor connected to that, and then I can actually determine what consciousness?
 
-Art Bell:  
+[01:46:41] Art Bell:  
 A DNA transistor?
 
 [01:46:43] David B. Sereda:  
@@ -1360,7 +1360,7 @@ Okay. How do these two communicate with each other? How at the, you know, greatl
 [01:49:37] David B. Sereda:  
 See the speed of light, the electromagnetic part of it is not what's doing it. What is actually the DNA? In fact, I just found this article: DNA transistors. New Scientist, April 2, 2013. I just
 
-Art Bell:  
+[01:49:51] Art Bell:  
 I know they're talking about it. I am aware of that.
 
 [01:49:54] David B. Sereda:  
@@ -1416,10 +1416,10 @@ Well, when you look at some of the articles about, you know, like this one in Ne
 
 I mean, believe me, I've sat around and worked with some of the best Nobel Prize winners in the world on nuclear fusion and landmine and bomb detection. I know a lot about how electronic systems work and how they're developed, and I know these guys. They tell me. I mean, these are current winners of prizes in physics. That they were just being philosophical when Einstein said that about consciousness, and that when Max Planck said that, and I think that's where we made the biggest mistake: is we don't realize the human nervous system is an electrical system. It can be inducted, like in the case of an alien abduction, your body becomes paralyzed by a field of energy that overtakes you.
 
-Art Bell:  
+[01:56:37] Art Bell:  
 All right, we've got a break here.
 
-Leo Ashcraft:  
+[01:56:40] Leo Ashcraft:  
 For Dark Matter News, I'm Leo Ashcraft. Earth may have a hairy mane of dark matter flowing around it. While that's quite an image to imagine, nearly 85% of the matter in the universe is thought to be so-called dark matter-stuff that has not yet been detected directly because it only interacts with normal matter via gravity, rather than being distributed smoothly through galaxies. Simulations show that dark matter particles should clump into features like halos, disks, and streams. Gary Prézeau of the Jet Propulsion Laboratory in California wondered what would happen if a stream of dark matter pierced a planet like Earth. He calculated that the planet's gravity would bend the particles' trajectories and focus them to a point. This lensing effect would concentrate dark matter along an axis passing through Earth's core, reaching densities about a billion times more than average at the focal point. Prézeau calls these features hairs. The focus or root of one such hair would be about a million kilometers above Earth, just beyond the moon.
 
 Crime sentencing has long been based on the present crime and sometimes the defendant's past criminal record in Pennsylvania. Judges could soon consider a new dimension: the future. Pennsylvania is on the verge of becoming one of the first states in the country to base criminal sentences not only on what crimes people have committed and been convicted of, but also on whether they are deemed likely to commit additional crimes. As early as next year, judges there could receive statistically derived tools known as risk assessments to help them decide how much prison time, if any, to assign.
@@ -1453,7 +1453,7 @@ I hear you. Are you really in a truck?
 
 You really are.
 
-Caller 7 (Brian):  
+[02:00:53] Caller 7 (Brian):  
 Yes, sir. Hey, before Art, I'm in Texas. This show is phenomenal. David's brilliant. I've been thinking about this for a long time. I have my own hypothesis of communication via quantum entanglement, and I've been thinking for a long time about global warming and how radio frequency and the bombardment of radio frequency atmosphere is affecting our climate and our polar shifts because of the heat and the magnetism of our radio frequency. So being able to cut down on our frequency pollution and communicate via quantum entanglement is key. Now, he was talking about DNA transistors, which will eventually allow us to be able to create our first quantum computers. Now, that is one way to start, but I'm more of a in the theory that we are capable of being able to communicate via quantum physics biologically. When he was speaking about
 
 [02:01:58] Art Bell:  
@@ -1510,37 +1510,37 @@ You see it happen. It injected his brain and put him into a trance.
 [02:04:39] Art Bell:  
 Right. Got it. Can I ask you a question? When the pyramid was functioning, capstone on there and everything, and the pyramid was functioning,
 
-David B. Sereda:  
+[02:04:45] David B. Sereda:  
 Yeah.
 
-Art Bell:  
+[02:04:46] Art Bell:  
 What was it doing?
 
 [02:04:48] David B. Sereda:  
 I believe, and I've had this experience where I actually met Anubis in a lucid dream when I was pulsing pyramid frequencies in my body, and he told me, you know, with an oscillator that size, what it actually does is see. We use oscillators to tune to send two radio waves to communicate with each other, but it's not the frequency that's the communication. It's our voices and that and the guy's horn who just played his horn. It went through. It vibrated and it got encoded on the radio wave. And when it got here, we disassembled it and we played the sound back at instantly.
 
-Art Bell:  
+[02:05:24] Art Bell:  
 Right. So we use oscillators to establish the frequency that is then amplified and used for two-way communication.
 
-David B. Sereda:  
+[02:05:31] David B. Sereda:  
 Right.
 
-Art Bell:  
+[02:05:32] Art Bell:  
 Two-way communication. Receivers, transmitters.
 
-David B. Sereda:  
+[02:05:33] David B. Sereda:  
 But the frequency itself is not the communication. The communication is sound and pictures, which is modulated onto the radio wave. So, but that only travels at the speed of light.
 
-Art Bell:  
+[02:05:44] Art Bell:  
 Absolutely,
 
-David B. Sereda:  
+[02:05:45] David B. Sereda:  
 The quantum function is faster. So, what I'm saying is, if you send the frequency of a distant star or planet into a quantum level vibration, then The quantum function will send the signal to that star faster than the speed of light, and that's how I believe the only way we're ever going to make ET contact is when we go in this direction.
 
 [02:06:06] Art Bell:  
 Oh, you might be right about that. I, you know, I don't know honestly whether we're ever going to make ET contact, but if we do, we're going to need something that goes really fast, and I think that's going to happen at the quantum level. So I agree with that. I just
 
-David B. Sereda:  
+[02:06:23] David B. Sereda:  
 Well, we've already made it.
 
 The point is you know we've made the contact? It's happening to so many people, but they can't prove it.
@@ -1575,13 +1575,13 @@ We've got pretty good audio, so we'll shake them up.
 [02:07:52] David B. Sereda:  
 Yeah, so I'll send you those.
 
-Art Bell:  
+[02:07:54] Art Bell:  
 Okay,
 
-David B. Sereda:  
+[02:07:54] David B. Sereda:  
 But the point is, over and over and over again. I mean, the caller just asked about sleep paralysis. Yes, when a being or consciousness with a greater magnetic field than your nervous system, which is not very powerful, the human nervous system, usurps it, you become paralyzed because there's far more energy coming from their magnetic field in yours, and therefore they can transfer either a negative or a positive experience to you through that taking over your electrical nervous system. But they wouldn't permanently take over your system. Like there's a story of Robert Monroe in Claude Swanson's book, The Synchronized Universe, where Robert Monroe is sleeping in this cage with all these wires wrapped around the sleeping area, right? And he goes out of body, goes through the wires, and then they put certain frequencies in the wires, and he can't get out of body; he's trapped. And that's what happens with disharmonic.
 
-Art Bell:  
+[02:08:52] Art Bell:  
 Hold on, David. Hold on. Caller, caller.
 
 [02:08:55] Caller 9 (Christy):  
@@ -1623,7 +1623,7 @@ Yeah.
 [02:11:58] Art Bell:  
 I'm not following. I'm sorry.
 
-Caller 10 (Nick):  
+[02:12:01] Caller 10 (Nick):  
 Sorry, breaking down in tears.
 
 Don't panic.
@@ -1642,7 +1642,7 @@ Hello, hey, hey, Art, hey, David. I was checking out David's website, and he has
 [02:13:31] David B. Sereda:  
 What do you mean? The average time of contact. It's.
 
-Art Bell:  
+[02:13:35] Art Bell:  
 Do you mean?
 
 [02:13:36] Caller 11:  
@@ -1651,7 +1651,7 @@ I mean, what's the average time before you make contact with any entity?
 [02:13:40] David B. Sereda:  
 Well, it would be different with every person. See, I believe the 60 hertz wiring around your house and the Wi-Fi and the cell phone and all the satellites transmitting are bombarding your nervous system and programming you. So to get you out of the program, first you've got to retune the nervous system with these very sacred tones that I found in the Great Pyramid scale, and then once you're a well-tuned nervous system, then you can start tuning. Actually, you can actually get the exact frequency of different moons of different planets inside the solar system. I've had a lot of luck remote viewing the planets in our own solar system as well as distant stars. But I found first you got to be nicely tuned before it's easy to go out of body or remote view very distant.
 
-Art Bell:  
+[02:14:27] Art Bell:  
 Okay, well, so his question was if he were to proceed with your course as outlined, I guess on the website, how long before you could conceivably make contact?
 
 [02:14:37] David B. Sereda:  
@@ -1663,7 +1663,7 @@ I had some kind of a contact or OBE, sleeping underneath a pyramid with a crysta
 [02:15:16] Art Bell:  
 Horse on a starship.
 
-David B. Sereda:  
+[02:15:17] David B. Sereda:  
 Oh, wonderful! Wonderful.
 
 [02:15:18] Caller 11:  
@@ -1693,7 +1693,7 @@ Okay.
 [02:15:45] Caller 11:  
 It was taken away, it was mysteriously taken away from me. But the effects is I project energy out of my eyes. In other words, your picture on Art's website there, you got that weird look. You know, it's kind of intense. Sometimes I have that look in my eyes, and people are almost sometimes either react good to it or they freak out at it. And I could I project energy that actually zaps them. And I don't know what to think of it or what to make of it anymore. You know, it I almost feel like Sasquatch. Like I'm Sasquatch, and people are looking at me and spotted something crazy, and then they could be hundreds of feet away from me. Sometimes I can lock them up with my energy, and I don't I don't know what's going on.
 
-Art Bell:  
+[02:16:35] Art Bell:  
 All right, listen, we are woefully out of time. I'm terribly sorry, and then somebody's distracting me by calling me on Skype with a name, Skype name of beating a pale horse, David. It's been a pleasure having you on the program, but we are absolutely out of time.
 
 [02:16:52] David B. Sereda:  
@@ -1702,13 +1702,13 @@ Out of time.
 [02:16:53] Art Bell:  
 Yes.
 
-David B. Sereda:  
+[02:16:54] David B. Sereda:  
 So thank you, Art. It's been wonderful being here. It's a real treat for me to hear your voice again, and I love your skepticism and how deep you go on both sides of the question.
 
 [02:17:03] Art Bell:  
 Well, I try to understand. Sometimes I get stuck, David.
 
-David B. Sereda:  
+[02:17:07] David B. Sereda:  
 And it's great. It's great. I love it.
 
 [02:17:09] Art Bell:  

@@ -160,7 +160,7 @@ Well, I took off. You know, all of us scared out of our wits. We don't know what
 [00:18:18] Art Bell:  
 Wow! You mean it was the thump of an arrowhead hitting?
 
-Caller 3:  
+[00:18:22] Caller 3:  
 Yes.
 
 And.
@@ -168,7 +168,7 @@ And.
 [00:18:23] Art Bell:  
 And that's all that was left in the tree was the arrowhead itself, not the-
 
-Caller 3:  
+[00:18:27] Caller 3:  
 Right.
 
 The arrowhead apparently broke off through the years.
@@ -191,10 +191,10 @@ Yes.
 [00:18:42] Caller 3:  
 A bunch more arrowheads. Actual part of an arrow, and we went and saw one of the tribal men for the Dakota tribe.
 
-Art Bell:  
+[00:18:55] Art Bell:  
 Yes.
 
-Caller 3:  
+[00:18:55] Caller 3:  
 And they said there was a battle there, and a lot of the Native Americans were slaughtered there.
 
 [00:19:03] Art Bell:  
@@ -237,7 +237,7 @@ All right. Do you have a ghost story for us?
 [00:23:24] Caller 4:  
 South of Macon.
 
-Art Bell:  
+[00:23:25] Art Bell:  
 Mm-hmm.
 
 [00:23:26] Caller 4:  
@@ -317,7 +317,7 @@ Okay.
 [00:26:22] Caller 5 (Stan):  
 I had a little boy, and I moved back in with in my parents' house, and they just recently moved into a house in Las Vegas.
 
-Art Bell:  
+[00:26:29] Art Bell:  
 Mm-hmm.
 
 [00:26:29] Caller 5 (Stan):  
@@ -415,7 +415,7 @@ Of course.
 [00:30:17] Caller 6 (Tony):  
 And we were sitting down, just relaxing, enjoying ourselves, you know, just because it's scary out there. You know, it was around Halloween too.
 
-Art Bell:  
+[00:30:25] Art Bell:  
 Mm-hmm.
 
 [00:30:26] Caller 6 (Tony):  
@@ -448,7 +448,7 @@ Like within the valleys and the tree line and all that.
 [00:30:58] Art Bell:  
 Right.
 
-Caller 6 (Tony):  
+[00:30:59] Caller 6 (Tony):  
 Just darker and all get out. And some dogs and other animals seemed to be barking. There was dogs barking, animals in the background over the hill. They had like a miniature zoo there at this park. Had like timberwolves and whatnot in it, and they were all barking. And the neighborhood dogs that were outside of the park limit, you could hear them too. They're all going wild. All going crazy.
 
 [00:31:23] Art Bell:  
@@ -469,10 +469,10 @@ Yeah, right.
 [00:31:31] Caller 6 (Tony):  
 And then a light came over the top of the hill. We thought it was maybe one of the, you know, searchers or whatever. We assumed that there was somebody out there, making a racket near us, because the dogs were so close and they were barking very loudly.
 
-Art Bell:  
+[00:31:45] Art Bell:  
 Yes.
 
-Caller 6 (Tony):  
+[00:31:46] Caller 6 (Tony):  
 Just light came over the hill, and we thought at first, you know, hey, no big deal. It's just a maybe a park ranger, and it could be anything.
 
 [00:31:53] Art Bell:  
@@ -527,10 +527,10 @@ So it had to be above the treeline.
 [00:33:25] Caller 6 (Tony):  
 Well, we didn't figure that out really right away because we were just not thinking things like that. When it got to the top of the hill, it didn't go over the ridge like it initially appeared on the ridge.
 
-Art Bell:  
+[00:33:39] Art Bell:  
 Yes.
 
-Caller 6 (Tony):  
+[00:33:39] Caller 6 (Tony):  
 But it went above the ridge. You could see the skyline, the stars in the background. It was about the size of a basketball. It went up slowly, as slowly as it walked up, you know, went up the hill. There was nothing around the light. The light did not blind you, like a normal bright light that would be facing you. So,
 
 [00:33:55] Art Bell:  
@@ -606,7 +606,7 @@ I know I should have, but I felt no uneasiness, no unrest. I was just listening,
 [00:38:16] Art Bell:  
 Well, that should have tipped you off, also.
 
-Caller 7 (Chris):  
+[00:38:18] Caller 7 (Chris):  
 So that he couldn't finish his run, but what really got me, made my hair stand on end, was you know. Then he, I turned over and went to sleep like nobody's been there, and the next day I went down to check my rabbits that were in the horse barn, you know.
 
 [00:38:35] Art Bell:  
@@ -739,10 +739,10 @@ Hi. Where are you?
 [00:46:29] Caller 10 (Adam):  
 I'm in Canton, Ohio. My name's Adam.
 
-Art Bell:  
+[00:46:31] Art Bell:  
 Okay, Adam.
 
-Caller 10 (Adam):  
+[00:46:32] Caller 10 (Adam):  
 Happy Samhain, by the way.
 
 [00:46:34] Art Bell:  
@@ -769,7 +769,7 @@ Was this the middle of the night when you woke up?
 [00:47:03] Caller 10 (Adam):  
 Yeah, actually.
 
-Art Bell:  
+[00:47:04] Art Bell:  
 Okay.
 
 [00:47:04] Caller 10 (Adam):  
@@ -799,7 +799,7 @@ Your grandfather had been in the house or not?
 [00:48:20] Caller 10 (Adam):  
 Yeah, he lived with us. Both of my grandparents.
 
-Art Bell:  
+[00:48:21] Art Bell:  
 I see. All right.
 
 [00:48:22] Caller 10 (Adam):  
@@ -1039,7 +1039,7 @@ Hi to your mom too.
 [00:59:02] Caller 13:  
 Oh, okay, great.
 
-Art Bell:  
+[00:59:03] Art Bell:  
 Where are- Oh, she's right there. Where are you?
 
 [00:59:06] Caller 13:  
@@ -1057,16 +1057,16 @@ I'll be darned.
 [00:59:24] Caller 13:  
 And I was a signalman, and there was myself and another signalman. We're up in the signal bridge. The front part of the signal bridge is fairly open and spacious, and everything. But the area in back was very narrow, and there was just like a small walkway. We were both sitting in what we call the signal shack, and in the back part area, and there's a doorway right near, right in this room, and the ship being old and everything like that. I mean, there was no way we ran this one up, down, sideways, whichever you know. Trying to figure this one out afterwards, but and it could have been someone trying to play a trick, but we really don't think so because you know we could hear anybody sneaking around.
 
-Art Bell:  
+[01:00:22] Art Bell:  
 Sure.
 
-Caller 13:  
+[01:00:22] Caller 13:  
 You know, I mean, it's just that type of a ship. But we were sitting there, and all of a sudden, on this door, on this hatch, you know, we start hearing this knocking. You know, not- and it wasn't none of the you know friendly "Hi, how are you? Open up the door, let me in" type knock.
 
-Art Bell:  
+[01:00:39] Art Bell:  
 Sure.
 
-Caller 13:  
+[01:00:39] Caller 13:  
 It was a steady bang, bang, bang, bang. You know, and it was like you know, I mean, made my willy hairs stand right on end.
 
 [01:00:47] Art Bell:  
@@ -1093,10 +1093,10 @@ I recall.
 [01:01:27] Caller 13:  
 And but the thing was is that we closed the door, and after looking around, and then it was like, oh, I don't know, twenty, thirty minutes later, the you know knocking came back, and you know we started, you know, it's like calling out, knocking off you guys, and it just kept on going.
 
-Art Bell:  
+[01:01:45] Art Bell:  
 Of course.
 
-Caller 13:  
+[01:01:46] Caller 13:  
 And I ran out one, you know, I went out to the front part of our signal shack, and went out another access door. My other signalman, he went out the other access door. We found not a soul, and let me, you know, we had a, we were supposed to have a what we call a sleeping midwatch.
 
 [01:02:06] Art Bell:  
@@ -1158,7 +1158,7 @@ Yeah, yeah, it was kind of odd because we.
 [01:03:48] Art Bell:  
 It's not odd.
 
-Caller 14 (Tom):  
+[01:03:48] Caller 14 (Tom):  
 We don't really talk much like that.
 
 [01:03:49] Art Bell:  
@@ -1199,10 +1199,10 @@ Real hard, real hard, and it lasted maybe a minute or so.
 
 The air looked a little swirly. It seemed swirly. I don't know if I really saw it or was just feeling it or what.
 
-Art Bell:  
+[01:05:08] Art Bell:  
 Yes.
 
-Caller 14 (Tom):  
+[01:05:09] Caller 14 (Tom):  
 At the end of that experience, which lasted maybe a minute or so, this thought entered my mind, and it said, "Well, when you get home, if one of your sisters called and says, and your wife says she was real upset, that was your mom visiting you in class."
 
 [01:05:28] Art Bell:  
@@ -1217,10 +1217,10 @@ Oh, I see.
 [01:05:37] Caller 14 (Tom):  
 As soon as I got home, my wife Lisa said, "Tom, one of your sisters called, and she was real upset. She wants you to call her back."
 
-Art Bell:  
+[01:05:45] Art Bell:  
 Oh boy!
 
-Caller 14 (Tom):  
+[01:05:45] Caller 14 (Tom):  
 It was funny. It was the same language that I heard in my mind. You know, so I
 
 [01:05:51] Art Bell:  
@@ -1289,16 +1289,16 @@ Oh yes.
 [01:08:13] Caller 15:  
 South of town, and what happened is, as they were going over the track into their little neighborhood, the thing- bus stalled, and this darn train couldn't stop in time. They didn't have road crossings back then, track crossings and stuff.
 
-Art Bell:  
+[01:08:29] Art Bell:  
 Warnings, right?
 
-Caller 15:  
+[01:08:30] Caller 15:  
 And it hit the bus, and it killed the driver.
 
-Art Bell:  
+[01:08:33] Art Bell:  
 I understand.
 
-Caller 15:  
+[01:08:33] Caller 15:  
 And all the children that were left on the bus.
 
 [01:08:35] Art Bell:  
@@ -1349,10 +1349,10 @@ Oh, I've got you now. That's why the powder, and you see handprints there.
 [01:10:48] Caller 15:  
 Right. Yes, sir. And they're small handprints, so we're kindergarten to high school kids.
 
-Art Bell:  
+[01:10:53] Art Bell:  
 I understand.
 
-Caller 15:  
+[01:10:53] Caller 15:  
 On the bus, they're not large adult handprints that mean you know somebody might have just stuck on there. There are small ones to you know larger handprints.
 
 [01:11:01] Art Bell:  
@@ -1439,10 +1439,10 @@ Not saying nice things, yeah.
 [01:13:48] Caller 16 (Terry):  
 Right. Exactly. And she went down there, and she's you know picking up the potatoes and putting them in a basket and whatnot. And she heard the hears these footprints behind her, but they're more like what you would imagine the sound of like Frankenstein walking up from behind you, the thud.
 
-Art Bell:  
+[01:14:08] Art Bell:  
 Thud.
 
-Caller 16 (Terry):  
+[01:14:08] Caller 16 (Terry):  
 Kind of thing. Well, she turned around.
 
 [01:14:11] Art Bell:  
@@ -1451,10 +1451,10 @@ Thuds are bad.
 [01:14:12] Caller 16 (Terry):  
 Yeah, thuds are bad. Well, she turned around and she screams at the top of her lungs and goes running up the stairs. She's crying and she just, you know, she looks like just saw a ghost.
 
-Art Bell:  
+[01:14:21] Art Bell:  
 Yep.
 
-Caller 16 (Terry):  
+[01:14:22] Caller 16 (Terry):  
 Well, my grandmother's asking her, "What? What happened? What happened?" She said, "I just saw the devil." And she's describing him, you know, he was, you know, like seven feet tall, whatever. And, you know, my grandmother scolding her for telling a lie.
 
 [01:14:32] Art Bell:  
@@ -1643,10 +1643,10 @@ The vibration it would raise in tone and then lower and then raise and lower. It
 
 About a week later, mid morning again, I'm doing dishes, looking out the back window. I've got one sink piled with dishes to rinse. I had a piece of glass taken out of the door of the toaster oven, and we had it all washed up and set it over on top of the other dishes. And I was starting to get into the silverware section of it when this vibration started again. It was real soft this time. Walked around the house trying to find out where it was coming from this time, and couldn't quite find it. Went back to the dishes, and all the time still hearing the vibration, real soft and low. And now it starts to almost throb and getting higher and lower and louder and louder.
 
-Art Bell:  
+[01:30:58] Art Bell:  
 Yes.
 
-Caller 18 (Curtis):  
+[01:30:59] Caller 18 (Curtis):  
 And all of a sudden, I just realize that the noise is coming from the sink right in front of me, where I'm putting these wash dishes to be rinsed. And I'm just kind of looking down at the sink, and it was as if a hammer was just with all of somebody or some things might hit the bottom of this piece of glass out of the toaster oven, and it exploded straight up into my face.
 
 [01:31:29] Art Bell:  
@@ -1821,10 +1821,10 @@ Oh, you're in Pahrump.
 [01:38:50] Caller 20:  
 Yep.
 
-Art Bell:  
+[01:38:50] Art Bell:  
 Excellent.
 
-Caller 20:  
+[01:38:51] Caller 20:  
 I'm your neighbor.
 
 [01:38:51] Art Bell:  
@@ -1898,10 +1898,10 @@ Yeah.
 [01:40:36] Art Bell:  
 And your wife?
 
-Caller 20:  
+[01:40:38] Caller 20:  
 Exactly.
 
-Art Bell:  
+[01:40:39] Art Bell:  
 Great.
 
 [01:40:40] Caller 20:  
@@ -1913,7 +1913,7 @@ Okay.
 [01:41:02] Caller 20:  
 The next day, of course, I wake up late. The next day, she says, "Your buddy visited me last night and scared the hell out of me."
 
-Art Bell:  
+[01:41:12] Art Bell:  
 Oh.
 
 [01:41:12] Caller 20:  
@@ -1925,10 +1925,10 @@ Yes.
 [01:41:14] Caller 20:  
 She says, "Henry was looking over me in my bed, and she says I hollered at him and told him to get out of my room and never to come back again. I got the wickedest feeling. I looked at her and I says, "That's what he meant." She says, "What?" I says, "He told me to tell you he was sorry and it would never happen again."
 
-Art Bell:  
+[01:41:36] Art Bell:  
 Yeah.
 
-Caller 20:  
+[01:41:37] Caller 20:  
 Now through time, I tried to communicate with him and find out. I did not do any research on it, Art. I was I get scared to find out what I might find out.
 
 [01:41:46] Art Bell:  
@@ -2023,7 +2023,7 @@ Yes.
 [01:47:15] Caller 21:  
 9, 8, 4, 9, 9.
 
-Art Bell:  
+[01:47:16] Art Bell:  
 Yep.
 
 [01:47:16] Caller 21:  
@@ -2115,13 +2115,13 @@ That's an incredible story.
 [01:52:24] Caller 22:  
 Well, it hadn't dawned on us until we had sold this particular item, and everything started up again.
 
-Art Bell:  
+[01:52:32] Art Bell:  
 Oh!
 
-Caller 22:  
+[01:52:32] Caller 22:  
 So we have been trying to track down this doll to get it back.
 
-Art Bell:  
+[01:52:35] Art Bell:  
 Oh, now wait a minute. So in other words, you sold that doll?
 
 [01:52:39] Caller 22:  
@@ -2136,10 +2136,10 @@ Right.
 [01:52:41] Art Bell:  
 And the hauntings began again?
 
-Caller 22:  
+[01:52:43] Caller 22:  
 Right.
 
-Art Bell:  
+[01:52:43] Art Bell:  
 And now you're trying to get the doll back.
 
 [01:52:45] Caller 22:  
@@ -2175,16 +2175,16 @@ Yes, sir.
 [01:53:42] Caller 23:  
 A long time ago, when I was about 11 years old, one of my mom's friend's son was killed on Halloween, and then a couple months go on from that, then all of a sudden my mom gets connected with this one lady that plays with Ouija boards, and she said, oh, could I ask a question?"
 
-Art Bell:  
+[01:54:02] Art Bell:  
 Huh.
 
 [01:54:02] Caller 23:  
 And the woman said, "Sure, go right ahead." And she said, "Would I ever lose my sons?" Well, the thing pointed to yes. And my mom said, "Ah, that's nothing." Then about a year from that, me and my brother end up in a foster home. We end up inside my mom's friend that son that died on Halloween, her foster home, and I get his bedroom.
 
-Art Bell:  
+[01:54:26] Art Bell:  
 Wow.
 
-Caller 23:  
+[01:54:27] Caller 23:  
 And all of a sudden, I was asleep one night, and there was like two other foster kids in the bedroom with me.
 
 [01:54:32] Art Bell:  
@@ -2202,10 +2202,10 @@ Well, it from the push and.
 [01:54:54] Art Bell:  
 Oh, you mean from being depressed?
 
-Caller 23:  
+[01:54:56] Caller 23:  
 Yeah.
 
-Art Bell:  
+[01:54:57] Art Bell:  
 It raised up, so whatever it was, left immediately.
 
 [01:55:01] Caller 23:  
@@ -2324,7 +2324,7 @@ Because my dad was at work. Anyways, the light went on. As soon as that light we
 [02:03:55] Art Bell:  
 Good move.
 
-Caller 26 (Johnny):  
+[02:03:55] Caller 26 (Johnny):  
 As soon as we opened up that back door and let our German Shepherd come in, the dog just started barking like crazy. It just was going down the hall. Whatever was in the house, whatever spirit, or whatever it was, the dog was actually backing the spirit away to keep the spirit away from us.
 
 [02:04:16] Art Bell:  
@@ -2386,7 +2386,7 @@ And then I hear complaining about how bright it is in the room.
 [02:07:06] Art Bell:  
 Did you hear it in a detached way?
 
-Caller 27 (Heather):  
+[02:07:09] Caller 27 (Heather):  
 Yes. Yes. I was kind of separated from my body.
 
 [02:07:12] Art Bell:  
@@ -2398,7 +2398,7 @@ I could see the room, even though physically my eyes were closed.
 [02:07:16] Art Bell:  
 Right.
 
-Caller 27 (Heather):  
+[02:07:17] Caller 27 (Heather):  
 I could see around the room.
 
 [02:07:18] Art Bell:  
@@ -2434,10 +2434,10 @@ I'm 25 now.
 [02:08:35] Art Bell:  
 24?
 
-Caller 27 (Heather):  
+[02:08:36] Caller 27 (Heather):  
 25.
 
-Art Bell:  
+[02:08:37] Art Bell:  
 24. Look, what you did was very dangerous.
 
 [02:08:41] Caller 27 (Heather):  
@@ -2639,10 +2639,10 @@ Yeah, right.
 [02:14:39] Caller 29 (Lance):  
 Sir and yeah and so me and my friend was in the back room there where she used to stay and they had like a couch back there and kind of like a game room with a dartboard and we're standing there throwing darts and we're talking about yeah what do you think Jenny you think she's a little too much to drink or something during that night when she saw these clouds and this thunderstorm and stuff.
 
-Art Bell:  
+[02:15:08] Art Bell:  
 Yes.
 
-Caller 29 (Lance):  
+[02:15:09] Caller 29 (Lance):  
 And you know we're kind of discussing it, and we just got to throwing darts, all six of them, in the dartboard. My friend went to pull one dart out, and it popped out of the dartboard, and he goes, Oh no! And then, you know, like he didn't get the points or something for the darts, and then he went to pull another dart out, and it fell down to the ground.
 
 [02:15:37] Art Bell:  
@@ -2835,22 +2835,22 @@ Until I mentioned the skull.
 [02:22:12] Caller 31:  
 Yeah, and I thought, oh, I remember that.
 
-Art Bell:  
+[02:22:15] Art Bell:  
 But look at the thing. Is pretty cool. Here we go.
 
-Caller 31:  
+[02:22:16] Caller 31:  
 Yeah. Okay. Well, this this occurred when I was very young. I must have been about 5 or 6 years old, and this carried on for a few years. I lived in a home in Pomona, California, and I don't have a full recollection of the layout of the home, but I remember my room I shared with my brother was a pretty good sized room at the end of a hallway. And if you would walk down the hallway toward where the living room would be, to the left was our kitchen. Now my mother worked a graveyard shift. That during that time she worked at a factory some kind, and she had to leave right real late at night. And I remember the first incident that ever occurred in that house was at. I knew all. Okay, I lived kind of a strict family that the kids stayed in the room until they were allowed to get up in the morning for breakfast.
 
-Art Bell:  
+[02:23:00] Art Bell:  
 Right.
 
-Caller 31:  
+[02:23:00] Caller 31:  
 You know, we were real little. All of us, those three of us, my brother and myself and my sister, who had another room in a different part of the house. Well, I remember all the noises that I would hear of my mother making coffee. You know, stirring the cup and setting the cup down, and then turning the lights off and then going out the front door closing it locking it jumping in the car and leaving the whole sequence of sounds was always the same.
 
-Art Bell:  
+[02:23:22] Art Bell:  
 Sure.
 
-Caller 31:  
+[02:23:23] Caller 31:  
 Pretty much wake to turn that.
 
 [02:23:24] Art Bell:  
@@ -2887,10 +2887,10 @@ A blank face. All right. Well, I appreciate the story. I would say this: that ch
 [02:27:50] Caller 32 (Grant):  
 Good morning, Art.
 
-Art Bell:  
+[02:27:51] Art Bell:  
 Good morning.
 
-Caller 32 (Grant):  
+[02:27:51] Caller 32 (Grant):  
 This is Grant in Seattle.
 
 [02:27:53] Art Bell:  
@@ -2908,10 +2908,10 @@ Got a story for you about a haunted radio station I worked at about seven years 
 [02:28:07] Art Bell:  
 Oh, there's plenty of stories in broadcasting. Southern Idaho?
 
-Caller 32 (Grant):  
+[02:28:11] Caller 32 (Grant):  
 Yes.
 
-Art Bell:  
+[02:28:12] Art Bell:  
 All right.
 
 [02:28:12] Caller 32 (Grant):  
@@ -2929,10 +2929,10 @@ Really?
 [02:28:36] Caller 32 (Grant):  
 And so when I would work out there, lights would flip on and off, phones would ring, pick it up, be a dial tone, hang it up, ring, dial tone. The layout of the station, the way it was set up, if you wanted a Coke or a snack,
 
-Art Bell:  
+[02:28:52] Art Bell:  
 Sure.
 
-Caller 32 (Grant):  
+[02:28:52] Caller 32 (Grant):  
 in the basement,
 
 [02:28:53] Art Bell:  
@@ -2977,10 +2977,10 @@ Ah, that's right.
 [02:30:52] Caller 33 (Pat):  
 Teenager, Golden Gate Park, a place called, well, maybe the kids called it Dark Valley. Used to ride our bikes through there in the evening. Of course, on the streets it'd be much lighter, but down amongst the trees, there was a nice road we used to love to take. It dipped down, and then we pedaled like hell to get to the other end. I'd have to say Grim Reaper, whether man in a costume or, I have no idea. Pedaling down about five in the evening, mighty dark.
 
-Art Bell:  
+[02:31:27] Art Bell:  
 Oh yes.
 
-Caller 33 (Pat):  
+[02:31:28] Caller 33 (Pat):  
 And with a friend on our Schwinns or single speed bikes, and it's dark near the tree line. We're in a road about six feet wide. Sure enough, perfect example. Just out of the darkness walks black cape, hood front of the face, baggy hood. Can't see the face. Gleaming sickle.
 
 [02:31:53] Art Bell:  
@@ -2989,10 +2989,10 @@ In other words, a normal San Francisco resident. Just kidding. I mean, even with
 [02:32:01] Caller 33 (Pat):  
 I couldn't believe it, Art. I couldn't believe it, and of course he comes out of it just as we pass. And the arms, the arm goes up. I'm screaming by now.
 
-Art Bell:  
+[02:32:14] Art Bell:  
 Oh my!
 
-Caller 33 (Pat):  
+[02:32:15] Caller 33 (Pat):  
 He's screaming, my buddy, pedaling like hell.
 
 [02:32:18] Art Bell:  
@@ -3007,16 +3007,16 @@ Oh man!
 [02:32:22] Caller 33 (Pat):  
 Okay, and we're out of there. Okay, the police. A big friend of mine. Let's go back and we'll get him. You know, it's some weirdo.
 
-Art Bell:  
+[02:32:30] Art Bell:  
 Yeah.
 
-Caller 33 (Pat):  
+[02:32:31] Caller 33 (Pat):  
 Well, Art, I had I had never had anybody die around me, but sure enough, within that week, my best friend, not the man, not the guy I was with on the bike.
 
-Art Bell:  
+[02:32:43] Art Bell:  
 Yeah.
 
-Caller 33 (Pat):  
+[02:32:44] Caller 33 (Pat):  
 But did he not die on a motorcycle down out front of the beach? He was going too fast. We were taking turns on this motorcycle. Woman from the middle lane cut across right in front of him into the parking
 
 [02:33:00] Art Bell:  
@@ -3061,7 +3061,7 @@ Yes, sir.
 [02:33:38] Caller 34 (Jenny):  
 And well, I never detected anything really funny about the house except for one time, and I was actually I was taking a bath. It was late at night, and I had a candle burning.
 
-Art Bell:  
+[02:33:51] Art Bell:  
 Huh.
 
 [02:33:52] Caller 34 (Jenny):  
@@ -3138,7 +3138,7 @@ That was basically it. I was basically just petrified.
 [02:35:09] Art Bell:  
 All right, my friend. I appreciate the call.
 
-Caller 34 (Jenny):  
+[02:35:10] Caller 34 (Jenny):  
 All right, thanks.
 
 [02:35:11] Art Bell:  
@@ -3244,7 +3244,7 @@ A couple years ago, a veteran officer in Colorado was on a routine night patrol 
 [02:41:39] Art Bell:  
 Sure.
 
-Caller 36 (Forrest):  
+[02:41:40] Caller 36 (Forrest):  
 Did a routine field interrogation.
 
 [02:41:43] Art Bell:  
@@ -3369,10 +3369,10 @@ KFMB, right?
 [02:48:16] Caller 38 (Jose):  
 Yep,
 
-Art Bell:  
+[02:48:17] Art Bell:  
 San Diego.
 
-Caller 38 (Jose):  
+[02:48:17] Caller 38 (Jose):  
 Huh.
 
 And my story has to do with your radio show.
@@ -3440,7 +3440,7 @@ I'm doing fine. My husband and I have just started watching your show, and we en
 [02:49:36] Art Bell:  
 Do you actually sit there and stare at the radio?
 
-Caller 39 (Marcy):  
+[02:49:38] Caller 39 (Marcy):  
 Well, actually, it's on TV. We have our scanner channel on.
 
 [02:49:44] Art Bell:  
@@ -3511,7 +3511,7 @@ I understand.
 [02:55:05] Caller 40 (Brad):  
 And we had this eye contact, and she looked at me like like oh, the secret salad. And I was completely unnerved, and I walked back to the room and fell asleep.
 
-Art Bell:  
+[02:55:14] Art Bell:  
 Huh.
 
 [02:55:14] Caller 40 (Brad):  
@@ -3578,7 +3578,7 @@ We went up. I got about halfway up the mountain into the park. I saw my friend's
 [03:00:03] Art Bell:  
 You guys are out of your minds.
 
-Caller 41 (TJ):  
+[03:00:05] Caller 41 (TJ):  
 And well, we were at that. At least I was at that point. I was into, you know, everything - the Ouija, you know, everything - and come to find out, you know, talking to other people and everything. That's a common occurrence when something paranormal or spiritual happens. That especially ladybugs, which are the symbol of like good luck, tend to - I don't know - congregate at a spot where something bad might have happened.
 
 [03:00:35] Art Bell:  
@@ -3707,10 +3707,10 @@ Right.
 [03:06:41] Caller 44 (Jeff):  
 Seattle area. I had an experience Custer Battlefield about five years ago, went out there with my family and I'd gone ahead to the battle site by myself. And I was up there in the afternoon and turned out I was the last person in the park. And the ranger came up and said he'd go ahead and leave the gate unlocked and I could let myself out.
 
-Art Bell:  
+[03:07:03] Art Bell:  
 Right.
 
-Caller 44 (Jeff):  
+[03:07:03] Caller 44 (Jeff):  
 Didn't believe it. So I'm up there right by the mass grave site and decided to take a walk along this path they have over to where some other guys were slaughtered. I was walking along there and it's real quiet. The only thing you could hear was the wind in your ears. And I'm walking along and I heard a very definite. It was a gravel path. I heard a footstep right behind me and I turned around and I thought the ranger was back.
 
 [03:07:28] Art Bell:  
@@ -3719,10 +3719,10 @@ Right.
 [03:07:29] Caller 44 (Jeff):  
 To tell me I had to leave now.
 
-Art Bell:  
+[03:07:31] Art Bell:  
 Sure, it's almost dark.
 
-Caller 44 (Jeff):  
+[03:07:33] Caller 44 (Jeff):  
 I turned around and it was going there, and my heart just leaped into my throat. I thought, what the heck?
 
 I must have been imagining things. I turned around, started to walk again, and very definitely, I was listening this time. I heard it again,

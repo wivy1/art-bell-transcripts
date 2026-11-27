@@ -227,10 +227,10 @@ Well.
 [00:21:54] Caller 2 (Disconnected Seventy Six):  
 As far as the story goes, I don't know if you remember, but the last show you did, Spooky Matter, while you were with Sirius.
 
-Art Bell:  
+[00:22:03] Art Bell:  
 Yes.
 
-Caller 2 (Disconnected Seventy Six):  
+[00:22:04] Caller 2 (Disconnected Seventy Six):  
 My wife Stella had gotten through to you and had discussed the house we lived in, where the knives were coming out of the sheaths on the counter into the floor by my feet.
 
 [00:22:15] Art Bell:  
@@ -275,16 +275,16 @@ That was obviously from a prior tenant who had died violently in your room.
 [00:23:41] Caller 2 (Disconnected Seventy Six):  
 And they just kept having to cook over and over and over again.
 
-Art Bell:  
+[00:23:44] Art Bell:  
 Sorry.
 
 [00:23:46] Caller 2 (Disconnected Seventy Six):  
 It's all right. But in that same house, two more things of note for that house. Up on the top level in the bathroom, my sister was hanging. Let's see. She was nine years older than me, so she was still pretty short. She was hanging shower curtain, you know, with the hooks and everything, and she was standing on a stool.
 
-Art Bell:  
+[00:24:10] Art Bell:  
 Yeah.
 
-Caller 2 (Disconnected Seventy Six):  
+[00:24:11] Caller 2 (Disconnected Seventy Six):  
 And my mom, I saw this, and I have a fairly vivid memory of it. My mother was also there, and insists that my memory is not mistaken. That she got thrown across the room into the wall, which was about eight feet away from the shower curtains.
 
 [00:24:25] Art Bell:  
@@ -293,10 +293,10 @@ Oh, see, now that's way into the paranormal, no question. Yes.
 [00:24:29] Caller 2 (Disconnected Seventy Six):  
 Yes. And the I remember a lot of people having weird dreams there. But the only other thing of real note before we moved out is when you would go up and down the stairs.
 
-Art Bell:  
+[00:24:41] Art Bell:  
 Yes.
 
-Caller 2 (Disconnected Seventy Six):  
+[00:24:42] Caller 2 (Disconnected Seventy Six):  
 You could hear things whispering, whispering your name, and you always felt like you were going to get pushed down.
 
 [00:24:48] Art Bell:  
@@ -350,7 +350,7 @@ In the snow. Cold.
 [00:27:21] Art Bell:  
 Yeah.
 
-Caller 3:  
+[00:27:22] Caller 3:  
 It was very very cold.
 
 [00:27:23] Art Bell:  
@@ -471,7 +471,7 @@ Same lady, same stumbling from up behind the same pine trees, and same thing. I 
 [00:36:05] Art Bell:  
 Wow.
 
-Caller 3:  
+[00:36:06] Caller 3:  
 When it came-
 
 [00:36:06] Art Bell:  
@@ -509,7 +509,7 @@ Yeah, I was so scared. And I so time is a little confusing to me now. But then a
 [00:37:38] Art Bell:  
 Right.
 
-Caller 3:  
+[00:37:38] Caller 3:  
 And so that's where I was going from my house to my girlfriend's house. So I pull into my mom and dad's house and I get out and I start heading for the front door. And my mom and dad lived in town, their very small town. And the woman walked from around my mom and dad's house towards the front door right for me. She was maybe ten feet from me. Same thing, stumbling, looking mostly at the ground, wringing her hands.
 
 [00:38:08] Art Bell:  
@@ -596,10 +596,10 @@ Well, now we have you. You have one?
 [00:40:52] Caller 4 (YLP):  
 Indeed. Thank you.
 
-Art Bell:  
+[00:40:53] Art Bell:  
 Do- yes, do you have the story?
 
-Caller 4 (YLP):  
+[00:40:55] Caller 4 (YLP):  
 No, unfortunately, I don't have any fancy stories, but I very much enjoy hearing those stories of people around.
 
 [00:41:03] Art Bell:  
@@ -635,7 +635,7 @@ I'm a Jack. I am Jack from Miami, Florida.
 [00:42:01] Art Bell:  
 All right, Jack. Jack W.
 
-Caller 6 (Jack):  
+[00:42:03] Caller 6 (Jack):  
 I'm glad I got through to you. Welcome back, Mr. B.
 
 [00:42:06] Art Bell:  
@@ -736,10 +736,10 @@ I'm doing well, sir.
 [00:47:11] Caller 7:  
 Long time, long, long time fan. I first heard Art Bell when back in the '90s when Strange Universe did a feature on you.
 
-Art Bell:  
+[00:47:21] Art Bell:  
 Oh, that's right.
 
-Caller 7:  
+[00:47:22] Caller 7:  
 I've been listening religiously since. I'm an advanced quantum mechanics physicist, and I'm sitting here with the illustrious, beautiful Linda. And the reason for the call was we kind of entertained this idea a while back, but we didn't know where we wanted to break this story.
 
 [00:47:45] Art Bell:  
@@ -772,10 +772,10 @@ Okay.
 [00:48:43] Caller 7:  
 And so what we did. Linda here was pretty much shattered from nose to toe in a terrible drunken driving accident. Drunken driver hit her and well, it smashed her entire body. Her then pregnant son was born in a coma.
 
-Art Bell:  
+[00:49:09] Art Bell:  
 Oh my God!
 
-Caller 7:  
+[00:49:09] Caller 7:  
 He's doing good today, but Linda has went through about what twelve now. Not count yet. She's went through about twelve botched surgeries. They've cut nerves. They've left her to a state where she would never walk again.
 
 [00:49:29] Art Bell:  
@@ -823,10 +823,10 @@ Yeah, it sounds pretty wild.
 [00:51:15] Art Bell:  
 Okay, so I hear Linda.
 
-Caller 7:  
+[00:51:17] Caller 7:  
 Yep.
 
-Art Bell:  
+[00:51:18] Art Bell:  
 I hear Linda in the background. Linda, I want you to come to the phone and tell me if you've been cured by text frequencies.
 
 [00:51:29] Caller 8 (Linda):  
@@ -856,10 +856,10 @@ Yeah, I'm doing great now. Better than I have been in 17 years. So it's somethin
 [00:52:37] Art Bell:  
 It certainly is. All right, thank you very much. Text frequency treatments. I've got a bad back. Maybe I'll ship you my cell number.
 
-Ross Mitchell:  
+[00:54:38] Ross Mitchell:  
 In that darkest time between dusk and dawn, from the high desert, it's Art Bell's Midnight in the Desert. Now, here's Art.
 
-Art Bell:  
+[00:54:46] Art Bell:  
 Well, now here I am, and let's see where to go. It's Open Lines. We're talking about any paranormal event that's happened in your life that you think others would find interesting. There obviously are many. Let's go outside the country this time and say hello to somebody who names themselves the Darkness Ninety Seven.
 
 [00:55:11] Caller 9 (Darkness Ninety Seven):  
@@ -1033,10 +1033,10 @@ Okay.
 [01:00:55] Caller 11 (James):  
 I go in there and these guys are like freaked out. There was a dark green in the Marine Corps dark green means black, light green means white.
 
-Art Bell:  
+[01:01:03] Art Bell:  
 Right.
 
-Caller 11 (James):  
+[01:01:04] Caller 11 (James):  
 There was a mixed couple guarding. Okay. And the dark green was ashen gray. I'm not joking, you, my brother, my veteran brother, and they're both freaked out. Are you there?
 
 [01:01:18] Art Bell:  
@@ -1153,10 +1153,10 @@ Yes. Anyway, what's up?
 [01:05:09] Caller 12 (Tony):  
 My name is Tony, and I'm from Norman, Oklahoma, which is about 30 miles south of Oklahoma City.
 
-Art Bell:  
+[01:05:17] Art Bell:  
 Okay.
 
-Caller 12 (Tony):  
+[01:05:19] Caller 12 (Tony):  
 And I've talked to you twice before. The last story I told you was about a foot that I felt under a couch. Yeah. And this happened about five years ago. This past Fourth of July.
 
 [01:05:42] Art Bell:  
@@ -1189,10 +1189,10 @@ And the face? It looked like the normal gray alien depicted.
 [01:07:18] Caller 12 (Tony):  
 Oh yes, exactly. And it just stood there. It was looking at me. I was looking at it.
 
-Art Bell:  
+[01:07:25] Art Bell:  
 Yeah, I bet.
 
-Caller 12 (Tony):  
+[01:07:25] Caller 12 (Tony):  
 And it was had to be about forty five seconds. And for the longest time, I kept thinking that, Matt, why why was he standing there so long? And I thought, well, I maybe he's the one I know.
 
 [01:07:45] Art Bell:  
@@ -1255,22 +1255,22 @@ Okay.
 [01:10:07] Caller 12 (Tony):  
 So everybody jumped up.
 
-Art Bell:  
+[01:10:09] Art Bell:  
 Of course.
 
-Caller 12 (Tony):  
+[01:10:09] Caller 12 (Tony):  
 Turned on the lights outside.
 
-Art Bell:  
+[01:10:11] Art Bell:  
 Right.
 
-Caller 12 (Tony):  
+[01:10:11] Caller 12 (Tony):  
 Everybody ran outside.
 
-Art Bell:  
+[01:10:13] Art Bell:  
 Got it.
 
-Caller 12 (Tony):  
+[01:10:14] Caller 12 (Tony):  
 And there was this twelve or thirteen year old girl who was just about the same size as it was, and she was standing right near where it was, and I you could see a path in the grass, you could actually see where it had gone through in the grass.
 
 [01:10:34] Art Bell:  
@@ -1312,7 +1312,7 @@ Hey, you know what? It happens. Now get up off the floor before you hurt your ba
 [01:13:19] Art Bell:  
 Oh, you're right, actually.
 
-Caller 5 (Jack W.):  
+[01:13:23] Caller 5 (Jack W.):  
 All right. So now that we got that out of the way, let me start this fresh with a Roswells and Kecksburgs from the New York Pennsylvania border.
 
 [01:13:35] Art Bell:  
@@ -1447,7 +1447,7 @@ It'll burn your hand?
 Caller 5 (Jack W.):  
 Yep.
 
-Art Bell:  
+[01:17:22] Art Bell:  
 Anything else about it?
 
 [01:17:24] Caller 5 (Jack W.):  
@@ -1546,10 +1546,10 @@ Hello everybody. Midnight in the Desert on an open line. Any paranormal experien
 [01:25:51] Caller 14 (Mr. Cool):  
 Oh my God, this is me.
 
-Art Bell:  
+[01:25:53] Art Bell:  
 It is.
 
-Caller 14 (Mr. Cool):  
+[01:25:54] Caller 14 (Mr. Cool):  
 I got through.
 
 [01:25:55] Art Bell:  
@@ -1618,7 +1618,7 @@ Okay. I've got a question on my computer, which says, BellGabbers want to know w
 [01:27:29] Caller 14 (Mr. Cool):  
 The piece of paper taped to the clock.
 
-Art Bell:  
+[01:27:32] Art Bell:  
 Right.
 
 Caller 14 (Mr. Cool):  
@@ -1636,10 +1636,10 @@ Yes, yes, yes, yes. That one. I'm going to answer because obviously there's not 
 [01:28:18] Caller 14 (Mr. Cool):  
 So the mystery is solved.
 
-Art Bell:  
+[01:28:19] Art Bell:  
 Yes.
 
-Caller 14 (Mr. Cool):  
+[01:28:20] Caller 14 (Mr. Cool):  
 Can I? I know that I'm going to ask a question, Art, and I don't know if I mean I know you've talked about the Ouija board story, and you don't really want to disclose. And so-
 
 [01:28:33] Art Bell:  
@@ -1804,10 +1804,10 @@ Okay.
 [01:36:07] Caller 16:  
 I know you've been asking for some suggestions for the show, and so I just wanted to say that we love Open Lines, and so.
 
-Art Bell:  
+[01:36:13] Art Bell:  
 Me too.
 
-Caller 16:  
+[01:36:14] Caller 16:  
 Maybe if you would do more of those, even on a weeknight, even for the first hour of the show, we'd love that. But I also have two quick questions for you because I am a radio guy, so I'm intrigued. Have you always run your board, and have you always worn a headset mic?
 
 [01:36:29] Art Bell:  
@@ -1880,10 +1880,10 @@ Uh huh. Well, you know, listen. Don't let it worry you. Just whisper it right he
 [01:40:21] Caller 17 (John):  
 Okay. Yeah. Hey. Hey. One more thing.
 
-Art Bell:  
+[01:40:25] Art Bell:  
 Yes.
 
-Caller 17 (John):  
+[01:40:26] Caller 17 (John):  
 So once again, I worked in command and control, and a buddy mine who was also a radio guy, or background in radio, we used to try to turn our HF station into UVB-76. Are you familiar with that one?
 
 [01:40:43] Art Bell:  
@@ -2010,10 +2010,10 @@ Reality Radio.
 [01:47:28] Caller 19:  
 Yes. Okay. So, when I was a teenager, this isn't a ghost story, but it is kind of abnormal.
 
-Art Bell:  
+[01:47:36] Art Bell:  
 Sure.
 
-Caller 19:  
+[01:47:37] Caller 19:  
 So, I'm a teenager with my best girlfriend, and we're in the mall, and we meet these boys that we think are way cool. We spend the day hanging out with them, and we give them our phone number, and we didn't hear from them that night. The next day, we wanted to talk to these boys. We were so boy crazy. We did everything that we could to find the phone number for these guys. The one guy, all we knew was the town he lived in, and that he was missing half his arm. So we did all kinds of crazy boy, crazy stuff to try and find their numbers.
 
 [01:48:15] Art Bell:  
@@ -2070,10 +2070,10 @@ Whoa.
 [01:50:08] Caller 19:  
 And I thought to myself, "This is your chance. You watch real close, and you remember this number that he's going to push."
 
-Art Bell:  
+[01:50:15] Art Bell:  
 Wow!
 
-Caller 19:  
+[01:50:15] Caller 19:  
 So I watched him, and I could see just I couldn't see the numbers, but I could see the shape of the keypad, you know.
 
 [01:50:21] Art Bell:  
@@ -2085,7 +2085,7 @@ And I knew I figured out which numbers he pushed, and I kind of forced myself to
 [01:50:41] Art Bell:  
 Huh.
 
-Caller 19:  
+[01:50:41] Caller 19:  
 So we had to wait till 9 a.m. to call, and we called the number, and it was his number.
 
 [01:50:48] Art Bell:  
@@ -2190,10 +2190,10 @@ When you're on the phone, you can't hear. You- well, no, but we do ship the audi
 [01:56:05] Caller 21 (Joy):  
 Anyway, ah, two things I have to share with you. One is my paranormal experience.
 
-Art Bell:  
+[01:56:11] Art Bell:  
 Okay.
 
-Caller 21 (Joy):  
+[01:56:12] Caller 21 (Joy):  
 And also today, my husband just got out of surgery, and I have to give great kudos to nurses. We need to give them credit and thank them when they do a good job.
 
 [01:56:24] Art Bell:  
@@ -2208,10 +2208,10 @@ Oh, that's a beautiful place. Yes.
 [01:56:45] Caller 21 (Joy):  
 Beautiful venue. It was approaching. It was twilight, but getting darker. And-
 
-Unknown Speaker 1:  
+[01:56:51] Unknown Speaker 1:  
 Try it again.
 
-Caller 21 (Joy):  
+[01:56:53] Caller 21 (Joy):  
 Walking. Hello.
 
 [01:56:55] Art Bell:  
@@ -2292,22 +2292,22 @@ No kidding.
 [01:59:42] Caller 21 (Joy):  
 It was one that was carrying your station, your show, which astounded me. But so we looked at it through the spyglass, and what we saw were was or were a number of lights that were going around at least the one side that we could see from where we were at. They were amber green, amber green, amber green lights that were elliptical.
 
-Art Bell:  
+[02:00:10] Art Bell:  
 Wow.
 
-Caller 21 (Joy):  
+[02:00:11] Caller 21 (Joy):  
 And my friend and I, one of the people who was looking at it with me, people we were having dinner with, looked at it through the spyglass and we could see, you know, the spyglasses that you can look at over the-
 
-Art Bell:  
+[02:00:24] Art Bell:  
 Sure, sure, sure.
 
-Caller 21 (Joy):  
+[02:00:25] Caller 21 (Joy):  
 Long copper the long brass ones that-
 
-Art Bell:  
+[02:00:28] Art Bell:  
 Right.
 
-Caller 21 (Joy):  
+[02:00:29] Caller 21 (Joy):  
 Well, we were looking at it, and we and both of us saw this thing that looked like this long arm that was going out from one side out towards the actual smokestacks, and looked like it was taking something from them.
 
 [02:00:47] Art Bell:  
@@ -2445,10 +2445,10 @@ And it is.
 [02:06:32] Caller 22 (Scott):  
 I'll go to sleep at night, and I will hear voices. I will hear screams.
 
-Art Bell:  
+[02:06:39] Art Bell:  
 Mm-hmm.
 
-Caller 22 (Scott):  
+[02:06:40] Caller 22 (Scott):  
 I will hear people in my ear. It's not like a dream or anything. I'll be kind of sleeping, but it's not a dream, and I'll hear right in my ear someone mention my name, like they're trying to talk to me.
 
 [02:06:52] Art Bell:  
@@ -2583,10 +2583,10 @@ Yes.
 [02:10:23] Caller 23 (Trey):  
 But I'll.
 
-Art Bell:  
+[02:10:24] Art Bell:  
 Good word.
 
-Caller 23 (Trey):  
+[02:10:24] Caller 23 (Trey):  
 It sort of culminated one night when I used to stay up late watching Nick at Nite and the Dick Van Dyke Show was on.
 
 [02:10:31] Art Bell:  
@@ -2601,10 +2601,10 @@ Not particularly.
 [02:10:36] Caller 23 (Trey):  
 Anyway, I had just gone to bed and my alarm went off in the room. Woke up, turned it off, go back to sleep. Happens again.
 
-Art Bell:  
+[02:10:49] Art Bell:  
 Mm-hmm.
 
-Caller 23 (Trey):  
+[02:10:50] Caller 23 (Trey):  
 So, once again, repeat the process. Other alarms in my room start going off, like on little video game consoles and whatnot.
 
 [02:11:00] Art Bell:  
@@ -2628,10 +2628,10 @@ I'll tell you what got weird about it was.
 [02:11:23] Art Bell:  
 Okay, we've got a break here. Can you hold?
 
-Caller 23 (Trey):  
+[02:11:25] Caller 23 (Trey):  
 No problem.
 
-Art Bell:  
+[02:11:26] Art Bell:  
 All right, putting you on hold. Stay right there. Nothing to fear anymore. This is midnight.
 
 [02:11:38] Leo Ashcraft:  
@@ -2664,7 +2664,7 @@ Okay, well now you've got a chance to relax and you can finish up.
 [02:17:27] Caller 23 (Trey):  
 I'm calmer, but anyway, that night after all the weird stuff was going on with the electronics, it sounded like a dog laughing coming from behind my dresser.
 
-Art Bell:  
+[02:17:37] Art Bell:  
 A dog laughing?
 
 [02:17:39] Caller 23 (Trey):  
@@ -2851,7 +2851,7 @@ Okay. Thank you. So I just- so-
 [02:27:56] Art Bell:  
 Yeah, you just-
 
-Caller 26:  
+[02:27:57] Caller 26:  
 I'm on the air now, or-
 
 [02:28:00] Art Bell:  
@@ -2866,13 +2866,13 @@ Only a woman would remember the fashion statement made by the entity. But go ahe
 [02:28:48] Caller 26:  
 Yeah, I know, right? Yeah. But I remember exactly what she looked like. I know that she had dark hair and she had it up in a bun, and I you know I didn't mention anything about it to my other roommates at the time because I was like, well, they're not going to believe me. You know, I look over and I see this like strange woman standing over my bed.
 
-Art Bell:  
+[02:29:08] Art Bell:  
 Sure.
 
-Caller 26:  
+[02:29:10] Caller 26:  
 So I what you know I just didn't say anything about it, and the next day one of my roommates went into the kitchen to go make something, and all of a sudden I hear her scream in the kitchen. She is just freaking out, and I go in there, and she and I said, "What happened?" She says, "You know, I just went in here, and there was a woman standing by the sink, and she described what the woman looked like and everything." And she says, "You know, looked like she was washing dishes in the sink, and then I turned around and she was gone." And I said, "Oh my God, that's the same woman that I saw that was like standing over me in you know in my bedroom like a week ago."
 
-Art Bell:  
+[02:29:50] Art Bell:  
 Right.
 
 Caller 26:  

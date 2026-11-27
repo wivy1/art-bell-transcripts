@@ -7,7 +7,7 @@
 [00:00:10] Unknown Speaker 1:  
 You're listening to Coast to Coast AM with Art Bell live on the CBC Radio Network. To call the show locally, dial 383-8255. 383-8255. To call toll-free all across the West, dial 1-800-338-8255. The wildcard direct lines are area code 702-385-7214 385-7214. And finally, if you've never called the show before, try the first time caller line at 702-385-7213. We invite you to participate on the Talk of the West, KDWN, and the CBC network. When your call is entered, please turn your radio down. Each caller will be allowed up to three minutes, giving more listeners a chance to join in.
 
-Art Bell:  
+[00:01:50] Art Bell:  
 From the flagship station of the CBC and BRN radio networks, KDWN, the 50,000-watt clear-channel voice of Las Vegas on 720. Good morning. We're just up past a full moon. We're here for all night talk radio, and we have on the telephone our guest for the evening, John Lear. Good morning, everybody. I'm Art Bell. This is Coast to Coast AM, and we're going to be here from now until six o'clock in the morning with some of the very strangest information that you've ever heard.
 
 As a matter of fact, let me give my standard warning, so I don't have to put up with the abuse later in the show. We're going to be talking about unidentified flying objects, aliens, alien technology, its effect on Earth, and a lot more. Some of it, at times, relating to religion and very sensitive. And my caution to you all, my caveat would be, if this kind of thing disturbs or scares you, or there's anybody in the room that would be disturbed or scared, please get them out of the room and/or turn the radio off. For the rest of you, John Lear, in just a moment.
@@ -480,10 +480,10 @@ It doesn't intimidate me. Everything's on the up and up. I'd like to expose some
 [00:55:13] Art Bell:  
 Wildcard line three, you're on the air, Coast to Coast AM with Art Bell and John Lear. Good morning.
 
-Caller 2:  
+[00:55:17] Caller 2:  
 Oh, good morning, Art.
 
-Art Bell:  
+[00:55:18] Art Bell:  
 Where are you calling from, sir?
 
 [00:55:19] Caller 2:  
@@ -492,16 +492,16 @@ I'm calling from Mesa.
 [00:55:21] Art Bell:  
 Mesa, Arizona.
 
-Caller 2:  
+[00:55:22] Caller 2:  
 Yes, sir.
 
-Art Bell:  
+[00:55:23] Art Bell:  
 All right.
 
 [00:55:24] Caller 2:  
 I'd like to ask him if it would surprise him to know that Clinton's mother's maiden name was Rockefeller, and that his real name is William Jefferson B-L-Y-T-H-E the Fourth, Blythe, Blythe, the Fourth.
 
-Art Bell:  
+[00:55:44] Art Bell:  
 Is all of that a surprise to you, John?
 
 [00:55:47] John Lear:  
@@ -564,13 +564,13 @@ The exact same question that you just asked was asked by Senator Robert Byrd, wh
 [00:59:53] Art Bell:  
 So he said, " I don't remember signing anything on there."
 
-John Lear:  
+[00:59:55] John Lear:  
 There's nothing under there. So they had another some other questions too.NBC April 20th ran a story about saucer-like objects over Groom Lake.
 
-Art Bell:  
+[01:00:04] Art Bell:  
 Yep.
 
-John Lear:  
+[01:00:05] John Lear:  
 Channel 13 had some strange lights that they photographed over Groom Lake. Aviation Week May 11 to August 24th had pictures of strange contrails. You know there were those skyquakes in Southern California. Wall Street Journal comes out with a story. All these things seem to say that there was something strange going on. So the Senate, so Byrd sent out a guy to Las Vegas here last Saturday, Dick D'Amato, senior legislative aide, and he was going to make a surprise trip to Groom Lake. And he told us that you know if there was stuff going on and it wasn't through the normal budget, that in his words, he's he was going to pull the plug on Area 51.
 
 [01:00:44] Art Bell:  
@@ -797,7 +797,7 @@ Well, apparently, at least according to the abductees, the greys don't understan
 [01:18:11] Art Bell:  
 Wow, wow. Well, we're plotting a lot of new territory this morning. It's very, very interesting. Let's pick up another call quickly. Wildcard line three, you're on the air. Coast to Coast AM with John Lear and Art Bell.
 
-Caller 6:  
+[01:18:24] Caller 6:  
 Oh, thank you, thank you, Art. I have two quick questions, and I'll listen to them off the air. Number one, what these are people that have been abducted by aliens and been experimented on. Have they ever suffered ill effects when they get back to Earth from the medical experiences. Second question: Has John Lear ever known many Navy aviators, and has he ever had a desire, or has he ever landed on an aircraft carrier? And I'll hang up and listen.
 
 [01:18:58] Art Bell:  
@@ -907,13 +907,13 @@ No, I saw. I bought the Bob Lazar video, and the last part he goes, "Heat is tak
 John Lear:  
 Yes.
 
-Caller 7:  
+[01:27:04] Caller 7:  
 So that means that their gravitational system is electricity.
 
-John Lear:  
+[01:27:08] John Lear:  
 No.
 
-Caller 7:  
+[01:27:09] Caller 7:  
 That they use to...
 
 [01:27:10] John Lear:  
@@ -933,7 +933,7 @@ Let me ask you, the business owner, would you like to advertise to over 750,000 
 
 From Jackie Gaughan's Plaza downtown. This is KDWN Las Vegas.
 
-Tim Sargent:  
+[01:29:39] Tim Sargent:  
 AP Network News. Good morning. I'm Tim Sargent. The East Coast still feeling the effects of one of the wettest and windiest storms to hit the area in decades. Sergeant John McCluskey with the New York Police Department says they have a variety of problems to deal with today.
 
 [01:29:52] John McCluskey:  
@@ -970,7 +970,7 @@ As for the U.S. military's effort to get food aid to the starving in Somalia, Cl
 [01:32:58] Tim Sargent:  
 More announcements of cabinet appointments expected from Little Rock today. The word now is that Democratic Party Chairman Ron Brown will be tapped to be the next Commerce Secretary. Of the nine people Clinton has chosen so far, including four women, all are white. A royal wedding today, but a low-key wedding. Correspondent Joseph White in London says Princess Anne is once again tying the knot.
 
-Joseph White:  
+[01:33:20] Joseph White:  
 This is not your typical royal wedding. The order of service, the guest list, the site of the honeymoon-all a well-kept secret. Royal watcher Alison Hardy says even the mode of transport is a mystery.
 
 [01:33:31] Alison Hardy:  
@@ -1155,13 +1155,13 @@ Hi there. Would you turn your radio off, please?
 [01:45:45] Caller 12:  
 Yes, I will. Am I on the air now?
 
-Art Bell:  
+[01:45:48] Art Bell:  
 Well, you are. Yes.
 
-Caller 12:  
+[01:45:49] Caller 12:  
 This is directed to John, and I understand that John and Bob Lazar have built a time machine.
 
-Art Bell:  
+[01:45:57] Art Bell:  
 Well, that's the story. In fact, you said it, John.
 
 John, is that right? Have you built a time machine? And could I go to the '50s, please, John? About fifty-five.
@@ -1178,10 +1178,10 @@ Kidding. You're kidding. You really thought about doing this, John?
 [01:46:32] John Lear:  
 Yes.
 
-Art Bell:  
+[01:46:32] Art Bell:  
 Holy mackerel!
 
-John Lear:  
+[01:46:33] John Lear:  
 And the bottom line is, yes, you could you could very easily build a time machine-not very easily, but a lot simpler than you might think-to go forward. Now it's much much more difficult to go back in time, but it can be done.
 
 [01:46:47] Caller 12:  
@@ -1249,7 +1249,7 @@ I am a physicist. I worked out at Area S-4, here in Nevada. I was exposed to som
 [01:54:37] Art Bell:  
 How many of these discs did you actually see your own eyes?
 
-Bob Lazar:  
+[01:54:42] Bob Lazar:  
 Nine.
 
 Art Bell:  
@@ -1261,7 +1261,7 @@ The only one I had physical contact with was one.
 [01:54:46] Art Bell:  
 Was one. How long were you involved in trying to back engineer that technology?
 
-Bob Lazar:  
+[01:54:53] Bob Lazar:  
 A few months, not a very long time. Things didn't work out very well for a whole bunch of different reasons.
 
 [01:55:01] Art Bell:  
@@ -1270,10 +1270,10 @@ You ended up leaving. They ended up erasing you. Is the short story.
 [01:55:06] Bob Lazar:  
 That's correct.
 
-Art Bell:  
+[01:55:10] Art Bell:  
 I would ask you what I asked John earlier. Are you aware of any practical application of knowledge gained with that technology that you could point to today?
 
-Bob Lazar:  
+[01:55:22] Bob Lazar:  
 Actually, none at all. No.
 
 [01:55:25] Art Bell:  
@@ -1289,10 +1289,10 @@ And good morning from the home of S-4, in Area 51, the state of Nevada. This is 
 
 I've got John Lear and Bob Lazar on the phone. We're going back to both of them right now, gentlemen. Good morning again.
 
-Unknown Speaker 4:  
+[01:56:34] Unknown Speaker 4:  
 Morning.
 
-Art Bell:  
+[01:56:37] Art Bell:  
 Gee, Bob, back to the time thing for a second now, if we might, it you're saying a it would be possible.
 
 [01:56:45] Bob Lazar:  
@@ -1319,13 +1319,13 @@ Well, they essentially create them. They're using a device to artificially creat
 [01:59:40] Art Bell:  
 I guess I know where there's a gravity amplifier, just not too many miles from here, huh?
 
-Bob Lazar:  
+[01:59:44] Bob Lazar:  
 Right.
 
-Art Bell:  
+[01:59:44] Art Bell:  
 Getting it's the problem. So, if you could put your hands on something like that, that might be then one practical application of the alien technology.
 
-Bob Lazar:  
+[01:59:55] Bob Lazar:  
 Well, is it that practical though? [unclear: Well, you did] like that and could turn it on. Sit in a chair, and there's really I don't see any way of going back. But theoretically, there should be.
 
 [02:00:09] Art Bell:  
@@ -1431,7 +1431,7 @@ Ah, well, that's kind of a loaded question. Is it possible for something to disa
 [02:08:49] Art Bell:  
 Wow. Ah, would the power plants inside these disks be capable of that kind of generation?
 
-Bob Lazar:  
+[02:08:59] Bob Lazar:  
 Yes.
 
 Art Bell:  
@@ -1642,10 +1642,10 @@ Well, yeah. The information, like I said, the only information I know are the te
 [02:23:33] Art Bell:  
 Listen to me. We've got to stop here. I've got a newscast I've got to do. Please stay around just a little while longer, will you, Bob?
 
-Bob Lazar:  
+[02:23:38] Bob Lazar:  
 Sure.
 
-Art Bell:  
+[02:23:39] Art Bell:  
 All right, stay right there.
 
 [02:23:43] Unknown Speaker 1:  
@@ -1699,7 +1699,7 @@ Yeah, and there's going to be another one too, isn't there, Bob?
 [02:26:43] Bob Lazar:  
 Ah, yeah, it's kind of in the works, and but that tape was a lot of people that viewed the first tape. It was it's a technical tape, but it's made for the layman to understand all the technology and how it works. And there's just been a request for a tape that goes heavy into the physics. A lot of technical people, scientists, and that sort of thing want all the specifics, exactly formulas and things along those lines, and that's what the second tape will probably cover. I'm not really sure about that yet. Nothing's been done with it, and
 
-Art Bell:  
+[02:27:20] Art Bell:  
 What kind of technology would that give away?
 
 [02:27:25] Bob Lazar:  
@@ -1729,7 +1729,7 @@ All right, indulge just a couple calls here. We are a talk show. Wildcard line t
 [02:30:00] Caller 13:  
 I finally made it in.
 
-Art Bell:  
+[02:30:02] Art Bell:  
 Good, good, good.
 
 Where are you calling from, sir?
@@ -1892,7 +1892,7 @@ Yes, I have that show on tape. It was really something, really something. All ri
 [02:44:28] Unknown Speaker 5:  
 If you own a gun or want to have the right to do so, your rights are under attack like never before. If you don't stand up for your rights today, I warn you, you won't have those rights tomorrow. That's why I urge if they need you to get a pencil, because in just a minute I'm going to give you a toll-free number to call so you can join the Citizens Committee for the Right to Keep and Bear Arms. As a member of the Citizens Committee, you receive a membership card, a monthly newsletter, plus legislative action alerts aimed at protecting your gun rights. Membership costs only fifteen dollars, a small price to pay to protect your right to keep and bear arms. It's so important that you join today. If you call now, I'll make sure that you get the 168-page special edition of the Gun Rights Fact Book free. Call 1-800-452-9100. Join today. Call now and get your membership card, monthly newsletter, plus legislative action alert and free book. Membership is only fifteen dollars. And remember, the call and book are free. 800-452-9100. You can use Visa or Mastercard. Call now. It's time to stand up and be counted. 1-800-452-9100.
 
-Unknown Speaker 1:  
+[02:45:25] Unknown Speaker 1:  
 From Jackie Gaughan's downtown. This is KDWN Las
 
 [02:45:52] Art Bell:  
@@ -1961,7 +1961,7 @@ All right,
 [02:50:50] Bob Lazar:  
 Like quarks and things of that sort.
 
-Caller 17:  
+[02:50:52] Caller 17:  
 Yes.
 
 [02:50:53] Art Bell:  
@@ -2012,7 +2012,7 @@ A wordless knowing might be described as intuition.
 [02:55:01] Caller 18:  
 Well, I always thought it was a message from either the Creator or the Savior or a guardian angel. However, just listening to this program tonight, I think possibly it could be an alien because they communicate telepathically, and that's I think what this was. And by the way, it was a kind and helpful knowledge. I was following a wrong lifestyle, and after I got that wordless knowing and that message, I changed that lifestyle.
 
-Art Bell:  
+[02:55:36] Art Bell:  
 All right. Thank you very much for the call, John. John, is that their manner of communication?
 
 [02:55:41] John Lear:  
@@ -2138,7 +2138,7 @@ How are you doing?
 [03:04:04] Caller 20:  
 Hi.
 
-Bob Lazar:  
+[03:04:04] Bob Lazar:  
 I am not doctor, by the way.
 
 [03:04:06] Caller 20:  
@@ -2150,19 +2150,19 @@ I see.
 [03:04:12] Caller 20:  
 My first question is for Mr. Lear. I'd like the where I could get a information on that hands off law regarding intact UFOs, fragments, and the occupants.
 
-John Lear:  
+[03:04:24] John Lear:  
 Well, I'm glad you asked that because I just pulled that out, thinking that somebody would call, and it is 14 CFR 1211 of the Code of Federal Regulations.
 
-Caller 20:  
+[03:04:43] Caller 20:  
 Okay.
 
-John Lear:  
+[03:04:43] John Lear:  
 And what it says is, anyone who sees it and approaches a UFO and is able to touch the object may be liable for a five thousand dollar fine and or a year in prison if he or she does not submit to detention.
 
-Art Bell:  
+[03:04:58] Art Bell:  
 Wait a minute. Have you been fined, Bob?
 
-Bob Lazar:  
+[03:05:01] Bob Lazar:  
 No, I've never heard of this before. What are you reading this from, John?
 
 [03:05:04] John Lear:  
@@ -2170,7 +2170,7 @@ From the Code of Federal Regulations, 14 CFR 1211. It's has to do with touching 
 
 Anybody who sees or approaches a UFO or touches the object may be liable for a five thousand dollar fine and or a year in prison if he or she does not submit to detention.
 
-Art Bell:  
+[03:05:25] Art Bell:  
 See Bob, just like submit it to detention. I was going to say just one more insult.
 
 [03:05:31] Caller 20:  
@@ -2194,7 +2194,7 @@ No, I couldn't possibly regurgitate that.
 [03:06:11] Bob Lazar:  
 Should have answered that one first because I knew the answer to that one.
 
-Art Bell:  
+[03:06:15] Art Bell:  
 Oh, you had that one.
 
 Well darn. All right, think about it. Listen, folks. Bob, I'm only going to request that I have you for about seven more minutes if I can have you that long, and then we'll do the last hour with John. Bob, it's been such an honor. Both of you stand by for a second. And we'll do that, and we'll do this, and we'll get it all handled and be right back. You're listening to the CBC and BRN Radio Networks together in the nighttime from Las Vegas. I'm Art Bell with John Lear, Bob Lazar,
@@ -2385,16 +2385,16 @@ They were all told to leave their arms in their barracks.
 [03:14:55] John Lear:  
 Yes, it is very possible to stage that.
 
-Caller 24 (Barry):  
+[03:14:58] Caller 24 (Barry):  
 I know three. Out to the spot that they were going to witness, they all were unarmed, and the only reason I can think of this is that it was a staged event.
 
-John Lear:  
+[03:15:08] John Lear:  
 Well, it was a staged event, but the question is who staged it?
 
-Caller 24 (Barry):  
+[03:15:12] Caller 24 (Barry):  
 Probably the CIA.
 
-John Lear:  
+[03:15:14] John Lear:  
 Well, it's possible.
 
 [03:15:16] Art Bell:  
@@ -2414,7 +2414,7 @@ I have one more point.
 [03:16:02] Art Bell:  
 No, no, sir. I'm sorry. We don't allow a callback in these shows, but I appreciate the attempt. Line two, your turn.
 
-Caller 26:  
+[03:16:08] Caller 26:  
 Good morning.
 
 [03:16:10] Art Bell:  
@@ -2517,10 +2517,10 @@ Wow. Where that is, but go ahead.
 [03:20:58] Caller 28:  
 It's outside of Bakersfield.
 
-Art Bell:  
+[03:20:59] Art Bell:  
 Ah, okay.
 
-Caller 28:  
+[03:20:59] Caller 28:  
 I have a question for John. I just tuned in, and I was curious. Does he believe that there's any interbreeding going on between humans and aliens, and to what ends do they expect to achieve?
 
 [03:21:15] Art Bell:  
@@ -2535,7 +2535,7 @@ It's an ugly thought, John. I say it's an ugly thought.
 [03:21:24] John Lear:  
 Apparently, they're trying to interbreed for apparently their race is dying out. At least this is the story some of the abductees come back with, and they're trying to interbreed with us to make a stronger form of themselves.
 
-Caller 28:  
+[03:21:40] Caller 28:  
 Very interesting. Okay, thank you very much.
 
 [03:21:43] Art Bell:  
@@ -2595,7 +2595,7 @@ And I will I will send further information. But Montauk Project and also the kno
 [03:24:09] Art Bell:  
 All right. Well, if you listen carefully, I will shortly tell you how to get a copy of it. But we have got to go.
 
-Caller 29 (Billy):  
+[03:24:14] Caller 29 (Billy):  
 Thank you for
 
 [03:24:15] Art Bell:  
@@ -2672,7 +2672,7 @@ No, no, he does not, sir.
 [03:29:42] Caller 31:  
 I wonder if
 
-Art Bell:  
+[03:29:42] Art Bell:  
 He has made clear the fact that he absolutely believes what he's saying. And
 
 [03:29:48] Caller 31:  
@@ -2684,7 +2684,7 @@ All right. Thank you, John.
 [03:29:55] John Lear:  
 No, I have not.
 
-Art Bell:  
+[03:29:56] Art Bell:  
 What did he say? He's gone. So I don't know. But I do want to follow up on the first part of what he said, because he was ascribing to you an apparently a feeling that isn't really there. I mean, you don't take all this with a grain of salt at all, do you?
 
 [03:30:13] John Lear:  
@@ -2714,10 +2714,10 @@ That's a toughie. I'm going to let you do that.
 [03:31:51] Art Bell:  
 Oh, thanks. You know what I do at moments like that?
 
-John Lear:  
+[03:31:55] John Lear:  
 What's that?
 
-Art Bell:  
+[03:31:55] Art Bell:  
 I push the next button. Line three, you're on the air with Art Bell and John Lear. Good morning.
 
 [03:32:00] Caller 33:  
@@ -2755,7 +2755,7 @@ All right, we've got to hold it there, sir.
 Caller 33:  
 Okay, thank you.
 
-Art Bell:  
+[03:34:05] Art Bell:  
 The whole notion of gravity and what it is is very interesting, isn't it, John? And it's hard to know whether it's a pulling force or a...
 
 [03:34:14] John Lear:  
@@ -2764,7 +2764,7 @@ Now Bob describes it as a wave, but I'll have to wait till he's on next time if 
 [03:34:21] Art Bell:  
 All right, very good. Wildcard line three, you're on the Coast to Coast AM with Art Bell and John Lear. Hello.
 
-Caller 33:  
+[03:34:26] Caller 33:  
 You cut me off before I could ask my question.
 
 [03:34:28] Art Bell:  
@@ -2821,22 +2821,22 @@ At line two, you're on the air, Coast to Coast AM with Art Bell and John Lear. G
 [03:39:05] Caller 35:  
 Good morning, Mr. Lear. Have you read Communion?
 
-John Lear:  
+[03:39:11] John Lear:  
 Yes.
 
-Caller 35:  
+[03:39:12] Caller 35:  
 What do you think of it?
 
-John Lear:  
+[03:39:14] John Lear:  
 It was scary when I read it. Was when I first started this research and I heard about it. I was on my way to the airport. It was a flight from Las Vegas to Cleveland, and I kind of it was it was a night flight. I kind of read it on the way, and when I got to Cleveland, it was an overnighter there. I couldn't turn the light on. I mean, it was it was so real to me. Now a lot of other people have read Communion and then they think it's you know so so, but for me it struck a true note. It felt really, really real to me.
 
-Caller 35:  
+[03:39:48] Caller 35:  
 Okay, I. There's another book I'll call [unclear: "Being" by Michael Redson]. Have you had an opportunity to read that one?
 
-John Lear:  
+[03:39:54] John Lear:  
 No, I haven't. He's a British author, isn't he?
 
-Caller 35:  
+[03:39:57] Caller 35:  
 I believe so. It has more to do with the spiritual side of these beings, and it has a lot. Well, maybe they're angels. Maybe they're not, and so forth. Another question: What is the purpose of this 115?
 
 [03:40:16] Art Bell:  
@@ -2863,7 +2863,7 @@ Tucson. That's quite all right. Go ahead.
 [03:40:55] Caller 36:  
 I'd like to have his opinion on the reports of instant healing that appear occasionally in the records of association with UFOs. And also, I'd like to know what he feels about these abduction cases, where usually they report being carried through solid walls or windows.
 
-John Lear:  
+[03:41:16] John Lear:  
 Really, I've read both of those. Both of them are very interesting. Apparently, the instant healing has occurred. I don't know how it has occurred. The one about being carried through the walls really puzzles me. There's also being carried through a car. They feel that their body is going through the car, or at least their soul, because they can look back in the car and see their body, but they feel like they are wherever they're being transported. Yes. It's always puzzling me, but it's like Bob Lazar was talking about mental telepathy. Until we have more information, we're not going to know how they did it. It seems to be a frequency beyond anything we know about. Yes.
 
 [03:41:56] Art Bell:  
@@ -2910,7 +2910,7 @@ They owe us a lot of money for California.
 
 Hadn't heard about that, John.
 
-John Lear:  
+[03:44:35] John Lear:  
 Oh, we have not heard about that.
 
 [03:44:36] Art Bell:  
@@ -2997,7 +2997,7 @@ Oh yes, John. Do you know anything about the effects of magnetism on these craft
 [03:49:32] John Lear:  
 No, that would be a question for Bob.
 
-Caller 40:  
+[03:49:35] Caller 40:  
 Yeah. No. Okay. Well, thanks, Arthur.
 
 [03:49:38] Art Bell:  
@@ -3073,7 +3073,7 @@ Certainly, that we have most of the evidence. The evidence that Stan Friedman an
 [03:51:25] Caller 42:  
 Yeah.
 
-Art Bell:  
+[03:51:25] Art Bell:  
 All right, caller, gotta go.
 
 [03:51:26] John Lear:  
@@ -3085,7 +3085,7 @@ Thank you, John. We're out of time, so look.
 [03:51:29] John Lear:  
 Okay.
 
-Art Bell:  
+[03:51:29] Art Bell:  
 Do you have one last comment?
 
 [03:51:31] John Lear:  

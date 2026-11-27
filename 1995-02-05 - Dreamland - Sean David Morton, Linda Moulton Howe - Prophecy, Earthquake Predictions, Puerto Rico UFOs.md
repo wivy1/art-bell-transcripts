@@ -86,10 +86,10 @@ Oh no, it's been quite a while.
 [00:12:14] Sean David Morton:  
 Well, it's because you love what you do. You really enjoy what you're doing. But people don't.
 
-Art Bell:  
+[00:12:17] Art Bell:  
 I agree.
 
-Sean David Morton:  
+[00:12:17] Sean David Morton:  
 That- I'm sorry.
 
 [00:12:18] Art Bell:  
@@ -107,10 +107,10 @@ The auric field is simply an energy field, a spiritual field that surrounds the 
 [00:13:37] Art Bell:  
 All right, hold on just one moment. We'll be right back to you. My guest is Sean David Morton. He'll be right back.
 
-Unknown Speaker 1:  
+[00:13:42] Unknown Speaker 1:  
 When it comes to UFOs,
 
-Art Bell:  
+[00:13:44] Art Bell:  
 phone free catalog. Here it is 1-800-350-4639. Call right now. Mention my name, Art Bell, and you get a free copy of Voyage to the Planets with your first purchase. 1-800-350-4639. UFO Central Home Video.
 
 Back again, with what time we have to the bottom of the hour, Sean, if you would update us, we'll kind of skip around here. Update us on the UFO community. What's going on?
@@ -153,10 +153,10 @@ Now once again, here I am. We're going to try and take care of the commercial co
 
 Sean David Morton is the president and founder of Prophecy Research Institute. He has penned a couple of books, one called The Millennium Factor and the other The Gulf Breeze Prophecies. And he now has a newsletter called The Delphi Associates Newsletter. And we were kind of on that, and when we left the bottom of the hour, Sean, are you there?
 
-Sean David Morton:  
+[00:19:35] Sean David Morton:  
 Yes, I am.
 
-Art Bell:  
+[00:19:36] Art Bell:  
 All right. So you've got a newsletter, and I'm sure you would like to tell people how to get it.
 
 [00:19:41] Sean David Morton:  
@@ -171,10 +171,10 @@ Specifically, political predictions, economic predictions, updates on earthquake
 [00:20:44] Art Bell:  
 And you, like a professional baseball player, are held to a standard, your batting average, so to speak.
 
-Sean David Morton:  
+[00:20:49] Sean David Morton:  
 Yes.
 
-Art Bell:  
+[00:20:50] Art Bell:  
 How are you doing?
 
 [00:20:52] Sean David Morton:  
@@ -188,7 +188,7 @@ All right, I would like to understand the context of your visions. When you have
 Sean David Morton:  
 Yes, yes.
 
-Art Bell:  
+[00:22:00] Art Bell:  
 All right. What form does it take? You've got to draw. This is radio, so you've got to kind of draw a mental picture for us. What do you see?
 
 [00:22:08] Sean David Morton:  
@@ -274,10 +274,10 @@ Okay. So you confined what you said on NBC to geologic activity?
 [00:32:27] Sean David Morton:  
 Well, yeah, and they had me on at the end of the show. Actually, after I think a psychic earthquake sensing dog. So it was-
 
-Art Bell:  
+[00:32:36] Art Bell:  
 I see.
 
-Sean David Morton:  
+[00:32:37] Sean David Morton:  
 It was a little bit difficult to take the whole thing, the whole thing seriously. But specifically, what I talked about on The Other Side was that I felt that Eureka continues to be dangerous in Northern California, and that I was picking up activity in Redding near Mount Shasta. I see quakes in a triangle in Northern California between Nevada, Napa, and Vallejo. Clover- Cloverdale and Parkfield are very hot, so you need to watch for a 6.0 or above in the Parkfield area by the end of June, and this is a precursor to megaquake activity in California.
 
 This triangle of land I see heating up in Palmdale, Redlands, and Northridge - a five, no greater than a six there. But the 18th, 19th, and 20th of February, I believe, is going to be the beginning of much larger quake activity out in the desert area - the Palm Springs, Barstow, San Bernardino triangle.
@@ -420,13 +420,13 @@ Yes.
 Sean David Morton:  
 Hi.
 
-Caller 1 (Starla):  
+[00:47:25] Caller 1 (Starla):  
 Hi. My name is Starla.
 
-Art Bell:  
+[00:47:27] Art Bell:  
 Starla.
 
-Sean David Morton:  
+[00:47:27] Sean David Morton:  
 Hi Starla!
 
 [00:47:28] Caller 1 (Starla):  
@@ -492,10 +492,10 @@ St. Louis, yes, yes.
 [00:52:11] Caller 2 (Jim):  
 Sean, how's it going?
 
-Sean David Morton:  
+[00:52:13] Sean David Morton:  
 Good, buddy.
 
-Caller 2 (Jim):  
+[00:52:14] Caller 2 (Jim):  
 Glad to have you back on again. I'd like for you to comment on two things primarily. One, if you could, please explain for all the listeners why it is that in fact we do not live in a democracy, but rather behind a facade of democracy, and how the Pentagon and the international bankers really run the secret government.
 
 [00:52:39] Sean David Morton:  
@@ -504,13 +504,13 @@ Well, there's a lot of people that are a lot better on that subject than me. I m
 [00:52:50] Art Bell:  
 Yeah, caller, we're kind of concentrating on Dreamland and such a subject.
 
-Caller 2 (Jim):  
+[00:52:52] Caller 2 (Jim):  
 Okay, I've got another one.
 
 [00:52:54] Art Bell:  
 Sure.
 
-Caller 2 (Jim):  
+[00:52:54] Caller 2 (Jim):  
 Could you go into as much detail as possible about what you see happening with the fall of the entire economic system of the West and how martial law will be implemented with the adult forces?
 
 [00:53:08] Art Bell:  
@@ -602,7 +602,7 @@ From the Kingdom of Nye, this is Dreamland with Art Bell on the CBC Radio Networ
 [00:57:44] Art Bell:  
 Good evening, everybody. It certainly is. I'm Art Bell. My guest is Sean David Morton. But we're going to, as I mentioned at the top of the program, do things in slightly a different order. Linda Moulton Howe, who would normally do her report at the top of the program, will be here in just a moment to give us her report. She was literally just getting in to the airport at Philadelphia, so with an additional hour and a half, she is now back at Report Central in Philadelphia. And in a moment, we will indeed have Linda Moulton Howe.
 
-Art Bell:  
+[00:58:18] Art Bell:  
 An unknown, internationally acclaimed, roving all over the place wherever the action is. Here comes Linda Moulton Howe, all the way from Philadelphia, and I presume just back from Puerto Rico. Linda Moulton Howe. Good evening, Linda.
 
 [00:58:31] Linda Moulton Howe:  
@@ -636,16 +636,16 @@ All black. Can you show me the shape on your face? Show me what you were looking
 [01:01:18] Unknown Speaker 2:  
 Oh, looks like a kid, about five years old. That's it.
 
-Linda Moulton Howe:  
+[01:01:23] Linda Moulton Howe:  
 But of the eyes, how big?
 
-Unknown Speaker 2:  
+[01:01:25] Unknown Speaker 2:  
 Of the eyes. Real big and like going back. No hair, and I can see only, you know, when he show like that, he only show one hand, but I can see too much of the hand. Only that he grabbed to the rock, he look at me, he got scared, and I got scared too. I feel like.
 
-Linda Moulton Howe:  
+[01:01:45] Linda Moulton Howe:  
 And the color of the skin, was it absolutely white?
 
-Unknown Speaker 2:  
+[01:01:48] Unknown Speaker 2:  
 Yeah, like a white kid, like pure white, but not so white or gray. I guess it was because of the light or something. I don't know, but he was there. I don't know where he came from.
 
 [01:02:02] Art Bell:  
@@ -716,7 +716,7 @@ Let me see. February 9th.
 [01:10:05] Linda Moulton Howe:  
 Well, I'm very interested in that, and I will. Was it? Let's see. Right, February 5th today. So was that a year ago?
 
-Art Bell:  
+[01:10:14] Art Bell:  
 1988.
 
 Linda Moulton Howe:  
@@ -794,7 +794,7 @@ All right, Shamrock, Texas. Go ahead.
 [01:13:17] Caller 4:  
 Oh yeah, I just called to say I don't see how people can cause earthquakes.
 
-Sean David Morton:  
+[01:13:23] Sean David Morton:  
 Well, it's not a question of people causing earthquakes. The ability to induce earthquakes has been studied by and the three premier scientific communities that are studying it now are the United States, Red China, and Iran. A lot of this information came out when Colonel Oleg Kalugin, who was the former Dirty Tricks master spy of the KGB, when Russia fell, he began to dump massive amounts of files on the West about specifically different types of scientific knowledge that the Russians were investigating. Kalugin was the one many people might remember him from the headlines because he embarrassed Bill Clinton when Clinton was trying to open up normalization of relationships with Vietnam, and it was Kalugin who came out and said that not only was it routine for American POWs to be taken to Russia from North Vietnam, but in fact that there were still American POWs alive in Russian gulags.
 
 [01:14:20] Art Bell:  
@@ -908,16 +908,16 @@ Okay, I follow you. I want to get back to the phones. We've got so many people o
 [01:25:54] Caller 5 (Alan):  
 Hi, this is Alan from Modesto.
 
-Sean David Morton:  
+[01:25:56] Sean David Morton:  
 Hi, Alan.
 
-Caller 5 (Alan):  
+[01:25:57] Caller 5 (Alan):  
 Hey, how's it going? I'm listening to you on KMH out of Fresno.
 
 [01:26:01] Art Bell:  
 KMJ.
 
-Caller 5 (Alan):  
+[01:26:01] Caller 5 (Alan):  
 KMJ. Hey, nice to have you loud and clear.
 
 [01:26:04] Art Bell:  
@@ -926,19 +926,19 @@ Yes, sir.
 [01:26:05] Caller 5 (Alan):  
 Hey, I do UFO investigations in this area, and I'm coming across a couple of new groups. One's called the Ashtar Command, and the other is the Solara. It has to do with the 11:11, and they're claiming they can remove implants with psychic surgery. I'd like to know Sean's spin on this.
 
-Art Bell:  
+[01:26:21] Art Bell:  
 They can remove what?
 
-Caller 5 (Alan):  
+[01:26:23] Caller 5 (Alan):  
 Implants using psychic
 
 Art Bell:  
 Oh, implants.
 
-Caller 5 (Alan):  
+[01:26:25] Caller 5 (Alan):  
 surgery
 
-Art Bell:  
+[01:26:25] Art Bell:  
 Psychic surgery.
 
 [01:26:26] Sean David Morton:  
@@ -956,10 +956,10 @@ All right, caller, we're going to leave it there. Thank you very much. East of t
 [01:27:18] Caller 6:  
 Well, good evening, Art.
 
-Art Bell:  
+[01:27:20] Art Bell:  
 Hi.
 
-Caller 6:  
+[01:27:20] Caller 6:  
 Fantastic show tonight, guys.
 
 [01:27:21] Art Bell:  
@@ -1018,22 +1018,22 @@ A major prediction.
 [01:29:56] Art Bell:  
 All right, all right, all right, all right. We got to go to the phones. First time caller line. You're on the air with Sean David Morton.
 
-Caller 7:  
+[01:30:01] Caller 7:  
 Hello.
 
-Art Bell:  
+[01:30:02] Art Bell:  
 Hello.
 
-Caller 7:  
+[01:30:02] Caller 7:  
 Hello sir, I had a question for Linda Moulton Howe.
 
-Art Bell:  
+[01:30:05] Art Bell:  
 Okay, where are you calling from?
 
-Caller 7:  
+[01:30:06] Caller 7:  
 I'm calling from Oregon, Portland Oregon.
 
-Art Bell:  
+[01:30:08] Art Bell:  
 All right.
 
 Caller 7:  
@@ -1072,7 +1072,7 @@ Illinois, alright.
 [01:33:03] Caller 8 (Moki):  
 I wanted to ask Sean if there was any one vision that he had about UFOs or anything that made him believe. I mean, one that stuck out more than all the other ones that made him believe that UFOs existed.
 
-Sean David Morton:  
+[01:33:17] Sean David Morton:  
 Well, the greatest thing for me was, I mean, I'd never seen anything like this before. I grew up with it when I was younger, because my dad was a PR director at NASA. You know, Gordon Cooper was a good friend of ours. The astronauts would talk about things that they'd seen, and I'd never seen a UFO in my life until I went out to Area 51 in February of 1991, and we got within probably 500 yards of one of these devices bouncing between like 50 and about 250 feet off the ground, and we got within about 500 yards of this thing, and then I started going out to Area 51 and taking big gangs of people out there, and we'd all rent a bus and we'd go camp out, and then I found the mountain peak that looks right down on the base, and of course from my efforts and a lot of efforts like Bob Lazar and George Knapp and some of the-
 
 [01:34:08] Art Bell:  
@@ -1090,10 +1090,10 @@ Specifically, what happens is that there is a one particular day in which there'
 [01:35:09] Art Bell:  
 All right, on that note, we'll pause, and it is the bottom of the hour. This, of course, is Dreamland, which means it's Sunday. I'm Art Bell.
 
-Ross Mitchell:  
+[01:35:21] Ross Mitchell:  
 From the Kingdom of Nye, this is Dreamland with Art Bell on the CBC Radio Network.
 
-Art Bell:  
+[01:35:28] Art Bell:  
 It is, and I'd like to wish you all good evening from the high desert where it's a beautiful night, bright stars and all the rest of that sort of stuff. I'm Art Bell. My guest is Sean David Morton, and he'll be back in just a moment with more.
 
 And I've got a fax here that I want him to. In fact, I'll read that right now so he can think about it. Sean, I'd like to know your opinion of the chance of UFOs being time travel craft from a technocratic future society where humans have moved underground to escape the environmental disasters and wars prophesized to be coming, I believe this explains one, why they have not contacted us, and two, their knowledge of geologic formations. And so when he returns an answer to that one,
@@ -1210,7 +1210,7 @@ I do see as part of the final phase of the war, and the United States will not b
 [01:43:47] Art Bell:  
 All right. Well, I'm glad I asked. East of the Rockies, you're on the air with Sean David Morton. Hello. No, you're not. West of the Rockies, you're on the air with Sean David Morton. Hi.
 
-Caller 12 (Bob):  
+[01:43:57] Caller 12 (Bob):  
 Hi. How you all doing?
 
 [01:43:59] Art Bell:  
@@ -1222,13 +1222,13 @@ Good. Thanks.
 [01:44:00] Caller 12 (Bob):  
 Yeah, this is Bob Kepechiko.
 
-Sean David Morton:  
+[01:44:02] Sean David Morton:  
 Hi Bob!
 
-Art Bell:  
+[01:44:03] Art Bell:  
 Yes.
 
-Caller 12 (Bob):  
+[01:44:03] Caller 12 (Bob):  
 Yeah, Mr. Morton, got to mention the Bible a couple of times, referring to UFOs. The only thing I've ever encountered in the Bible is the book of Ezekel.
 
 [01:44:17] Art Bell:  
@@ -1262,25 +1262,25 @@ There you are. All right, east of the Rockies, you're on the air with Sean David
 [01:47:05] Caller 13 (Bryce):  
 Yes, sir. Art, Sean, this is Bryce in Wichita.
 
-Sean David Morton:  
+[01:47:07] Sean David Morton:  
 How you doing, Bryce?
 
-Caller 13 (Bryce):  
+[01:47:10] Caller 13 (Bryce):  
 Hi. The question, not so much on the future, Sean, but on the past. Yes. What do you know about like the occult forces prior to Nazi Germany that Hitler utilized to start his reign of terror?
 
 [01:47:24] Sean David Morton:  
 Well, there's a couple of books on it that are pretty interesting. There's Morning of the Magicians by Jacques Bergier.
 
-Caller 13 (Bryce):  
+[01:47:29] Caller 13 (Bryce):  
 Uh huh. There's the Spear of Destiny.
 
 Sean David Morton:  
 I'm sorry, the Spear of Destiny.
 
-Caller 13 (Bryce):  
+[01:47:33] Caller 13 (Bryce):  
 Yeah.
 
-Sean David Morton:  
+[01:47:33] Sean David Morton:  
 Which talks about the occult influences on Hitler. You know, it was a period or a time of antichrist. It's quite literally of world leaders that were trying to centralize power. You can probably throw Stalin and Churchill and [unclear: Poojo] and FDR. You know, all sort of together in that aspect of these monoliths warring back and forth for control.
 
 I think you're going to see the same type of thing, the same things that made Nazi Germany possible are basically starting today with what's happening with the breakup of the Soviet Union. Each one of those little republics becoming independent, allowing them to possibly be taken over one by one. Certainly the strife in Bosnia, which was a precursor to not only World War II but also World War I as well. I think people, if you go back into our history, back in the 1890s, William McKinley, who was also who was elected in 1890, was shot by a Serbian, assassinated by a Serbian because the United States was involved in the Serbian conflict, exactly the way we are now. So I don't know if that.
@@ -1297,19 +1297,19 @@ I have always believed that myself, Sean. West of the Rockies, you're on the air
 [01:49:25] Caller 14 (Marianne):  
 Hi, this is Marianne in Kent, Washington.
 
-Sean David Morton:  
+[01:49:28] Sean David Morton:  
 Hi, Marianne.
 
-Caller 14 (Marianne):  
+[01:49:29] Caller 14 (Marianne):  
 Hi. I have a question.
 
-Sean David Morton:  
+[01:49:31] Sean David Morton:  
 Yes.
 
-Caller 14 (Marianne):  
+[01:49:31] Caller 14 (Marianne):  
 I'm right underneath Mount Rainier, and I felt the 5.0 earthquake.
 
-Sean David Morton:  
+[01:49:37] Sean David Morton:  
 Yes.
 
 [01:49:37] Caller 14 (Marianne):  

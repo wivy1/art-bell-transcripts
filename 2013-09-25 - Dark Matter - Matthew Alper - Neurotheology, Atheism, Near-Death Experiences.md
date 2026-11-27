@@ -413,7 +413,7 @@ All right.
 [00:46:45] Matthew Alper:  
 Okay.
 
-Art Bell:  
+[00:46:46] Art Bell:  
 Okay.
 
 [00:46:46] Matthew Alper:  
@@ -475,7 +475,7 @@ Have you done any research at all into why it is that people from New York and s
 [00:55:36] Matthew Alper:  
 It's an ongoing investigation. I'll let you know when we get results.
 
-Art Bell:  
+[00:55:41] Art Bell:  
 It really is true. I mean, on top of everything else, I remember on the old shows we ran, we had I would get these emails afterwards, raging, and then at the bottom they'd always put, and besides, I can't stand his New York accent.
 
 [00:55:54] Matthew Alper:  
@@ -803,7 +803,7 @@ But that might be all right. I just might be an aid, just like smoking a little 
 [01:24:07] Matthew Alper:  
 Absolutely.
 
-Art Bell:  
+[01:24:08] Art Bell:  
 Okay. So.
 
 [01:24:09] Matthew Alper:  
@@ -1237,10 +1237,10 @@ Okay, it's a valid question because even if one is a scientist, they still have 
 [02:09:55] Caller 1:  
 An oscillating universe.
 
-Matthew Alper:  
+[02:09:57] Matthew Alper:  
 Yeah. Okay. That I've talked about before. I think on the show years, years ago with Art.
 
-Caller 1:  
+[02:10:02] Caller 1:  
 So the question is, what started it?
 
 [02:10:03] Matthew Alper:  
@@ -1303,10 +1303,10 @@ You're actually speaking to him, so you know, go ahead.
 [02:13:24] Caller 2:  
 Okay, so Matthew.
 
-Matthew Alper:  
+[02:13:26] Matthew Alper:  
 Yes.
 
-Caller 2:  
+[02:13:27] Caller 2:  
 So it's 30% atheism in Europe. So if it all comes down to physical brains, then like gray matter parts, then why that difference in the bell curve?
 
 [02:13:37] Matthew Alper:  
@@ -1327,13 +1327,13 @@ No, well, what I'm claiming is there's something. One of the ways that evolution
 [02:15:21] Art Bell:  
 Back to - yeah. Earlier, you said we were not evolving.
 
-Matthew Alper:  
+[02:15:24] Matthew Alper:  
 No, that's right.
 
-Art Bell:  
+[02:15:25] Art Bell:  
 You did.
 
-Matthew Alper:  
+[02:15:26] Matthew Alper:  
 No, we're not. But there's something called the pioneer effect, which is another way that life evolves. And when you have migrations of small communities, like when like Darwin studied the finches, he found that on all these islands, you had a slight variation of finches, and that's because the pioneer Effect. Let's say five finches fly to another island, start reproducing, based on let's say the genetics of the alpha male. Let's say it is slightly longer tail.
 
 [02:15:56] Caller 2:  
@@ -1344,34 +1344,34 @@ But the Europeans read more, so they have more atheism.
 [02:16:05] Matthew Alper:  
 No, no, no. Right? I didn't say that at all. What I'm saying is, genetically speaking, you end up with a you ended up with a community of hyper religious people founding this nation.
 
-Caller 2:  
+[02:16:17] Caller 2:  
 Quakers.
 
 [02:16:18] Matthew Alper:  
 Quakers was one example.
 
-Caller 2:  
+[02:16:20] Caller 2:  
 We're not all Quakers.
 
-Matthew Alper:  
+[02:16:22] Matthew Alper:  
 No, but the original settlers, the original community by 1700, the Europeans referred to America as the Bible Commonwealth, and it had one of the highest levels of religiosity in any society ever because it was founded by religious zealots.
 
 [02:16:42] Caller 2:  
 They had a high literacy rate as well, though, didn't they?
 
-Matthew Alper:  
+[02:16:43] Matthew Alper:  
 Yeah, but that's not the point. The point is what happened.
 
-Caller 2:  
+[02:16:48] Caller 2:  
 No, you're saying your point is that we didn't read enough.
 
-Matthew Alper:  
+[02:16:51] Matthew Alper:  
 You're not letting me say.
 
 [02:16:53] Caller 2:  
 And we became atheism. We became atheist.
 
-Matthew Alper:  
+[02:16:55] Matthew Alper:  
 Is because of-
 
 [02:16:56] Caller 2:  
@@ -1389,7 +1389,7 @@ We were a community. We were a community. No country in Europe was created the w
 Caller 2:  
 All of Europe was governed by class.
 
-Matthew Alper:  
+[02:17:37] Matthew Alper:  
 Can I finish? Let's say music was condemned by the world, and the most musical people, musical geniuses, people who would not let go of their musical heritage, and decided they're willing to cross the seas in the most dangerous conditions to preserve their sense of musicality. So all of the musical savants and geniuses of the world all settled on an island. Do you believe that 300 years later?
 
 [02:18:03] Caller 2:  
@@ -1401,7 +1401,7 @@ Absolutely, that's the premise of my book, The God Part of the Brain. You, as an
 [02:18:23] Caller 2:  
 But there is a difference between Europe and America for some weird reason. You said 30% in Europe, 8% here. Our brains shouldn't be all that much different in 200 years of genetics, like especially while you say that we're done evolving. You just conceded that.
 
-Matthew Alper:  
+[02:18:36] Matthew Alper:  
 No, there are instances of genetic isolation. So, like for instance, among certain groups of Ashkenazi Jews, because they have isolated themselves, they can get something called Tay-Sachs disease. The Amish can get something Cotard syndrome, where they have polydactyly, where they can get extra toes and fingers.
 
 [02:18:58] Caller 2:  
@@ -1410,10 +1410,10 @@ Because you know what, though, that doesn't really follow, because there's like 
 [02:19:09] Matthew Alper:  
 Absolutely, absolutely. But initially, the foundation of this country was made up of fanatics, people who were hyperreligious, who had religiosity in their genetic code.
 
-Caller 2:  
+[02:19:20] Caller 2:  
 The natives as well,
 
-Matthew Alper:  
+[02:19:21] Matthew Alper:  
 And all brought it to one island.
 
 [02:19:24] Caller 2:  
@@ -1460,7 +1460,7 @@ Well, no. By saying that everything comes down to statistics, and then we should
 [02:22:25] Matthew Alper:  
 I do. I just said I do. I just don't believe you can legislate.
 
-Caller 2:  
+[02:22:28] Caller 2:  
 Oh, I-
 
 [02:22:29] Matthew Alper:  
@@ -1575,10 +1575,10 @@ Well, let me. Haven't you heard many instances of people saying like, "Well, whe
 [02:32:52] Caller 4:  
 All right. Well, thank you. I was just thinking, you know -
 
-Art Bell:  
+[02:32:54] Art Bell:  
 Okay, was a good try.
 
-Caller 4:  
+[02:32:55] Caller 4:  
 Beam me up kind of thing.
 
 [02:32:56] Matthew Alper:  
@@ -1608,10 +1608,10 @@ Okay. Good.
 [02:33:51] Caller 5:  
 Hi, Art. Roswells, Art. Hello, Matthew.
 
-Art Bell:  
+[02:33:53] Art Bell:  
 Thank you.
 
-Matthew Alper:  
+[02:33:53] Matthew Alper:  
 Hello.
 
 [02:33:57] Caller 5:  
@@ -1724,7 +1724,7 @@ Of God.
 [02:40:33] Caller 6:  
 No, my proof of God is that believe me, because I'm 66 years old, almost 67. Okay. I don't know how old you are, but I pray I pray that you still have time.
 
-Matthew Alper:  
+[02:40:46] Matthew Alper:  
 I'm 142 years old.
 
 [02:40:50] Caller 6:  
@@ -1736,10 +1736,10 @@ Oh, now now you're making a good point.
 [02:41:03] Caller 6:  
 find wisdom. You will never ever-
 
-Art Bell:  
+[02:41:06] Art Bell:  
 Oh, I don't know about that.
 
-Caller 6:  
+[02:41:07] Caller 6:  
 Unless - listen to me a minute. Unless you open up the Holy Bible of God Himself, Jehovah God.
 
 [02:41:15] Art Bell:  
@@ -1778,7 +1778,7 @@ And I meant to, buddy. I meant to. Just letting you know that. I think you're ma
 [02:43:51] Caller 7:  
 Hey, Matt.
 
-Matthew Alper:  
+[02:43:51] Matthew Alper:  
 Hey.
 
 [02:43:53] Caller 7:  
@@ -1916,7 +1916,7 @@ At all.
 [02:53:37] Matthew Alper:  
 I put it in quotes. I put it in quotes. You didn't hear?
 
-Art Bell:  
+[02:53:40] Art Bell:  
 I didn't see those. No, I didn't see.
 
 [02:53:42] Matthew Alper:  
@@ -2135,10 +2135,10 @@ Thank you.
 [03:06:33] Caller 11:  
 Mister Alper. I'd like to thank you for stating your views here tonight. You know, I think are interesting. Some of it I can agree with, but I have a question. The way you described this, and I have experience in psychology, you seem to set this up like this is in our DNA, like it is a reflex.
 
-Matthew Alper:  
+[03:06:52] Matthew Alper:  
 Correct.
 
-Caller 11:  
+[03:06:54] Caller 11:  
 Okay. So, so, what about the issue of choice? It's been my experience that in order to attain spiritual knowledge, a person has to make a choice to pursue it. Now, what happens to these people who do not do that? Of course, do they live in conflict? Do they live sad lives? Is their lives in turmoil because they're in conflict with their DNA, as you put it?
 
 [03:07:22] Matthew Alper:  
@@ -2167,10 +2167,10 @@ Yeah, but those that ability to choose to me is another illusion. It's the illus
 [03:09:54] Art Bell:  
 Really?
 
-Matthew Alper:  
+[03:09:55] Matthew Alper:  
 Yes.
 
-Art Bell:  
+[03:09:57] Art Bell:  
 All right. It's the caller's turn. You're on the air with Matthew Alper. Hello.
 
 [03:10:01] Caller 12:  
@@ -2266,10 +2266,10 @@ Thank you.
 [03:20:07] Caller 13:  
 Matthew.
 
-Matthew Alper:  
+[03:20:07] Matthew Alper:  
 Yes.
 
-Caller 13:  
+[03:20:08] Caller 13:  
 Why do you still carry an ancient Jewish name if you're so anti-religious? No matter what the denomination may be.
 
 [03:20:15] Matthew Alper:  
@@ -2284,10 +2284,10 @@ Alright, call me Ezekiel instead.
 [03:20:25] Caller 13:  
 What?
 
-Matthew Alper:  
+[03:20:27] Matthew Alper:  
 Or Big Bird.
 
-Caller 13:  
+[03:20:29] Caller 13:  
 But when you talk about the body dying and then taking evolution, that the physiology came in to slow down the heart and the brain and numb everything. How does the dying body pass on any information to the next generation?
 
 And beyond that, even, Jill, I guess maybe if you had a little religious in the family, you'd think a little differently about it. Because you say you looked over the wall, under the wall, through the wall. I think you need to look a little closer. Is the Bible like any good book, has a beginning, a middle, and then the end, and it all builds up to the end. And I grew up carrying the candle, carrying the crucifix, helping with the sacrament. But you know what? To me, it was just part of growing up. But what caught me, and years later, when I was reading the end in the Revelation, Christ said that this generation will not pass. The one that sees-
@@ -2301,7 +2301,7 @@ No, no, no, no, no. It's an ad for everybody because it just comes. It comes out
 [03:21:41] Matthew Alper:  
 All right, well, I'm an atheist.
 
-Art Bell:  
+[03:21:41] Art Bell:  
 All right, all he's asking is, is there a question? Hold on. Is there a question at the end of the-
 
 [03:21:46] Caller 13:  

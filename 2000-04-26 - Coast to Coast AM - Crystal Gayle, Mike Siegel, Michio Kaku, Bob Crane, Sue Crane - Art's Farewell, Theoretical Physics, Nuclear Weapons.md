@@ -292,10 +292,10 @@ It is the city, where, Dr. Michio Kaku, co-founder of this string theory thing, 
 [00:43:57] Michio Kaku:  
 Art, glad to be on. And let me say, by the way, that my email has been literally flooded with people that want to wish you well.
 
-Art Bell:  
+[00:44:06] Art Bell:  
 Oh.
 
-Michio Kaku:  
+[00:44:06] Michio Kaku:  
 They really say that. Well, the last show - it's going to be quite a show - and they say Godspeed, Art Bell. They wish you well in whatever you do after this show.
 
 [00:44:18] Art Bell:  
@@ -310,22 +310,22 @@ Is it liable to be that short, one inch?
 [00:46:04] Michio Kaku:  
 Yes, we think it's probably that short. For example, if you take a look at light, the ancients were mystified by what is light, and yet light cannot be described by an equation that is just half an inch long. The equation is called Maxwell's equation, and it says that the four-dimensional divergence of an antisymmetric second-rank tensor equals zero, and that's light. And in fact, in Berkeley, where I got my PhD, you can buy a T-shirt which says, "In the beginning, God said the four-dimensional divergence of an antisymmetric second-rank tensor equals zero, and there was light, and it was good."
 
-Art Bell:  
+[00:46:47] Art Bell:  
 Wow. That was eight. When you were eight years old?
 
-Michio Kaku:  
+[00:46:53] Michio Kaku:  
 That's right. And everyone was talking about this unfinished work. And I wanted to know what was it that Einstein tried to do. He wanted to find an equation that would unite gravity with light. And now we want to also include matter as well. So we want to include the nuclear forces, light, gravity into a cosmic framework, and today we think that string theory is the best bet to give us this theory. The theory is defined in ten-dimensional hyperspace, and recently the front page of the New York Times science section last month, front page article about string theory and the eleventh dimension. We're up to eleven dimensions.
 
-Art Bell:  
+[00:47:38] Art Bell:  
 The eleventh dimension, really?
 
-Michio Kaku:  
+[00:47:40] Michio Kaku:  
 That's right. We're up to eleven.
 
-Art Bell:  
+[00:47:41] Art Bell:  
 You've always talked about ten.
 
-Michio Kaku:  
+[00:47:43] Michio Kaku:  
 That's right. We now believe, and this work comes out of Princeton, that in eleven dimensions, if you add one more dimension to string theory, then you get membranes coming out. This is called M-theory, M for membrane or M for mother of all strings.
 
 and we think that if you add membranes, then this may give us a clue as to where our universe came from.
@@ -344,16 +344,16 @@ In other words, everything we see.
 [00:48:19] Michio Kaku:  
 Everything we see around us, right, may be a membrane that exists in a larger ocean, larger eleven-dimensional ocean, which may have other blobs, other bubbles.
 
-Art Bell:  
+[00:48:30] Art Bell:  
 Yikes!
 
-Michio Kaku:  
+[00:48:31] Michio Kaku:  
 And well, this was the front page of the New York Times. The New York Times is finally coming around to the fact that yes, string theory is the leading candidate for this fabled unified field theory that will allow us to quote read the mind of God. That's Stephen Hawking's term for the theory.
 
-Art Bell:  
+[00:48:47] Art Bell:  
 Reading the mind of God,
 
-Michio Kaku:  
+[00:48:48] Michio Kaku:  
 Reading the mind of God, and if this theory is true, it means that these higher dimensions, these other dimensions that we cannot see or touch, could be quite large. They don't have to be small at all. Mystics have always assumed that these higher dimensions are very small, because otherwise we could fall into them, and atoms would disappear into these higher dimensions, and our universe would gradually evaporate.
 
 [00:49:14] Art Bell:  
@@ -374,7 +374,7 @@ It's in other words, when you're thinking about the whole planet, right, and you
 [00:49:51] Michio Kaku:  
 That's right. That's also been speculated that maybe it does happen, but it happens at such a slow rate that we're not aware of it. But the latest theory is that if the universe itself is as a bubble, a membrane floating in a larger space, then there could be other bubbles out there, and this could give us a measurable test of the theory, and that's what's causing all the excitement. That's why I made the front page. These bubbles could attract each other gravitationally, and we would see this attraction in our universe as something called dark matter.
 
-Art Bell:  
+[00:50:25] Art Bell:  
 Ah.
 
 [00:50:25] Michio Kaku:  
@@ -404,10 +404,10 @@ How do we actually prove dark matter is real?
 [00:52:07] Michio Kaku:  
 Oh, it's very easy to prove. Vera Rubin, a famous astronomer, showed that the Milky Way galaxy spins too fast for its own good. The Milky Way galaxy has been quite stable for billions of years. You know, we all see the famous disk of Andromeda galaxy and spiral galaxies. They're very beautiful. Every science fiction movie starts with these beautiful spiral galaxies, but they should fly apart. They spin too fast, according to Newton's laws of motion.
 
-Art Bell:  
+[00:52:35] Art Bell:  
 Too much energy.
 
-Michio Kaku:  
+[00:52:36] Michio Kaku:  
 They have too much rotational energy. They should fly apart. What holds them together is the fact they're surrounded by this halo, this sphere of dark matter, which is invisible. You can't see it in any telescope. The Hubble Space Telescope does not show the presence of any dark matter, but the Hubble Space Telescope can show that dark matter exists because dark matter distorts light, like lens. Think of water. Water also distorts light, and glass distorts light. That's why we have glasses. And dark matter distorts light, and the Hubble Space Telescope has measured this, measured the distortion of starlight as it goes through the halo of distant galaxies.
 
 Now, many physicists have stated that the person who could figure out what dark matter is will win the next Nobel Prize in physics. This is definitely worth a Nobel Prize if someone could find out what dark matter is. And like I said, many people now believe, though they can't prove, that dark matter will give us a clue to the unified field theory. It could be an experimental way of verifying or disproving the string theory, and that's why it made the front page.
@@ -598,22 +598,22 @@ By the way, there was a story earlier today, doctor, that the new sparkling Inte
 [01:13:07] Michio Kaku:  
 Yeah. Every 11 years, the north and south pole of the sun flip. Believe it or not, the north pole and the south pole of the sun flip.
 
-Art Bell:  
+[01:13:15] Art Bell:  
 Right.
 
-Michio Kaku:  
+[01:13:15] Michio Kaku:  
 North pole becomes the south pole, and vice versa.
 
-Art Bell:  
+[01:13:17] Art Bell:  
 Right.
 
-Michio Kaku:  
+[01:13:17] Michio Kaku:  
 And that releases a shock wave every 11 years, and that shock wave eventually hits the Earth and sends a cascade of ions into the north pole and the south pole, which creates the northern lights. These beautiful lights, which in the movie opened up a hole in space and time, whereby the hero could then talk to Dennis Quaid, who is the father of Thirty Years Past, and change the past. Even as he spoke on the ham radio, he could change the past, and that would immediately ripple to the present. So every time he changed the past, the present would be changed, and he would have double memories, triple memories. He would remember the old universe and the new universe simultaneously.
 
-Art Bell:  
+[01:13:59] Art Bell:  
 Wow.
 
-Michio Kaku:  
+[01:13:59] Michio Kaku:  
 Well, the unified field theory says that that's probably not possible. Time is like a river which meanders and speeds up and slows down, but the river of time cannot be changed arbitrarily. And but the river of time can fork into two rivers. We think, and this is how we think time travel is resolved. The river of time we think can fork into two rivers. So you cannot really change your own past. You just changed. You save the father of 30 years ago, who is genetically identical to your real father.
 
 [01:14:34] Art Bell:  
@@ -646,10 +646,10 @@ So then, you they were living. Ah, they were not allowing for this possibility o
 [01:16:16] Michio Kaku:  
 That's right. A linear line states that whenever you change the river of the past, ripples then progress toward the future, toward the present, and change the present constantly. So the guy was constantly changing the reality of the present by giving information on the radio to his father of 30 years ago. Literally, things would change. Things would change shape. Photographs would change. Memories would change inside his mind. Even as he was altering the past by talking on the ham radio.
 
-Art Bell:  
+[01:16:43] Art Bell:  
 Wow!
 
-Michio Kaku:  
+[01:16:43] Michio Kaku:  
 Now that's a very ingenious idea. There's no time machine. There's no blinking dials. You don't have to go into a box and spin a dial and go back in the future. Here is just your voice. It's just radio that goes through a hole in space opened up by the northern lights and allowing you to have a tunnel through time and talk to your parents before you were born.
 
 [01:17:03] Art Bell:  
@@ -726,10 +726,10 @@ Oh!
 [01:27:03] Michio Kaku:  
 And like I said, we've now found two of these things, and there are three hundred such objects that are being tracked that are not yet conclusively shown to be black holes or anything.
 
-Art Bell:  
+[01:27:12] Art Bell:  
 Yikes!
 
-Michio Kaku:  
+[01:27:12] Michio Kaku:  
 They're tracking about three hundred of these things, and two of them have been calculated to have a mass of six times the mass of our sun, which is just right for a black hole.
 
 [01:27:21] Art Bell:  
@@ -851,7 +851,7 @@ Oh, this time, of course, when mortals aspire to be gods, and of course, you wou
 [01:36:13] Art Bell:  
 Is it really?
 
-Michio Kaku:  
+[01:36:13] Michio Kaku:  
 You go to any cosmology cosmologist and have a very interesting debate about the multiverse, which is now the dominant theory within what is called quantum cosmology. These are quantum bubbles floating in an ocean of eleven-dimensional hyperspace. And again, this picture is the picture that made the front page of the New York Times last month. It's a startling picture, but it's is totally consistent with the unified field theory or the piece of it that we have.
 
 [01:36:41] Art Bell:  
@@ -869,10 +869,10 @@ Well, that's right.
 [01:36:46] Art Bell:  
 Q had this power, but he was a twerp. I mean, he was a little troublemaking twerp.
 
-Michio Kaku:  
+[01:36:52] Michio Kaku:  
 Yeah.
 
-Art Bell:  
+[01:36:52] Art Bell:  
 But he had this power. Could it be that humanity one day will get this power and be the little twerps that Q was, or will we socially advance right along with the power and responsibly handle the power, unlike Q?
 
 [01:37:11] Michio Kaku:  
@@ -907,13 +907,13 @@ Morning, everybody. Dr. Michio Kaku is here. Remember Q in Star Trek? Q was from
 
 You know this computer next to me. Bear in mind that I have in the past shot computers. That's right. I've actually shot computers. It was a very immature act, indeed. But I did. I took a. I took a computer out and I. I put a .223 through its disgusting little belly. So you think about that computer, Doctor. Welcome back.
 
-Michio Kaku:  
+[01:42:15] Michio Kaku:  
 Glad to be on.
 
-Art Bell:  
+[01:42:15] Art Bell:  
 See, I'd not be the guy to have the power of Q.
 
-Michio Kaku:  
+[01:42:18] Michio Kaku:  
 Right. Oh, by the way, Art. Before we go on, let me just make the announcement that I have a new web page address.
 
 [01:42:26] Art Bell:  
@@ -1176,16 +1176,16 @@ Well, it's a race against time. We do have, I think, a few decades to go before 
 
 We take all the information. We need a political answer. One, about that tool, not only to converse with each other and entertain each other, but also to be part of the political process, to influence candidates, to influence initiatives. You know, we physicists helped to create the internet to fight a nuclear war. It was to be used to you know rebuild America after World War III.
 
-Art Bell:  
+[02:07:54] Art Bell:  
 Is that really what the beginning of it was?
 
-Michio Kaku:  
+[02:07:56] Michio Kaku:  
 That's right. I mentioned it in my book, Visions, when I talk about the origin of the internet. One of the reasons why your email is broken up into many pieces and sent through many cities and then reassembled at the other end - that's why your header is so big.
 
-Art Bell:  
+[02:08:09] Art Bell:  
 Yes.
 
-Michio Kaku:  
+[02:08:10] Michio Kaku:  
 Where all the messages went is because in a nuclear war, many cities will be vaporized, and so your message may not reach the destination if there's only one path. Therefore, your message is broken up and sent through many paths, and then reassembled at the other end.
 
 [02:08:25] Art Bell:  
@@ -1200,7 +1200,7 @@ That was the original thinking, Doctor. That was the original thinking.
 [02:08:47] Michio Kaku:  
 That was the original thinking, right? That when remember the internet was originally a Pentagon secret plan that we Pentagon mathematicians created. I've been on the internet for I don't know 15 years or so, and it was basically so that scientists could talk to other scientists to rebuild America after World War II.
 
-Art Bell:  
+[02:09:05] Art Bell:  
 Wow.
 
 Michio Kaku:  
@@ -1221,19 +1221,19 @@ So I think the solution to the problem is democracy, democracy, and more democra
 [02:10:54] Art Bell:  
 Well, let me again go to the dark side and ask you a question. The Cold War is over.
 
-Michio Kaku:  
+[02:10:58] Michio Kaku:  
 Yes,
 
-Art Bell:  
+[02:10:59] Art Bell:  
 But as you pointed out, India, Pakistan, Russia is in terrible turmoil. The Chinese, of course, are ever-present Chinese with their nuclear weapons and so forth and so on. Doctor, if there was, I mean, you said survival of a nuclear war, or the rebuilding after. If there was a full thermonuclear exchange, if we still made that horrible mistake, and there was a full thermonuclear exchange, what would be left?
 
 [02:11:33] Michio Kaku:  
 Well, not much. Carl Sagan did that famous study showing that perhaps only a hundred nuclear bombs, just a hundred megatons, would be enough to set off an atmospheric darkening of the skies, which would plunge the temperature of the earth so that nothing would grow. Humans would gradually freeze to death. Nuclear winter was a possibility with only a hundred hydrogen bombs being detonated, and now we have the former Soviet Union with upwards of ten thousand nuclear bombs, and you know they don't even know where some of these bombs are.
 
-Art Bell:  
+[02:12:09] Art Bell:  
 I know.
 
-Michio Kaku:  
+[02:12:09] Michio Kaku:  
 I spoke in Russia about five years ago as a guest at the Russian Academy of Sciences, and some Russian physicists came up to me and asked me for a job. These were weapon scientists. I could have hired you know weapon scientists and become a nuclear power if I wanted to by hiring some of these people. They're looking for jobs now, and that's kind of frightening. Knowing that these are bomb physicists who are out of a job and have to feed their families and ask me for a job, so that's kind of frightening. Knowing that they could wind up in some of the most unstable areas of the world.
 
 [02:12:44] Art Bell:  
@@ -1266,16 +1266,16 @@ So if asked, you would not work on Star Wars.
 [02:14:32] Michio Kaku:  
 That's right. I think it's in the wrong direction. I think the people of the world want peace. You know, we just got through the Cold War. We got through all these nuclear scares, and here's you know the Pentagon racing ahead with the next generation of devices called you know anti-missile systems, and the chances are they're not going to work, and more likely an enemy can simply get decoys like aluminum balloons, you know chaff. You know during World War II, bomber pilots would drop tinfoil in the air, and it would confuse ground radar. Ground radar would not see an airplane; would see a cloud, a cloud of tinfoil, and they didn't know where the bomber was in this cloud of tinfoil.
 
-Art Bell:  
+[02:15:12] Art Bell:  
 So you're saying no matter what, enough would get through.
 
-Michio Kaku:  
+[02:15:15] Michio Kaku:  
 That's right. You can confuse ground radar by putting chaff or tinfoil, Mylar balloons inside the nose cone, and that would be used to pierce any Star Wars system by fooling it. You see, and that's why I think it's like the Maginot Line of the French. Remember the French before World War II?
 
-Art Bell:  
+[02:15:32] Art Bell:  
 Sure.
 
-Michio Kaku:  
+[02:15:33] Michio Kaku:  
 They built this huge barrier between Germany and France, thinking that would protect them against Germany. The Chinese built the Great Wall of China to protect themselves against the Mongols. But what actually happened? The Mongols simply bribed the guards of the Great Wall of China and went right over the Great Wall of China by bribing the guards. What did the Germans do? They fired over the Maginot Line and went around the Maginot Line.
 
 [02:15:59] Art Bell:  
@@ -1350,10 +1350,10 @@ Possible, but I think our sun tends to be on the small side and probably is goin
 
 However, neighboring stars could be unstable, like Betelgeuse. Betelgeuse is not a movie starring Michael Keaton. Betelgeuse is a star in the constellation Orion. It is a red giant, and it is apparently unstable. And when that star rips,
 
-Art Bell:  
+[02:23:44] Art Bell:  
 Yes,
 
-Michio Kaku:  
+[02:23:45] Michio Kaku:  
 that star undergoes supernova. Y'all, watch out. Well, it's not going to kill the Earth.
 
 [02:23:50] Art Bell:  
@@ -1380,10 +1380,10 @@ Well, the earth has received some immense blasts that they've documented, actual
 [02:25:12] Michio Kaku:  
 Yeah, this was just announced this week. We now realize that a gigantic asteroid or whatever hit Australia, and that may have wiped out the trilobites.
 
-Art Bell:  
+[02:25:24] Art Bell:  
 Really?
 
-Michio Kaku:  
+[02:25:25] Michio Kaku:  
 So, yeah, we've now documented five humongous impact craters on the Earth. One in South Africa, one in Mexico, one in Australia, and the one in Australia took place roughly 200 million years ago, and that probably wiped out the trilobites. These small three you know object looks like snails that have three chambers, wiped them out, and they were the first dominant species of life on the Earth about 200 or so million years ago. So these meteorite impacts are more common than we think they are, and they probably have wiped out 90% of all life forms during the age of trilobites. Knocked out the dinosaurs 65 million years ago, and you know the only dinosaur left from that era are probably birds. Birds are probably descendants from dinosaurs, and our ancestors used to be eaten up for breakfast or for a snack by dinosaurs. That's why we our ancestors never got very big. So I have no problems eating chicken at night, knowing that if that comet or meteor had missed Mexico, that dinosaur would be eating me rather than me eating that dinosaur at dinner time.
 
 [02:26:36] Art Bell:  
@@ -1422,7 +1422,7 @@ Never been that close. Thank you.
 [02:29:54] Michio Kaku:  
 Yeah, if you ever do that, it's very eerie because the rods glow blue. It's a blue glow that emerges from them, and that blue glow, by the way, is a glow that takes place in nuclear accidents. There was an accident in Japan several months ago,
 
-Art Bell:  
+[02:30:09] Art Bell:  
 Yeah, big one, yeah,
 
 [02:30:10] Michio Kaku:  
@@ -1445,16 +1445,16 @@ Yeah, it's a horrible way to die.
 [02:31:27] Art Bell:  
 I remember. I remember watching a movie about the Manhattan Project, and apparently, and that's one thing they have admitted. During that project, apparently, two they had two balls of uranium, and
 
-Michio Kaku:  
+[02:31:42] Michio Kaku:  
 Yeah,
 
-Art Bell:  
+[02:31:42] Art Bell:  
 and they got too close together. And I remember the fellow who made the mistake and got them close together. Coffee spilled or something happened. Maybe that was just drama in the movie, but they got too close together, and suddenly there was this giant emission. And they quickly did the calculations, and the fellow who, of course, was right in front of it, said, "I'm dead,"and he was.
 
-Michio Kaku:  
+[02:32:05] Michio Kaku:  
 That's right.
 
-Art Bell:  
+[02:32:05] Art Bell:  
 Very shortly, and then everybody else was basically okay, but he was dead as a doornail.
 
 [02:32:12] Michio Kaku:  
@@ -1480,10 +1480,10 @@ Yes. So that if there was a full nuclear exchange, would you think there might b
 [02:34:26] Michio Kaku:  
 Yes, but it would be very slow, and billions would die.
 
-Art Bell:  
+[02:34:31] Art Bell:  
 Yes.
 
-Michio Kaku:  
+[02:34:31] Michio Kaku:  
 Only a handful, the smallest handful of humans, would survive, in order to then propagate a new species of humans that could feel radiation. They would say, "Ouch,"if they got too close to uranium, or if they got too close to nuclear fallout. However, our sensors, our nerve sensors, are totally incapable of feeling irradiation. So we could get hit with a lethal amount of radiation and not feel a thing. These people were hit with 2,000 to 5,000 rads of radiation. 500 rads is enough to kill you. These people were hit with up ten times the lethal amount of radiation, and they didn't feel a thing.
 
 [02:35:10] Art Bell:  
@@ -1563,19 +1563,19 @@ It is such sweet sorrow. Good morning, everybody. My guest is one of our nation'
 
 Well, all right. I meant to fling the phone lines open about a half hour ago, but some of that information was absolutely too riveting to let go. But we'll do it now. Dr. Kaku, are you ready?
 
-Michio Kaku:  
+[02:40:30] Michio Kaku:  
 That's right.
 
-Art Bell:  
+[02:40:31] Art Bell:  
 All right, here they come. First-time caller line. You're on the air with Dr. Michio Kaku. Good morning.
 
 [02:40:36] Caller 1:  
 Good morning, Art. Good morning, Dr. Kaku. I have two questions for you. Let me ask them both at the same time, please, Art, and then I'll hang up and listen on the radio.
 
-Art Bell:  
+[02:40:43] Art Bell:  
 Go.
 
-Caller 1:  
+[02:40:44] Caller 1:  
 Question number one regarding a Type 1 civilization. Question number two regarding the MAP, the Microwave Anisotropy Probe spacecraft. Number one. Question number one. Since George W. Bush is in favor of oil and is in favor of Star Wars, and Al Gore is against Star Wars, and also as environmentalist wrote the book Earth in the Balance in 1970. From a Type 1 civilization point of view, wouldn't it be prudent to vote for Al Gore over George W. Bush?
 
 Question number two, happening almost at the same day as Election Day, November sixth or seventh, will be the launch of the Microwave Anisotropy Probe. Question number two, which you discuss in detail, the Microwave Anisotropy Probe spacecraft.
@@ -1600,10 +1600,10 @@ That's right, because we have to make the transition away from fossil fuels. We 
 
 And in twenty years' time, we'll be sitting here, not feeling thankful, and oil prices begin to skyrocket. Now the other question is the microwave background. We talked about quasars. You know, quasars are the farthest objects you can see with a telescope.
 
-Art Bell:  
+[02:43:31] Art Bell:  
 Sure.
 
-Michio Kaku:  
+[02:43:32] Michio Kaku:  
 They go back 12 billion years into the past. But then the question is, what lies beyond the quasars? What lies beyond the quasars? Believe it or not, is the Big Bang. The Big Bang.
 
 Art Bell:  
@@ -1612,10 +1612,10 @@ Okay.
 Michio Kaku:  
 The Big Bang. Okay. It lies beyond the quasars. Now you can't see it because your eyes are, you know, the eyes of an animal, basically the eyes of an ape, and we cannot see microwaves. Apes cannot, animals cannot see microwave radiation.
 
-Art Bell:  
+[02:43:59] Art Bell:  
 Right.
 
-Michio Kaku:  
+[02:43:59] Michio Kaku:  
 But that's the color of the Big Bang. The Big Bang's color went from, you know, ultraviolet to the optical, and now it's very cold, about three degrees in temperature, which corresponds to microwave. And that's why we're sending up microwave satellites out there now to take brilliant photographs of the remnants of the Big Bang. The microfossil dates from 300,000 years after the Big Bang. The photograph of the instant of the Big Bang is a photograph of the Big Bang 300,000 years after the instant of creation, and there are irregularities in the cosmic explosion. These irregularities eventually we think gave rise to galaxies and gave rise to the clumpiness that we see in the universe around us. So one of the reasons why the universe is so clumpy, why we have galaxies and galactic clusters, is because there was an anisotropy, an unevenness in the original Big Bang, which then gradually expanded to give us the galaxies of today.
 
 [02:45:06] Art Bell:  
@@ -1636,10 +1636,10 @@ Professor, could there be anything other than radiation detectable past that? In
 [02:46:43] Michio Kaku:  
 What lies beyond the microwave radiation is neutrinos. Neutrinos would take you, I think, about a minute after the Big Bang. You could actually photograph what the Big Bang looked like about a minute after creation.
 
-Art Bell:  
+[02:46:56] Art Bell:  
 Wow.
 
-Michio Kaku:  
+[02:46:56] Michio Kaku:  
 But neutrino telescopes do not exist. You would have to be probably a very mature Type 1 civilization to create a neutrino telescope. If you had a neutrino telescope, you could look right inside the Earth. You could see earthquakes as they are forming. You could see continental drift take place. Neutrinos go right through the Earth, and neutrinos would allow you to penetrate the Big Bang to just about a minute or so after the Big Bang itself, and then beyond that, you would have to, of course, go to string theory. You would have to go to the unified field theory to tell you what happened before the Big Bang.
 
 [02:47:32] Art Bell:  
@@ -1648,10 +1648,10 @@ Okay, wildcard line. You're on the air with Dr. Michio Kaku.
 [02:47:36] Caller 2:  
 Hi. Ah, Arthur.
 
-Art Bell:  
+[02:47:40] Art Bell:  
 Yes,
 
-Caller 2:  
+[02:47:40] Caller 2:  
 I'm sorry. I got caught off guard. Anyway, Dr. Kaku, two real quick, one long question, and one three inch paper. As far as a nuclear detonation, the internet and other such things going down. What would it take to bring them back up quickly? To you know begin putting the world back together. And for your inch of paper, matter times infinity squared. Oh shit.
 
 [02:48:14] Art Bell:  
@@ -1660,16 +1660,16 @@ You know is that? Do you think that is really a practical idea? You did talk abo
 [02:48:30] Michio Kaku:  
 Well, it depends on how much damage had taken place. If the exchange was only on the level of several megatons, in other words, only a few major cities got wiped out, then you would have a nuclear autumn or nuclear fall, and temperatures would drop, but civilization would recover perhaps in a few decades. If you're talking more than a hundred megatons, and of course Russia and America have thousands of megatons worth of nuclear bomb,
 
-Art Bell:  
+[02:49:01] Art Bell:  
 I know.
 
-Michio Kaku:  
+[02:49:01] Michio Kaku:  
 Then you are talking about literally sending humanity perhaps 100, 200 years into the past, back to let's say at the beginning of the industrial revolution, where humans would. Well, you've seen the movie Road Warrior, right?
 
-Art Bell:  
+[02:49:16] Art Bell:  
 Oh yeah.
 
-Michio Kaku:  
+[02:49:17] Michio Kaku:  
 With Mel Gibson.
 
 [02:49:18] Art Bell:  
@@ -1702,19 +1702,19 @@ In such a condition, how long would after a full exchange? How long would humans
 [02:51:03] Michio Kaku:  
 Well, most of the radiation would damp out in a few weeks, most of it. However, the residual will be there for thousands of years, irradiating people, raising the mutation rate. Monsters would be formed. You know, humans that look like humans would be treasured because of the fact that there are so many humans that don't look like humans because of the low level of background radiation that's everywhere. And in the human fetus is quite sensitive to the radiation as we know it, and so there would be very high mutation rate that takes place.
 
-Art Bell:  
+[02:51:37] Art Bell:  
 The living envying the dead.
 
-Michio Kaku:  
+[02:51:39] Michio Kaku:  
 That's right, and so that's why I believe that we should not allow the bomb to proliferate. You know, and the bomb has now proliferated to Asia, to between you know Pakistan and India, and that's a frightening prospect because between them they probably have on the order of a hundred atomic bombs between them between each other. India with roughly maybe sixty to eighty atomic bombs, and Pakistan with probably about twenty atomic bombs.
 
-Art Bell:  
+[02:52:07] Art Bell:  
 Right,
 
-Michio Kaku:  
+[02:52:08] Michio Kaku:  
 And that's a lot of bombs, and that's why I think we really have to force a comprehensive test ban treaty and a nuclear non-proliferation treaty to make sure the bomb doesn't proliferate to other unstable areas of the world.
 
-Art Bell:  
+[02:52:24] Art Bell:  
 All right, whether that can happen, I don't know. I'm a half-empty glass of water guy. East of the Rockies, you're on the air with Professor Kaku.
 
 [02:52:33] Caller 3:  
@@ -1725,7 +1725,7 @@ Another question, Dr. Disti. You said that it would be distinct. I'm sure. Yes. 
 [02:53:09] Art Bell:  
 Well, actually, that's a very, very good question.
 
-Michio Kaku:  
+[02:53:09] Michio Kaku:  
 Well, let's say hypothetically that Russia invented a bulletproof vest. How would we react? We would freak out. We would literally freak out of our pants because now all our nuclear weapons were useless. Well, we could beat our chest with all the nuclear bombs we have in our arsenal, but the Russians have a bulletproof vest. They're invulnerable to an attack from the United States. That's how we feel.
 
 Now think about how the Russians are feeling today. The Russians have a crumbling nuclear arsenal, and the United States is reaching for a bulletproof vest, which I think will have holes in it. But still, it is reaching for a bulletproof vest. How are the Russians going to feel? They're going to feel that all the weapons they built with their national treasure, all the billions of roubles they sacrificed, were for nothing because they cannot penetrate a bulletproof vest. So what will the Russians they would build more bombs and put decoys on them to follow and penetrate the shield. I mean, we would do the same thing too, right? If the Russians had a bulletproof vest,
@@ -1752,10 +1752,10 @@ Okay, there's one perhaps logical argument for the building of something that wo
 [02:55:13] Michio Kaku:  
 Well, let's say you have a terrorist with two or three atomic bombs.
 
-Art Bell:  
+[02:55:18] Art Bell:  
 Right.
 
-Michio Kaku:  
+[02:55:18] Michio Kaku:  
 Are they going to fire them at the United States and have them shot down, or are they going to put them on a cruise missile to fly underneath ground radar to hit San Francisco, or you would just put them on a tugboat and send them into San Francisco Harbor, or you'd disguise it as heroin and ship it through Texas. I mean, we can't stop heroin coming into our borders. What chance are we going to have of stopping a homemade atomic bomb from coming in our borders and being dropped into our sewer system? And someone says, well, you know, give me $1 million, or else I'll blow up El Paso, Texas, and their sewer system.
 
 [02:55:54] Art Bell:  
@@ -1808,16 +1808,16 @@ If Manhattan were ever more or less vaporized by somebody's suitcase. Would the 
 [03:00:51] Michio Kaku:  
 The United States would survive it. We would, of course, have a huge dent in our gross domestic product.
 
-Art Bell:  
+[03:00:57] Art Bell:  
 We sure would.
 
-Michio Kaku:  
+[03:00:58] Michio Kaku:  
 Here, we sure would. And the national headquarters of many of our corporations are here.
 
-Art Bell:  
+[03:01:03] Art Bell:  
 Indeed.
 
-Michio Kaku:  
+[03:01:03] Michio Kaku:  
 But in the movie Fail Safe, you know, we knew it was the Russians. The Russians knew it was us. In the case of a terrorist, they may simply bomb a city and not even reveal who they are, and that'd be very frustrating. You know, here would be this gigantic giant flaming away at nothing, not understanding who was who did that that bomb threat, and that's another reason why I think that we should not concentrate efforts on an anti-ballistic missile system, but to concentrate efforts on the control of nuclear materials and nuclear infrastructure to make sure that nobody can start to develop these things. You know, atomic bombs are hard to build. They're harder to build than you realize. It takes a huge infrastructure to build these things, and the infrastructure is clearly visible by satellite.
 
 [03:01:55] Art Bell:  
@@ -1892,10 +1892,10 @@ Yes,
 [03:05:42] Caller 4 (Gabriella):  
 This is Reverend Mother Gabriella from the island of Hawaii.
 
-Art Bell:  
+[03:05:46] Art Bell:  
 Mm-hmm.
 
-Caller 4 (Gabriella):  
+[03:05:46] Caller 4 (Gabriella):  
 And first question: Do you have a regular mail address for computer-deprived people that don't have computers?
 
 Michio Kaku:  
@@ -1949,7 +1949,7 @@ Okay, so we've got good spacecraft, but what about the wasting away of humans wh
 [03:11:19] Michio Kaku:  
 Yeah, that's going to be a big problem. And the fuel is only enough for a one way trip. And that's why some people have said that they should, you know, go to Mars and create rocket fuel on the way back. That would give them an incentive to set up a factory on Mars.
 
-Art Bell:  
+[03:11:34] Art Bell:  
 A lot of fuel.
 
 [03:11:35] Michio Kaku:  
@@ -1957,10 +1957,10 @@ Yeah.
 
 There's no fuel to come back. It's only a one way trip. I think there are too many bugs. And all we have to do is wait a few more decades until the technology of reusable launch vehicles kicks in, before we have more dependable rockets that don't blow up on the launch pad. You know, one percent of our booster rockets blow up on launch.
 
-Art Bell:  
+[03:11:53] Art Bell:  
 That's true.
 
-Michio Kaku:  
+[03:11:54] Michio Kaku:  
 Yes. One percent. When the Challenger blew up, some people said, "Well, right on schedule." You know, the American public doesn't understand this. Would you ride in a rocket ship that has a one percent chance of blowing you to kingdom come? I wouldn't do it. You got to be an air- you got to be an air force pilot, a former air force pilot, to have you know courage to go on the space shuttle.
 
 [03:12:14] Art Bell:  

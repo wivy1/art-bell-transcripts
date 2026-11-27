@@ -38,19 +38,19 @@ All right, we're going to take a break here.
 
 His nuclear power program that included nearly four years on a nuclear attack sub. How cool is that? Since then, he's held a number of positions in various aspects of radiation safety, including his stints as a professor, a consultant, an environmental remediation. In the last several years, his work has concentrated on matters related to radiological emergency response. Lots of work for him. Most recently, traveling to Japan in the aftermath of the Fukushima reactor accident. In addition to his work, Andrew has earned a doctorate in environmental science, author of a number of books on various science-related topics and nearly two dozen scientific and technical papers. Andy has given over 100 scientific presentations on his research and his work. And here he is, Andrew. Welcome to the program.
 
-Andrew Karam:  
+[00:11:29] Andrew Karam:  
 Hi, thank you.
 
-Art Bell:  
+[00:11:31] Art Bell:  
 And help me pronounce your last name.
 
-Andrew Karam:  
+[00:11:33] Andrew Karam:  
 Yeah, you were close, or I think you got it right half the time. It's pronounced Karam.
 
-Art Bell:  
+[00:11:38] Art Bell:  
 Karam, okay.
 
-Andrew Karam:  
+[00:11:39] Andrew Karam:  
 And I'm told that that's an Americanized mispronunciation of the original, but it works for us.
 
 [00:11:44] Art Bell:  
@@ -73,16 +73,16 @@ so I keep getting this cascading amount of bad news about Fukushima, Andy, and s
 [00:12:33] Andrew Karam:  
 Well, I've got to tell you, there were times that we would be out there, and I would just-and this was even after I'd been doing it for a couple years-and I'd be thinking, like, boy, how cool is Yeah, yeah. There were parts of it. To be honest with you, the military life. There are parts of it that just aren't that much fun. But even with those parts of it, I was sitting there thinking, how many? At the time, I was twenty-five or twenty-six. I hadn't finished college. I was just thinking, how many people are there out there my age who are supervising the operation of a nuclear reactor plant while spying on the Soviets?
 
-Art Bell:  
+[00:13:04] Art Bell:  
 Oh, that's what you were doing. You were actually the plant supervisor.
 
-Andrew Karam:  
+[00:13:08] Andrew Karam:  
 Yeah, I was an enlisted guy. I was responsible for the division, the group of guys that controlled reactor water chemistry, a boiler water chemistry, and did the radiation safety on the sub. But I would also stand watch, supervising the operation of the propulsion plant. And yeah, like I said, there were times that I just really didn't like what I was doing. But I was still aware of the fact that it was just kind of cool.
 
 [00:13:32] Art Bell:  
 Well, I suppose to some degree it's like being the Maytag repair guy because if something does go wrong with the reactor, suddenly you're really, really, really busy. And I guess your job is make sure nothing goes wrong, right?
 
-Andrew Karam:  
+[00:13:49] Andrew Karam:  
 Yeah, and to be ready when it does. You know, and just as one example, there were a lot of times, most of the time when I was on watch, for example, I would just be sitting there asking myself questions the whole time. You know, what if this happens? What am I going to do? What if that happens? You know, what am I going to say? How will I respond? And everything. And to be honest with you, that carries over now. There's times when I'm driving down the highway and I'm just looking at the truck next to me, thinking like, okay, so if his tire blows out and he swerves this way, what am I going to do?
 
 [00:14:17] Art Bell:  
@@ -91,19 +91,19 @@ Yeah. Did anything? You know, I understand that things you can't talk about. Whe
 [00:14:28] Andrew Karam:  
 Yeah, but never seriously. So, yeah. And just as one example, we had probably thirty or forty fires during the time I was on board.
 
-Art Bell:  
+[00:14:36] Art Bell:  
 Fires?
 
-Andrew Karam:  
+[00:14:37] Andrew Karam:  
 Yeah. But most of them were just really minor electrical fires where you hit it with a little shot of CO2 and trip the circuit breaker to cut off the power, and it's over. Out of those thirty or forty, we had maybe three that had the potential to become serious. Well, actually four, but those were things that we were basically trained so that when something happens, you deal with it, and then you worry about feeling scared or worried or nervous or whatever after everything calms down.
 
 [00:15:04] Art Bell:  
 I want to ask this: What's it like inside something like a nuclear one of our nukes that has the power to destroy a very large part of the world, all contained within one one ship?
 
-Andrew Karam:  
+[00:15:24] Andrew Karam:  
 Well, I can give a partial answer to that because I was on an attack sub, and in the Navy, I think the rule is that anything over a certain length is called a ship. But all submarines are called boats.
 
-Art Bell:  
+[00:15:38] Art Bell:  
 Right? I said boat.
 
 Yeah. Later, I'm, but I didn't hear it. I said boat.
@@ -117,7 +117,7 @@ Okay.
 [00:15:53] Andrew Karam:  
 But there, I mean, I remember once when we were offloading the nuclear weapons, and my reactor water chemistry lab was right where they lifted the things out from, and it was just kind of a Dr. Strangelove moment. Once I opened up the door to my lab, and it was just sitting there while they were pulling it off with a warhead section about eye level, and I just looked at the guards and said, " Okay, make it go away." And I shut the door, and you know, five minutes later, opened it up, and it was gone. Yeah, it was one of those things. Most of the time, we really didn't think about it too much. They were just there in the torpedo room, along with the Harpoon missiles and the torpedoes. But every now and again, I would just find myself looking at it, thinking like, " Okay, yeah, that really is a nuclear weapon." And it was just
 
-Art Bell:  
+[00:16:37] Art Bell:  
 So you were kind of like a hunter-killer. In other words, if you were pressed into service, God forbid, you'd be looking for the enemy and with nuclear-tipped whatevers.
 
 [00:16:50] Andrew Karam:  
@@ -140,7 +140,7 @@ Yeah, no, I mean that one. First, things are not on the hair trigger that they w
 [00:19:30] Art Bell:  
 You bet.
 
-Andrew Karam:  
+[00:19:30] Andrew Karam:  
 You know the chance of that, I think, is much less than it has been any time since we or since the Soviets developed nuclear weapons.
 
 [00:19:39] Art Bell:  
@@ -203,7 +203,7 @@ All right, Andy, you were there. You went to why did you go to Japan?
 [00:26:43] Andrew Karam:  
 I was I was there at the request of a New York City based non governmental organization or NGO, and they had sent some people over there immediately after the accident to find out what the Japanese needed. The Japanese NGO called the Tokushukai Medical Assistance Team. They said basically what we need is some people to come over here and teach us how to work with patients who are from these radiological areas. You know how to keep ourselves safe, how to recognize if they have radiation sickness, and how to take care of them. So, TMAT through the New York City Medics, or New York City Medics, got in touch with me and two of my colleagues and asked if we would go over there to help.
 
-Art Bell:  
+[00:27:26] Art Bell:  
 I see.
 
 [00:27:27] Andrew Karam:  
@@ -239,16 +239,16 @@ All right. So a lot of this 137 I hear is in the water, the water that they're c
 [00:29:43] Andrew Karam:  
 Yeah, and interestingly, there have been a couple reports over the last few years of tuna being caught in various parts of the Pacific that had detectable cesium-137 in them. And one of the things that I did, I contacted the scientist who made these measurements just to get copies of his data. I looked, read through copies of the scientific papers that were written, and I was doing some of my own calculations just to kind of satisfy my own curiosity about it. Yeah, I guess it's kind of like the same thing Reagan said during the arms reduction talks: trust but verify.
 
-Art Bell:  
+[00:30:15] Art Bell:  
 Sure.
 
-Andrew Karam:  
+[00:30:16] Andrew Karam:  
 And I mean, first of all, yeah, there was detectable cesium in the tuna, but something that a lot of people don't realize is there's detectable radioactive potassium in the tuna also. And for that matter, I've got instruments at home that I can measure radioactive potassium in bananas or salt substitute. So there's, you know, just a hundredth of a percent of potassium is naturally radioactive. It's been on Earth ever since the Earth first formed. So the question is not is the radioactivity there, but is it enough to cause any problems?
 
-Art Bell:  
+[00:30:49] Art Bell:  
 Exactly.
 
-Andrew Karam:  
+[00:30:50] Andrew Karam:  
 Yeah, and I guess as one example, I take a baby aspirin every day because heart disease runs in my family, and taking an aspirin a day hopefully will help to stave that off. But I also know that if I swallow a whole bottle of aspirin at once, it'll kill me.
 
 So, radioactivity. Well, I don't know about the beneficial effect. I don't know if there's any or not. Some people think that there are. I'm agnostic on that one. But if the radioactivity levels from the artificial radioactivity are lower than what's naturally there, what I can say is that you're not getting very much additional radiation dose from eating the tuna. And then the question is, well, okay, not much, but is it enough to be serious? And in that one, my opinion is that it probably is not. And the reason I say probably is because I'm a scientist and I'm trying to speak with scientific caution. But if you take a look and do the calculations as far as the actual risk goes, it comes out to far, far less than the risk just from driving.
@@ -259,7 +259,7 @@ All right, and you know, in answer to the question so far, I'm going to judge th
 [00:32:01] Andrew Karam:  
 I'd have to say that's something else that I'm kind of agnostic about. I think that nuclear power has its place, but I don't think that it would be appropriate for us to generate 100 of our energy from nuclear power. And just as one example, I spent some time as a professor at the American University in Kosovo, and one of the people there, one of my students, asked me if I thought that they should start up nuclear reactors in Kosovo. And it sure sounds like a good idea because right now they generate their power with this big brown coal power plant, and you can see the smog from thousands of feet up. But at the same time, Kosovo doesn't really have the infrastructure to make use of nuclear power, and in specific, they don't have the right people there to design the things, to build them, to regulate them, or to operate them. It's something you've got to work your way into.
 
-Art Bell:  
+[00:32:54] Art Bell:  
 I'm not so sure that TEPCO does either.
 
 [00:32:57] Andrew Karam:  
@@ -279,10 +279,10 @@ Okay, Andy, I you know the trained professionals part of it. I'm with you there.
 [00:35:22] Andrew Karam:  
 Well, no, you got a good point because your regulators have to know what they're doing, and we have to trust not only their competence.
 
-Art Bell:  
+[00:35:29] Art Bell:  
 But what would you say about trust and verify a little while ago?
 
-Andrew Karam:  
+[00:35:33] Andrew Karam:  
 Oh, I know. For in the for what it's worth category, I used to work for the state of Ohio. I did not do nuclear power plant inspections, but I did, or I looked at radioactively contaminated sites and stuff like that. And I got to know a lot of the nuclear regulatory inspectors, the ones who did oversee the power plants. And most of them are ex Navy nukes, or I shouldn't say most, but a large number of them are ex-navy nukes, and the reason that's significant to me is, first of all, we had a lot of training, and second of all, Admiral Rickover was incredibly-I guess the polite way to put it would be detail-oriented-and it just-it's a culture that does not take kindly to mistakes or to incompetence.
 
 [00:36:23] Art Bell:  
@@ -303,7 +303,7 @@ Remember this argument when we get over to the Yucca Mountain talk.
 [00:37:57] Andrew Karam:  
 Oh, I will. And well, and this is one of those things too that I thought about a lot on the submarine when I was on that because our systems were ridiculously overdesigned for routine operations. But if we were in a war, I would have been really depending on every single one of those additional safety factors to keep us safe when the depth charges or the torpedoes started going off.
 
-Art Bell:  
+[00:38:20] Art Bell:  
 I hear you. All right, hold on a second. We're going to take a quick break. You heard me. I became a pretty big proponent of nuclear power. Actually, the memories of Chernobyl had kind of-I don't know-they become old. The need for power has become indeed great. All of that, and so I became a convert. I was pro-nuclear power because, well, I had bought into the idea that look, Chernobyl was a single containment. It was built poorly. All those things, you know. I really I realized how much we need power, and I had become a proponent of nuclear power. You may recall, perhaps you don't, but I certainly was. I said, let's do it right. Let's build more nuclear power plants.
 
 Then Fukushima happened, and I've got to say, I've really done a turnaround. I Andy, I don't see how we can build these things safely. Now I understand that you know you're saying the right kind of oversight, the right kind of professionals on hand, but when you're talking about a nine point whatever earthquake and tsunami, I guess you can't build for that. So if you can't build for that, and it's going to have such profound implications when it goes wrong, I'm not so much of a proponent anymore. So I was in your camp, but I'm not anymore.
@@ -317,19 +317,19 @@ And can we afford to build one that will resist all that?
 [00:40:41] Andrew Karam:  
 Exactly. You know, that's like I could drive to work in a tank, and that'll probably protect me against pretty much anything that will happen on the road. But most of the time, I'm not going to need that level of protection. So, you know, with respect to nuclear power, the risk from it and everything else, I cannot tell you that it's risk free. But I can tell.
 
-Art Bell:  
+[00:41:02] Art Bell:  
 Oh, that's obvious. You don't have to that. It's obvious.
 
 [00:41:04] Andrew Karam:  
 Yeah, and I would not even try to claim that it was. But what I can tell you is that even the accidents that we've had, you know, Chernobyl, which was pretty bad, and Fukushima, which was pretty bad, also they haven't caused that many deaths, and is you know the World Health Organization did a 20-year summary in 2006 of the health effects from the Chernobyl accident, and they were able to find fewer than 100 people whose deaths could be directly linked to the Chernobyl accident, and that includes cancers, and that's far lower than the hundreds of thousands that a lot of people believed. What I thought was the most.
 
-Art Bell:  
+[00:41:40] Art Bell:  
 Well, does that include now? Now, you know, I remember nuclear. I remember radiation going all over the place after Chernobyl.
 
 [00:41:52] Andrew Karam:  
 Oh, it did.
 
-Art Bell:  
+[00:41:53] Art Bell:  
 It was in milk. It was in all kinds of things, right? And so, you know, you mentioned 137. We don't really know over the lifetime of the people that were exposed how many cancers we can really attribute or not attribute to Chernobyl. Do we?
 
 [00:42:11] Andrew Karam:  
@@ -348,10 +348,10 @@ Measurable contamination pretty much spread throughout the northern hemisphere. 
 [00:44:40] Art Bell:  
 Uh huh. Okay. Right now, I'm hearing that they don't the cores are melted.
 
-Andrew Karam:  
+[00:44:47] Andrew Karam:  
 Yeah.
 
-Art Bell:  
+[00:44:47] Art Bell:  
 And they don't really know where the cores are. I mean, that's from TEPCO. They don't know where the cores are.
 
 [00:44:54] Andrew Karam:  
@@ -399,16 +399,16 @@ Well, the water is an ocean.
 [00:46:21] Andrew Karam:  
 Yeah, well, and I'm, and I guess what I mean is if it were all put into the immediate vicinity, you know, like into the harbor, then the thing is, it's like anything else. The more it's spread out, the wider you can see it, but the less dangerous it is. So, sort of, if I dumped a ton of dirt on somebody, it would kill them. But if I were to spread that ton of dirt all throughout New York City, it would annoy a lot of people, but it wouldn't hurt anybody. Yeah, it's sort of the same thing with the radioactivity. We don't want to see it go into the ocean. We certainly don't want to see any more than necessary. But really, the wider it spreads, the less there is available in any one cubic centimeter of ocean to cause harm.
 
-Art Bell:  
+[00:47:02] Art Bell:  
 Uh huh. When the accident happened, I was in the Philippines, living in Manila, and we were really afraid that it was coming our way. However, it really didn't. Interestingly, the prevailing winds apparently always carry it, just like your airplane that went to Japan. The shortest route goes up near Alaska and then on down toward the American Northwest and the American Southwest. Even where I am here in the desert, yeah, it's a nice little. I mean, if you look at the maps of the distribution, the way it occurs, we're talking about airborne here. It does come here, right?
 
 [00:47:40] Andrew Karam:  
 Yes. Yeah, and like I said, we did measure it in the air here in New York City. The EPA had a website where they were displaying the results of air and rainwater samples for a couple months after the accident. But it was, and I know I keep on saying the same thing. There's a difference between what we can detect and what will actually cause harm.
 
-Art Bell:  
+[00:48:01] Art Bell:  
 Right.
 
-Andrew Karam:  
+[00:48:02] Andrew Karam:  
 So what we measured here, even in the areas that were closest to Japan, were detectable but not harmful.
 
 [00:48:10] Art Bell:  
@@ -423,13 +423,13 @@ Is there any possibility that as the core is, it's all melted together, that the
 [00:48:32] Andrew Karam:  
 It's not really likely, and the reason for that is because the reactor cores are built with a very specific geometry. You've got long rods of fuel that are arranged in a grid, and there's water between those rods, and the reason that they're like that is that geometry is necessary in order to the neutrons have to slow down in order to cause fission, then they slow down by going through the water. So if you immerse the entire core in the water, it gets a chance for a neutron leaving one control rod to slow down before it enters the other, so it can cause.
 
-Art Bell:  
+[00:49:04] Art Bell:  
 Oh, I hear you, but we don't know where the hell they are right now. Oh, so we don't know if the geometry is still what it was. In fact, pretty good chance it's not.
 
 [00:49:12] Andrew Karam:  
 Yeah, chances are that it's not, but it's probably congealed in one big lump or mixed in with concrete and steel and other stuff that melted. But it almost certainly does not have that really precisely engineered geometry that lets you sustain a criticality.
 
-Art Bell:  
+[00:49:25] Art Bell:  
 So they did measure some bursts at one point. I'm mentioning this.
 
 [00:49:31] Andrew Karam:  
@@ -453,7 +453,7 @@ Uh huh.
 [00:51:23] Andrew Karam:  
 I do not know what it is that they're doing about that, but yeah, the way that something like that could happen would be if it were to collapse, lose its cooling water, and before they could start to cool it again, if the temperature increased to the point where the spent fuel were to melt, yeah, and then you could start releasing some of the more volatile radionuclides like the cesium-137 into the air by now. Yeah, by now pretty much all the iodines decayed away. But that's a plausible scenario. I don't.
 
-Art Bell:  
+[00:51:54] Art Bell:  
 Sorry to hear that.
 
 [00:51:55] Andrew Karam:  
@@ -467,7 +467,7 @@ And as far as typhoons are concerned, they definitely come along. So that's fair
 [00:52:18] Andrew Karam:  
 Yeah, and I guess see, this is where my inner geek comes out, and I can say that it's plausible, but I wouldn't want to quote you on it.
 
-Art Bell:  
+[00:52:26] Art Bell:  
 Well, that's okay. You don't have to quote me on it. I just thinking, and I, you know, I'm kind of with you in one way. I understand where you're coming from. You're a proponent, and you said, " Well, we wouldn't produce 100% of our energy with nuclear power. If it were up to you, how much of our energy would we produce with nuclear power?"
 
 [00:52:54] Andrew Karam:  
@@ -515,7 +515,7 @@ I mean there's no chance, none, after Fukushima, as bad as it is.
 [00:56:47] Andrew Karam:  
 Oh, exactly.
 
-Art Bell:  
+[00:56:47] Art Bell:  
 What do you mean? Politically, I mean, in terms of what people would say. Let's say they announced a new nuclear plant. I don't know, somewhere near New York City, let's say, or safely away from New York City, but still close. There's no way, Andy. There's no way.
 
 [00:57:05] Andrew Karam:  
@@ -524,7 +524,7 @@ Yeah, it would be a difficult sell, and now the nuclear power industry was reall
 [00:57:23] Art Bell:  
 I was, Andy. I was. I you know I had sort of gotten over Chernobyl and bought into the as I said you know the fact that single containment and no we can do it right and so forth and so on and then Fukushima. So I think politically there's no chance, none.
 
-Andrew Karam:  
+[00:57:41] Andrew Karam:  
 Yeah, and that's yeah you're right on that one.
 
 [00:57:45] Art Bell:  
@@ -579,13 +579,13 @@ Okay, so if you were in charge at Fukushima, knowing what you know about the sta
 [01:03:16] Andrew Karam:  
 Oh, or do you mean the sarcophagus around Chernobyl?
 
-Art Bell:  
+[01:03:19] Art Bell:  
 Chernobyl, yeah.
 
 [01:03:20] Andrew Karam:  
 Ah, the first one they just kind of slapped together, and that started falling apart fairly quickly. The replacement structure is a lot better. You're never going to have anything that's a hundred percent airtight or a hundred percent, you know. And what a the word
 
-Art Bell:  
+[01:03:38] Art Bell:  
 I like the word coffin better actually.
 
 [01:03:40] Andrew Karam:  
@@ -639,19 +639,19 @@ Indeed. I'm sorry, I can't stay away from it.
 [01:09:24] Andrew Karam:  
 Oh, I know, and I'm just kind of ribbing you a little bit.
 
-Art Bell:  
+[01:09:27] Art Bell:  
 I'm ribbing you a little too.
 
 [01:09:29] Andrew Karam:  
 Okay,
 
-Art Bell:  
+[01:09:29] Art Bell:  
 Don't worry.
 
 [01:09:31] Andrew Karam:  
 Yeah, let me first talk from just the standpoint of the engineering that goes into the casks and the radiation dose rates and all of that. And with some of this, I can give maybe a little bit more information because my doctoral advisor did some of the testing on these casks, including simulating terrorist attacks on them. And the casks themselves are pretty well designed. There's a really neat video if you go online. If you just do a Google search for something, I think it's nuclear waste cask and train. You find a really neat video of a locomotive, rocket powered, being shot into one of these fuel canisters.
 
-Art Bell:  
+[01:10:11] Art Bell:  
 I remember that.
 
 [01:10:12] Andrew Karam:  
@@ -675,10 +675,10 @@ Well, I've always heard that they've said, and you know, Senator Harry Reid is o
 [01:11:23] Andrew Karam:  
 To be honest with you, I don't know. I know what's happening with the high-level radioactive waste.
 
-Art Bell:  
+[01:11:30] Art Bell:  
 Okay.
 
-Andrew Karam:  
+[01:11:30] Andrew Karam:  
 But in all honesty, I had not, or as far as I know, Yucca Mountain itself isn't receiving waste. But I do believe that the Department of Energy, at least they used to dispose of some radioactive waste from the DOE complex at the Nevada test site. And so it could be trucks of that are going out there. But I've got to give you an I don't know on that one.
 
 [01:11:50] Art Bell:  
@@ -699,7 +699,7 @@ Sure.
 [01:13:21] Andrew Karam:  
 and they were stable. The downside of something like that is that the things are huge, and you can see them from a long ways away. So if you've got them out in the open like that, then it's something that a terrorist can see and that they can try to figure out if they can attack.
 
-Art Bell:  
+[01:13:34] Art Bell:  
 Can they?
 
 [01:13:36] Andrew Karam:  
@@ -720,7 +720,7 @@ Yeah, the magnitude that they were playing with, but you know, but if you can go
 [01:15:15] Art Bell:  
 Well, if they had studied what they were going to do, they would.
 
-Andrew Karam:  
+[01:15:18] Andrew Karam:  
 It certainly is possible.
 
 [01:15:21] Art Bell:  
@@ -747,7 +747,7 @@ Oh, that'd be negative. Now, let's actually talk about Yucca Mountain itself. Ar
 [01:15:58] Andrew Karam:  
 Well, I think that the safest place to put the nuclear waste is in some underground repository, and in one place. And the reasons for that are because underground, it's going to be isolated from the environment, isolated from people. And if there's an earthquake or volcanic eruption or something like that, it's going to bury it more deeply, as opposed to toppling things over and breaking them open. Whether or not that underground place should be Yucca Mountain or not, now the bottom line is there's a lot of places where you could put it, and I'll use the word there are a lot of places you could put it safely underground. The question is whether or not Yucca Mountain is the best place and whether or not it's an acceptable place. Those are two different questions.
 
-Art Bell:  
+[01:16:40] Art Bell:  
 Do you have answers?
 
 [01:16:42] Andrew Karam:  
@@ -783,16 +783,16 @@ Ah, no, we certainly can't. That's a long time to. I mean, what sort of safety t
 [01:18:21] Andrew Karam:  
 Actually, it's interesting because back in the '90s, the Department of Energy was actually trying to figure out how to answer just that question. You know, basically, if civilization fails, how are we going to make sure that our great, great, great, great grandchildren understand that they really shouldn't go there?
 
-Art Bell:  
+[01:18:40] Art Bell:  
 They're greater than even that. Great, great, great. You could go on and on and on. Million years is a long time.
 
 [01:18:45] Andrew Karam:  
 Yeah, and they really never came up with a good answer for that one. You know, they were trying to think of some universal sign language, but you know what might mean danger, stay away, or you're going to die today.
 
-Art Bell:  
+[01:18:56] Art Bell:  
 Yes.
 
-Andrew Karam:  
+[01:18:56] Andrew Karam:  
 And several thousand years to a different civilization might mean something like free apples. You know, there's just there's no way to tell, and I don't think that they ever came up with an answer to that question. I mean, one of the things is that if we put it as deep as possible and put as many barriers as possible between the surface and the waste, that'll at least make it more difficult to access. You know, for example, if we put hardened steel in there, you know, just encapsulate the entire thing, then that means that no civilization can get to it unless they can cut through hardened steel, and hopefully by that time they'll have also invented maybe radiation detectors. You know, but that's just speculation. Really, when you're talking a million years out, you're talking more science fiction than you are anything that we can make comfortable statements about.
 
 [01:19:41] Art Bell:  
@@ -829,7 +829,7 @@ All righty.
 [01:22:14] Andrew Karam:  
 Ten years after radioactive waste or after spent fuel rods come out of a reactor, I don't want to be close to them because, or at least not unless they're well shielded and well maintained because they're dangerous. If you know, like if you were to sit down at dinner with one of those at the dinner table, that would not be good, so that's a hundred years, a thousand years from now, the individual spent fuel rods are not going to be emitting that much radiation, but they're still going to be emitting some. So then maybe brief cohabitation with one would not be dangerous, but I don't know that I would want to bury it under my house and live with it for a lifetime.
 
-Art Bell:  
+[01:22:50] Art Bell:  
 Not part of my definition of cohabitation, but okay.
 
 [01:22:54] Andrew Karam:  
@@ -844,10 +844,10 @@ Yeah. So that takes us to about a thousand years or so. Ten thousand years, we'r
 [01:23:33] Art Bell:  
 Alrighty, then let's use the hundred thousand year figure. It's what ten times less than what the EPA said. What the heck? Let's use a hundred thousand years. Kind of dangerous for a hundred thousand years. Agreed?
 
-Andrew Karam:  
+[01:23:47] Andrew Karam:  
 Yeah.
 
-Art Bell:  
+[01:23:50] Art Bell:  
 It just doesn't seem to me, Andy, that we can come even close to guaranteeing anything at all for a hundred thousand years.
 
 [01:24:01] Andrew Karam:  
@@ -858,10 +858,10 @@ What's interesting, especially from the standpoint of a geologist, is that the c
 [01:25:32] Art Bell:  
 You know I'm close to Yucca Mountain, right?
 
-Andrew Karam:  
+[01:25:35] Andrew Karam:  
 Yeah.
 
-Art Bell:  
+[01:25:36] Art Bell:  
 Okay. You know what I've got here, Andy? I've got a well. That's how I get my water.
 
 [01:25:44] Andrew Karam:  
@@ -875,7 +875,7 @@ Hate to bandy that word around. Safe for a hundred thousand years. Somehow getti
 [01:26:32] Andrew Karam:  
 There's a couple things. First is finding a way to get the radionuclides into the water, and this is part of the waste site design and the canister design is trying to make that take as long as possible. So that's one of the reasons why these things are surrounded by steel and concrete, and one of the reasons that they chose a place that's under hundreds of feet of rock and still hundreds of feet above the water table is just to make it. In order for that waste to get into the water, you've got to have water percolate down into the chamber where the waste is being stored.
 
-Art Bell:  
+[01:27:03] Art Bell:  
 But earthquakes-you know-they do the darnedest.
 
 [01:27:05] Andrew Karam:  
@@ -901,7 +901,7 @@ Okay, let's talk about France for a moment. I don't do a lot of that. I don't ta
 [01:29:22] Andrew Karam:  
 What they're doing is taking a from the engineering standpoint and the economic standpoint, they're taking a better approach to it than we have. They, when you're done, or I'm trying to think of the best way to phrase this.
 
-Art Bell:  
+[01:29:39] Art Bell:  
 Okay.
 
 [01:29:40] Andrew Karam:  
@@ -921,7 +921,7 @@ What France is doing, and a lot of other countries too, is recycling that. They'
 
 We stopped doing that during the Carter administration, and the main reason why is because we were worried about the plutonium. That's the stuff that you can also make nuclear weapons out of. And the concern was that if everybody was recycling fuel, then it just added a lot of potentially weapons-grade plutonium to the world stockpiles. And so the hope was that if we kind of unilaterally went away from recycling or reprocessing the fuel, then the rest of the world would too. What we did not plan on was realizing that it meant that we were just stuck with all this that fuel all over the place, and that we would have to dispose of it. We can reverse that, but I'm-
 
-Art Bell:  
+[01:32:56] Art Bell:  
 I'm not quite clear on what you said. What you seem to say was that if other people did it like France and other countries and recycled, that we shouldn't, and the reason would be that it would be less likely that the terrorists would get their hands on.
 
 [01:33:21] Andrew Karam:  
@@ -993,7 +993,7 @@ Well, the question is, we're not having a scriptural question here.
 [01:37:36] Caller 1 (Billy):  
 No, I ain't one that's going to get to. I was going. I was going to say.
 
-Art Bell:  
+[01:37:39] Art Bell:  
 Okay.
 
 [01:37:39] Caller 1 (Billy):  
@@ -1011,7 +1011,7 @@ All right, that hold it right there, and we'll deal with that. He said a nuclear
 [01:38:36] Andrew Karam:  
 No, I think or I think that might be mixing two things up. Nuclear fusion is what powers the sun, but we can't really do that yet. We're still doing.
 
-Art Bell:  
+[01:38:45] Art Bell:  
 We're not doing nuclear fusion at all, right?
 
 [01:38:48] Andrew Karam:  
@@ -1035,10 +1035,10 @@ All right, let's go to Michigan and Wes. Hi, Wes.
 [01:39:33] Caller 2 (Wes):  
 Hey, how you doing? Thanks, Art, for taking my call.
 
-Art Bell:  
+[01:39:36] Art Bell:  
 You're welcome.
 
-Caller 2 (Wes):  
+[01:39:37] Caller 2 (Wes):  
 I just wanted to ask you guys what exactly would happen if Fukushima didn't melt down even farther, you know. And how about you know, like a small nuclear device, or ironically, like a Hiroshima-type nuclear device, set it off? Would it just melt it over and close it off? Is that even a feasible option?
 
 [01:40:06] Art Bell:  
@@ -1047,10 +1047,10 @@ Okay, he is suggesting an actual nuclear detonation at that site as a way to. I 
 [01:40:16] Andrew Karam:  
 There's actually two interesting things in there. One is whether or not the fuel from a commercial nuclear reactor can blow up or it can have a nuclear yield like a nuclear weapon, and that can't happen. The amount of the fissionable uranium in nuclear fuel is just too low to let it explode like a nuclear bomb.
 
-Art Bell:  
+[01:40:36] Art Bell:  
 No, Andy, I think what he was doing was suggesting that we have a nuclear detonation at one of these messy sites.
 
-Unknown Speaker 1:  
+[01:40:43] Unknown Speaker 1:  
 Ah, I was, yes,
 
 [01:40:46] Andrew Karam:  
@@ -1067,7 +1067,7 @@ If it were,
 [01:41:16] Art Bell:  
 Well, I think he was thinking of vaporizing the whole problem.
 
-Andrew Karam:  
+[01:41:19] Andrew Karam:  
 Yeah, but again, the problem is that it would vaporize it right up into the atmosphere. So then we would end up with a lot of radioactivity in the atmosphere. So I, yeah, so I don't think that would be the best way to go.
 
 [01:41:31] Art Bell:  
@@ -1085,7 +1085,7 @@ Well, no, but you know, you see, nuclear stuff that's green and glowing. Is that
 [01:42:11] Andrew Karam:  
 Sure. Yeah, the green glow that most people think about comes from the paint that they used to paint watch dials with. They would mix radioactive material and with a material that gave off light when the radiation hit it, and that it just happened to give off kind of greenish yellow or greenish blue light. But with reactor fuel, you actually get more of a purplish blue glow, and that's from something completely different. It's when you have the radioactivity going through the water, and it's actually traveling faster than the speed of light in water, and that gives off a type of radiation called Cherenkov radiation. So, yeah, so two different colors, two different mechanisms. It's natural, or at least the. I should back that up a bit. We mix the radium. We take the radium out of the rocks, mix it in with the paint or with the phosphor, and so that's obviously artificial. But the light that comes out-that's from a natural process.
 
-Art Bell:  
+[01:43:09] Art Bell:  
 Yeah, and since we're into colors here, I do have a question. Every time they talk about Iran's nuclear program,
 
 [01:43:16] Andrew Karam:  
@@ -1097,13 +1097,13 @@ they show a shot of whatever it is, about half filled with something yellow. Is 
 [01:43:28] Andrew Karam:  
 Yeah, if I'm thinking about the same pictures that you're talking about,
 
-Art Bell:  
+[01:43:31] Art Bell:  
 Oh, they show them all the time.
 
 [01:43:33] Andrew Karam:  
 Yeah, it's like a yellow powdery substance, and
 
-Art Bell:  
+[01:43:35] Art Bell:  
 That's right.
 
 [01:43:36] Andrew Karam:  
@@ -1115,7 +1115,7 @@ I see.
 [01:43:42] Andrew Karam:  
 Yeah, what?
 
-Art Bell:  
+[01:43:43] Art Bell:  
 So that is what they call yellowcake.
 
 [01:43:45] Andrew Karam:  
@@ -1166,7 +1166,7 @@ Oh, there's that too. I guess I was just thinking of
 [01:45:08] Art Bell:  
 One re-entering the atmosphere, and then one that just blew up. And you know, if it was had enriched uranium and cesium and all that in it, and blew up, that'd be an obvious problem, I think.
 
-Andrew Karam:  
+[01:45:18] Andrew Karam:  
 Well, yeah, that part would kind of suck, also.
 
 [01:45:21] Art Bell:  
@@ -1174,7 +1174,7 @@ Ah, yeah, it would. Okay. Well, anyway, that would have been my answer. Let's go
 
 Hi.
 
-Caller 5 (Scott):  
+[01:45:32] Caller 5 (Scott):  
 Hi. First of all, I wanted to say that I really thought that email you got-I think it was yesterday-where somebody referred to Howard Stern as vice president. Howard Stern was hilarious because I didn't think that interview had gone that widespread.
 
 [01:45:45] Art Bell:  
@@ -1222,7 +1222,7 @@ Yeah, I can't. I mean, you can't even fathom ideas that far off into the future,
 [01:49:39] Art Bell:  
 Thank you,
 
-Caller 6 (Jared):  
+[01:49:40] Caller 6 (Jared):  
 And let you go on.
 
 [01:49:42] Art Bell:  
@@ -1258,7 +1258,7 @@ Yeah.
 [01:51:10] Art Bell:  
 But transporting it from fifty different places to one place, well, it has its own set of problems.
 
-Andrew Karam:  
+[01:51:17] Andrew Karam:  
 Yeah, there's that too. I, as I mentioned before, I grew up in Ohio, and they used to trans or transfer the weapons grade uranium from the uranium enrichment plant there to wherever it was the next step to make the nuclear weapons, and they did that without any of those shipments getting stolen. You know, we can transport it safely, but obviously nothing is perfect. You know, what we have to do is to try to reduce the risks as much as we can, and then hopefully have enough contingencies built in or well enough trained people to try to cope with the unexpected.
 
 [01:51:54] Art Bell:  
@@ -1270,7 +1270,7 @@ Oh hi, Art. I just wanted to say first Roswell's to Art.
 [01:52:04] Art Bell:  
 Thank you.
 
-Caller 7 (Dan):  
+[01:52:04] Caller 7 (Dan):  
 And followed by 73s, and also 51s from BellGab.
 
 [01:52:10] Art Bell:  
@@ -1279,7 +1279,7 @@ Okay.
 [01:52:12] Caller 7 (Dan):  
 But yeah, no. For Andrew, I was just going to ask. So.
 
-Art Bell:  
+[01:52:17] Art Bell:  
 For Andy, yeah. For Andy, you can give him 137s.
 
 [01:52:21] Caller 7 (Dan):  
@@ -1294,7 +1294,7 @@ Well, I'm talking about like you know for instance Northwest Pacific. I mean you
 [01:52:59] Art Bell:  
 Okay, then I would say Florida would be good.
 
-Caller 7 (Dan):  
+[01:53:02] Caller 7 (Dan):  
 Oh really?
 
 [01:53:03] Andrew Karam:  
@@ -1312,7 +1312,7 @@ You know, Andy, when I was a kid, they told us the safest place was right under 
 [01:55:28] Andrew Karam:  
 Sure.
 
-Caller 8:  
+[01:55:30] Caller 8:  
 And hello, doctor.
 
 [01:55:31] Andrew Karam:  
@@ -1333,10 +1333,10 @@ Yeah, there were a couple things they could have done differently. You know, one
 [01:57:14] Art Bell:  
 Andy, a question for you: if the generators had been in a safe place, I know safe. But if they'd been in a place where they would have continued running, let me put it that way: would that have kept everything okay?
 
-Andrew Karam:  
+[01:57:33] Andrew Karam:  
 They would have had a better shot. They were still losing water from the reactor, and they would still have had to been able to suck water in from the ocean to put into the reactor. But they at least they would have had the pumps to be able to do that if the pipes were still intact.
 
-Art Bell:  
+[01:57:51] Art Bell:  
 And so,
 
 [01:57:53] Andrew Karam:  
@@ -1351,7 +1351,7 @@ Well, hello there. How are you all tonight?
 [01:58:11] Art Bell:  
 Very well.
 
-Andrew Karam:  
+[01:58:12] Andrew Karam:  
 I'm doing well.
 
 [01:58:12] Caller 9 (Kenny):  
@@ -1402,22 +1402,22 @@ Is he right, Andy? Is it a mess?
 [02:01:16] Andrew Karam:  
 Yeah, there's part of the problem is that before we knew any better, one of the accepted ways for cleaning up contaminated water was what they called soil column treatment. Because when you pass dirty water or contaminated water through a soil column, a lot of times it will scrub out some of the contaminants, and that used to be an accepted way of treatment before we realized that it was really not all that bright a way to go.
 
-Art Bell:  
+[02:01:39] Art Bell:  
 In other words, it keeps going and gets into the groundwater.
 
 [02:01:44] Andrew Karam:  
 Yeah, because eventually you saturate the soil, and so it does get into the groundwater.
 
-Art Bell:  
+[02:01:49] Art Bell:  
 Why was that hard to anticipate? I mean, if I go out and take a hose and just water and water and water, I know that water is going to go down and probably meet other water down below the ground. I mean, wouldn't that be the first thing you'd think of, sort of?
 
 [02:02:04] Andrew Karam:  
 Yeah, but at the time they just didn't know as much about groundwater and not as much about contamination as we do now.
 
-Art Bell:  
+[02:02:10] Art Bell:  
 Wow.
 
-Andrew Karam:  
+[02:02:11] Andrew Karam:  
 Part of the reason that we can say that it's kind of stupid today is because we made these mistakes in the past, you know. Just like I've learned from a lot of the mistakes that I've made, and I don't do those things anymore. Unfortunately, the mistakes that I made only affected me, and whereas the mistakes the Department of Energy made affected the people who are downstream. You know, they to their discredit, they were doing these things that don't make a lot of sense, and they did try to soft sell it or to downplay it for a long time. To their credit, at some point they realized that they had to do things differently, and they are starting to clean it up. But there's no way around it. It's going to take a long time to get the contamination out of there, and it's going to cost a lot of money.
 
 Art Bell:  
@@ -1426,10 +1426,10 @@ How long would you guess?
 [02:02:57] Andrew Karam:  
 It's probably going to be decades.
 
-Art Bell:  
+[02:02:59] Art Bell:  
 Decades.
 
-Andrew Karam:  
+[02:03:00] Andrew Karam:  
 Yeah, as far as how many decades, I don't want to guess there, but it's going to be a long time. I don't expect to be around to see it finished up.
 
 [02:03:09] Art Bell:  
@@ -1444,7 +1444,7 @@ Okay, and plus you've got a Geiger counter.
 [02:03:39] Andrew Karam:  
 Well, there's that too, and I guess the other part about it is that I have been working with this long enough that I at least know the tests to do and how to do them to satisfy myself that everybody's being on the up and up with me.
 
-Art Bell:  
+[02:03:56] Art Bell:  
 All right, off to Alabama and Woody. You're on with Andy.
 
 [02:04:02] Caller 11 (Woody):  
@@ -1534,7 +1534,7 @@ And the laser enrichment is actually kind of clever scientifically. And but what
 [02:09:51] Art Bell:  
 Interesting. All right, to California and Mike, you're on the air with Andy.
 
-Caller 14 (Mike):  
+[02:09:55] Caller 14 (Mike):  
 Hi, Andy.
 
 [02:09:57] Andrew Karam:  
@@ -1543,10 +1543,10 @@ Hello,
 [02:09:57] Caller 14 (Mike):  
 Andy. Question for you, and I know it jumps into the political realm. But what about building a mega reactor in Yucca out there by ourself?
 
-Art Bell:  
+[02:10:10] Art Bell:  
 He'll love that.
 
-Caller 14 (Mike):  
+[02:10:13] Caller 14 (Mike):  
 So that everything would be contained in one spot, and as technology moves forward, maybe we could recycle this, and it's all in one spot.
 
 [02:10:24] Andrew Karam:  
@@ -1590,7 +1590,7 @@ Peace.
 [02:13:27] Andrew Karam:  
 Okay.
 
-Art Bell:  
+[02:13:28] Art Bell:  
 I gave it all away. Greenpeace. Greenpeace wrote that. Would you fundamentally disagree with that premise, or how do you feel about that?
 
 [02:13:37] Andrew Karam:  
@@ -1610,7 +1610,7 @@ Wow, that's a lot of inflation. All right, so what do you think by the time all 
 [02:15:23] Andrew Karam:  
 Yeah, we're again talking in the tens of billions of dollars. So if they decide, and the variable in there is how big an area they decide to clean up and how thoroughly they decide to clean it up or the methods that they use.
 
-Art Bell:  
+[02:15:37] Art Bell:  
 I see.
 
 [02:15:38] Andrew Karam:  
@@ -1618,7 +1618,7 @@ You know, the easy way to do it would be, well, actually, the cheapest way to do
 
 The most thorough way to do it would be to say, okay, we're just going to scrub down everything that's above what was here before the accident, and we're just going to haul that away and find some place to bury it, and then we're going to replace the topsoil because, of course, if you take it down below the living part of the soil, then you're just left with minerals and that won't grow very much. So, but that would be the most thorough, but also the most expensive.
 
-Art Bell:  
+[02:16:26] Art Bell:  
 Yeah, Andy, I wish we could just sweep it under the rug, as you said.
 
 [02:16:30] Andrew Karam:  
@@ -1657,10 +1657,10 @@ You
 [02:18:01] Caller 15 (Scott):  
 One statement and then one comment.
 
-Art Bell:  
+[02:18:05] Art Bell:  
 All righty, sure.
 
-Caller 15 (Scott):  
+[02:18:06] Caller 15 (Scott):  
 I used to live in northern Japan. I was stationed at Misawa Air Base in northern Japan, and I've got a lot of friends there that are really worried about it. So, you know, we're just I've been offered jobs to go back, and I've kind of been hesitant to do that. So I know that it's not just me. I know it's not just my friends that are in the Air Force. I know it's a lot of other people out there that are quite scared of the area. So you know, and I don't think my answer off the air, but I was just kind of curious what your thoughts on being frightened over this in that area of Japan because it seems like they're talking about getting it fixed and not really reporting at all.
 
 And then my question was about future technologies. I was kind of curious what you thought about, like using some form of molten sodium or something, using almost like a dynamo effect instead of nuclear energy, using a dynamo.
@@ -1675,13 +1675,13 @@ Yeah. And when I was there, we got as close as 20 kilometers, so about 12 miles 
 
 On the other hand, I also did some calculations as to how much radiation dose I would get if I lived in that area for the rest of my life. And then I went ahead and extended that and said, well, what if I was just born there? You know, growing up in this area from a newborn all the way to death. Yeah, I gave myself eighty years just to be generous.
 
-Art Bell:  
+[02:20:08] Art Bell:  
 Sure.
 
-Andrew Karam:  
+[02:20:09] Andrew Karam:  
 And there's no way around it. There's an elevated radiation dose there, and I would have picked up worst case about 80 rem, so 80,000 millirem, which is a significant dose of radiation. That's enough to give you, oh, what is it? About a four percent risk of developing a fatal cancer as a result of that radiation, and that certainly is not nothing. You know, that's more dangerous than my milestone or my or what is a baseline of is it more or less dangerous than driving a car? And so, you know, so that's if you live your entire life in the most contaminated area that I went to, and it's something you got to think about.
 
-Art Bell:  
+[02:20:46] Art Bell:  
 Driving a car is pretty dangerous.
 
 [02:20:49] Andrew Karam:  
@@ -1723,7 +1723,7 @@ I mean, they're storing the water in these big tanks. It's my understanding. Is 
 [02:23:25] Andrew Karam:  
 Yeah, they. Well, first of all, they are keeping they're keeping the core covered, and they're trying to do their best. Well, and they are removing the waste heat from it. Some of the water is leaking back out into the groundwater, and that's still flowing towards the ocean. That's one of the reasons why they were, or why they wanted to put in the ice wall that we talked about earlier. Some of the water is being pumped out and it's put in these containers, and some of those containers have been found to be leaking. So they are having some releases of the radioactivity into the environment, and as I said before, it's not it's not an ideal situation. It's certainly not what anybody wants.
 
-Art Bell:  
+[02:24:04] Art Bell:  
 I don't think of it as ideal.
 
 [02:24:05] Andrew Karam:  
@@ -1762,7 +1762,7 @@ Yeah, you listen. I just wanted to ask you. You know, when I was a kid, I used t
 [02:25:47] Andrew Karam:  
 Now, believe it or not, they built a nuclear airplane back in the 60s.
 
-Art Bell:  
+[02:25:51] Art Bell:  
 Is it car?
 
 [02:25:53] Andrew Karam:  
@@ -1801,10 +1801,10 @@ Yes. Thanks.
 [02:27:36] Andrew Karam:  
 Yeah, if something like that were to happen right now, first of all, it would be just as well. Or I can't say it would be just as bad. It would be bad for the plants, but the operating reactors have already melted down, so it can't do a whole lot more damage to them. The building number four, reactor number four, we've been talking about, obviously could hurt that, and it could dump that onto the ground. And then the
 
-Art Bell:  
+[02:27:59] Art Bell:  
 You're saying when you say bad for the plants, you mean the nuclear plants, or you mean the plants that grow?
 
-Andrew Karam:  
+[02:28:05] Andrew Karam:  
 Oh, I'm sorry, the nuclear plants. Yeah, it could wash away or damage the structures that are left there. But again, the reactors have already melted down, so you can't do too much more damage to them. The big thing that I would see is that if you lost electrical power again, then you would have the same problems as before. So, or at least with the temperatures rising.
 
 [02:28:24] Art Bell:  
@@ -1813,13 +1813,13 @@ Well, yes, but those cores that we keep talking about, that they don't know wher
 [02:28:41] Andrew Karam:  
 Yeah, but that's probably not going to happen because
 
-Art Bell:  
+[02:28:44] Art Bell:  
 I hope not. I really hope not. But since we don't know where they are, and they're really pouring this high volume of water in there all the time, you just can't know.
 
-Andrew Karam:  
+[02:28:53] Andrew Karam:  
 Yeah, and I guess what I mean when I say they probably won't get washed into the ocean, I'm kind of picturing the entire core being sucked out to sea and being deposited in one mass out in the ocean, and so that probably won't happen.
 
-Art Bell:  
+[02:29:07] Art Bell:  
 Probably won't. But you know, doctor, you've got to consider that when this earthquake occurred, there are actually parts of Japan that have been moved from above sea level to actually below sea level, so that when high tide comes in, they flood every day. Well, so something that can move the land like that, well, you know, you have to think that it's a lot of power.
 
 [02:29:29] Andrew Karam:  
@@ -1831,7 +1831,7 @@ Rather not, yes. To Louisiana and Charles. Hi.
 Caller 19 (Charles):  
 Yes, Mega Half Life Roswell, sir.
 
-Art Bell:  
+[02:30:07] Art Bell:  
 Half Life for Roswell. I love that. Okay.
 
 [02:30:10] Caller 19 (Charles):  
@@ -1891,10 +1891,10 @@ Do you think thorium molten salt would be able to eat up the spent fuel?
 [02:34:41] Andrew Karam:  
 Yeah, that's one of the technologies that I was thinking about earlier when we were talking about transmuting fuel.
 
-Caller 20 (Dan):  
+[02:34:46] Caller 20 (Dan):  
 Right.
 
-Andrew Karam:  
+[02:34:47] Andrew Karam:  
 I've read an awful lot about it. There's a book called Superfuel that I read that talks about thorium reactors, and it certainly sounds like a very reasonable way to go about trying to transmute a lot of the longer lived radioisotopes in the fuel, turn them into something shorter lived that's a lot easier to deal with.
 
 [02:35:05] Caller 20 (Dan):  
@@ -1918,7 +1918,7 @@ Yeah, and that's one of the things that really surprised me about being invited 
 [02:36:19] Art Bell:  
 Well, I guess that that sort of gives you an idea of how desperate they feel the situation might be.
 
-Andrew Karam:  
+[02:36:27] Andrew Karam:  
 There's a lot of wisdom in realizing when you can't handle something on your own.
 
 [02:36:32] Art Bell:  
@@ -1930,7 +1930,7 @@ Hi, Art. You really know how to pick good guests.
 [02:36:42] Art Bell:  
 I do.
 
-Caller 21 (Kyle):  
+[02:36:43] Caller 21 (Kyle):  
 I don't think you've had a boring guy on yet, Andy? I got a question for you about storing the waste long term. Rather than hundreds of thousands of years, you think about just a couple of hundred. There's many people are working, many governments and companies and so forth change, and of course the personnel change over the years. What's going to happen two or three hundred years from now? If people start get wondering what's buried over Yucca Mountain, maybe nobody remembers what was put there.
 
 [02:37:23] Art Bell:  
@@ -2003,7 +2003,7 @@ No,
 [02:41:22] Art Bell:  
 No, I am not.
 
-Caller 23 (Dale):  
+[02:41:23] Caller 23 (Dale):  
 Chapter ten is entitled Fukushima, Texas, and in it he- Are you Andy? Are you familiar with the Long Island Lighting Company and the Shoreham Nuclear Plant?
 
 [02:41:36] Andrew Karam:  
@@ -2024,7 +2024,7 @@ Okay, and this the construction company Stone and Webster is also the same const
 [02:42:01] Art Bell:  
 And then is that right?
 
-Caller 23 (Dale):  
+[02:42:03] Caller 23 (Dale):  
 And then what they were, what was proven in court was that they faked all the SQ stand and earthquake was all fraudulent.
 
 [02:42:15] Art Bell:  
@@ -2045,22 +2045,22 @@ Okay. So you don't think it was a technical problem. I think it was a political 
 [02:43:39] Andrew Karam:  
 That's what I heard. So as far as the construction of the Fukushima reactors, I really can't comment on that except to say that a guy that I used to work with did some work in Japan on similar reactors. He was a nuclear power tech, and he said that he thought that they were actually constructed very well and that they were run very well. And my submarine pulled into Japan several times for overhauls, and I do know that the Japanese workers that did the maintenance on our submarine, they just had a great work ethic and they had a great attention to detail.
 
-Art Bell:  
+[02:44:15] Art Bell:  
 Oh yes.
 
 [02:44:16] Andrew Karam:  
 So I would suspect that Stone and Webster, even if they designed it and managed the project, I'm assuming that they would have used Japanese workers to build it, and I have no reason to think that they would have been sloppy with that when they were so good at so many other things.
 
-Art Bell:  
+[02:44:32] Art Bell:  
 Okay, let's go all the way up to Canada and David. Hi.
 
 [02:44:36] Caller 24 (David):  
 Hi, Art. Mega Roswell to you.
 
-Art Bell:  
+[02:44:38] Art Bell:  
 Thank you.
 
-Caller 24 (David):  
+[02:44:40] Caller 24 (David):  
 Andy, I had a question, a little bit more, I guess, old school. It goes back towards the nuclear standoff that we had with the Soviet Union back during the Cold War. I was just kind of curious: had we ever actually came to blows, and nuclear weapons had been launched? What would be the minimum safe distance for like the lowest payload capacity that a nuclear weapon would have? That any of the nuclear weapons that would have been fired. Like, what would have been the minimum safe distance from where it hit to, I guess, come out unscathed with no radiation, putting aside the fallout and any of the other negative effects that would come afterwards.
 
 [02:45:28] Andrew Karam:  
@@ -2124,7 +2124,7 @@ Oh, okay, yeah, and that could be, but the Navy is kind of selfish. They don't l
 [02:51:09] Caller 25 (Harold):  
 I was just wondering because he had pictures of the Thresher, the Nautilus, and the Enterprise. He was stationed on the Enterprise, and he said he was in charge of putting seven nuclear power plants on there.
 
-Andrew Karam:  
+[02:51:21] Andrew Karam:  
 That sounds about right. And I'll tell you, if he helped to develop those procedures, then my hat's off to him because the Navy procedures were incredibly thorough. And you know, you just they were designed so that you pretty much couldn't go wrong as long as you followed them.
 
 [02:51:35] Caller 25 (Harold):  
@@ -2157,7 +2157,7 @@ And Roswell, thank you.
 [02:52:41] Art Bell:  
 Thank you.
 
-Caller 26 (Jeff):  
+[02:52:42] Caller 26 (Jeff):  
 I seem to remember about a dozen years ago there was some sort of natural disaster in the Philippines, and the U.S. Navy parked the sub there and ran a sort of a drop cord to provide power.
 
 [02:52:53] Art Bell:  
@@ -2169,7 +2169,7 @@ I to expand on that: could a decommissioned nuclear sub parked near a city be ab
 [02:53:17] Art Bell:  
 What a really good question, Andy.
 
-Andrew Karam:  
+[02:53:20] Andrew Karam:  
 Yeah, that's something. And again, here I've got to distinguish between the engineering part of it and the non-engineering part of it. The engineering part of it, it certainly is possible. You know, submarine reactors. I'm not sure what the capacity is of the newer ones, and to be honest with you, I'm not allowed to tell you the capacity of the one on my submarine.
 
 [02:53:39] Art Bell:  
@@ -2184,7 +2184,7 @@ I'll be darned. I wonder how many nuclear plants have been built and then just n
 [02:54:35] Andrew Karam:  
 Yeah, that's well, and I know that there was one near Cincinnati that was built as a nuclear reactor, and after Three Mile Island, they just turned it into a conventional power plant. So and then they had a lot of nuclear reactors that were partially completed before we kind of had our moratorium on them here in the U.S. That's a really good question, and as my engineer officer used to say, and that's a really bad answer.
 
-Art Bell:  
+[02:55:00] Art Bell:  
 All right, again, we'll take a brief break here and come back and answer the balance of question.
 
 [02:55:08] Caller 27:  
@@ -2214,16 +2214,16 @@ Oh gosh, a typhoon could do that.
 [02:56:05] Andrew Karam:  
 Well, yeah, I suppose that could do it too. But yeah, but let's just picture something that puts all the radioactivity in the wastewater into the bay instead of in the leaking containers that it's currently in.
 
-Art Bell:  
+[02:56:18] Art Bell:  
 Sure.
 
-Andrew Karam:  
+[02:56:19] Andrew Karam:  
 And then we got two possibilities. And I'm sorry to be kind of I guess professorial on this, but it's just kind of the way my mind works.
 
-Art Bell:  
+[02:56:26] Art Bell:  
 That's right.
 
-Andrew Karam:  
+[02:56:28] Andrew Karam:  
 So yeah, so in one case, say that all stays nearby, you know, just settles into the mud there, it sticks to the clay particles, which is possible, and it stays all in that bay. Then the radiation dose rate in that bay would be high and probably high enough to cause environmental damage in that area. But if it's all locked up in that one place, then it's not going to spread into the wider ocean. So the environmental effects to the rest of the planet would be fairly low.
 
 The other extreme is if none of it gets locked into the sediments, if it all flushes out into the wider ocean and just circulates through the world, and without wanting to sound trite about it, it's a really big ocean. And my best guess on this, and I've got to say guess because I have not done the calculations, but my best guess on this is that we would have measurable levels of radioactivity in the water, but they would probably not be significantly higher than the natural radioactivity that we already see there. Yeah, and again, I-
@@ -2252,7 +2252,7 @@ Well, what is?
 [02:59:03] Andrew Karam:  
 Personally, I think that it has to be cleaned up. I don't know that it has to be cleaned up so that every speck of contamination from the reactor is gone, but I think that it should be cleaned up to the point where we can say that the risk to the population from the remaining radioactivity is so low that it just it really is not worth worrying about. But whether that level is one in a ten thousand, one in a million, one in ten million, that's a decision that only the Japanese can make.
 
-Art Bell:  
+[02:59:31] Art Bell:  
 Yeah, that's kind of interesting. Do you think if the Japanese decided to dump the whole thing into the ocean that people would get upset?
 
 [02:59:37] Andrew Karam:  
@@ -2320,7 +2320,7 @@ I hadn't thought of that one. All right, well listen, Professor, we've got to go
 [03:04:23] Andrew Karam:  
 Well, thank you, and really thank you to you and everybody who's called in for being so kind and making me feel very welcome. I appreciate it.
 
-Art Bell:  
+[03:04:31] Art Bell:  
 I'm sure you're going to get a lot of comment on this. Take care, Professor.
 
 [03:04:33] Andrew Karam:  

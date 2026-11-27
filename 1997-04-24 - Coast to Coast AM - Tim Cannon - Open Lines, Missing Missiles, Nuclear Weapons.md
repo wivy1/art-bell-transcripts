@@ -58,10 +58,10 @@ Well, hi.
 [00:15:41] Caller 1 (Ed):  
 How you doing? A couple of questions. First, have you ever interviewed DeForest Kelley, the actor who used to play on Star Trek?
 
-Art Bell:  
+[00:15:52] Art Bell:  
 No, I haven't.
 
-Caller 1 (Ed):  
+[00:15:53] Caller 1 (Ed):  
 Well, I heard him once, and he was talking about his UFO experiences. And it's no joke; he actually had UFO experiences.
 
 [00:16:02] Art Bell:  
@@ -208,10 +208,10 @@ Good morning, Art.
 [00:22:55] Art Bell:  
 Hi. Turn your radio off, please.
 
-Caller 4 (Ron):  
+[00:22:57] Caller 4 (Ron):  
 I just did.
 
-Art Bell:  
+[00:22:58] Art Bell:  
 Good.
 
 [00:22:59] Caller 4 (Ron):  
@@ -238,7 +238,7 @@ Well, it could also be a clone, you know.
 [00:23:25] Art Bell:  
 Why would you suspect a clone?
 
-Caller 4 (Ron):  
+[00:23:26] Caller 4 (Ron):  
 Because he isn't completely trained on everything that the other one knows.
 
 [00:23:31] Art Bell:  
@@ -271,7 +271,7 @@ George Burns.
 [00:23:52] Caller 4 (Ron):  
 Maria Muldaur.
 
-Art Bell:  
+[00:23:53] Art Bell:  
 Maria Muldaur.
 
 [00:23:55] Caller 4 (Ron):  
@@ -400,7 +400,7 @@ Oh, I guess I better watch out then, huh?
 [00:27:03] Art Bell:  
 [unclear: Can]
 
-Caller 6 (Kelly):  
+[00:27:03] Caller 6 (Kelly):  
 I drive feeder for UPS.
 
 [00:27:06] Art Bell:  
@@ -481,10 +481,10 @@ Well, you just made my point. All right, thank you very much for the call. I app
 [00:28:17] Caller 7:  
 Good morning, Art.
 
-Art Bell:  
+[00:28:18] Art Bell:  
 Hello.
 
-Caller 7:  
+[00:28:19] Caller 7:  
 God, this is phenomenal.
 
 [00:28:21] Art Bell:  
@@ -559,7 +559,7 @@ Okay.
 [00:30:01] Caller 8:  
 So anyway, we're sitting there, and I wish he would have seen it, but he didn't. And the next thing I know, from the horizon, I could see above the trailer court a red flash, like a red a ball of light.
 
-Art Bell:  
+[00:30:12] Art Bell:  
 Mm-hmm.
 
 [00:30:13] Caller 8:  
@@ -586,7 +586,7 @@ Right. But anyway, so the ball of light or whatever it went to like a 45-degree 
 [00:30:41] Art Bell:  
 Mm-hmm.
 
-Caller 8:  
+[00:30:42] Caller 8:  
 And it just took off, and it was just going so fast and it went to a point where I couldn't see it anymore. I only seen it for like probably three seconds.
 
 [00:30:50] Art Bell:  
@@ -649,7 +649,7 @@ You still have your radio on, don't you?
 [00:32:38] Caller 9:  
 Oh, I thought I got it off.
 
-Art Bell:  
+[00:32:39] Art Bell:  
 Yeah, you got to get that radio off, otherwise it's going to make you sound all confused.
 
 [00:32:43] Caller 9:  
@@ -691,7 +691,7 @@ Now, how can you be in between on that?
 [00:34:00] Caller 9:  
 Okay.
 
-Art Bell:  
+[00:34:00] Art Bell:  
 Either we're going to have an apocalypse or we're not.
 
 [00:34:02] Caller 9:  
@@ -787,10 +787,10 @@ Radio off.
 [00:38:00] Caller 11:  
 Yes. Well, I just am calling to - just show idea of-
 
-Art Bell:  
+[00:38:05] Art Bell:  
 Where are you?
 
-Caller 11:  
+[00:38:06] Caller 11:  
 Oh, I'm in La Crosse, Wisconsin.
 
 [00:38:08] Art Bell:  
@@ -931,7 +931,7 @@ We count.
 [00:50:34] Art Bell:  
 Yes, it was quite a program. It was interesting. At first, I thought this is going to be over a lot of heads. Then it began to sink in, and as we went on, it became more and more and more intriguing. Nanotechnology. It's as though you've got to stop your mind, and forget everything that you're programmed for, and begin thinking in a new way, and when you do, you realize that there is a universe that we know nothing about, nothing, and it's inside, not outside. West of the Rockies, you're on the air. Hi.
 
-Caller 13:  
+[00:51:16] Caller 13:  
 Hi, Art.
 
 [00:51:17] Art Bell:  
@@ -992,10 +992,10 @@ Yes.
 [00:53:28] Caller 14 (Tim):  
 And he was talking about the security alert at Cheyenne Mountain.
 
-Art Bell:  
+[00:53:33] Art Bell:  
 Yes.
 
-Caller 14 (Tim):  
+[00:53:33] Caller 14 (Tim):  
 DEFCON 4.
 
 [00:53:35] Art Bell:  
@@ -1030,16 +1030,16 @@ West of the Rockies, you're on the air. Hello.
 [00:55:51] Caller 15 (John):  
 Hello, this is John from Brimburn.
 
-Art Bell:  
+[00:55:53] Art Bell:  
 Hi, John.
 
-Caller 15 (John):  
+[00:55:53] Caller 15 (John):  
 Hey, how you doing, Art?
 
-Art Bell:  
+[00:55:54] Art Bell:  
 Okay.
 
-Caller 15 (John):  
+[00:55:55] Caller 15 (John):  
 Hey, listen, I was just calling about that lady truck driver called you a little while ago
 
 [00:55:59] Art Bell:  
@@ -1117,10 +1117,10 @@ Well, I'm married. I'd rather be in the shipyard.
 [00:57:46] Art Bell:  
 I understand that. All right, thank you.
 
-Caller 15 (John):  
+[00:57:50] Caller 15 (John):  
 Sure, no problem.
 
-Art Bell:  
+[00:57:51] Art Bell:  
 And say hi to your friends. East of the Rockies, you're on the air. Good morning.
 
 [00:57:55] Caller 16 (Mike):  
@@ -1176,13 +1176,13 @@ Your ads.
 Art Bell:  
 Okay.
 
-Caller 17 (Mr. Negative):  
+[01:01:51] Caller 17 (Mr. Negative):  
 In January, I bought one of those BayGen radios. You know.
 
-Art Bell:  
+[01:01:55] Art Bell:  
 Yes.
 
-Caller 17 (Mr. Negative):  
+[01:01:55] Caller 17 (Mr. Negative):  
 Very fine radio, by the way.
 
 [01:01:57] Art Bell:  
@@ -1233,16 +1233,16 @@ Well, that was it. Well, anyway, glad you're now informed. West of the Rockies, 
 [01:03:41] Caller 18 (Dan):  
 Hi. Hi, Art.
 
-Art Bell:  
+[01:03:43] Art Bell:  
 Hello.
 
-Caller 18 (Dan):  
+[01:03:43] Caller 18 (Dan):  
 Dan. I'm calling from Long Beach, California.
 
-Art Bell:  
+[01:03:45] Art Bell:  
 Yes, sir.
 
-Caller 18 (Dan):  
+[01:03:46] Caller 18 (Dan):  
 I called to ask you if you ever heard of Newsline that only comes on on certain ham radio frequencies.
 
 [01:03:57] Art Bell:  
@@ -1278,10 +1278,10 @@ I don't remember. I got it yesterday.
 [01:04:51] Art Bell:  
 Well, then I doubt that you have it. What I recommend you do is go to like a Radio Shack, and there they have license study manuals, and you will learn enough with that and a tape to take a test, and you want get a Novice license or a Tech license, no-code Tech.
 
-Caller 18 (Dan):  
+[01:05:14] Caller 18 (Dan):  
 I've seen those books.
 
-Art Bell:  
+[01:05:16] Art Bell:  
 Yeah, and once you get your license, then you'll go from there. But any Radio Shack, I think, generally has the book.
 
 [01:05:24] Caller 18 (Dan):  
@@ -1365,10 +1365,10 @@ I'm fine.
 [01:07:05] Caller 21:  
 Good. I was wondering on the on Richard C. Hoagland's website.
 
-Art Bell:  
+[01:07:11] Art Bell:  
 Yes.
 
-Caller 21:  
+[01:07:12] Caller 21:  
 I was trying to log on to it and I couldn't get into any of the files, and I was wondering if you knew if anything was wrong with it or that I
 
 [01:07:26] Art Bell:  
@@ -1395,13 +1395,13 @@ Oh well, then see what you actually have is a problem with your computer. What w
 [01:07:50] Caller 21:  
 Well, I'm on AOL.
 
-Art Bell:  
+[01:07:53] Art Bell:  
 Ah.
 
-Caller 21:  
+[01:07:54] Caller 21:  
 I don't know. I'm pretty new to-
 
-Art Bell:  
+[01:07:57] Art Bell:  
 I see.
 
 [01:07:59] Caller 21:  
@@ -1461,7 +1461,7 @@ Sell it. You know, if I were you, I would bite my tongue and not call him anythi
 [01:09:57] Caller 22:  
 Okay, just check it.
 
-Art Bell:  
+[01:09:58] Art Bell:  
 Yeah, well, just answering. On our international line, you are on the air. Good morning.
 
 [01:10:04] Caller 23 (Dana):  
@@ -1479,10 +1479,10 @@ Oh yes, the inert missiles. Yes.
 [01:10:44] Caller 23 (Dana):  
 What would you do? Okay, I'm now appointing you as president of the United States. You cannot decline this appointment.
 
-Art Bell:  
+[01:10:50] Art Bell:  
 All right.
 
-Caller 23 (Dana):  
+[01:10:53] Caller 23 (Dana):  
 Ah, you getting things straightened out, doing this, doing that, and knock on your door, "Mr. President." I'm trying to give you drama here.
 
 [01:11:03] Art Bell:  
@@ -1539,10 +1539,10 @@ Apparently sir are unfamiliar with our president.
 [01:12:19] Caller 23 (Dana):  
 Ah, no, I'm kind of I'm getting more familiar all the time. Unfortunately, work midnight hours, and I the most of the news I hear is on yours. I don't get a lot of news.
 
-Art Bell:  
+[01:12:29] Art Bell:  
 I see.
 
-Caller 23 (Dana):  
+[01:12:30] Caller 23 (Dana):  
 But yeah, your president is learning well from our prime ministers and our Canadian politics.
 
 [01:12:38] Art Bell:  
@@ -1653,16 +1653,16 @@ Okay.
 [01:15:34] Caller 25:  
 I'm from New Orleans, WSB.
 
-Art Bell:  
+[01:15:35] Art Bell:  
 Yes, sir.
 
-Caller 25:  
+[01:15:35] Caller 25:  
 And I wanted to tell you, Dr. Charles Ostman, you had on last night,
 
-Art Bell:  
+[01:15:42] Art Bell:  
 Right?
 
-Caller 25:  
+[01:15:43] Caller 25:  
 was the very best.
 
 [01:15:44] Art Bell:  
@@ -1809,7 +1809,7 @@ It would be. I'm in Redding, California.
 [01:23:54] Art Bell:  
 Ah.
 
-Caller 28:  
+[01:23:55] Caller 28:  
 I'm an over-the-road truck driver. I live in Oklahoma.
 
 [01:23:58] Art Bell:  
@@ -1887,7 +1887,7 @@ Or unplug it.
 [01:25:13] Art Bell:  
 Or unplug it. Yes.
 
-Caller 28:  
+[01:25:14] Caller 28:  
 The antenna. Our satellite communication systems are set up to. They have two antennas. One is a global positioning receiver, GPS receiver. The other one is just a strictly a communications transponder. My computer downloads GPS data and transmits it.
 
 [01:25:35] Art Bell:  
@@ -1902,10 +1902,10 @@ You do?
 [01:25:39] Caller 28:  
 Oh yeah. At first, I mean, I've been doing this for seven years, and when we first got them, I was a little like, "Oh great," you know. What I was afraid of was that the government was going to be able to start using it to track like logbook stuff.
 
-Art Bell:  
+[01:25:55] Art Bell:  
 Of course.
 
-Caller 28:  
+[01:25:56] Caller 28:  
 So far, that hasn't happened. So far, the-
 
 [01:25:58] Art Bell:  
@@ -1950,7 +1950,7 @@ Yes, occasionally I'm on 88. On 88. Yeah, that's big one up here.
 [01:27:01] Caller 28:  
 Is it? Is is? Oh, I know the one.
 
-Art Bell:  
+[01:27:03] Art Bell:  
 Yeah, it's big one on Potosi.
 
 [01:27:05] Caller 28:  
@@ -1977,7 +1977,7 @@ I don't know your call sign, but I sure would appreciate if you'd answer me one 
 Art Bell:  
 It's W6OBB.
 
-Caller 28:  
+[01:27:29] Caller 28:  
 W6OBB.
 
 [01:27:30] Art Bell:  
@@ -2022,7 +2022,7 @@ You don't have any friends. You don't even have any friends.
 [01:27:55] Caller 28:  
 I don't have a life.
 
-Art Bell:  
+[01:27:56] Art Bell:  
 You don't have a life. Well, our newsletter has an affiliate list, I think. So,
 
 [01:28:04] Caller 28:  
@@ -2055,7 +2055,7 @@ I'll send you a self addressed stamped envelope.
 [01:28:27] Art Bell:  
 Anna.
 
-Caller 28:  
+[01:28:28] Caller 28:  
 Oh! I put him on the spot.
 
 [01:28:30] Art Bell:  
@@ -2074,10 +2074,10 @@ Wildcard line, you are on the air.
 [01:29:48] Caller 29 (Pete):  
 Art.
 
-Art Bell:  
+[01:29:49] Art Bell:  
 Yes.
 
-Caller 29 (Pete):  
+[01:29:49] Caller 29 (Pete):  
 It's Pete in Kansas City.
 
 [01:29:51] Art Bell:  
@@ -2125,7 +2125,7 @@ You might remember back in the '70s.
 [01:30:34] Art Bell:  
 They're talking, though, about transporting high-level nuclear waste by truck, sir.
 
-Caller 29 (Pete):  
+[01:30:39] Caller 29 (Pete):  
 Well, that's different. That's not explosive.
 
 [01:30:41] Art Bell:  
@@ -2231,7 +2231,7 @@ How you doing?
 [01:34:05] Art Bell:  
 Okay.
 
-Tim Cannon:  
+[01:34:05] Tim Cannon:  
 I wanted to answer a couple questions for people. First of all, the gentleman called about the affiliates list. If he will give me a call, I will get it to him.
 
 [01:34:17] Art Bell:  
@@ -2276,10 +2276,10 @@ Tim Cannon:
 [01:34:56] Tim Cannon:  
 Excuse me, 303-456.
 
-Art Bell:  
+[01:35:01] Art Bell:  
 [unclear: I'll see] Tim.
 
-Tim Cannon:  
+[01:35:01] Tim Cannon:  
 I know. I'm sorry. I just about gave out the bookstore number.
 
 [01:35:05] Art Bell:  
@@ -2401,10 +2401,10 @@ West of the Rockies, you're on the air. Hi. He hung up. East of the Rockies, you
 [01:40:44] Caller 31 (Gary):  
 Hi, Art.
 
-Art Bell:  
+[01:40:44] Art Bell:  
 Hi.
 
-Caller 31 (Gary):  
+[01:40:45] Caller 31 (Gary):  
 Hi, this is Gary from Traverse City, Michigan.
 
 [01:40:47] Art Bell:  
@@ -2437,7 +2437,7 @@ Well, maybe that's right, but it seems to me, what do the ducks fly somewhere, g
 [01:41:29] Caller 31 (Gary):  
 They're migrating, right?
 
-Art Bell:  
+[01:41:30] Art Bell:  
 I see. So you doubt the story?
 
 [01:41:32] Caller 31 (Gary):  
@@ -2485,10 +2485,10 @@ Ah, you too, sir. West of the Rockies, you're on the air. Good morning.
 [01:42:33] Caller 32:  
 Hi, Art.
 
-Art Bell:  
+[01:42:33] Art Bell:  
 Hello.
 
-Caller 32:  
+[01:42:34] Caller 32:  
 Get my radio down.
 
 [01:42:35] Art Bell:  
@@ -2521,10 +2521,10 @@ Yes, that's right. On the New Madrid fault. You okay? Was that a sneeze?
 [01:43:11] Caller 32:  
 Oh no, I'm over it.
 
-Art Bell:  
+[01:43:13] Art Bell:  
 Okay.
 
-Caller 32:  
+[01:43:14] Caller 32:  
 I'm not getting sick or nothing. Not using that silver either. No, I went through it just about the time you did.
 
 [01:43:22] Art Bell:  
@@ -2545,19 +2545,19 @@ Yep, that's the way they go. Whatever it is, thank you. These flus - they're hor
 [01:44:14] Caller 33:  
 Well, hi.
 
-Art Bell:  
+[01:44:14] Art Bell:  
 Hi.
 
-Caller 33:  
+[01:44:15] Caller 33:  
 I can't believe I got you.
 
-Art Bell:  
+[01:44:17] Art Bell:  
 It's what everybody seems to say, but you do nevertheless. First-time caller from where?
 
 [01:44:21] Caller 33:  
 I'm from Eatonville, Washington, at the base of Mount Rainier.
 
-Art Bell:  
+[01:44:25] Art Bell:  
 Huh. Ah,
 
 [01:44:26] Caller 33:  
@@ -2572,13 +2572,13 @@ Yes, and I wanted to talk to you about it because I suffer from Chronic Fatigue 
 [01:44:51] Art Bell:  
 That's correct. Yeah, and it's Mycoplasma incognitus.
 
-Caller 33:  
+[01:44:56] Caller 33:  
 Say that again.
 
-Art Bell:  
+[01:44:57] Art Bell:  
 I'm not sure I can. Don't press me. Mycoplasma, Mycoplasma incognitus.
 
-Caller 33:  
+[01:45:03] Caller 33:  
 See now, I've never heard that.
 
 [01:45:06] Art Bell:  
@@ -2602,10 +2602,10 @@ And I'm wondering if he couldn't have been a carrier, maybe.
 [01:45:32] Art Bell:  
 Yes, he could have, and you got sick after that.
 
-Caller 33:  
+[01:45:35] Caller 33:  
 Yes.
 
-Art Bell:  
+[01:45:36] Art Bell:  
 Okay. Well, there you are. Yes, that's exactly what Joyce Riley said. That this appears now to be catching, and that relatives and friends of those who were there are coming down and getting ill. Now they're still arguing about chemical weapon exposure, and you don't hear our politicians even mention biological. But I think that's of more concern, particularly if it's contagious. Wildcard line, you're on the air. Hi.
 
 [01:46:04] Caller 34 (Wayne):  
@@ -2626,7 +2626,7 @@ That was pretty cool.
 [01:46:19] Art Bell:  
 Well, it's fairly cool. They've been discovering a lot of new planets lately. But it is true. As a matter of fact, what did they say that it was the size? Well, here, let me read you. Astronomers announced the discovery of a Jupiter-sized planet orbiting a nearby star Thursday, boosting their confidence that there are yet many more planets to be found, perhaps even some that harbor life. The object orbiting is hardly the first to be discovered, circling another star. Depending on how you count, it's somewhere in the ninth to thirteenth range.
 
-Caller 34 (Wayne):  
+[01:46:55] Caller 34 (Wayne):  
 Yeah. Hey, Art.
 
 [01:46:57] Art Bell:  
@@ -2685,10 +2685,10 @@ Well, they don't want you to worship hell. They don't want you to worship hell.
 [01:48:30] Caller 35 (Ray):  
 They don't want you to worship hell, huh?
 
-Art Bell:  
+[01:48:32] Art Bell:  
 No, no.
 
-Caller 35 (Ray):  
+[01:48:32] Caller 35 (Ray):  
 Well, they want you to believe in it.
 
 [01:48:34] Art Bell:  
@@ -2731,10 +2731,10 @@ But as a matter of fact, we had Gina's photograph up on the website. For all I k
 [01:50:58] Caller 36:  
 I thought I was on your website this past Sunday. I saw it. It was beautiful.
 
-Art Bell:  
+[01:51:03] Art Bell:  
 Yep.
 
-Caller 36:  
+[01:51:04] Caller 36:  
 All right, thanks, Art.
 
 [01:51:05] Art Bell:  
@@ -2743,10 +2743,10 @@ Thank you, sir. Gina was indeed a real looker, but I believe that she has come b
 [01:51:24] Caller 37 (Tom):  
 Howdy. This is Tom from the high desert in California.
 
-Art Bell:  
+[01:51:27] Art Bell:  
 Hi, Tom.
 
-Caller 37 (Tom):  
+[01:51:28] Caller 37 (Tom):  
 Yeah, I just had a couple of theories to throw out there about the missiles. There was four of them, right?
 
 [01:51:37] Art Bell:  
@@ -2767,7 +2767,7 @@ No, they lie a lot.
 [01:51:47] Caller 37 (Tom):  
 I agree, especially if the timeline is correct. I mean, how can you believe a government if four days later they tell you something?
 
-Art Bell:  
+[01:51:58] Art Bell:  
 Well, that's right.
 
 Caller 37 (Tom):  
@@ -2839,16 +2839,16 @@ Well, I know, but Flight 800 was a very long time ago. Well, I see what you're s
 [01:54:55] Caller 38:  
 Hi, Art.
 
-Art Bell:  
+[01:54:55] Art Bell:  
 Hello.
 
-Caller 38:  
+[01:54:56] Caller 38:  
 This is Candy Cullen from Puyallup, Washington.
 
-Art Bell:  
+[01:54:58] Art Bell:  
 Yes, sir.
 
-Caller 38:  
+[01:54:58] Caller 38:  
 I was curious what ever happened with that guy flying the airplane into Area 51.
 
 [01:55:06] Art Bell:  
@@ -2860,10 +2860,10 @@ You haven't heard anything about it.
 [01:55:18] Art Bell:  
 Or he's 32 levels underneath Area 51, with lots of needles and tubes and bottles hanging over him, and they're sweating him. I mean, really what I'm saying is, who knows?
 
-Caller 38:  
+[01:55:37] Caller 38:  
 I just thought maybe-
 
-Art Bell:  
+[01:55:39] Art Bell:  
 It's not like you can call up an Area 51 information line and ask.
 
 [01:55:42] Caller 38:  
@@ -2974,10 +2974,10 @@ I'm not sure what you're referring to.
 [01:59:24] Caller 40:  
 Okay, I guess you forgot her. It's been a while ago. About those missiles.
 
-Art Bell:  
+[01:59:29] Art Bell:  
 Yes.
 
-Caller 40:  
+[01:59:30] Caller 40:  
 I'm down here in San Diego, and I happened to see about three or four trucks, and saw at least one truck with a missile on it. Right off of Highway 5.
 
 [01:59:44] Art Bell:  
@@ -2986,10 +2986,10 @@ I've seen them with missiles too. Big canvas covered trucks, those kinds of thin
 [01:59:49] Caller 40:  
 Didn't have canvas on it. It was just an open-
 
-Art Bell:  
+[01:59:52] Art Bell:  
 Open missile?
 
-Caller 40:  
+[01:59:52] Caller 40:  
 Open, yeah. It was just open out.
 
 [01:59:54] Art Bell:  
@@ -3030,19 +3030,19 @@ Yes.
 [02:01:43] Caller 41 (Mike):  
 And about what you're hearing and stuff. But what was really funny and was really great is when this stuff starts coming around, like the Hoagland thing and all that stuff.
 
-Art Bell:  
+[02:01:53] Art Bell:  
 Sure.
 
-Caller 41 (Mike):  
+[02:01:54] Caller 41 (Mike):  
 You know, so you know it's hit and misses, like everything else.
 
-Art Bell:  
+[02:01:57] Art Bell:  
 That's right.
 
-Caller 41 (Mike):  
+[02:01:59] Caller 41 (Mike):  
 So have a great, great, great rest of show, Art.
 
-Art Bell:  
+[02:02:02] Art Bell:  
 All right. Thank you very much for the call. Yeah, this is just a mishmash of stuff. All right. No great magic formula here. Sometimes very dramatic things happen. Sometimes funny things happen. Sometimes weird things happen, but usually night to night, not the same thing happens. Wildcard line, you're on the air. Good morning.
 
 [02:02:25] Caller 42:  
@@ -3094,10 +3094,10 @@ East of the Rockies, you're on the air. Hi. Hello there. Go. Oh no, I guess I di
 [02:05:37] Caller 43 (Laura):  
 Hello.
 
-Art Bell:  
+[02:05:37] Art Bell:  
 Hi.
 
-Caller 43 (Laura):  
+[02:05:38] Caller 43 (Laura):  
 Yes, my name is Laura, and I'm calling from Las Vegas.
 
 [02:05:41] Art Bell:  
@@ -3205,7 +3205,7 @@ In a real world, there would be no right or wrong.
 [02:08:53] Art Bell:  
 Well,
 
-Caller 43 (Laura):  
+[02:08:54] Caller 43 (Laura):  
 We'd all agree to disagree.
 
 [02:08:56] Art Bell:  
@@ -3345,7 +3345,7 @@ Edgar Mitchell. If you've got the book, you might want to look it up.
 [02:12:47] Art Bell:  
 Edgar Mitchell is a Freemason. That's interesting. What degree?
 
-Caller 44 (Greg):  
+[02:12:53] Caller 44 (Greg):  
 He doesn't say.
 
 [02:12:54] Art Bell:  
@@ -3400,7 +3400,7 @@ Yes,
 [02:14:35] Caller 45 (Curtis):  
 And all of that.
 
-Art Bell:  
+[02:14:36] Art Bell:  
 One of the things you could create would be a completely constructed nuclear bomb with weapons-grade plutonium in place. Think about that.
 
 [02:14:44] Caller 45 (Curtis):  
@@ -3481,7 +3481,7 @@ Hi. Good morning, Art.
 [02:16:33] Art Bell:  
 Good morning. Where are you?
 
-Caller 46:  
+[02:16:34] Caller 46:  
 I'm in Minneapolis.
 
 [02:16:36] Art Bell:  
@@ -3653,10 +3653,10 @@ Well, that's really incredible. But again, I you know for all your colorful desc
 [02:23:24] Caller 49 (Keith):  
 Hi, Art Bell. This is Keith in Seattle.
 
-Art Bell:  
+[02:23:26] Art Bell:  
 Hi, Keith.
 
-Caller 49 (Keith):  
+[02:23:26] Caller 49 (Keith):  
 Hi. I just emailed you a little while ago and yesterday about an Area 51 civilian surveillance mission. Did you get that email?
 
 [02:23:34] Art Bell:  
@@ -3731,7 +3731,7 @@ You've got to be kidding.
 [02:24:36] Caller 49 (Keith):  
 No, I'm dead serious. Our plan is to do it, whether or not we can get any help from other people. We're going to try it anyway.
 
-Art Bell:  
+[02:24:45] Art Bell:  
 All right. Well, is it an easy URL?
 
 [02:24:51] Caller 49 (Keith):  
@@ -3770,10 +3770,10 @@ Period 2.
 [02:25:14] Art Bell:  
 Period 2, and that's where your entire plan is laid out, huh?
 
-Caller 49 (Keith):  
+[02:25:17] Caller 49 (Keith):  
 Yes, it is.
 
-Art Bell:  
+[02:25:18] Art Bell:  
 Well, I think you're headed for trouble, but there you go. We'll let everybody take a look and see what they think. East of the Rockies, you're on the air. Something's wrong with that line. Wildcard line, you're on the air.
 
 [02:25:31] Caller 50:  
@@ -3881,7 +3881,7 @@ That may be true, or may not be true. I mean, it may depend on the individual. F
 [02:27:49] Danielle:  
 Oh my God, I loved it. I did. I turned smoking into an art form. I mean, I swear.
 
-Art Bell:  
+[02:27:58] Art Bell:  
 Don't don't swear.
 
 [02:27:59] Danielle:  
@@ -3893,7 +3893,7 @@ Right.
 [02:28:09] Danielle:  
 So there's that.
 
-Art Bell:  
+[02:28:10] Art Bell:  
 There's a lot of words like that.
 
 [02:28:12] Danielle:  
@@ -4076,7 +4076,7 @@ Sure.
 [02:33:10] Art Bell:  
 [unclear: I'll] turn your radio off.
 
-Caller 53:  
+[02:33:12] Caller 53:  
 I got it.
 
 Art Bell:  
@@ -4085,10 +4085,10 @@ That's good.
 [02:33:14] Caller 53:  
 Hey, how many did you publish from the first print?
 
-Art Bell:  
+[02:33:18] Art Bell:  
 About 20,000.
 
-Caller 53:  
+[02:33:19] Caller 53:  
 That all?
 
 [02:33:21] Art Bell:  
@@ -4157,10 +4157,10 @@ No, it is not. It's horrible to listen to. I appreciate your call, but it's horr
 [02:35:27] Caller 54 (Rick):  
 Yes, good morning, Art. It's Rick from Los Angeles.
 
-Art Bell:  
+[02:35:30] Art Bell:  
 Hi, Rick.
 
-Caller 54 (Rick):  
+[02:35:30] Caller 54 (Rick):  
 You need to listen to the last few minutes of your show. The international call that you just missed.
 
 [02:35:35] Art Bell:  
@@ -4187,7 +4187,7 @@ Here, let's conference you guys on the international line. You're on the air. He
 [02:36:03] Caller 55:  
 Good day to you.
 
-Art Bell:  
+[02:36:03] Art Bell:  
 Are you down in Australia? You know we got a problem here because I can't. This is not conferencing right. Wait a minute. Let me put everybody on hold here. Let me try doing this. Are you there?
 
 [02:36:20] Caller 55:  
@@ -4253,7 +4253,7 @@ That traditionally has not brought a very good response from the Chinese. They d
 [02:37:19] Caller 55:  
 No, I think you're better off just keeping it. What are the odds the two bombs going off at the same time near you?
 
-Caller 54 (Rick):  
+[02:37:25] Caller 54 (Rick):  
 Well, actually, I don't really want to do that, but I want them to know that. Geez, you know, come on, you know, how can you possibly say something like that and think you can get away with it without some backlash?
 
 [02:37:37] Art Bell:  

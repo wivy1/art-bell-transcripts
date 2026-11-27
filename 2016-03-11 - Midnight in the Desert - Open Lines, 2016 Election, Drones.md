@@ -35,7 +35,7 @@ And there's more, but I've got to take a break. So we will do that, and I will c
 [00:13:46] Ross Mitchell:  
 While midnight sweeps across America, you've found an oasis for the mind. To call Midnight in the Desert, please dial 1-952-CALL-ART. That's 1-952-225-5278.
 
-Art Bell:  
+[00:13:59] Art Bell:  
 Okay, chugging along. Those are the numbers. Now it's time for the talk, and the talk is we've changed things around. The numbers have come back here, I hope, and so we'll be able to take calls here at the normal national number, which is area code 952-225-5278. And you can say whatever you want. There's so many things to talk about actually, but again, I'm not barring political discussion. If you want to answer one of those questions, you're welcome to. Anybody out there watching House of Cards? Have you noticed the way it's kind of parallel reality right now?
 
 Okay, the talk, the talk, the talk. And I see that we're going to run break into break pretty quickly here, so I'll try and get it done. We've brought the numbers back here, so if you would like to call, I gave you the national number, and I hope that's functional and brought back here. Otherwise, you're welcome to use Skype. Now it's the old Skype connection if you want to get through. In other words, since I'm back here, it's MITD51 if you're in North America. That's Midnight in the Desert, MITD, the initials only, MITD51. And if you're calling from outside the country, it's MITD55. That's MITD55. So that in mind, I wonder what you want to talk. I will throw out one last thing, and I suppose this could be a special line, if you want it to be. Such a simple question.
@@ -83,7 +83,7 @@ Hey, Sharky.
 [00:26:19] Caller 2 (Sharky):  
 Glad to hear you again, Art. Really.
 
-Art Bell:  
+[00:26:21] Art Bell:  
 Good to be here. Thank you.
 
 [00:26:23] Caller 2 (Sharky):  
@@ -119,7 +119,7 @@ Yeah.
 [00:26:57] Caller 2 (Sharky):  
 My goodness. Well, he wasn't tame in the last GOP debates, but I like that. That's refreshing. One thing, though, I don't understand is a lot of people they criticize Trump so, so, so much, but meanwhile they know so little about politics.
 
-Art Bell:  
+[00:27:12] Art Bell:  
 Is he getting criticism, really?
 
 [00:27:17] Caller 2 (Sharky):  
@@ -137,13 +137,13 @@ What about the charge that many are making, that it's a quick trip to another Hi
 [00:28:23] Caller 2 (Sharky):  
 I don't understand where they're getting that from. I mean, you see these little quotes from Trump, like Trump wants to close off the internet, but meanwhile, that's a very small quote from a very very big speech.
 
-Art Bell:  
+[00:28:33] Art Bell:  
 Oh, oh, you mean to like ISIS?
 
 [00:28:37] Caller 2 (Sharky):  
 Yes, and yes, and people took that as him saying he was going to shut down the internet, and they went wild.
 
-Art Bell:  
+[00:28:41] Art Bell:  
 Oh please, ridiculous. Yeah, that is ridiculous. So you're anyway, you're completely sold. Do you have any prediction about? There's two big states to watch, of course, coming Tuesday, right? That'd be Florida and Ohio. What do you think?
 
 [00:28:57] Caller 2 (Sharky):  
@@ -161,7 +161,7 @@ Well, there are, sir. But all right, thank you very much. Let me tell you someth
 [00:30:39] Caller 3 (Tom):  
 Well, hi, Art. This is Tom in Los Angeles.
 
-Art Bell:  
+[00:30:41] Art Bell:  
 Hello, Tom. How are you?
 
 [00:30:43] Caller 3 (Tom):  
@@ -197,16 +197,16 @@ Well, she does have trust issues. Yes.
 [00:32:06] Caller 3 (Tom):  
 Yeah. So my personal opinion is that Bernie Sanders against Trump will be the ticket, and both of them are reeling in a lot of maybe first-time voters or occasional voters.
 
-Art Bell:  
+[00:32:21] Art Bell:  
 Did you watch the last Democrat debate between the two?
 
-Caller 3 (Tom):  
+[00:32:26] Caller 3 (Tom):  
 I did, and I was quite offended by Hillary trying to say that Bernie was bought by the Koch brothers. You know, the energy industry.
 
-Art Bell:  
+[00:32:38] Art Bell:  
 Yeah, I don't know how does she get away with that. I mean, or even close to that. Bernie's got these little donations that come from millions. So, come on.
 
-Caller 3 (Tom):  
+[00:32:48] Caller 3 (Tom):  
 Right, right. I mean, he's got like ten three-dollar donations from me just so I can run his numbers up. Yeah, and I don't.
 
 [00:32:55] Art Bell:  
@@ -218,33 +218,33 @@ No way. So how could you know Hillary's credibility just goes down the tubes and
 [00:33:46] Art Bell:  
 Nah, I don't see Hillary going for the throat. You know she doesn't do it like that. She's not. You know she admits herself she's not the consummate politician at all.
 
-Caller 3 (Tom):  
+[00:34:02] Caller 3 (Tom):  
 Well, it's this is something she did admit recently, but that won't stop her from trying.
 
-Art Bell:  
+[00:34:08] Art Bell:  
 Well, she is pretty consummate actually, but she says you know she just doesn't have the gravitas you know that her husband does and others.
 
 [00:34:18] Caller 3 (Tom):  
 Well, that's true, and she also there's a funny thing about men they can't listen to women who are yelling. It's very difficult even for me to keep my hand off of the volume control during these debates, and I feel the same way about the tone of voice of Cruz. He has this whiny buzzard type of, you know, whiny buzzard.
 
-Art Bell:  
+[00:34:42] Art Bell:  
 That's pretty good, whiny buzzard. I, you know, I haven't been able to put my finger, but I'm telling you, man, something about Cruz totally freaks me out. I don't know what it is. I look at him and I listen to him. I don't know. It just he creeps me out. I mean, you know,
 
 [00:34:59] Caller 3 (Tom):  
 You- I'll tell you what should creep you out about Cruz, himself and his father are these evangelical righteous sons of guns that think God has selected Ted Cruz to lead our country in this caliphate type of Christian world, and that's scarier than Trump at any time.
 
-Art Bell:  
+[00:35:24] Art Bell:  
 Are you a Trump fan?
 
-Caller 3 (Tom):  
+[00:35:25] Caller 3 (Tom):  
 I no, I'm a Bernie guy.
 
-Art Bell:  
+[00:35:27] Art Bell:  
 You're a Bernie guy.
 
 Yeah, I will give the Bernie. Yeah. I will give Bernie this. He is really, really getting his message across. I mean, there's no two ways about it. Loud and clear.
 
-Caller 3 (Tom):  
+[00:35:44] Caller 3 (Tom):  
 You know what? I sound like a broken record to everybody I speak to. You know the old rule is talk to 20 friends and 50 strangers if you want to help your candidate.
 
 [00:35:53] Art Bell:  
@@ -271,20 +271,20 @@ Hey, Phil.
 [00:38:08] Caller 4 (Phil):  
 I'm in Indianapolis, Indiana. I've been listening to you. Well, actually, I'm recovering right now from open heart surgery last week.
 
-Art Bell:  
+[00:38:14] Art Bell:  
 Whoa.
 
-Caller 4 (Phil):  
+[00:38:15] Caller 4 (Phil):  
 Yeah, fun. Please don't anyone do this. You don't have to. I had my first real bad day today, and then to have you hosting the show tonight is just absolutely amazing. It's putting a big smile on my face. So I want to let you know about that.
 
-Art Bell:  
+[00:38:28] Art Bell:  
 Absolutely. What do you mean, really?
 
 Well, I thought when I said that I was going to talk some politics tonight that everybody would go.
 
 I am turning it off right now. Cancelling everything I have, my mortgage too.
 
-Caller 4 (Phil):  
+[00:38:42] Caller 4 (Phil):  
 No, I come from a long line of. I have a degree in history, and I come from a long line of folks that, you know, we sat around when we were kids in the '60s and the '70s, and sometimes we didn't even get up from the dinner table until 10 o'clock at night from talking about the world and politics. And my parents were real into it, and I love politics, but well,
 
 [00:39:02] Art Bell:  
@@ -329,7 +329,7 @@ Oh yes.
 [00:42:54] Caller 5 (Jason):  
 Yeah. You bought one. Just for my information, can do you have to have a special license or can anybody go out and?
 
-Art Bell:  
+[00:43:03] Art Bell:  
 Well, anybody can go out, but you do need simply to go up to a website and register your name, pay $5. You'll get a little decal. I hear now. The FAA website, and you get a little decal with a number on it, and that's all you've got to do. It's $5 and a couple minutes to do it. That's all.
 
 [00:43:28] Caller 5 (Jason):  
@@ -344,7 +344,7 @@ So their privacy is going to kind of become a thing of the past, I think.
 [00:44:05] Art Bell:  
 Yeah, I don't think so. I would never dare hover my drone, for example, out some outside somebody's window because sure as can be, they're going to go find a rifle or a shotgun or even handgun at that distance and put it out of its misery, and that's a lot of money down the drain. So no.
 
-Caller 5 (Jason):  
+[00:44:22] Caller 5 (Jason):  
 That's true.
 
 That yeah, I can see that. It just got me thinking because even in the world of crime, I can see I don't know that far out people putting guns or something remotely flying around if they have an enemy or something.
@@ -370,10 +370,10 @@ I guess I don't know what I would do if I had no fear at all. I think I would be
 [00:45:40] Art Bell:  
 Well, this the purpose of this question, sir. It applies only to you.
 
-Caller 5 (Jason):  
+[00:45:45] Caller 5 (Jason):  
 Okay.
 
-Art Bell:  
+[00:45:45] Art Bell:  
 So if your fear was completely gone, you'd do anything you want. What would you do?
 
 [00:45:52] Caller 5 (Jason):  
@@ -391,7 +391,7 @@ Yeah. Mars. Yeah, that is probably a one-way ticket. A lot of people signed up t
 [00:46:54] Ross Mitchell:  
 To initiate a dialogue sequence with Art Bell, please coordinate your phalanges and call 1-952-225-5278. That's 1-952-CALL-ART.
 
-Art Bell:  
+[00:47:19] Art Bell:  
 And there are other ways. If you're fortunate enough to have Skype on your phone or computer or whatever, you can get to us, and you'll sound really good too. Here in North America, we are MITD51. That's MITD51. And outside North America, welcome MITD55 on Skype. That's MITD55, and we're talking about whatever you want to talk about tonight. I have simply said that it's okay to talk politics, and so far it's kind of been going that way.
 
 I might also ask you about the ongoing battle between the government and Apple. I wonder where you come down on that. Yeah, it's important. It's a terrorist phone. But Apple's saying, you know, basically, if we write that, well, it's your privacy is gone. That's a pretty compelling argument if you got their product right. But the other argument's compelling too. So they are dissimilar and never to meet.
@@ -436,10 +436,10 @@ Yes, and I've got a ham radio joke for you.
 [00:49:58] Art Bell:  
 A what joke?
 
-Caller 6:  
+[00:50:00] Caller 6:  
 Ham radio.
 
-Art Bell:  
+[00:50:01] Art Bell:  
 Ham radio. Okay, go ahead.
 
 [00:50:04] Caller 6:  
@@ -457,7 +457,7 @@ That's it. All right. Thank you very much. Have a good, good morning or whatever
 [00:50:30] Caller 7:  
 Hello, Art.
 
-Art Bell:  
+[00:50:32] Art Bell:  
 Hello.
 
 [00:50:33] Caller 7:  
@@ -466,13 +466,13 @@ Yes. Hold on a second. I got to turn something off.
 [00:50:37] Art Bell:  
 Okay. Yeah. Always do that. I mean, yeah. You got plenty of warning. You're going to be on the air. So.
 
-Caller 7:  
+[00:50:41] Caller 7:  
 Well, no, it was a furnace that kicked on and it's loud and it just like that.
 
 [00:50:46] Art Bell:  
 Oh. Oh. Okay.
 
-Caller 7:  
+[00:50:48] Caller 7:  
 Yes. I was going to tell you that about what you would do if you had no fear.
 
 [00:50:53] Art Bell:  
@@ -493,13 +493,13 @@ Yeah, well, that's what gills are for.
 [00:51:29] Caller 7:  
 With cameras on it, stuff. You know what I'm saying?
 
-Art Bell:  
+[00:51:32] Art Bell:  
 Sure. Yeah, sure. Yeah, that's what gills are for. If it wouldn't be that hard to do, they're coming right along with genetic science, and before you know it, you'd be a fish. Hello there, just says U.S. Cellular, so you get away with that. Welcome to the show.
 
 [00:51:53] Caller 8 (Heather):  
 Hello.
 
-Art Bell:  
+[00:51:55] Art Bell:  
 Hello.
 
 Hi. Hi.
@@ -543,7 +543,7 @@ Yeah. Right. Yeah, I guess that's right. Yeah. But in a way, I'll argue. You kno
 [00:53:32] Caller 8 (Heather):  
 Well, yeah, they were trying to.
 
-Art Bell:  
+[00:53:34] Art Bell:  
 Well, no, they were. Well, yeah, yeah, they did. I mean, he didn't get to speak. He had to cancel the rally for fear of violence.
 
 [00:53:41] Caller 8 (Heather):  
@@ -567,10 +567,10 @@ No, in Chicago tonight, he canceled a rally.
 [00:53:52] Caller 8 (Heather):  
 Oh, I didn't know that. I was more speaking about Vermont.
 
-Art Bell:  
+[00:53:57] Art Bell:  
 Oh, I see. No, he canceled a rally with thousands and thousands of people, as he would say, excellent people, lovely people. He cancelled. Well, they weren't all lovely people. I mean, there were protesters from an organized, very organized group, and I mean, making him cancel a thing like that-that's like kicking somebody's First Amendment away.
 
-Caller 8 (Heather):  
+[00:54:26] Caller 8 (Heather):  
 Yeah, I kind of wonder if that's really the reason he cancelled then, because that doesn't seem like he would cancel for that reason.
 
 [00:54:32] Art Bell:  
@@ -585,13 +585,13 @@ Because they were worried about what was going to happen.
 [00:54:44] Caller 8 (Heather):  
 Well, I mean, but you know the speeches he had before in other places like Vermont, you know, he's like
 
-Art Bell:  
+[00:54:53] Art Bell:  
 Yeah, they've had some small things, yeah. Well,
 
 [00:54:55] Caller 8 (Heather):  
 Yeah, well, I mean, how do you feel about that? Don't you think that's like a bad omen?
 
-Art Bell:  
+[00:55:01] Art Bell:  
 Well, I mean, if you're giving a political speech, it's just rude to interrupt somebody in the middle of that, don't you think?
 
 [00:55:14] Caller 8 (Heather):  
@@ -603,7 +603,7 @@ All right.
 [00:55:17] Caller 8 (Heather):  
 Yeah, but you're not supposed to like kick him out and take the clothes in like nine degree weather.
 
-Art Bell:  
+[00:55:24] Art Bell:  
 I- Like I said. I mean, they really should have taken the shirt too.
 
 [00:55:28] Caller 8 (Heather):  
@@ -621,7 +621,7 @@ Would you? Would you? You. What you do? If you go to a Trump rally and you're go
 [00:55:55] Caller 8 (Heather):  
 Yeah. All right.
 
-Art Bell:  
+[00:55:57] Art Bell:  
 Thank you for the call and take care. And you are on the air wherever you are. Hello. Hello. What? Yes. Hello. Yes, hello.
 
 [00:56:14] Caller 9:  
@@ -639,13 +639,13 @@ Thank you. Thank you. What's up?
 [00:56:28] Caller 9:  
 You know, I'm just going to say I'm a pretty liberal guy. You know, I'm a ex.
 
-Art Bell:  
+[00:56:32] Art Bell:  
 How liberal are you? Are you Hillary liberal?
 
 [00:56:36] Caller 9:  
 No, I'm saying I'm an ex liberal. Well, I'm somewhat liberal.
 
-Art Bell:  
+[00:56:40] Art Bell:  
 So you're definitely not a Bernie liberal.
 
 [00:56:44] Caller 9:  
@@ -666,16 +666,16 @@ Yeah. Yeah, except the guy that I would vote for definitely is Trump. I am excit
 [00:57:06] Art Bell:  
 I bought that on the table. Are you serious? I mean, first of all, you like Bernie.
 
-Caller 9:  
+[00:57:10] Caller 9:  
 No, I'm totally serious.
 
-Art Bell:  
+[00:57:11] Art Bell:  
 But you're going to vote for
 
-Caller 9:  
+[00:57:13] Caller 9:  
 liberal ideas.
 
-Art Bell:  
+[00:57:14] Art Bell:  
 You're going to vote for Trump.
 
 Seriously?
@@ -701,7 +701,7 @@ Okay, you're going to the general.
 [00:57:31] Caller 9:  
 I've voted twice since I've gotten.
 
-Art Bell:  
+[00:57:33] Art Bell:  
 You're going to the. You are going to the general, though, right?
 
 [00:57:37] Caller 9:  
@@ -719,10 +719,10 @@ Yeah, yeah,
 [00:57:59] Caller 9:  
 And it's scaring the hell out of the status quo.
 
-Art Bell:  
+[00:58:04] Art Bell:  
 Oh, it's true, yeah.
 
-Caller 9:  
+[00:58:06] Caller 9:  
 And the more paranoid they get, doesn't it make you feel like, gee, you know, even so, the more paranoid the status quo gets, the more it makes me feel like we're doing the right thing by going for Trump.
 
 [00:58:20] Art Bell:  
@@ -733,7 +733,7 @@ That's exactly what I mean. I mean we're the richest country in the world, and l
 
 And so, when I say I'm liberal, I'm liberal in the sense that I would like to see the minimum wage raised to something like $15 an hour, because I think then you'd find that these people have a little bit more respect for themselves, and they wouldn't have to maybe pull robberies or maybe do drugs because they're so depressed. I think there's a lot of pluses that could be had, so that's what I mean about being liberal. I think that.
 
-Art Bell:  
+[01:00:05] Art Bell:  
 So in other words, give them $15 an hour so they don't rob places.
 
 [01:00:10] Caller 9:  
@@ -742,7 +742,7 @@ Well, $15 an hour because if you're working in McDonald's getting what do they g
 [01:00:15] Art Bell:  
 I don't know. I honestly don't know. Not much. I guess.
 
-Caller 9:  
+[01:00:18] Caller 9:  
 Yeah, I mean, think about that though. You work forty hours at say $9 an hour, and then by the time the government's done taking everything out, you get $280. How are you going to support a family or doing anything?
 
 [01:00:29] Art Bell:  
@@ -809,10 +809,10 @@ Do you remember, a long time ago? Are you old enough to remember the nuclear mus
 [01:06:11] Caller 11 (Rhonda):  
 Hello, Art.
 
-Art Bell:  
+[01:06:13] Art Bell:  
 Hello,
 
-Caller 11 (Rhonda):  
+[01:06:13] Caller 11 (Rhonda):  
 Rhonda in Arizona.
 
 [01:06:14] Art Bell:  
@@ -821,7 +821,7 @@ Hey.
 [01:06:15] Caller 11 (Rhonda):  
 I got to tell you, I work in the ER, and a few weeks ago, before flu season, I turned some people on to your man flying into Area 51 call.
 
-Art Bell:  
+[01:06:25] Art Bell:  
 Oh yes.
 
 [01:06:25] Caller 11 (Rhonda):  
@@ -853,22 +853,22 @@ And by the way, I meant to mention, there is a new area. Do you know that? I did
 [01:08:20] Caller 12 (Mike):  
 Hello, Art.
 
-Art Bell:  
+[01:08:21] Art Bell:  
 Hello,
 
-Caller 12 (Mike):  
+[01:08:21] Caller 12 (Mike):  
 Mike in Montana.
 
-Art Bell:  
+[01:08:22] Art Bell:  
 Hey.
 
-Caller 12 (Mike):  
+[01:08:24] Caller 12 (Mike):  
 I was listening earlier about the Trump thing, and my wife kind of likes him. She's wanting somebody to really do a change on the country, you know, to maybe turn things around.
 
-Art Bell:  
+[01:08:40] Art Bell:  
 Your wife now. Your wife wants him. What do you want?
 
-Caller 12 (Mike):  
+[01:08:43] Caller 12 (Mike):  
 Well, I'm in a predicament where I can't do anything. I'm one of the disenfranchised from ever voting again.
 
 [01:08:53] Art Bell:  
@@ -895,10 +895,10 @@ Sir, they won't even give illegal aliens driver's licenses in most states. But t
 [01:10:02] Caller 12 (Mike):  
 Oh, I agree too.
 
-Art Bell:  
+[01:10:04] Art Bell:  
 Good.
 
-Caller 12 (Mike):  
+[01:10:04] Caller 12 (Mike):  
 I just, I kind of think that the whole system that was in the last twenty years, it's been stacked against people in general. And I hate to say it's been aimed at the middle class to kind of tone us back, so we don't have a voice anymore. I think they've taken too many liberties with.
 
 [01:10:27] Art Bell:  
@@ -931,7 +931,7 @@ He has not ruled out waterboarding.
 [01:12:42] Caller 12 (Mike):  
 Yeah,
 
-Art Bell:  
+[01:12:43] Art Bell:  
 I you know I'll tell you, Congressman, they're going to fold just like that. Gurgle, gurgle, and they agree.
 
 [01:12:50] Caller 12 (Mike):  
@@ -940,13 +940,13 @@ I, you know, I hate to say this, but in war there shouldn't be really any rules.
 [01:12:56] Art Bell:  
 Okay, now you're over to war.
 
-Caller 12 (Mike):  
+[01:12:57] Caller 12 (Mike):  
 There should be win or lose, and we can't afford to lose because they don't play by any rules.
 
 [01:13:04] Art Bell:  
 No, they don't. Something that Trump has been pointing out, and he's right. They play by no rules whatsoever. Now we have to have some, I guess, rules.
 
-Caller 12 (Mike):  
+[01:13:15] Caller 12 (Mike):  
 But I had fought in Vietnam, and he said it was nuts. Yeah, because he expected them to line up, and they never did.
 
 [01:13:22] Art Bell:  
@@ -1023,16 +1023,16 @@ Well, maybe he just inadvertently hit the wrong thing, or there might have been 
 [01:16:59] Caller 13 (Crypto Lord):  
 Hey, Art, can I ask you that since you've been away from the mic for a while now, have you been eating any more light bulbs?
 
-Art Bell:  
+[01:17:08] Art Bell:  
 Light bulbs.
 
-Caller 13 (Crypto Lord):  
+[01:17:11] Caller 13 (Crypto Lord):  
 I remember that one of those last shows you had.
 
-Art Bell:  
+[01:17:14] Art Bell:  
 Yes.
 
-Caller 13 (Crypto Lord):  
+[01:17:14] Caller 13 (Crypto Lord):  
 You're on Periscope holding the light bulbs up. I was thinking about that tonight when you came on.
 
 [01:17:19] Art Bell:  
@@ -1071,10 +1071,10 @@ Yeah, I wouldn't eat either one of them actually.
 [01:19:26] Caller 14 (Johnny Webb):  
 But anyway, I'd like to welcome you back. It's great to hear your voice again.
 
-Art Bell:  
+[01:19:29] Art Bell:  
 It's good hear you. Thank you.
 
-Caller 14 (Johnny Webb):  
+[01:19:30] Caller 14 (Johnny Webb):  
 We got us to you, Keith and Heather. Great top show you're doing. But the questions I've got for you, if you've got a couple of minutes, I'd like to ask your opinion on a couple of things. Now, today on the news, I saw that Newt Gingrich, the former congressman, he claims that Donald Trump don't have the backing of the big club. And I was wondering, is that a Bilderberg Club, a Club of Rome, or the Illuminati Club? I'm thinking because I remember George Carlin.
 
 [01:19:57] Art Bell:  
@@ -1107,7 +1107,7 @@ Yes.
 [01:21:31] Caller 14 (Johnny Webb):  
 And the other thing I wanted to talk to you about was the drones, Art. You know, you talked about getting a new drone and some quite good ones on the phone. But you mentioned Area 6, or you know, part of the Area 51. And my understanding is that's a DARPA Department of Advanced Research Program Agency, and it's a drone base. But what concerns me?
 
-Art Bell:  
+[01:21:50] Art Bell:  
 Well, why would they put it right in the middle of the air? You know, where we exploded the atomic bombs, did all the testing.
 
 [01:21:57] Caller 14 (Johnny Webb):  
@@ -1141,19 +1141,19 @@ Now, when you take the big drones, the ones that can really spit at you, they fl
 [01:24:35] Caller 15 (Brad):  
 Hey Art, how are you?
 
-Art Bell:  
+[01:24:36] Art Bell:  
 I'm very well, sir.
 
-Caller 15 (Brad):  
+[01:24:37] Caller 15 (Brad):  
 That's good to hear. I actually just happened to check in with you. My wife and I were coming home from a midnight movie and put on TuneIn Radio Dark Matter and you're on. So here I am.
 
-Art Bell:  
+[01:24:49] Art Bell:  
 Right here, yeah.
 
-Caller 15 (Brad):  
+[01:24:51] Caller 15 (Brad):  
 I actually was calling and I'm hoping it's Open Lines in general. I know you're mainly talking about
 
-Art Bell:  
+[01:24:56] Art Bell:  
 Totally open, whatever.
 
 [01:24:59] Caller 15 (Brad):  
@@ -1167,10 +1167,10 @@ Well, did you see an entity or just yourself?
 [01:26:20] Caller 15 (Brad):  
 Well, I oh, I was lying in bed. It was actually, you know, really late. I was listening.
 
-Art Bell:  
+[01:26:26] Art Bell:  
 Sometimes when I look in the mirror, it looks like a dark, evil entity looking back to me.
 
-Caller 15 (Brad):  
+[01:26:31] Caller 15 (Brad):  
 Oh, I'm quite familiar with that phenomenon as well. But you know, years later, you know, I thought that maybe it was just stress, you know, from around the time that my you know my father was really ill at the time. Yeah. And it never happened again. But then, you know, I have since you know that relationship had ended, and the mirror was out of my house, and you know, I had moved into a new house. And then there was another one other experience that I had where it seemed as if a mirror in my home was releasing some sort of just shadow, malevolent cloud into my home. And you know, Doctor Weatherly spoke very, very briefly on your interview on Midnight in the Desert about mirrors as some sort of entry point for shadow creatures. But it was really brief, and I was just.
 
 [01:27:24] Art Bell:  
@@ -1191,19 +1191,19 @@ From Arizona, oh, Josh. Yeah, you're on the international Skype connection, so I
 [01:29:09] Caller 17:  
 That's me, Art.
 
-Art Bell:  
+[01:29:10] Art Bell:  
 Hello, hello.
 
-Caller 17:  
+[01:29:12] Caller 17:  
 Yes, I explained to Heather one night that I had listened to you for years and years on the radio and never called in.
 
-Art Bell:  
+[01:29:22] Art Bell:  
 Okay. Well, well.
 
-Caller 17:  
+[01:29:24] Caller 17:  
 And she said I should have. So I'm finally calling in. Yes, to say nice to hear you on the radio again.
 
-Art Bell:  
+[01:29:33] Art Bell:  
 You waited years for that.
 
 [01:29:36] Caller 17:  
@@ -1218,10 +1218,10 @@ Okay, something of substance. Like you, I am a very, very into time travel, and 
 [01:30:02] Art Bell:  
 Oh yes, yes. All my life I have been intrigued by the concept of time travel. Have you seen the movie Frequency?
 
-Caller 17:  
+[01:30:11] Caller 17:  
 No, I haven't.
 
-Art Bell:  
+[01:30:12] Art Bell:  
 Then I highly, highly recommend it. If you're into time travel, you're going to love Frequency. I mean, really love it. My wife, who watched it recently, was reduced to tears by that show. She actually cried not once, but you saw it twice. She cried both times. That's how good it is. Also involves amateur radio, ham radio, by the way. But it's a big-time time-travel movie. So anytime I see a movie, even remotely into that area, I jump upon it, was really an amazing movie.
 
 All right, let's see. I have so many skypes calling that I can't see who I've got. All right, there we go. Got you out front, and your name is Josh, I believe. Welcome.
@@ -1241,7 +1241,7 @@ Oh, sure.
 [01:31:09] Caller 18 (Josh):  
 Did you catch Heather's interview with?
 
-Art Bell:  
+[01:31:12] Art Bell:  
 I did. I caught part of Heather's interview, and I saw all of the X-Files episodes. There were some people a little disappointed in a couple of the episodes. How do you feel?
 
 [01:31:28] Caller 18 (Josh):  
@@ -1333,10 +1333,10 @@ Was that a local sighting here in Pahrump?
 [01:34:55] Caller 19:  
 No, this was in Arizona.
 
-Art Bell:  
+[01:34:56] Art Bell:  
 Arizona, I'm sorry, that's right.
 
-Caller 19:  
+[01:34:58] Caller 19:  
 About eighty miles from Snowflake, you know where Travis Walton lives?
 
 [01:35:03] Art Bell:  
@@ -1362,19 +1362,19 @@ Well, that's it. And let me give you the other numbers. Somebody said I'm going 
 
 And we are open for anything. Anything you want to talk about is fair game. And that, yes, tonight does include political comment. This is the most interesting, fascinating, riveting, outrageous political season I've ever seen in my life, and though politics most times bores me to tears, there's nothing boring about what's going on right now. Very controversial, to be sure, but boring? No, not boring. So I couldn't resist. Sorry about that. I know that will put me in the hated class, but I am too old to care. Stephen on Skype, you're on the air.
 
-Caller 20 (Stephen):  
+[01:37:56] Caller 20 (Stephen):  
 Hey, Art.
 
-Art Bell:  
+[01:37:57] Art Bell:  
 Hey.
 
-Caller 20 (Stephen):  
+[01:37:57] Caller 20 (Stephen):  
 Great to hear you on the radio again.
 
-Art Bell:  
+[01:38:00] Art Bell:  
 Great to be here.
 
-Caller 20 (Stephen):  
+[01:38:01] Caller 20 (Stephen):  
 Hey, so I wanted to get your take on the fact that Rubio and Kasich are still in the race, even though there's no mathematical path to the nomination, and what you think will happen.
 
 [01:38:14] Art Bell:  
@@ -1385,7 +1385,7 @@ And here's what I want to ask. So I said I was going to take it a little further
 [01:39:10] Caller 20 (Stephen):  
 I think they'll all. I think a huge chunk, like 40 percent of the Republican Party, will sit the election out, and they'll lose all the Senate races, not only the presidency, but all the Senate and House races. And I think it could be an absolute disaster, and I don't see how it cannot happen at this point. I mean, it seems like they're on a path to exactly that, and nobody has a solution to stop it. And they, I think, they know too that Trump can't possibly win a general, so they don't really.
 
-Art Bell:  
+[01:39:41] Art Bell:  
 I'm not convinced of that at all.
 
 [01:39:44] Caller 20 (Stephen):  
@@ -1394,7 +1394,7 @@ Really, I. I think the highlight reel will take him down. His own highlight reel
 [01:39:48] Art Bell:  
 You know, it might, it might. You never know. But so far, everything they've predicted will be the end of Trump has only been higher numbers for Trump.
 
-Caller 20 (Stephen):  
+[01:39:59] Caller 20 (Stephen):  
 Well, it's been higher numbers inside the Republican electorate, and but I don't think, you know, when they
 
 [01:40:06] Art Bell:  
@@ -1403,13 +1403,13 @@ You're dismissing, sir, you're dismissing how many Democrats are crossing over. 
 [01:40:19] Caller 20 (Stephen):  
 I know. I watch CNN a lot too, but I really don't think that's accurate. I don't think most Democrats are going to cross over. I think there's probably a few, but I just don't.
 
-Art Bell:  
+[01:40:32] Art Bell:  
 Oh, we'll find out, sir. We're going to find out. That's for sure.
 
 [01:40:36] Caller 20 (Stephen):  
 Anyway, I think it's fascinating. I'm with you. Politics gets boring, but this election is absolutely fascinating.
 
-Art Bell:  
+[01:40:42] Art Bell:  
 Oh baby, it's really the it's the king of all the races that I've seen in my lifetime.
 
 [01:40:48] Caller 20 (Stephen):  
@@ -1447,10 +1447,10 @@ Huh.
 [01:42:52] Caller 21 (Juan):  
 And I'm glad to hear you back. And I'm glad that there's. I'm hoping this isn't the last time you fill in because I hope there's. I've got a dream. Interview request. Interview. I have.
 
-Art Bell:  
+[01:43:03] Art Bell:  
 Who would it be?
 
-Caller 21 (Juan):  
+[01:43:04] Caller 21 (Juan):  
 Interview Bill Walton.
 
 [01:43:06] Art Bell:  
@@ -1467,13 +1467,13 @@ So I went to my doctor and I said, "How about that? Can I go to the band aid pla
 [01:44:26] Caller 22:  
 Hi, I wanted to talk to you a little bit about Donald Trump. I think that any candidate who can appeal to Bernie Sanders supporters on the one hand, like your earlier caller, and appeal to right wingers in the Republican Party, what that tells me is he doesn't believe in anything. Because if you believe in everything, you don't believe in anything. And if he appeals to that broad,
 
-Art Bell:  
+[01:44:46] Art Bell:  
 Let me tell you what I think there is going on with Donald. All right, I think that he has not talked about a lot of things that he probably should talk about, and I'm talking about details of what he'll do. Because frankly, you know they're accusing him of not being a conservative. He's probably not. He's probably kind of in between, and he doesn't want to reveal that. Frankly, I consider that to be a plus that he's not a pure conservative, and he's definitely not.
 
 [01:45:18] Caller 22:  
 Well, yeah, but people okay, but people oppose the quote unquote establishment, which whatever that is. He's a billionaire, but he's not part of the establishment. I think that's funny. But the establishment's attacked because it lies to voters, tricks them, doesn't deliver on its promises. But yet at the same time, Trump gets praised because he's basically lying and pretending to be conservative. I agree with you. He's not a conservative. I don't think he's seriously thought about political issues his whole life. He's a car salesman who just will say anything to get you to sign on the dotted line. If you look at his political program, in so far as it exists, the only thing he seems to really believe in is building a wall to keep Mexicans out. Other than that, what does he believe in? I mean, he'll say whatever he wants.
 
-Art Bell:  
+[01:45:58] Art Bell:  
 Well, I agree with him, sir. Hold on, I agree with him on trade.
 
 [01:46:03] Caller 22:  
@@ -1485,19 +1485,19 @@ Well, no, no, no, no, no. You can get- you can gain something if you take a very
 [01:46:57] Caller 22:  
 Yeah, it would. The only way you well, if let's say that happened, I don't believe that, but let's say that did happen. Well, then that means that the cost of your iPhone is going to go up a lot. So I hope everybody's ready for that. A lot, not a little bit, a lot.
 
-Art Bell:  
+[01:47:08] Art Bell:  
 I know.
 
-Caller 22:  
+[01:47:09] Caller 22:  
 So then, so what you're basically doing is raising prices on some consumer goods for the lowest level of the economy, for middle class people, poor people who shop at Walmart and they want those cheap electronic goods and they want those cheap shirts, so let's make it more expensive by either imposing tariffs or bringing the jobs back to the U.S. and paying them the higher wages. I love it when people say we should have a $15 minimum wage. Why stop there? Let's make it $25 an hour. I mean, the reality is that the economics doesn't work that way. You can't create wealth by fiat. You can't create a law and say everybody's going to be rich.
 
-Art Bell:  
+[01:47:41] Art Bell:  
 I know to do that. I know.
 
-Caller 22:  
+[01:47:42] Caller 22:  
 I'm not a rich person myself, but Trump is playing everybody for sucker. I don't think he can win, but if he does win, I just can't wait for all the promises that will not be fulfilled because the American presidency is an dictatorship, and Donald Trump doesn't know what he wants to do either. I honestly think in other circumstances he could just as easily run as a Democrat, because if you look at a lot of what he says, he says he wants to repeal Obamacare, but he's for the individual mandate.
 
-Art Bell:  
+[01:48:05] Art Bell:  
 No, I'm with you, man.
 
 I think he is as much I think he's as much a liberal as he is a conservative. I think he's all over the place and doesn't have any fixed ideology at all. But frankly, sir, I consider that a plus.
@@ -1511,39 +1511,39 @@ Well, but we're not there. We're not. There's so much in between those guys and 
 [01:49:36] Caller 22:  
 Well, voters want to have the cake and eat it too. They will complain that we have a debt, but then they don't want to either raise taxes or cut spending. They'll complain that Social Security is going to go bankrupt, but they don't want to do anything.
 
-Art Bell:  
+[01:49:45] Art Bell:  
 Oh, there's going to be pain.
 
 There's going to be pain.
 
-Caller 22:  
+[01:49:47] Caller 22:  
 But the voter, the voters have to look in the mirror and blame themselves because they are not sophisticated enough to accept the trade-offs that have to be made to either preserve our entitlement programs or build the repair the crumbling infrastructure or whatever people want to complain about. It's their own fault because they cannot like adults look at these problems and accept the fact that you just can't have your cake and eat it too all the time. And so voters who keep complaining about politicians, hey, we vote, we elect these politicians. The truth of the matter is, politicians can't shoot straight and be honest with people because they'll react like children and get mad. If you look at Social Security, if anybody ever talks about cutting Social Security or raising taxes, people have a little temper tantrum. Well, then what are politicians going to do? I mean, that's the voters' fault. So I wish people would put more.
 
-Art Bell:  
+[01:50:34] Art Bell:  
 Wait, wait, wait, wait, wait, wait, wait. Who is it that stole from the Social Security fund in the first place? It wasn't the people, was it?
 
 [01:50:45] Caller 22:  
 No, it is.
 
-Art Bell:  
+[01:50:45] Art Bell:  
 It was our politicians.
 
-Caller 22:  
+[01:50:47] Caller 22:  
 Because
 
-Art Bell:  
+[01:50:47] Art Bell:  
 No, it's our politicians.
 
-Caller 22:  
+[01:50:49] Caller 22:  
 The people, if Social Security was put on any kind of rational basis, you'd have a by the old folks because they'd say that they're being robbed of what they paid in, even though a lot of people are getting more than they ever paid in. So the fact is, Social Security really wasn't begun for the purpose that it has evolved into. And so now people would get mad if you try to cut back. I mean, you have to do something. You have to raise.
 
 [01:51:11] Art Bell:  
 My dear friend, if they hadn't robbed the fund, there'd be plenty money to pay people from now for the next thirty or forty years with no problem at all.
 
-Caller 22:  
+[01:51:20] Caller 22:  
 Yes, yes, yes. People live now. Now people live longer. But if you were to take the money that you put in Social Security, that money does not pay for the benefits that the average worker eventually.
 
-Art Bell:  
+[01:51:31] Art Bell:  
 Oh, sir, the reason the money isn't there is the reason the money is there is because they stole it. Come on, be real.
 
 [01:51:37] Caller 22:  
@@ -1564,7 +1564,7 @@ BellGab Roswells there, Art.
 [01:52:30] Art Bell:  
 Roswells there.
 
-Caller 23:  
+[01:52:31] Caller 23:  
 There's a little delay. Anyways, I'm calling in to give you three points on Trump that I think everybody's missing.
 
 [01:52:39] Art Bell:  
@@ -1603,16 +1603,16 @@ Okay, but before we leave the political arena.
 [01:53:57] Caller 23:  
 Oh, I'm going to go back.
 
-Art Bell:  
+[01:53:58] Art Bell:  
 How do you think this is going to wind up? In other words, is he going to end up getting enough delegates to be anointed, or is it going to be an open convention and a bloodbath? What's going to happen?
 
 [01:54:10] Caller 23:  
 Well, I live in Ohio, Art.
 
-Art Bell:  
+[01:54:12] Art Bell:  
 Oh, yeah,
 
-Caller 23:  
+[01:54:14] Caller 23:  
 And so I don't. Kasich has this pipe dream; he's going to take Ohio. He's not. He's a good governor, and he was a good congressman.
 
 [01:54:23] Art Bell:  
@@ -1627,10 +1627,10 @@ Okay,
 [01:54:41] Caller 23:  
 But I don't think on a national, especially when it comes crunch time, he's not going to be able to pull it. Anyways, going back to what I was trying to get to with Apple.
 
-Art Bell:  
+[01:54:51] Art Bell:  
 Sure.
 
-Caller 23:  
+[01:54:52] Caller 23:  
 First off, the NSA has cracked everything. Trust me on this. They could get it. They could go get a FISA warrant. I used to be LEO, federal LEO.
 
 So I'm telling you stuff that. Look, it's already been put out with PRISM and everything else that the old defector, the what's his name, leaked. I can't think of his name off the hand.
@@ -1643,10 +1643,10 @@ So you think a FISA warrant and they could force Apple in a New York second?
 [01:55:21] Caller 23:  
 Not even that. They can go through NSA and under a FISA judge.
 
-Art Bell:  
+[01:55:26] Art Bell:  
 Yeah.
 
-Caller 23:  
+[01:55:27] Caller 23:  
 But what I'm telling you is, the FBI. If you think about it, why are they pushing this and putting this in the limelight? Like, oh, this is so secure. It's not that secure.
 
 [01:55:37] Art Bell:  
@@ -1661,7 +1661,7 @@ Yeah, maybe you're right. I don't know.
 [01:55:44] Caller 23:  
 Yeah, I think it's muf* fake thrown up. Now, third thing you mentioned about David Duke. Okay, the first day when he first and all he did as a member of the alt right community. Now, all David Duke did was say he supported Trump. That's it. He didn't say.
 
-Art Bell:  
+[01:56:03] Art Bell:  
 I didn't even know he did that. I thought it was always a question of whether it was he was disavowed along with the KKK or whatever.
 
 [01:56:10] Caller 23:  
@@ -1679,10 +1679,10 @@ That could be.
 [01:57:10] Caller 23:  
 That's for real.
 
-Art Bell:  
+[01:57:11] Art Bell:  
 Yeah, that could be.
 
-Caller 23:  
+[01:57:14] Caller 23:  
 And it's old, used-up stuff. The alt-right is made up of regular folks, and it's not about anything other than nationalism and just I don't know, man. It I have more in common with somebody that wants to have a black nationalistic feel than I do with just a regular person.
 
 [01:57:39] Art Bell:  
@@ -1708,7 +1708,7 @@ Does that mean?
 [02:01:18] Art Bell:  
 That's you.
 
-Caller 25 (Kyle):  
+[02:01:18] Caller 25 (Kyle):  
 I'm on the first time caller line.
 
 [02:01:21] Art Bell:  
@@ -1747,16 +1747,16 @@ Well, Trump was a reality TV star, actually. Ronald Reagan, did a lot of western
 [02:02:34] Caller 25 (Kyle):  
 Yeah, Reagan was a western kind of guy or whatever. And the Apple iPhone kind of thing situation-they're trying to. I think that they're trying to start a precedent. That's what's going on. They're trying to start. I'm not as smart as your other caller.
 
-Art Bell:  
+[02:02:50] Art Bell:  
 Who is trying to? Who's trying to start the precedent? The Apple company or the government?
 
-Caller 25 (Kyle):  
+[02:02:56] Caller 25 (Kyle):  
 The government. The government's trying to start a precedent.
 
-Art Bell:  
+[02:02:58] Art Bell:  
 I'd say that's very likely.
 
-Caller 25 (Kyle):  
+[02:03:00] Caller 25 (Kyle):  
 The government started trying to start a precedent. They're trying to say that, oh yeah, these terrorists are doing these things, so we need to get into this iPhone or whatever,
 
 [02:03:11] Art Bell:  
@@ -1765,7 +1765,7 @@ Right?
 [02:03:11] Caller 25 (Kyle):  
 And you know, they're setting a precedent. So if they get that one iPhone, they get anybody's iPhone, and so forth and so forth.
 
-Art Bell:  
+[02:03:19] Art Bell:  
 You're right. I look here's the thing. Again, I'm going to drop this on you, and maybe somebody can answer it. Why can't the government just give the damn phone to Apple and say, all right, open it. You don't have to give us the program. You don't have to tell us how you open it. We don't care. Open it so we can solve this mystery. And if there are murders, and you know the information in a phone could lead to the solving of a murder. Then I can understand somebody handing the phone to Apple and saying, "Open it." You know, some court could decide that, and Apple could open it, give it back to him. That'd be the end of that. They don't have to know. They don't have to have a secret backdoor or anything of that sort, which is what it seems like they want. Why not just open the damn thing and hand it back to him?
 
 Let's go to Bruce, who is on Skype. Hello.
@@ -1782,7 +1782,7 @@ Hey, cool.
 [02:04:21] Art Bell:  
 Yeah.
 
-Caller 26 (Bruce):  
+[02:04:21] Caller 26 (Bruce):  
 You know, the first time I heard you was you had Reba McEntire as a guest,
 
 [02:04:27] Art Bell:  
@@ -1794,7 +1794,7 @@ And a trucker called in and said, "What a how great it was to hear her songs whe
 [02:04:41] Art Bell:  
 I just know. I don't remember interviewing Reba.
 
-Caller 26 (Bruce):  
+[02:04:43] Caller 26 (Bruce):  
 It was a long time ago.
 
 [02:04:45] Art Bell:  
@@ -1806,7 +1806,7 @@ So anyway, I'm a middle wing ultra moderate.
 [02:04:52] Art Bell:  
 A middle wing ultra moderate was that correct?
 
-Caller 26 (Bruce):  
+[02:04:55] Caller 26 (Bruce):  
 Yes.
 
 [02:04:55] Art Bell:  
@@ -1854,7 +1854,7 @@ How's the family Bell?
 [02:06:08] Art Bell:  
 The family Bell's, the ABs, are thriving. Thank you.
 
-Caller 27:  
+[02:06:11] Caller 27:  
 I only have two points, and this is all political. One, the best thing that could happen is Cruz. Cruz takes a powder. I mean, the only introduction he's given us at this particular point is hair oil, supply side Jesus, and head lice.
 
 [02:06:28] Art Bell:  
@@ -1883,19 +1883,19 @@ You know, I'm curious. I haven't heard Rush. What are his comments about Trump?
 [02:08:12] Caller 27:  
 Short of him walking on water, okay? Because he's now he was obviously vehemently at first opposed to Trump because he was a clown and a huckster and a carny and on and on and on.
 
-Art Bell:  
+[02:08:24] Art Bell:  
 Wait a minute, he went from that to endorsing him, or in
 
 [02:08:28] Caller 27:  
 Really he's changing. He's more or less changing horses. Is what he's going from Ted Cruz, which has been his oxygen, guys for guys like him and Levin and Sean Hannity. This was the fringy guy, and this was Ted Cruz. Now that their momentum is changing, they're all speaking from the other sides of their mouths. So you know, but this is years of Limbaugh, you know, complaining and talking. You know, this government's doing.
 
-Art Bell:  
+[02:08:55] Art Bell:  
 I really want to be clear here, sir. You're telling me that Rush is now behind Trump.
 
 [02:09:01] Caller 27:  
 What I'm saying is that yes, Rush Limbaugh is more or less being- is being a kinder, gentler windbag when it comes to Donald Trump.
 
-Art Bell:  
+[02:09:12] Art Bell:  
 Yeah, well, maybe he's figured out that you know the wind seems to be blowing in a certain direction, and I best put my sails up, or I'll be left behind.
 
 [02:09:22] Caller 27:  
@@ -1923,10 +1923,10 @@ Well, that certainly is true. If nominated, then if elected, the big question is
 [02:11:13] Caller 28 (Camintosh):  
 Well, I think you're right. I think he is kind of two people. I think he knows.
 
-Art Bell:  
+[02:11:16] Art Bell:  
 No, I didn't say he was. I'm asking you. Do you think he is?
 
-Caller 28 (Camintosh):  
+[02:11:20] Caller 28 (Camintosh):  
 Well, I think he's got to be. He can't be what he looks like face value. I think he's he on TV. He just wants to win, but you know he's smarter than that. He I think he's a winner in his own right. You know he's got to be smarter to be able to do what he does. So
 
 [02:11:38] Art Bell:  
@@ -1952,10 +1952,10 @@ Okay. Yeah, I got a Phantom 2, and I was just watching today about the Phantom 4
 [02:11:59] Art Bell:  
 Avoidance technology. I couldn't believe. Like two weeks, three weeks after I buy the 3 Advanced, they come out with. But you know, I'm okay. I mean, there are other cool things about the four.
 
-Caller 28 (Camintosh):  
+[02:12:12] Caller 28 (Camintosh):  
 Yeah.
 
-Art Bell:  
+[02:12:12] Art Bell:  
 But the 3 Advanced was a really good price. I caught it at $799.
 
 [02:12:17] Caller 28 (Camintosh):  
@@ -1979,10 +1979,10 @@ There could be some foundation to that, I suppose, but that's quite a separation
 [02:13:11] Caller 28 (Camintosh):  
 Yeah, I mean, we don't have that yet, but I could just I could put that all together in my mind and think, wow, we're just starting.
 
-Art Bell:  
+[02:13:17] Art Bell:  
 Oh, we are
 
-Caller 28 (Camintosh):  
+[02:13:17] Caller 28 (Camintosh):  
 Amazing.
 
 [02:13:18] Art Bell:  
@@ -1991,7 +1991,7 @@ Yeah, trying to imagine where it is ten years from now, when I can't get two thr
 [02:13:31] Caller 28 (Camintosh):  
 Well, and everybody's going to have a drone, you know, and we're going to have clouds of drones out there that need to not run into each other. They need to pass. Groups of them need to be able to pass by each other.
 
-Art Bell:  
+[02:13:43] Art Bell:  
 Kind of like the same need we'd have if we had a flying car.
 
 [02:13:48] Caller 28 (Camintosh):  
@@ -2009,7 +2009,7 @@ I know. Where's my flying car?
 [02:13:54] Caller 28 (Camintosh):  
 I don't know. Anyway, I just it's fun to hear you talk about your drone. And oh, have you peeked over the hills and looked into Area 51?
 
-Art Bell:  
+[02:14:03] Art Bell:  
 Do you really think that I would take something I paid that kind of money for and fly it into Area 51?
 
 [02:14:10] Caller 28 (Camintosh):  
@@ -2017,7 +2017,7 @@ Well, maybe.
 
 It'd be worth it once.
 
-Art Bell:  
+[02:14:13] Art Bell:  
 That's all you'd get is once. All right, sir. Thank you very much for the call. It's tempting, really tempting. Would come under the category of things that I've always wanted to do, things that I've thought of doing, things even that I've dreamed of doing, but have not quite yet accomplished. Would I do it? I don't know. It comes under the category of what if you were fearless? What would you do? Yes, then I would drive down Highway 95 until I got to the right location near the mailbox, maybe, put my drone up, tell it a gentle goodbye, and proceed. Hello there, Marysville, somewhere or another. You're on the air.
 
 [02:15:03] Caller 29:  
@@ -2090,7 +2090,7 @@ But anyhow, no, I think this has been one of the most exciting election cycles I
 [02:19:03] Art Bell:  
 Oh yeah,
 
-Caller 30:  
+[02:19:04] Caller 30:  
 I see the same. It's kind of an interesting thing in that no matter what the person is, as long as they're not that type of a insider, so to speak, people would just glom to them no matter who they are or what they do.
 
 And as for throwing, as for the one caller who was so concerned with throwing people out without their coats, in Vermont, right? I found that to be just right because I'm getting tired of these people breaking in with violent and rude protests to these people. I don't care if I agree or disagree. I don't care if it's Hillary Clinton. I wouldn't do that to her. She has a right to speak at her rally. If you want to protest, go outside and protest. You know what I mean. So
@@ -2098,16 +2098,16 @@ And as for throwing, as for the one caller who was so concerned with throwing pe
 [02:19:54] Art Bell:  
 You're talking about taking her coat, Hillary's coat. I wouldn't do that to the country.
 
-Caller 30:  
+[02:19:58] Caller 30:  
 I was talking about a protester.
 
-Art Bell:  
+[02:20:00] Art Bell:  
 Oh, yeah,
 
-Caller 30:  
+[02:20:00] Caller 30:  
 The protesters that broke into the Trump thing and had them take their coats and toss them out.
 
-Art Bell:  
+[02:20:06] Art Bell:  
 Yeah, I know, I know, I know. But
 
 [02:20:08] Caller 30:  
@@ -2119,10 +2119,10 @@ Well, I don't know about landing. He flew in. We don't know.
 [02:20:24] Caller 30:  
 I, Ed, Ed, and I listened to that that night. We called each other right as that happened, and we go, "Did we hear what we just thought we heard?"
 
-Art Bell:  
+[02:20:35] Art Bell:  
 You did
 
-Caller 30:  
+[02:20:35] Caller 30:  
 Excellent radio, Art. It was great. It was, but still, yeah, that's what I do. I would, I'd make it. I'd land right there, just like the guy did on Red Square, and I'd get out, take a selfie, and get ready for a long stint in Leavenworth or wherever they'd send me.
 
 [02:20:54] Art Bell:  
@@ -2140,7 +2140,7 @@ Hello, Art.
 Art Bell:  
 Hi.
 
-Caller 31:  
+[02:21:42] Caller 31:  
 How's it going? I'm calling about John Titor.
 
 [02:21:46] Art Bell:  
@@ -2149,7 +2149,7 @@ Huh.
 Caller 31:  
 And I don't have a lot of time, but I'm gonna try to explain quickly my involvement in all this.
 
-Art Bell:  
+[02:21:54] Art Bell:  
 Are you?
 
 Oh, wait. Are you? Are you involved with John Titor?
@@ -2169,10 +2169,10 @@ Well, wait a minute, sir. A fax doesn't prove. Hold on. A fax doesn't prove anyt
 [02:22:32] Caller 31:  
 Well, I mean, it's more so. Well, when I first met him, was a gut feeling that made me trust it because it's a long story. Like I said, when at that time it was around 1999 when I was posting on conspiracy forums, like Post to Post.
 
-Art Bell:  
+[02:22:45] Art Bell:  
 Yes, yes,
 
-Caller 31:  
+[02:22:46] Caller 31:  
 And yeah, and I was posting how the Serbians shot down a stealth, and everyone was denying it and thinking I was crazy and I didn't know what I was talking about. And at the same time, there was a "I'm a time traveler from 2036" post going on, and everyone thought he was crazy too.
 
 [02:23:03] Art Bell:  
@@ -2196,16 +2196,16 @@ Why? Well, I just want to say another thing. It's very interesting that it's Mar
 [02:24:19] Art Bell:  
 Okay.
 
-Caller 31:  
+[02:24:19] Caller 31:  
 And that's why I had to call. Ah, because you were on the air a year after in his timeline that World War III started, and it's just amazing to me that you're talking about Trump and politics right now because I think this is very important because the year 2000 he tried warning us that the election was going to be rigged, and this is what's happening right now. And people in Michigan didn't let it happen. In Ohio, Illinois, and Wisconsin need to follow suit and not allow our elections to be stolen. And that's really all I really need to say about that.
 
-Art Bell:  
+[02:24:51] Art Bell:  
 Well, there's one more thing you need to say.
 
-Caller 31:  
+[02:24:54] Caller 31:  
 What?
 
-Art Bell:  
+[02:24:55] Art Bell:  
 You ready?
 
 [02:24:56] Caller 31:  
@@ -2217,7 +2217,7 @@ Say good night, world.
 [02:24:59] Caller 31:  
 Good night, world.
 
-Art Bell:  
+[02:25:02] Art Bell:  
 That's it.
 
 Next time, folks, from the high desert, Great American Southwest. You all, look at those phone lines all full. Skype going nuts. Good night.
